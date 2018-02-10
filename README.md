@@ -26,7 +26,9 @@ character: Unimplemented at present. Focus character, if any.
 
 `./compile_seasons.py json` spits out a json file with keys characters and episodes.
 
-`./compile_seasons.py yaml` spits out a yaml file.
+<strike>`./compile_seasons.py yaml` spits out a yaml file.</strike> (Coming soon)
+
+There are current versions of these in the base directory for your convenience.
 
 ## Suggestions welcome
 
