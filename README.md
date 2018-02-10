@@ -24,7 +24,7 @@ character: Unimplemented at present. Focus character, if any.
 
 ## Usage
 
-`./compile_seasons.py json` spits out a json file with keys characters and episodes.
+`python compile_seasons.py json` spits out a json file with keys characters and episodes.
 
 <strike>`./compile_seasons.py yaml` spits out a yaml file.</strike> (Coming soon)
 
