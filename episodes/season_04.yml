@@ -6,7 +6,7 @@ episodes:
   description: Bart and Lisa are horrified when their summer at Kamp Krusty turns
     into a nightmare.
   simpsonsworld_id: 279133251579
-  good: false
+  good: true
   character: 
 - title: A Streetcar Named Marge
   season: 4
@@ -14,7 +14,7 @@ episodes:
   description: When Marge lands the role of Blanche in a local production of "A Streetcar
     Named Desire," Homer cannot hide his disinterest.
   simpsonsworld_id: 273537603751
-  good: false
+  good: true
   character: 
 - title: Homer the Heretic
   season: 4
@@ -22,14 +22,14 @@ episodes:
   description: Homer creates his own religion as a means of escaping church services
     on Sundays.
   simpsonsworld_id: 279137859827
-  good: false
+  good: true
   character: 
 - title: Lisa the Beauty Queen
   season: 4
   episode: 4
   description: Homer enters Lisa in a beauty pageant when her self-esteem plummets.
   simpsonsworld_id: 273537603930
-  good: false
+  good: true
   character: 
 - title: Treehouse of Horror III
   season: 4
@@ -37,7 +37,7 @@ episodes:
   description: During a Halloween party, the Simpsons tell three horrifying tales
     of the macabre.
   simpsonsworld_id: 305668675610
-  good: false
+  good: true
   character: 
 - title: 'Itchy and Scratchy: The Movie'
   season: 4
@@ -45,7 +45,7 @@ episodes:
   description: Homer forbids his son from seeing a new movie about his favorite cartoon
     heroes as punishment for misbehaving.
   simpsonsworld_id: 278803011830
-  good: false
+  good: true
   character: 
 - title: Marge Gets a Job
   season: 4
@@ -68,7 +68,7 @@ episodes:
   episode: 9
   description: Homer and Barney vie for Springfield's lucrative snow plowing business.
   simpsonsworld_id: 273544259768
-  good: false
+  good: true
   character: 
 - title: Lisa's First Word
   season: 4
@@ -84,7 +84,7 @@ episodes:
   description: Homer suffers a heart attack and hires Dr. Nick Riviera to perform
     a delicate triple bypass operation.
   simpsonsworld_id: 273548355538
-  good: false
+  good: true
   character: 
 - title: Marge vs. the Monorail
   season: 4
@@ -92,7 +92,7 @@ episodes:
   description: An unscrupulous profiteer sells the people of Springfield on a defective
     monorail system, with Homer as the conductor.
   simpsonsworld_id: 306386499796
-  good: false
+  good: true
   character: 
 - title: Selma's Choice
   season: 4
@@ -100,7 +100,7 @@ episodes:
   description: Selma decides to take her dead aunt's advice and have children before
     it is too late.
   simpsonsworld_id: 310386755912
-  good: false
+  good: true
   character: 
 - title: Brother from the Same Planet
   season: 4
@@ -117,7 +117,7 @@ episodes:
   description: Lisa feels pity for Ralph, a nerdy classmate, and gives him a card
     on Valentine's Day. But to her horror, Ralph develops a crush on her.
   simpsonsworld_id: 274107459686
-  good: false
+  good: true
   character: 
 - title: Duffless
   season: 4
@@ -125,7 +125,7 @@ episodes:
   description: Marge convinces Homer he may have a drinking problem. Lisa plots to
     humiliate Bart with her science project after he ruins an experiment.
   simpsonsworld_id: 277249603926
-  good: false
+  good: true
   character: 
 - title: Last Exit to Springfield
   season: 4
@@ -150,7 +150,7 @@ episodes:
   description: Using Grandpa as a front, Lisa and Bart write their own "Itchy and
     Scratchy" cartoons.
   simpsonsworld_id: 288029763650
-  good: false
+  good: true
   character: 
 - title: Whacking Day
   season: 4
@@ -158,7 +158,7 @@ episodes:
   description: Lisa seeks to end a local holiday in which snakes are chased into town
     and beaten with sticks.  Bart is expelled from school by Principal Skinner.
   simpsonsworld_id: 288129091929
-  good: false
+  good: true
   character: 
 - title: Marge in Chains
   season: 4
@@ -174,5 +174,5 @@ episodes:
   description: Bart, Lisa and a group of celebrities help Krusty turn his career around
     after his television show is canceled.
   simpsonsworld_id: 274256963874
-  good: false
+  good: true
   character: 
