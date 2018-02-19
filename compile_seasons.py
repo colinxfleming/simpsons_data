@@ -9,7 +9,7 @@ error_message = 'Please set an output format: yml json'
 basedir = os.path.dirname(os.path.realpath(__file__))
 
 try:
-    output_format = sys.argv[1]
+    output_format = sys.argv[1] if len(sys.argv) > 2 else 'json'
     list(['yml', 'json']).index(output_format)
     if not output_format:
         print(error_message)
@@ -35,7 +35,7 @@ if output_format == 'yml':
     raise ValueError('not yet, sorry. just json for now')
     # output = yaml.dump(all_data)
 elif output_format == 'json':
-    output = json.dumps(all_data)
+    output = json.dumps(all_data, indent=4)
 else:
     raise ValueError('????')
 
