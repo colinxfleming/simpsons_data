@@ -33,7 +33,7 @@
             "episode": 4,
             "description": "After attending the annual company picnic, Homer becomes jealous of fellow employees with 'normal' families.  He decides to enlist the aid of psychologist Marvin Monroe to treat his wife and children.",
             "simpsonsworld_id": 273392195780,
-            "good": false,
+            "good": true,
             "character": null
         },
         {
@@ -69,7 +69,7 @@
             "episode": 8,
             "description": "Bart attempts to impress his new friends by vandalizing a statue of the town's founding father, Jebediah Springfield.",
             "simpsonsworld_id": 305663555641,
-            "good": false,
+            "good": true,
             "character": null
         },
         {
@@ -96,7 +96,7 @@
             "episode": 11,
             "description": "To Homer's delight, Bart is sent to France for the summer as part of a student exchange program.",
             "simpsonsworld_id": 306382403766,
-            "good": false,
+            "good": true,
             "character": null
         },
         {
@@ -105,7 +105,7 @@
             "episode": 12,
             "description": "When Homer positively identifies Krusty the Clown as an armed robber, Bart attempts to clear his idol's name.",
             "simpsonsworld_id": 288019523914,
-            "good": false,
+            "good": true,
             "character": null
         },
         {
