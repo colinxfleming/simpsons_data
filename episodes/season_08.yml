@@ -7,7 +7,7 @@ episodes:
     twin brother living in the attic; Lisa creates a microscopic society; and space
     aliens transform themselves into Clinton and Dole look-alikes.'
   simpsonsworld_id: 299625027835
-  good: false
+  good: true
   character: 
 - title: You Only Move Twice
   season: 8
@@ -15,7 +15,7 @@ episodes:
   description: The Simpsons relocate to another community after Homer unwittingly
     takes a job with a company controlled by a super-villain.
   simpsonsworld_id: 306390595776
-  good: false
+  good: true
   character: 
 - title: The Homer They Fall
   season: 8
@@ -23,7 +23,7 @@ episodes:
   description: Homer becomes a professional boxer when doctors discover he was born
     with a unique genetic condition that protects his brain from injury.
   simpsonsworld_id: 288058947803
-  good: false
+  good: true
   character: 
 - title: Burns, Baby Burns
   season: 8
@@ -38,7 +38,7 @@ episodes:
   description: While Marge is out of town, Homer allows Bart to work at a burlesque
     house.
   simpsonsworld_id: 294789699801
-  good: false
+  good: true
   character: 
 - title: A Milhouse Divided
   season: 8
@@ -46,7 +46,7 @@ episodes:
   description: When Milhouse's parents get a divorce, Homer grows convinced that his
     own marriage is in jeopardy.
   simpsonsworld_id: 277025347786
-  good: false
+  good: true
   character: 
 - title: Lisa's Date with Density
   season: 8
@@ -54,14 +54,14 @@ episodes:
   description: Lisa develops a crush on bully Nelson Muntz.  Homer uses an automatic
     telephone dialer for an electronic panhandling scheme.
   simpsonsworld_id: 306394691862
-  good: false
+  good: true
   character: 
 - title: Hurricane Neddy
   season: 8
   episode: 8
   description: Ned Flanders suffers a breakdown after his home is destroyed by a hurricane.
   simpsonsworld_id: 436250179702
-  good: false
+  good: true
   character: 
 - title: El Viaje Misterioso de Nuestro Jomer (The Mysterious Voyage of Homer)
   season: 8
@@ -70,7 +70,7 @@ episodes:
     experiences hallucinatory visions that inspire him to find his true soul mate
     in life.
   simpsonsworld_id: 436252739905
-  good: false
+  good: true
   character: 
 - title: The Springfield Files
   season: 8
@@ -78,31 +78,31 @@ episodes:
   description: X-Files Agents Mulder and Scully investigate Homer's encounter with
     an alleged extraterrestrial.
   simpsonsworld_id: 436259395954
-  good: false
+  good: maybe
   character: 
 - title: The Twisted World of Marge Simpson
   season: 8
   episode: 11
   description: After being expelled from an investment club, Marge starts her own
-    pretzel franchise. Presented by FXX.
+    pretzel franchise.
   simpsonsworld_id: 436264515927
-  good: false
+  good: true
   character: 
 - title: Mountain of Madness
   season: 8
   episode: 12
   description: Homer and Mr. Burns are buried beneath an avalanche during a survival
-    trek in the mountains. Presented by FXX.
+    trek in the mountains.
   simpsonsworld_id: 436267075791
-  good: false
+  good: true
   character: 
 - title: Simpsoncalifragilisticexpiala(Annoyed Grunt)cious
   season: 8
   episode: 13
   description: The Simpsons hire a Mary Poppins-like nanny when Marge becomes overwhelmed
-    by the demands of being a housewife. Presented by FXX.
+    by the demands of being a housewife.
   simpsonsworld_id: 436271683676
-  good: false
+  good: true
   character: 
 - title: The Itchy and Scratchy and Poochie Show
   season: 8
@@ -111,15 +111,15 @@ episodes:
     creates a new, hipper character and hires Homer to provide the voice. Presented
     by FXX.
   simpsonsworld_id: 436278339668
-  good: false
+  good: true
   character: 
 - title: Homer's Phobia
   season: 8
   episode: 15
   description: Homer grows homophobic after he realizes the family's new friend is
-    gay. Presented by FXX.
+    gay.
   simpsonsworld_id: 436284995621
-  good: false
+  good: true
   character: 
 - title: Brother from Another Series
   season: 8
@@ -128,29 +128,29 @@ episodes:
     claiming he is a reformed man and is hired by his brother to work on a construction
     project.
   simpsonsworld_id: 436296259771
-  good: false
+  good: maybe
   character: 
 - title: My Sister, My Sitter
   season: 8
   episode: 17
   description: Homer and Marge allow Lisa to baby-sit Bart.
   simpsonsworld_id: 436301891875
-  good: false
+  good: maybe
   character: 
 - title: Homer vs. the Eighteenth Amendment
   season: 8
   episode: 18
   description: Homer turns bootlegger when Springfield enforces an antiquated prohibition
-    law. Presented by FXX.
+    law.
   simpsonsworld_id: 436402755605
-  good: false
+  good: true
   character: 
 - title: Grade School Confidential
   season: 8
   episode: 19
   description: Bart exposes Skinner and Krabappel's clandestine affair.
   simpsonsworld_id: 436412995642
-  good: false
+  good: true
   character: 
 - title: The Canine Mutiny
   season: 8
@@ -158,7 +158,7 @@ episodes:
   description: Bart gives away Santa's Little Helper so he can keep a fully trained,
     blue ribbon Collie.
   simpsonsworld_id: 436370499586
-  good: false
+  good: maybe
   character: 
 - title: The Old Man and the Lisa
   season: 8
@@ -166,7 +166,7 @@ episodes:
   description: Lisa helps Mr. Burns build a recycling center after a series of bad
     investments costs the multimillionaire his fortune.
   simpsonsworld_id: 436383811985
-  good: false
+  good: maybe
   character: 
 - title: In Marge We Trust
   season: 8
@@ -174,7 +174,7 @@ episodes:
   description: Marge becomes a church volunteer.  Homer discovers his image printed
     on a box of Japanese dish detergent.
   simpsonsworld_id: 436438595644
-  good: false
+  good: true
   character: 
 - title: Homer's Enemy
   season: 8
@@ -182,20 +182,20 @@ episodes:
   description: A resentful, hard-working employee at the power plant makes Homer his
     enemy.  Bart purchases an abandoned factory for one dollar at a government auction.
   simpsonsworld_id: 436466755640
-  good: false
+  good: true
   character: 
 - title: The Simpsons Spin-Off Showcase
   season: 8
   episode: 24
   description: Troy McClure hosts three spin-offs from "The Simpsons" television show.
   simpsonsworld_id: 436481091875
-  good: false
+  good: maybe
   character: 
 - title: The Secret War of Lisa Simpson
   season: 8
   episode: 25
   description: Cadets give Lisa the "silent treatment" when she enrolls in an all-male
-    military academy. Presented by FXX.
+    military academy.
   simpsonsworld_id: 1071844931909
-  good: false
+  good: true
   character: 
