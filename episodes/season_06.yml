@@ -15,7 +15,7 @@ episodes:
     intelligent than herself.  Homer acquires a truckload of white sugar, thinking
     it will net him a fortune.
   simpsonsworld_id: 278809667691
-  good: false
+  good: maybe
   character: 
 - title: Another Simpsons Clip Show
   season: 6
@@ -23,7 +23,7 @@ episodes:
   description: When Marge suspects that romance has gone out of her life, her family
     recalls romantic encounters from their past.
   simpsonsworld_id: 300928067775
-  good: false
+  good: maybe
   character: 
 - title: Itchy and Scratchy Land
   season: 6
@@ -146,7 +146,7 @@ episodes:
   description: A fortune teller describes how a genteel Englishman will ask for Lisa's
     hand in marriage in the year 2010.
   simpsonsworld_id: 275751491511
-  good: false
+  good: maybe
   character: 
 - title: Two Dozen and One Greyhounds
   season: 6
@@ -170,7 +170,7 @@ episodes:
   description: Lisa is saddened by the death of blues great Bleeding Gums Murphy.  Bart
     ingests a piece of jagged metal while eating Krusty-O cereal.
   simpsonsworld_id: 275755587777
-  good: false
+  good: maybe
   character: 
 - title: The Springfield Connection
   season: 6
