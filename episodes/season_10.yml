@@ -6,93 +6,90 @@ episodes:
   description: Homer thinks he can net a fortune by recycling grease.  Lisa helps
     organize a school dance.
   simpsonsworld_id: 292933187533
-  good: false
+  good: true
   character: 
 - title: The Wizard of Evergreen Terrace
   season: 10
   episode: 2
   description: After realizing half his life is over, Homer decides to become the
-    next Thomas Edison. Presented by FXX.
+    next Thomas Edison.
   simpsonsworld_id: 473117763575
-  good: false
+  good: maybe
   character: 
 - title: Bart the Mother
   season: 10
   episode: 3
   description: Bart tends to a nest filled with eggs after he inadvertently kills
-    a bird with a BB gun. Presented by FXX.
+    a bird with a BB gun.
   simpsonsworld_id: 473109571557
-  good: false
+  good: maybe
   character: 
 - title: Treehouse of Horror IX
   season: 10
   episode: 4
   description: An evil toupee possesses Homer; Bart and Lisa find themselves trapped
     inside an Itchy & Scratchy cartoon; baby Maggie turns out to be the daughter of
-    a space alien. Presented by FXX.
+    a space alien.
   simpsonsworld_id: 473130051681
-  good: false
+  good: true
   character: 
 - title: When You Dish Upon a Star
   season: 10
   episode: 5
   description: Homer befriends a group of Hollywood celebrities vacationing in a remote
-    part of town and promises to keep their whereabouts a secret. Presented by FXX.
+    part of town and promises to keep their whereabouts a secret.
   simpsonsworld_id: 473147459674
-  good: false
+  good: maybe
   character: 
 - title: D'oh-in' in the Wind
   season: 10
   episode: 6
-  description: Homer embraces his newly discovered hippie heritage. Presented by FXX.
+  description: Homer embraces his newly discovered hippie heritage.
   simpsonsworld_id: 473138243754
-  good: false
+  good: maybe
   character: 
 - title: Lisa Gets an 'A'
   season: 10
   episode: 7
   description: Lisa suffers a guilty conscience after she cheats on an exam.  Homer
-    believes he will save a fortune by raising his own lobster. Presented by FXX.
+    believes he will save a fortune by raising his own lobster.
   simpsonsworld_id: 473152579638
-  good: false
+  good: true
   character: 
 - title: 'Homer Simpson in: ''Kidney Trouble'''
   season: 10
   episode: 8
   description: Homer offers to donate one of his kidneys to Grampa until he realizes
-    the surgery will place his own life in jeopardy. Presented by FXX.
+    the surgery will place his own life in jeopardy.
   simpsonsworld_id: 473158211896
-  good: false
+  good: maybe
   character: 
 - title: Mayored to the Mob
   season: 10
   episode: 9
-  description: Homer takes on the mob when he acts as Mayor Quimby's bodyguard. Presented
-    by FXX.
+  description: Homer takes on the mob when he acts as Mayor Quimby's bodyguard.
   simpsonsworld_id: 473163843671
-  good: false
+  good: maybe
   character: 
 - title: Viva Ned Flanders
   season: 10
   episode: 10
   description: Homer shows Flanders how to enjoy life by taking him to Las Vegas.
-    Presented by FXX.
   simpsonsworld_id: 473115203586
-  good: false
+  good: maybe
   character: 
 - title: Wild Barts Can't Be Broken
   season: 10
   episode: 11
-  description: The children of Springfield rebel after Wiggum enforces a curfew. Presented
-    by FXX.
+  description: The children of Springfield rebel after Wiggum enforces a curfew.
   simpsonsworld_id: 473155651508
-  good: false
+  good: true
   character: 
 - title: Sunday, Cruddy Sunday
   season: 10
   episode: 12
   description: Homer and his friends eagerly anticipate attending the Super Bowl until
-    a ticketing snafu threatens to keep them from seeing the game. Presented by FXX.
+    a ticketing snafu threatens to keep them from seeing the game.
   simpsonsworld_id: 473132611959
   good: false
   character: 
@@ -100,43 +97,41 @@ episodes:
   season: 10
   episode: 13
   description: Homer changes his name when a dimwitted television show character named
-    "Homer Simpson" becomes an overnight sensation. Presented by FXX.
+    "Homer Simpson" becomes an overnight sensation.
   simpsonsworld_id: 473140803870
-  good: false
+  good: maybe
   character: 
 - title: I'm with Cupid
   season: 10
   episode: 14
   description: Apu showers his wife with Valentine's Day surprises making men throughout
-    Springfield look like cheapskates. Presented by FXX.
+    Springfield look like cheapskates.
   simpsonsworld_id: 473104963819
-  good: false
+  good: maybe
   character: 
 - title: 'Marge Simpson in: ''Screaming Yellow Honkers'''
   season: 10
   episode: 15
   description: Marge discovers the pleasures of driving a sport utility vehicle until
-    aggressive highway habits cost her. Presented by FXX.
+    aggressive highway habits cost her.
   simpsonsworld_id: 473097795997
-  good: false
+  good: maybe
   character: 
 - title: Make Room for Lisa
   season: 10
   episode: 16
   description: Lisa exhibits signs of stress when she is forced into sharing her brother's
     bedroom.  Marge becomes addicted to eavesdropping on cellular phone conversations.
-    Presented by FXX.
   simpsonsworld_id: 473093187636
-  good: false
+  good: maybe
   character: 
 - title: Maximum Homerdrive
   season: 10
   episode: 17
   description: Homer and Bart attempt to deliver a dead trucker's cargo on schedule.  Meanwhile,
-    Marge decides to have an adventure of her own and purchases a new doorbell. Presented
-    by FXX.
+    Marge decides to have an adventure of her own and purchases a new doorbell.
   simpsonsworld_id: 473095235738
-  good: false
+  good: true
   character: 
 - title: Simpsons Bible Stories
   season: 10
@@ -153,14 +148,14 @@ episodes:
   description: Homer pursues a career as an artist when his misshapen barbecue pit
     attracts the attention of a gallery.
   simpsonsworld_id: 310457411688
-  good: false
+  good: true
   character: 
 - title: The Old Man and the 'C' Student
   season: 10
   episode: 20
   description: Bart must perform community service at Grampa's retirement home.
   simpsonsworld_id: 279757379586
-  good: false
+  good: maybe
   character: 
 - title: Monty Can't Buy Me Love
   season: 10
@@ -168,14 +163,14 @@ episodes:
   description: Mr. Burns attempts to win adoration by transporting the Loch Ness monster
     to Springfield.
   simpsonsworld_id: 310427203648
-  good: false
+  good: maybe
   character: 
 - title: They Saved Lisa's Brain
   season: 10
   episode: 22
   description: Lisa is invited to join Mensa; Homer receives a free erotic photo session.
   simpsonsworld_id: 306868803826
-  good: false
+  good: maybe
   character: 
 - title: Thirty Minutes Over Tokyo
   season: 10
@@ -183,5 +178,5 @@ episodes:
   description: The Simpsons board a mega-saver flight for Tokyo, only to find themselves
     trapped overseas when they run out of money.
   simpsonsworld_id: 306901571847
-  good: false
+  good: true
   character: 
