@@ -1,0 +1,11 @@
+---
+characters:
+- short_name: Ensemble
+  name: Ensemble
+  core_family: false
+- short_name: Clip show
+  name: Clip show
+  core_family: false
+- short_name: Family
+  name: Full Simpsons family
+  core_family: true
