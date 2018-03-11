@@ -6,21 +6,21 @@ episodes:
   description: The Simpsons journey to New York City to retrieve the family car.
   simpsonsworld_id: 436516931611
   good: false
-  character: 
+  characters: 
 - title: The Principal and the Pauper
   season: 9
   episode: 2
   description: A stranger claims that Principal Skinner is an impostor.
   simpsonsworld_id: 436505155662
   good: false
-  character: 
+  characters: 
 - title: Lisa's Sax
   season: 9
   episode: 3
   description: Homer and Marge recount how Lisa got her saxophone.
   simpsonsworld_id: 279743555749
   good: false
-  character: 
+  characters: 
 - title: Treehouse of Horror VIII
   season: 9
   episode: 4
@@ -29,14 +29,14 @@ episodes:
     times, Marge is accused of being a witch.
   simpsonsworld_id: 279170627965
   good: false
-  character: 
+  characters: 
 - title: The Cartridge Family
   season: 9
   episode: 5
   description: Homer purchases a handgun to protect his family.
   simpsonsworld_id: 302813251779
   good: false
-  character: 
+  characters: 
 - title: Bart Star
   season: 9
   episode: 6
@@ -44,7 +44,7 @@ episodes:
     Bart as starting quarterback.
   simpsonsworld_id: 448293443714
   good: false
-  character: 
+  characters: 
 - title: The Two Mrs. Nahasapeemapetilons
   season: 9
   episode: 7
@@ -52,7 +52,7 @@ episodes:
     wed Marge.
   simpsonsworld_id: 279177283545
   good: false
-  character: 
+  characters: 
 - title: Lisa the Skeptic
   season: 9
   episode: 8
@@ -60,7 +60,7 @@ episodes:
     angel.
   simpsonsworld_id: 279180355540
   good: false
-  character: 
+  characters: 
 - title: Realty Bites
   season: 9
   episode: 9
@@ -68,7 +68,7 @@ episodes:
     sales.  Homer purchases a 60s hot-rod convertible at a police auction.
   simpsonsworld_id: 280404547525
   good: false
-  character: 
+  characters: 
 - title: Miracle on Evergreen Terrace
   season: 9
   episode: 10
@@ -76,14 +76,14 @@ episodes:
     claims the family's Christmas presents were stolen by a burglar.
   simpsonsworld_id: 306881091696
   good: false
-  character: 
+  characters: 
 - title: All Singing, All Dancing
   season: 9
   episode: 11
   description: The Simpsons recall their many musical moments from seasons past.
   simpsonsworld_id: 294808131518
   good: false
-  character: 
+  characters: 
 - title: Bart Carny
   season: 9
   episode: 12
@@ -91,7 +91,7 @@ episodes:
     costs them their jobs.
   simpsonsworld_id: 302818371931
   good: false
-  character: 
+  characters: 
 - title: The Joy of Sect
   season: 9
   episode: 13
@@ -99,7 +99,7 @@ episodes:
     by a religious cult.
   simpsonsworld_id: 299627075941
   good: false
-  character: 
+  characters: 
 - title: Das Bus
   season: 9
   episode: 14
@@ -107,7 +107,7 @@ episodes:
     stranded on a remote island.  Homer starts his own business on the Internet.
   simpsonsworld_id: 448356931860
   good: false
-  character: 
+  characters: 
 - title: The Last Temptation of Krust
   season: 9
   episode: 15
@@ -115,7 +115,7 @@ episodes:
     becomes the hottest comic in show business.
   simpsonsworld_id: 294812739638
   good: false
-  character: 
+  characters: 
 - title: Dumbbell Indemnity
   season: 9
   episode: 16
@@ -123,7 +123,7 @@ episodes:
     to collect on an insurance policy.
   simpsonsworld_id: 283910211639
   good: false
-  character: 
+  characters: 
 - title: Lisa the Simpson
   season: 9
   episode: 17
@@ -131,21 +131,21 @@ episodes:
     Apu uses a frozen Jasper as a tourist attraction.
   simpsonsworld_id: 299651139676
   good: false
-  character: 
+  characters: 
 - title: This Little Wiggy
   season: 9
   episode: 18
   description: Bart is appalled when Marge pairs him with Ralph Wiggum.
   simpsonsworld_id: 299639875678
   good: false
-  character: 
+  characters: 
 - title: Simpson Tide
   season: 9
   episode: 19
   description: Homer becomes the captain of a Navy submarine.  Bart gets his ear pierced.
   simpsonsworld_id: 302809667837
   good: false
-  character: 
+  characters: 
 - title: The Trouble with Trillions
   season: 9
   episode: 20
@@ -153,7 +153,7 @@ episodes:
     the government and attempts to retrieve a trillion dollar note from Mr. Burns.
   simpsonsworld_id: 299644483816
   good: false
-  character: 
+  characters: 
 - title: Girly Edition
   season: 9
   episode: 21
@@ -161,7 +161,7 @@ episodes:
     program.  Homer obtains a helper monkey.
   simpsonsworld_id: 299672131928
   good: false
-  character: 
+  characters: 
 - title: Trash of the Titans
   season: 9
   episode: 22
@@ -169,7 +169,7 @@ episodes:
     refuse to collect his trash.
   simpsonsworld_id: 307101763818
   good: false
-  character: 
+  characters: 
 - title: King of the Hill
   season: 9
   episode: 23
@@ -177,7 +177,7 @@ episodes:
     mountain. Presented by FXX.
   simpsonsworld_id: 467593795648
   good: false
-  character: 
+  characters: 
 - title: Lost Our Lisa
   season: 9
   episode: 24
@@ -186,7 +186,7 @@ episodes:
     Presented by FXX.
   simpsonsworld_id: 467595331852
   good: false
-  character: 
+  characters: 
 - title: Natural Born Kissers
   season: 9
   episode: 25
@@ -195,4 +195,4 @@ episodes:
     FXX.
   simpsonsworld_id: 467599939876
   good: false
-  character: 
+  characters: 
