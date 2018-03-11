@@ -6,7 +6,7 @@ episodes:
   description: Lisa aids police with the investigation of the Burns shooting.
   simpsonsworld_id: 305689667892
   good: false
-  character: 
+  characters: 
 - title: Radioactive Man
   season: 7
   episode: 2
@@ -14,7 +14,7 @@ episodes:
     popular "Radioactive Man" comic books.
   simpsonsworld_id: 305693251940
   good: false
-  character: 
+  characters: 
 - title: Home Sweet Homediddly-Dum-Doodily
   season: 7
   episode: 3
@@ -22,7 +22,7 @@ episodes:
     accuse Homer and Marge of being negligent parents.
   simpsonsworld_id: 306174019869
   good: false
-  character: 
+  characters: 
 - title: Bart Sells His Soul
   season: 7
   episode: 4
@@ -30,21 +30,21 @@ episodes:
     bar into a family restaurant.
   simpsonsworld_id: 276972099995
   good: false
-  character: 
+  characters: 
 - title: Lisa the Vegetarian
   season: 7
   episode: 5
   description: Lisa turns vegetarian after her family visits a petting zoo.
   simpsonsworld_id: 276980291592
   good: false
-  character: 
+  characters: 
 - title: Treehouse of Horror VI
   season: 7
   episode: 6
   description: The Simpsons appear in three horrifying Halloween tales.
   simpsonsworld_id: 310404163601
   good: false
-  character: 
+  characters: 
 - title: King-Size Homer
   season: 7
   episode: 7
@@ -52,7 +52,7 @@ episodes:
     work at home.
   simpsonsworld_id: 294786627843
   good: false
-  character: 
+  characters: 
 - title: Mother Simpson
   season: 7
   episode: 8
@@ -60,7 +60,7 @@ episodes:
     in Springfield to pay her last respects.
   simpsonsworld_id: 276983875726
   good: false
-  character: 
+  characters: 
 - title: Sideshow Bob's Last Gleaming
   season: 7
   episode: 9
@@ -68,7 +68,7 @@ episodes:
     is abolished.
   simpsonsworld_id: 302792771516
   good: false
-  character: 
+  characters: 
 - title: The Simpsons 138th Episode Spectacular
   season: 7
   episode: 10
@@ -76,7 +76,7 @@ episodes:
     cartoon shorts, trivia questions, and never-before-seen footage.
   simpsonsworld_id: 324451395934
   good: false
-  character: 
+  characters: 
 - title: Marge Be Not Proud
   season: 7
   episode: 11
@@ -84,7 +84,7 @@ episodes:
     caught shoplifting.
   simpsonsworld_id: 305669699710
   good: false
-  character: 
+  characters: 
 - title: Team Homer
   season: 7
   episode: 12
@@ -93,7 +93,7 @@ episodes:
     a school dress code.
   simpsonsworld_id: 302792771967
   good: false
-  character: 
+  characters: 
 - title: Two Bad Neighbors
   season: 7
   episode: 13
@@ -101,14 +101,14 @@ episodes:
     the street from the Simpsons.
   simpsonsworld_id: 276994115834
   good: false
-  character: 
+  characters: 
 - title: Scenes from the Class Struggle in Springfield
   season: 7
   episode: 14
   description: The Simpsons apply for membership at a posh country club.
   simpsonsworld_id: 305694276001
   good: false
-  character: 
+  characters: 
 - title: Bart the Fink
   season: 7
   episode: 15
@@ -116,7 +116,7 @@ episodes:
     his hero's illegal bank account.
   simpsonsworld_id: 301346371709
   good: false
-  character: 
+  characters: 
 - title: Lisa the Iconoclast
   season: 7
   episode: 16
@@ -124,14 +124,14 @@ episodes:
     wins the coveted role of town crier in an upcoming parade.
   simpsonsworld_id: 302796355658
   good: false
-  character: 
+  characters: 
 - title: Homer the Smithers
   season: 7
   episode: 17
   description: Homer acts as Mr. Burns' assistant while Smithers is away on vacation.
   simpsonsworld_id: 277248579634
   good: false
-  character: 
+  characters: 
 - title: The Day the Violence Died
   season: 7
   episode: 18
@@ -139,14 +139,14 @@ episodes:
     invented the concept of cartoon violence.
   simpsonsworld_id: 301668931982
   good: false
-  character: 
+  characters: 
 - title: A Fish Called Selma
   season: 7
   episode: 19
   description: Troy McClure stages a Hollywood comeback when he begins dating Selma.
   simpsonsworld_id: 300935235544
   good: false
-  character: 
+  characters: 
 - title: Bart on the Road
   season: 7
   episode: 20
@@ -155,7 +155,7 @@ episodes:
     after Skinner invents Go To Work With Your Parents Day.
   simpsonsworld_id: 277000259951
   good: false
-  character: 
+  characters: 
 - title: 22 Short Films About Springfield
   season: 7
   episode: 21
@@ -163,7 +163,7 @@ episodes:
     vignettes.
   simpsonsworld_id: 299588163608
   good: false
-  character: 
+  characters: 
 - title: Raging Abe Simpson and His Grumbling Grandson in 'The Curse of the Flying
     Hellfish'
   season: 7
@@ -172,7 +172,7 @@ episodes:
     army unit, vie for a priceless collection of rare art hidden in a secret location.
   simpsonsworld_id: 279728707597
   good: false
-  character: 
+  characters: 
 - title: Much Apu About Nothing
   season: 7
   episode: 23
@@ -180,14 +180,14 @@ episodes:
     on the Springfield ballot.
   simpsonsworld_id: 310404675978
   good: false
-  character: 
+  characters: 
 - title: Homerpalooza
   season: 7
   episode: 24
   description: Homer is hired to perform in a rock festival.
   simpsonsworld_id: 277008451637
   good: false
-  character: 
+  characters: 
 - title: Summer of 4 Ft. 2
   season: 7
   episode: 25
@@ -195,4 +195,4 @@ episodes:
     in an effort to make new friends.
   simpsonsworld_id: 277013571573
   good: false
-  character: 
+  characters: 

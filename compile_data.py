@@ -24,13 +24,16 @@ output_format = 'json'  # hardsetting fornow
 
 all_data = {'episodes': [], 'characters': []}
 
-seasons = os.listdir(os.path.join(basedir, 'episodes'))
-for season in seasons:
-    content = yaml.load(
-        open(os.path.join(basedir, 'episodes', season)))
-    all_data['episodes'] = all_data['episodes'] + content['episodes']
+for datatype in all_data.keys():
+    data_files = os.listdir(os.path.join(basedir, datatype))
+    for f in data_files:
+        content = yaml.load(
+            open(os.path.join(basedir, datatype, f)))
+        all_data[datatype] = all_data[datatype] + content[datatype]
 
+# Individual sorting rules
 all_data['episodes'].sort(key=lambda x: (x['season'], x['episode']))
+all_data['characters'].sort(key=lambda x: (x['short_name']))
 
 if output_format == 'yml':
     raise ValueError('not yet, sorry. just json for now')

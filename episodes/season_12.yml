@@ -8,7 +8,7 @@ episodes:
     Bart and Lisa encounter characters from fairy tales.
   simpsonsworld_id: 294765123660
   good: false
-  character: 
+  characters: 
 - title: A Tale of Two Springfields
   season: 12
   episode: 2
@@ -16,7 +16,7 @@ episodes:
     telephone company institutes a new area code system.
   simpsonsworld_id: 300911171880
   good: false
-  character: 
+  characters: 
 - title: Insane Clown Poppy
   season: 12
   episode: 3
@@ -24,7 +24,7 @@ episodes:
     to gamble away his daughter's precious violin during a poker game with Fat Tony.
   simpsonsworld_id: 306934851515
   good: false
-  character: 
+  characters: 
 - title: Lisa the Treehugger
   season: 12
   episode: 4
@@ -32,7 +32,7 @@ episodes:
     oldest redwood tree.
   simpsonsworld_id: 306939971530
   good: false
-  character: 
+  characters: 
 - title: Homer vs. Dignity
   season: 12
   episode: 5
@@ -40,7 +40,7 @@ episodes:
     his 'prank monkey.'
   simpsonsworld_id: 311670339999
   good: false
-  character: 
+  characters: 
 - title: The Computer Wore Menace Shoes
   season: 12
   episode: 6
@@ -48,7 +48,7 @@ episodes:
     eventually finds himself stranded on a mysterious island.
   simpsonsworld_id: 302843971598
   good: false
-  character: 
+  characters: 
 - title: The Great Money Caper
   season: 12
   episode: 7
@@ -56,7 +56,7 @@ episodes:
     cost of a sudden car repair.
   simpsonsworld_id: 304456259863
   good: false
-  character: 
+  characters: 
 - title: Skinner's Sense of Snow
   season: 12
   episode: 8
@@ -65,7 +65,7 @@ episodes:
     to keep chaos from erupting.
   simpsonsworld_id: 307850819951
   good: false
-  character: 
+  characters: 
 - title: HOMR
   season: 12
   episode: 9
@@ -73,7 +73,7 @@ episodes:
     remove a crayon lodged in his brain.
   simpsonsworld_id: 306945603638
   good: false
-  character: 
+  characters: 
 - title: Pokey Mom
   season: 12
   episode: 10
@@ -82,7 +82,7 @@ episodes:
     he clashes with Skinner.
   simpsonsworld_id: 302844995961
   good: false
-  character: 
+  characters: 
 - title: Worst Episode Ever
   season: 12
   episode: 11
@@ -90,7 +90,7 @@ episodes:
     over his store.
   simpsonsworld_id: 310459971509
   good: false
-  character: 
+  characters: 
 - title: Tennis the Menace
   season: 12
   episode: 12
@@ -98,7 +98,7 @@ episodes:
     up with Marge and becomes a tennis whiz... much to Homer's disappointment.
   simpsonsworld_id: 300916291603
   good: false
-  character: 
+  characters: 
 - title: Day of the Jackanapes
   season: 12
   episode: 13
@@ -106,7 +106,7 @@ episodes:
     the Clown.
   simpsonsworld_id: 307106883649
   good: false
-  character: 
+  characters: 
 - title: New Kids on the Blecch
   season: 12
   episode: 14
@@ -114,7 +114,7 @@ episodes:
     crazed record producer launches an attack on the offices of MAD magazine.
   simpsonsworld_id: 310437443723
   good: false
-  character: 
+  characters: 
 - title: Hungry Hungry Homer
   season: 12
   episode: 15
@@ -122,7 +122,7 @@ episodes:
     Springfield Isotopes plans on moving the team to Albuquerque.
   simpsonsworld_id: 307850819931
   good: false
-  character: 
+  characters: 
 - title: Bye Bye Nerdy
   season: 12
   episode: 16
@@ -130,7 +130,7 @@ episodes:
     Homer starts his own baby-proofing business.
   simpsonsworld_id: 302846019892
   good: false
-  character: 
+  characters: 
 - title: Simpson Safari
   season: 12
   episode: 17
@@ -138,7 +138,7 @@ episodes:
     tribesmen... and a chimp refuge owner with a secret.
   simpsonsworld_id: 302845507908
   good: false
-  character: 
+  characters: 
 - title: Trilogy of Error
   season: 12
   episode: 18
@@ -147,7 +147,7 @@ episodes:
     science fair; Bart is pursued by gangsters.'
   simpsonsworld_id: 302842947994
   good: false
-  character: 
+  characters: 
 - title: I'm Goin' to Praise Land
   season: 12
   episode: 19
@@ -156,7 +156,7 @@ episodes:
     park flops until visitors begin having 'visions.'
   simpsonsworld_id: 302848579632
   good: false
-  character: 
+  characters: 
 - title: Children of a Lesser Clod
   season: 12
   episode: 20
@@ -165,7 +165,7 @@ episodes:
     leaving Bart and Lisa feeling neglected.
   simpsonsworld_id: 301652547508
   good: false
-  character: 
+  characters: 
 - title: Simpsons Tall Tales
   season: 12
   episode: 21
@@ -173,4 +173,4 @@ episodes:
     versions of three classic tales, all of which feature Simpsons characters.
   simpsonsworld_id: 301685315594
   good: false
-  character: 
+  characters: 
