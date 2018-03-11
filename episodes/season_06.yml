@@ -8,6 +8,9 @@ episodes:
   simpsonsworld_id: 300925507538
   good: true
   characters:
+  - bart
+  - lisa
+  - ned
 - title: Lisa's Rival
   season: 6
   episode: 2
@@ -15,16 +18,19 @@ episodes:
     intelligent than herself.  Homer acquires a truckload of white sugar, thinking
     it will net him a fortune.
   simpsonsworld_id: 278809667691
-  good: maybe
+  good: false
   characters:
+  - lisa
+  - homer
 - title: Another Simpsons Clip Show
   season: 6
   episode: 3
   description: When Marge suspects that romance has gone out of her life, her family
     recalls romantic encounters from their past.
   simpsonsworld_id: 300928067775
-  good: maybe
+  good: false
   characters:
+  - clip_show
 - title: Itchy and Scratchy Land
   season: 6
   episode: 4
@@ -33,6 +39,7 @@ episodes:
   simpsonsworld_id: 283752003577
   good: true
   characters:
+  - family
 - title: Sideshow Bob Roberts
   season: 6
   episode: 5
@@ -41,6 +48,8 @@ episodes:
   simpsonsworld_id: 275729987504
   good: true
   characters:
+  - bart
+  - sideshow_bob
 - title: Treehouse of Horror V
   season: 6
   episode: 6
@@ -48,6 +57,7 @@ episodes:
   simpsonsworld_id: 299597891663
   good: true
   characters:
+  - treehouse_of_horror
 - title: Bart's Girlfriend
   season: 6
   episode: 7
@@ -56,6 +66,7 @@ episodes:
   simpsonsworld_id: 275744323759
   good: true
   characters:
+  - bart
 - title: Lisa on Ice
   season: 6
   episode: 8
@@ -64,6 +75,8 @@ episodes:
   simpsonsworld_id: 275746371575
   good: true
   characters:
+  - bart
+  - lisa
 - title: Homer Badman
   season: 6
   episode: 9
@@ -71,6 +84,7 @@ episodes:
   simpsonsworld_id: 275746883653
   good: true
   characters:
+  - homer
 - title: Grampa vs. Sexual Inadequacy
   season: 6
   episode: 10
@@ -79,6 +93,8 @@ episodes:
   simpsonsworld_id: 274264643876
   good: true
   characters:
+  - homer
+  - grandpa
 - title: Fear of Flying
   season: 6
   episode: 11
@@ -87,6 +103,7 @@ episodes:
   simpsonsworld_id: 305684547546
   good: false
   characters:
+  - marge
 - title: Homer the Great
   season: 6
   episode: 12
@@ -95,13 +112,14 @@ episodes:
   simpsonsworld_id: 275745859881
   good: true
   characters:
+  - homer
 - title: And Maggie Makes Three
   season: 6
   episode: 13
   description: Homer recounts how Maggie's accidental birth changed his life forever.
   simpsonsworld_id: 278796867754
   good: false
-  characters:
+  characters: []
 - title: Bart's Comet
   season: 6
   episode: 14
@@ -109,6 +127,7 @@ episodes:
   simpsonsworld_id: 275746883888
   good: true
   characters:
+  - bart
 - title: Homie the Clown
   season: 6
   episode: 15
@@ -116,6 +135,8 @@ episodes:
   simpsonsworld_id: 279723587611
   good: true
   characters:
+  - homer
+  - krusty
 - title: Bart vs. Australia
   season: 6
   episode: 16
@@ -124,6 +145,7 @@ episodes:
   simpsonsworld_id: 275748931680
   good: true
   characters:
+  - bart
 - title: Homer vs. Patty and Selma
   season: 6
   episode: 17
@@ -132,6 +154,9 @@ episodes:
   simpsonsworld_id: 305686083529
   good: true
   characters:
+  - homer
+  - patty
+  - selma
 - title: A Star Is Burns
   season: 6
   episode: 18
@@ -140,14 +165,17 @@ episodes:
   simpsonsworld_id: 283753539580
   good: true
   characters:
+  - marge
+  - homer
 - title: Lisa's Wedding
   season: 6
   episode: 19
   description: A fortune teller describes how a genteel Englishman will ask for Lisa's
     hand in marriage in the year 2010.
   simpsonsworld_id: 275751491511
-  good: maybe
+  good: false
   characters:
+  - lisa
 - title: Two Dozen and One Greyhounds
   season: 6
   episode: 20
@@ -156,6 +184,9 @@ episodes:
   simpsonsworld_id: 278807107855
   good: true
   characters:
+  - bart
+  - lisa
+  - mr_burns
 - title: The PTA Disbands
   season: 6
   episode: 21
@@ -164,14 +195,19 @@ episodes:
   simpsonsworld_id: 294780995610
   good: true
   characters:
+  - bart
+  - marge
 - title: "'Round Springfield"
   season: 6
   episode: 22
   description: Lisa is saddened by the death of blues great Bleeding Gums Murphy.  Bart
     ingests a piece of jagged metal while eating Krusty-O cereal.
   simpsonsworld_id: 275755587777
-  good: maybe
+  good: true
   characters:
+  - lisa
+  - bart
+  - marge
 - title: The Springfield Connection
   season: 6
   episode: 23
@@ -179,6 +215,8 @@ episodes:
   simpsonsworld_id: 305689155572
   good: true
   characters:
+  - marge
+  - wiggum
 - title: Lemon of Troy
   season: 6
   episode: 24
@@ -187,6 +225,8 @@ episodes:
   simpsonsworld_id: 274269763684
   good: true
   characters:
+  - bart
+  - homer
 - title: Who Shot Mr. Burns? (Part One)
   season: 6
   episode: 25
@@ -196,3 +236,5 @@ episodes:
   simpsonsworld_id: 294781507859
   good: true
   characters:
+  - mr_burns
+  - ensemble
