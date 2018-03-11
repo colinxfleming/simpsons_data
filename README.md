@@ -37,7 +37,7 @@ Here's what's done so far:
 * **Season 3**: Not done
 * **Season 4**: Not done
 * **Season 5**: Not done
-* **Season 6**: Not done
+* **Season 6**: Mostly done
 * **Season 7**: Not done
 * **Season 8**: Not done
 * **Season 9**: Not done
@@ -64,7 +64,7 @@ Here's what's done so far:
 
 ## Usage
 
-`python compile_seasons.py json` spits out a json file with keys characters and episodes.
+`python compile_data.py` spits out a json file with keys characters and episodes.
 
 <strike>`./compile_seasons.py yaml` spits out a yaml file.</strike> (Coming soon)
 
