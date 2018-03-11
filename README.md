@@ -17,11 +17,16 @@ episode: Integer. Episode number.
 description: String. Episode description from SimpsonsWorld.
 simpsonsworld_id: BigInt. Episode video identifier from SimpsonsWorld.
 good: Boolean. Indicator of whether or not the episode is bad.
-character: Unimplemented at present. Focus character, if any.
+characters: Unimplemented at present. Focus character(s), if any.
 ```
 
-`Characters` are TK.
+`Characters` are shaped as follows:
 
+```yml
+short_name: String. Common name or nickname, unique reference key.
+name: String. Full name.
+core_family: Boolean. True if they are Homer, Marge, Lisa, Bart, or Maggie.
+```
 ### Episode coverage
 
 There's a lot of episodes and seasons to go through and mark the good ones.
