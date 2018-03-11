@@ -8,7 +8,7 @@ episodes:
     down.
   simpsonsworld_id: 292959299559
   good: false
-  character: 
+  characters: 
 - title: Jazzy and the Pussycats
   season: 18
   episode: 2
@@ -16,7 +16,7 @@ episodes:
     Lisa hides some stray animals in the attic.
   simpsonsworld_id: 283202115995
   good: false
-  character: 
+  characters: 
 - title: Please Homer, Don't Hammer 'em
   season: 18
   episode: 3
@@ -25,7 +25,7 @@ episodes:
     peanuts. Presented by FXX.
   simpsonsworld_id: 283760707876
   good: false
-  character: 
+  characters: 
 - title: Treehouse of Horror XVII
   season: 18
   episode: 4
@@ -34,7 +34,7 @@ episodes:
     convinces townspeople they''re being invaded by aliens.'
   simpsonsworld_id: 302871107984
   good: false
-  character: 
+  characters: 
 - title: G.I. (Annoyed Grunt)
   season: 18
   episode: 5
@@ -43,7 +43,7 @@ episodes:
     against the military.
   simpsonsworld_id: 283080259896
   good: false
-  character: 
+  characters: 
 - title: Moe 'N' a Lisa
   season: 18
   episode: 6
@@ -51,7 +51,7 @@ episodes:
     to acknowledge her contribution.
   simpsonsworld_id: 307167299594
   good: false
-  character: 
+  characters: 
 - title: Ice Cream of Margie (With the Light Blue Hair)
   season: 18
   episode: 7
@@ -59,7 +59,7 @@ episodes:
     her purpose in life when she makes sculptures out of popsicle sticks.
   simpsonsworld_id: 292941379558
   good: false
-  character: 
+  characters: 
 - title: The Haw-Hawed Couple
   season: 18
   episode: 8
@@ -67,7 +67,7 @@ episodes:
     fantasy books.
   simpsonsworld_id: 279785027791
   good: false
-  character: 
+  characters: 
 - title: Kill Gil (Parts I and II)
   season: 18
   episode: 9
@@ -75,7 +75,7 @@ episodes:
     to kick down-on-his-luck Gil out of the house.
   simpsonsworld_id: 279793731867
   good: false
-  character: 
+  characters: 
 - title: The Wife Aquatic
   season: 18
   episode: 10
@@ -84,7 +84,7 @@ episodes:
     storm.
   simpsonsworld_id: 283764803572
   good: false
-  character: 
+  characters: 
 - title: Revenge is a Dish Best Served Three Times
   season: 18
   episode: 11
@@ -93,7 +93,7 @@ episodes:
     him; comic hero Bart-Man searches for the villain who killed his parents.
   simpsonsworld_id: 283790915851
   good: false
-  character: 
+  characters: 
 - title: Little Big Girl
   season: 18
   episode: 12
@@ -102,7 +102,7 @@ episodes:
     license-and ends up with a pregnant girlfriend who wants to wed.
   simpsonsworld_id: 310462531619
   good: false
-  character: 
+  characters: 
 - title: Springfield Up
   season: 18
   episode: 13
@@ -111,7 +111,7 @@ episodes:
     made good on his quest to become a millionaire.
   simpsonsworld_id: 302876739533
   good: false
-  character: 
+  characters: 
 - title: Yokel Chords
   season: 18
   episode: 14
@@ -120,7 +120,7 @@ episodes:
     his classmates with a scary story.
   simpsonsworld_id: 307175491532
   good: false
-  character: 
+  characters: 
 - title: Rome-old and Juli-eh
   season: 18
   episode: 15
@@ -128,7 +128,7 @@ episodes:
     build a fort after acquiring a large quantity of empty cardboard boxes.
   simpsonsworld_id: 302868035943
   good: false
-  character: 
+  characters: 
 - title: Homerazzi
   season: 18
   episode: 16
@@ -136,7 +136,7 @@ episodes:
     selling the images to the tabloids.
   simpsonsworld_id: 292962371807
   good: false
-  character: 
+  characters: 
 - title: Marge Gamer
   season: 18
   episode: 17
@@ -144,7 +144,7 @@ episodes:
     online fantasy game; Homer referees Lisa's soccer team.
   simpsonsworld_id: 277036099916
   good: false
-  character: 
+  characters: 
 - title: The Boys of Bummer
   season: 18
   episode: 18
@@ -153,7 +153,7 @@ episodes:
     Lovejoy and his wife over possession of Homer's mattress.
   simpsonsworld_id: 279798851587
   good: false
-  character: 
+  characters: 
 - title: Crook and Ladder
   season: 18
   episode: 19
@@ -161,7 +161,7 @@ episodes:
     stealing from fire victims.
   simpsonsworld_id: 310491203943
   good: false
-  character: 
+  characters: 
 - title: Stop Or My Dog Will Shoot
   season: 18
   episode: 20
@@ -169,7 +169,7 @@ episodes:
     a python to replace him.
   simpsonsworld_id: 302865987860
   good: false
-  character: 
+  characters: 
 - title: 24 Minutes
   season: 18
   episode: 21
@@ -178,7 +178,7 @@ episodes:
     school bake sale.
   simpsonsworld_id: 292963907577
   good: false
-  character: 
+  characters: 
 - title: You Kent Always Say What You Want
   season: 18
   episode: 22
@@ -186,4 +186,4 @@ episodes:
     leading to a heavy fine from the FCC - and costing Brockman his job.
   simpsonsworld_id: 302859843984
   good: false
-  character: 
+  characters: 

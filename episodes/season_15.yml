@@ -8,7 +8,7 @@ episodes:
     play pranks with a watch that can stop time.
   simpsonsworld_id: 227335747784
   good: false
-  character: 
+  characters: 
 - title: My Mother the Carjacker
   season: 15
   episode: 2
@@ -17,7 +17,7 @@ episodes:
     win her release... but Mr. Burns concocts a plot to get revenge.
   simpsonsworld_id: 227339843917
   good: false
-  character: 
+  characters: 
 - title: The President Wore Pearls
   season: 15
   episode: 3
@@ -26,7 +26,7 @@ episodes:
     prompting Lisa to call a general student strike.
   simpsonsworld_id: 227348035643
   good: false
-  character: 
+  characters: 
 - title: The Regina Monologues
   season: 15
   episode: 4
@@ -34,7 +34,7 @@ episodes:
     of London after he smashes a car into the Queen's royal coach.
   simpsonsworld_id: 227349059824
   good: false
-  character: 
+  characters: 
 - title: The Fat and the Furriest
   season: 15
   episode: 5
@@ -43,7 +43,7 @@ episodes:
     its life.
   simpsonsworld_id: 227355715580
   good: false
-  character: 
+  characters: 
 - title: Today I am a Clown
   season: 15
   episode: 6
@@ -52,7 +52,7 @@ episodes:
     takes off, Krusty finds himself out of a job.
   simpsonsworld_id: 227360323557
   good: false
-  character: 
+  characters: 
 - title: "'Tis the Fifteenth Season"
   season: 15
   episode: 7
@@ -61,7 +61,7 @@ episodes:
     find it impossible to live as the second-nicest-guy in town. Presented by FXX.
   simpsonsworld_id: 227364931670
   good: false
-  character: 
+  characters: 
 - title: Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays
   season: 15
   episode: 8
@@ -69,7 +69,7 @@ episodes:
     grown fed-up with accommodating people with families.
   simpsonsworld_id: 227369027832
   good: false
-  character: 
+  characters: 
 - title: I, (Annoyed Grunt)-Bot
   season: 15
   episode: 9
@@ -78,7 +78,7 @@ episodes:
     the cat is run over by a car.
   simpsonsworld_id: 227376707538
   good: false
-  character: 
+  characters: 
 - title: Diatribe of a Mad Housewife
   season: 15
   episode: 10
@@ -86,7 +86,7 @@ episodes:
     Marge authors her own romance novel.
   simpsonsworld_id: 227378755925
   good: false
-  character: 
+  characters: 
 - title: Margical History Tour
   season: 15
   episode: 11
@@ -95,7 +95,7 @@ episodes:
     Clark; and the rivalry between Mozart and Salieri.'
   simpsonsworld_id: 227386947567
   good: false
-  character: 
+  characters: 
 - title: Milhouse Doesn't Live Here Anymore
   season: 15
   episode: 12
@@ -103,7 +103,7 @@ episodes:
     up a friendship with Lisa; Homer makes money by pretending to be a transient.
   simpsonsworld_id: 227392067706
   good: false
-  character: 
+  characters: 
 - title: Smart and Smarter
   season: 15
   episode: 13
@@ -111,7 +111,7 @@ episodes:
     than her.
   simpsonsworld_id: 229331523584
   good: false
-  character: 
+  characters: 
 - title: The Ziff Who Came to Dinner
   season: 15
   episode: 14
@@ -119,7 +119,7 @@ episodes:
     company-and ends up being arrested by the Securities and Exchange Commission.
   simpsonsworld_id: 227426371786
   good: false
-  character: 
+  characters: 
 - title: Co-Dependent's Day
   season: 15
   episode: 15
@@ -128,7 +128,7 @@ episodes:
     complain to the creator of the Cosmic Wars saga about his latest films.
   simpsonsworld_id: 227399235673
   good: false
-  character: 
+  characters: 
 - title: The Wandering Juvie
   season: 15
   episode: 16
@@ -136,7 +136,7 @@ episodes:
     forces him to go on the lam.
   simpsonsworld_id: 227402307606
   good: false
-  character: 
+  characters: 
 - title: My Big Fat Geek Wedding
   season: 15
   episode: 17
@@ -144,7 +144,7 @@ episodes:
     affair with the Comic Book Guy.
   simpsonsworld_id: 227423299561
   good: false
-  character: 
+  characters: 
 - title: Catch 'Em If You Can
   season: 15
   episode: 18
@@ -152,7 +152,7 @@ episodes:
     honeymoon; Grampa catches the eye of a dashing Cuban man.
   simpsonsworld_id: 227415619717
   good: false
-  character: 
+  characters: 
 - title: Simple Simpson
   season: 15
   episode: 19
@@ -160,7 +160,7 @@ episodes:
     the Pie Man-until Mr. Burns blackmails him into throwing a pie at the Dalai Lama.
   simpsonsworld_id: 227327555884
   good: false
-  character: 
+  characters: 
 - title: The Way We Weren't
   season: 15
   episode: 20
@@ -169,7 +169,7 @@ episodes:
     he caused Marge thirty years of heartbreak.
   simpsonsworld_id: 227330115859
   good: false
-  character: 
+  characters: 
 - title: Bart-Mangled Banner
   season: 15
   episode: 21
@@ -177,7 +177,7 @@ episodes:
     American flag.
   simpsonsworld_id: 227410499679
   good: false
-  character: 
+  characters: 
 - title: Fraudcast News
   season: 15
   episode: 22
@@ -186,4 +186,4 @@ episodes:
     her own newspaper.
   simpsonsworld_id: 227405379707
   good: false
-  character: 
+  characters: 

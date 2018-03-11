@@ -8,7 +8,7 @@ episodes:
     Potter-like adventure.
   simpsonsworld_id: 307115075729
   good: false
-  character: 
+  characters: 
 - title: The Parent Rap
   season: 13
   episode: 2
@@ -17,7 +17,7 @@ episodes:
     wooden stocks.
   simpsonsworld_id: 307116099877
   good: false
-  character: 
+  characters: 
 - title: Homer the Moe
   season: 13
   episode: 3
@@ -25,7 +25,7 @@ episodes:
     people,' forcing Homer to start a bar of his own inside his garage.
   simpsonsworld_id: 300917827935
   good: false
-  character: 
+  characters: 
 - title: Hunka Hunka Burns in Love
   season: 13
   episode: 4
@@ -33,7 +33,7 @@ episodes:
     he enlists Homer's help in romancing her.
   simpsonsworld_id: 301344323882
   good: false
-  character: 
+  characters: 
 - title: The Blunder Years
   season: 13
   episode: 5
@@ -41,7 +41,7 @@ episodes:
     leads to a shocking discovery.
   simpsonsworld_id: 302898755902
   good: false
-  character: 
+  characters: 
 - title: She of Little Faith
   season: 13
   episode: 6
@@ -49,7 +49,7 @@ episodes:
     Burns takes over her church and runs it like a corporation.
   simpsonsworld_id: 288120899968
   good: false
-  character: 
+  characters: 
 - title: Brawl in the Family
   season: 13
   episode: 7
@@ -57,7 +57,7 @@ episodes:
     cooperative unit... until Homer's other wife shows up unexpectedly.
   simpsonsworld_id: 283083843778
   good: false
-  character: 
+  characters: 
 - title: Sweets and Sour Marge
   season: 13
   episode: 8
@@ -65,7 +65,7 @@ episodes:
     an anti-sugar crusade, and sugar is banned from the city.
   simpsonsworld_id: 302893635523
   good: false
-  character: 
+  characters: 
 - title: Jaws Wired Shut
   season: 13
   episode: 9
@@ -73,7 +73,7 @@ episodes:
     listening, but Marge finds that a well-behaved Homer isn't what she really wanted.
   simpsonsworld_id: 310440003514
   good: false
-  character: 
+  characters: 
 - title: Half-Decent Proposal
   season: 13
   episode: 10
@@ -82,7 +82,7 @@ episodes:
     been.'
   simpsonsworld_id: 301684803770
   good: false
-  character: 
+  characters: 
 - title: The Bart Wants What It Wants
   season: 13
   episode: 11
@@ -90,7 +90,7 @@ episodes:
     daughter after she runs off with Milhouse.
   simpsonsworld_id: 307122755675
   good: false
-  character: 
+  characters: 
 - title: The Lastest Gun in the West
   season: 13
   episode: 12
@@ -98,7 +98,7 @@ episodes:
     asked to appear on Krusty's television show.
   simpsonsworld_id: 302899267542
   good: false
-  character: 
+  characters: 
 - title: The Old Man and the Key
   season: 13
   episode: 13
@@ -107,7 +107,7 @@ episodes:
     of his affection leaves for Branson, Missouri.
   simpsonsworld_id: 301659203973
   good: false
-  character: 
+  characters: 
 - title: Tales From the Public Domain
   season: 13
   episode: 14
@@ -116,7 +116,7 @@ episodes:
     his father; Lisa as Joan of Arc pits the French against the English.'
   simpsonsworld_id: 310411843752
   good: false
-  character: 
+  characters: 
 - title: Blame it on Lisa
   season: 13
   episode: 15
@@ -124,7 +124,7 @@ episodes:
     has been sponsoring, Homer ends up getting kidnapped.
   simpsonsworld_id: 301665347899
   good: false
-  character: 
+  characters: 
 - title: Weekend at Burnsie's
   season: 13
   episode: 16
@@ -133,7 +133,7 @@ episodes:
     vice president of the power plant.
   simpsonsworld_id: 310448195762
   good: false
-  character: 
+  characters: 
 - title: Gump Roast
   season: 13
   episode: 17
@@ -142,7 +142,7 @@ episodes:
     and Kodos make an unexpected appearance.
   simpsonsworld_id: 302888515845
   good: false
-  character: 
+  characters: 
 - title: I am Furious Yellow
   season: 13
   episode: 18
@@ -150,7 +150,7 @@ episodes:
     and when it proves a huge success, Homer vows to give up getting angry for Lent.
   simpsonsworld_id: 302883907921
   good: false
-  character: 
+  characters: 
 - title: The Sweetest Apu
   season: 13
   episode: 19
@@ -158,7 +158,7 @@ episodes:
     and Marge search for a way to reunite the couple.
   simpsonsworld_id: 288131139601
   good: false
-  character: 
+  characters: 
 - title: Little Girl in the Big Ten
   season: 13
   episode: 20
@@ -166,7 +166,7 @@ episodes:
     a boy-in-a-plastic-bubble after he's bitten by a Chinese mosquito.
   simpsonsworld_id: 310416963509
   good: false
-  character: 
+  characters: 
 - title: Frying Game
   season: 13
   episode: 21
@@ -174,7 +174,7 @@ episodes:
     couple befriended is found dead.
   simpsonsworld_id: 301664323751
   good: false
-  character: 
+  characters: 
 - title: Papa's Got a Brand New Badge
   season: 13
   episode: 22
@@ -182,4 +182,4 @@ episodes:
     riot, townspeople begin to feel unsafe... until Homer forms his own police force.
   simpsonsworld_id: 302880835773
   good: false
-  character: 
+  characters: 

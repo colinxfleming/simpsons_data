@@ -6,7 +6,7 @@ episodes:
   description: Bart must pass a critical history test or he will be held back a grade.
   simpsonsworld_id: 260539459671
   good: false
-  character: 
+  characters: 
 - title: Simpson and Delilah
   season: 2
   episode: 2
@@ -14,7 +14,7 @@ episodes:
     growth formula.
   simpsonsworld_id: 260539971564
   good: false
-  character: 
+  characters: 
 - title: Treehouse of Horror
   season: 2
   episode: 3
@@ -22,7 +22,7 @@ episodes:
     night.
   simpsonsworld_id: 260538435884
   good: false
-  character: 
+  characters: 
 - title: Two Cars in Every Garage and Three Eyes on Every Fish
   season: 2
   episode: 4
@@ -30,14 +30,14 @@ episodes:
     loyal to Burns's political opposition.
   simpsonsworld_id: 260537411822
   good: false
-  character: 
+  characters: 
 - title: Dancin' Homer
   season: 2
   episode: 5
   description: Homer becomes the official mascot for a major league baseball team.
   simpsonsworld_id: 260538435888
   good: false
-  character: 
+  characters: 
 - title: Dead Putting Society
   season: 2
   episode: 6
@@ -45,7 +45,7 @@ episodes:
     championship.
   simpsonsworld_id: 260539459670
   good: false
-  character: 
+  characters: 
 - title: Bart vs. Thanksgiving
   season: 2
   episode: 7
@@ -53,7 +53,7 @@ episodes:
     home after having an argument with Lisa.
   simpsonsworld_id: 260539459701
   good: false
-  character: 
+  characters: 
 - title: Bart the Daredevil
   season: 2
   episode: 8
@@ -61,7 +61,7 @@ episodes:
     the death defying stunts of a real daredevil.
   simpsonsworld_id: 260539459702
   good: false
-  character: 
+  characters: 
 - title: Itchy and Scratchy and Marge
   season: 2
   episode: 9
@@ -70,7 +70,7 @@ episodes:
     Presented by FXX.
   simpsonsworld_id: 1094123075920
   good: false
-  character: 
+  characters: 
 - title: Bart Gets Hit by a Car
   season: 2
   episode: 10
@@ -78,7 +78,7 @@ episodes:
     lawyer to sue him.
   simpsonsworld_id: 260550723760
   good: false
-  character: 
+  characters: 
 - title: One Fish, Two Fish, Blowfish, Blue Fish
   season: 2
   episode: 11
@@ -86,7 +86,7 @@ episodes:
     an improperly prepared blowfish.
   simpsonsworld_id: 260548675839
   good: false
-  character: 
+  characters: 
 - title: The Way We Was
   season: 2
   episode: 12
@@ -94,7 +94,7 @@ episodes:
     in love.
   simpsonsworld_id: 260549187876
   good: false
-  character: 
+  characters: 
 - title: Homer vs. Lisa and the 8th Commandment
   season: 2
   episode: 13
@@ -102,7 +102,7 @@ episodes:
     into their home.
   simpsonsworld_id: 260820547692
   good: false
-  character: 
+  characters: 
 - title: Principal Charming
   season: 2
   episode: 14
@@ -110,7 +110,7 @@ episodes:
     Selma.
   simpsonsworld_id: 263496771968
   good: false
-  character: 
+  characters: 
 - title: Oh Brother, Where Art Thou?
   season: 2
   episode: 15
@@ -118,7 +118,7 @@ episodes:
     is rich. Presented by FXX.
   simpsonsworld_id: 1094123587812
   good: false
-  character: 
+  characters: 
 - title: Bart's Dog Gets an F
   season: 2
   episode: 16
@@ -126,14 +126,14 @@ episodes:
     or Homer will give the dog away.
   simpsonsworld_id: 272034883946
   good: false
-  character: 
+  characters: 
 - title: Old Money
   season: 2
   episode: 17
   description: Grampa Simpson falls in love... and inherits a fortune.
   simpsonsworld_id: 263504963955
   good: false
-  character: 
+  characters: 
 - title: Brush with Greatness
   season: 2
   episode: 18
@@ -142,7 +142,7 @@ episodes:
     a portrait of him. Presented by FXX.
   simpsonsworld_id: 1094212163883
   good: false
-  character: 
+  characters: 
 - title: Lisa's Substitute
   season: 2
   episode: 19
@@ -150,7 +150,7 @@ episodes:
     tells Homer he must learn to act as a positive role model for his daughter.
   simpsonsworld_id: 288011331912
   good: false
-  character: 
+  characters: 
 - title: The War of the Simpsons
   season: 2
   episode: 20
@@ -159,7 +159,7 @@ episodes:
     a legendary catfish.
   simpsonsworld_id: 272040003661
   good: false
-  character: 
+  characters: 
 - title: Three Men and a Comic Book
   season: 2
   episode: 21
@@ -167,7 +167,7 @@ episodes:
     "Radioactive Man" comics, but then cannot decide who gets to keep it.
   simpsonsworld_id: 310368835964
   good: false
-  character: 
+  characters: 
 - title: Blood Feud
   season: 2
   episode: 22
@@ -175,4 +175,4 @@ episodes:
     to an ailing Mr. Burns.
   simpsonsworld_id: 272041539932
   good: false
-  character: 
+  characters: 

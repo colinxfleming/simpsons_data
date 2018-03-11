@@ -7,7 +7,7 @@ episodes:
     Christmas bonus is canceled.
   simpsonsworld_id: 273376835817
   good: false
-  character: 
+  characters: 
 - title: Bart The Genius
   season: 1
   episode: 2
@@ -15,7 +15,7 @@ episodes:
     Martin Prince.
   simpsonsworld_id: 283744835990
   good: false
-  character: 
+  characters: 
 - title: Homer's Odyssey
   season: 1
   episode: 3
@@ -23,7 +23,7 @@ episodes:
     on a campaign to make all of Springfield safer.
   simpsonsworld_id: 273381443699
   good: false
-  character: 
+  characters: 
 - title: There's No Disgrace Like Home
   season: 1
   episode: 4
@@ -32,7 +32,7 @@ episodes:
     Marvin Monroe to treat his wife and children.
   simpsonsworld_id: 273392195780
   good: true
-  character: 
+  characters: 
 - title: Bart the General
   season: 1
   episode: 5
@@ -40,14 +40,14 @@ episodes:
     gang.
   simpsonsworld_id: 300934723994
   good: false
-  character: 
+  characters: 
 - title: Moaning Lisa
   season: 1
   episode: 6
   description: Lisa befriends a saxophone player when she develops a case of the blues.
   simpsonsworld_id: 273391683535
   good: false
-  character: 
+  characters: 
 - title: The Call of the Simpsons
   season: 1
   episode: 7
@@ -55,7 +55,7 @@ episodes:
     the wilderness in their new camper.
   simpsonsworld_id: 273396803837
   good: false
-  character: 
+  characters: 
 - title: The Telltale Head
   season: 1
   episode: 8
@@ -63,7 +63,7 @@ episodes:
     the town's founding father, Jebediah Springfield.
   simpsonsworld_id: 305663555641
   good: true
-  character: 
+  characters: 
 - title: Life on the Fast Lane
   season: 1
   episode: 9
@@ -71,7 +71,7 @@ episodes:
     selfishly buys her a bowling ball for her birthday.
   simpsonsworld_id: 280384579592
   good: false
-  character: 
+  characters: 
 - title: Homer's Night Out
   season: 1
   episode: 10
@@ -80,7 +80,7 @@ episodes:
     sexual objects.
   simpsonsworld_id: 275197507879
   good: false
-  character: 
+  characters: 
 - title: The Crepes of Wrath
   season: 1
   episode: 11
@@ -88,7 +88,7 @@ episodes:
     a student exchange program.
   simpsonsworld_id: 306382403766
   good: true
-  character: 
+  characters: 
 - title: Krusty Gets Busted
   season: 1
   episode: 12
@@ -96,7 +96,7 @@ episodes:
     Bart attempts to clear his idol's name.
   simpsonsworld_id: 288019523914
   good: true
-  character: 
+  characters: 
 - title: Some Enchanted Evening
   season: 1
   episode: 13
@@ -104,4 +104,4 @@ episodes:
     babysitter when they attempt to rekindle their marriage.
   simpsonsworld_id: 274504771647
   good: false
-  character: 
+  characters: 
