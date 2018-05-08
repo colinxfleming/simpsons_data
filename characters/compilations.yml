@@ -1,0 +1,10 @@
+---
+characters:
+- short_name: ensemble
+  name: Ensemble
+- short_name: clip_show
+  name: Clip show
+- short_name: family
+  name: Full Simpsons family
+- short_name: treehouse_of_horror
+  name: Treehouse of Horror
