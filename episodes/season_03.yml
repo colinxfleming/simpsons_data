@@ -7,96 +7,96 @@ episodes:
     man who thinks he is Michael Jackson helps Bart write a song for Lisa when he
     forgets her birthday.
   simpsonsworld_id: 272234051980
-  good: false
-  character: 
+  good: maybe
+  characters: 
 - title: Mr. Lisa Goes to Washington
   season: 3
   episode: 2
   description: The Simpsons travel to the Nation's Capitol when Lisa becomes a semifinalist
     in an essay contest on patriotism.
   simpsonsworld_id: 275196995796
-  good: false
-  character: 
+  good: true
+  characters: 
 - title: When Flanders Failed
   season: 3
   episode: 3
   description: Ned Flanders opens a store for left-handed people and Homer is overjoyed
     when it performs poorly.
   simpsonsworld_id: 272051267562
-  good: false
-  character: 
+  good: maybe
+  characters: 
 - title: Bart the Murderer
   season: 3
   episode: 4
   description: Bart fraternizes with a gang of mobsters and becomes the prime suspect
     when Principal Skinner mysteriously disappears.
   simpsonsworld_id: 288015427922
-  good: false
-  character: 
+  good: true
+  characters: 
 - title: Homer Defined
   season: 3
   episode: 5
   description: Homer becomes a hero when he averts a catastrophe at the power plant,
     but what is perceived as his skill of being a quick thinker is actually dumb luck.
   simpsonsworld_id: 256843843704
-  good: false
-  character: 
+  good: maybe
+  characters: 
 - title: Like Father, Like Clown
   season: 3
   episode: 6
   description: Bart and Lisa scheme to reunite Krusty the Clown with his father, Rabbi
     Krustofsky, who disowned him for not carrying on the family tradition.
   simpsonsworld_id: 256874051703
-  good: false
-  character: 
+  good: maybe
+  characters: 
 - title: Treehouse of Horror II
   season: 3
   episode: 7
   description: The Simpsons eat too much candy on Halloween and experience nightmarish
     tales of horror while they sleep.
   simpsonsworld_id: 272054339616
-  good: false
-  character: 
+  good: maybe
+  characters: 
 - title: Lisa's Pony
   season: 3
   episode: 8
   description: Homer realizes that he never shows Lisa the attention she deserves
     and buys her a pony.
   simpsonsworld_id: 310374467809
-  good: false
-  character: 
+  good: maybe
+  characters: 
 - title: Saturdays of Thunder
   season: 3
   episode: 9
   description: Realizing he has not been a good father to Bart, Homer aids his son
     in building a soap box racer.
   simpsonsworld_id: 256898115598
-  good: false
-  character: 
+  good: true
+  characters: 
 - title: Flaming Moe's
   season: 3
   episode: 10
   description: Homer gives Moe the recipe for a unique alcoholic drink, and when it
     turns into a sensation, Moe takes credit, and the profits, from its success.
   simpsonsworld_id: 305663555961
-  good: false
-  character: 
+  good: maybe
+  characters: 
 - title: Burns Verkaufen der Kraftwerk
   season: 3
   episode: 11
   description: Homer is fired from his job when a German firm buys the power plant
     from Mr. Burns.
   simpsonsworld_id: 310380099512
-  good: false
-  character: 
+  good: maybe
+  characters: 
 - title: I Married Marge
   season: 3
   episode: 12
   description: When Marge believes she may be pregnant, Homer recounts how Bart was
     born.
   simpsonsworld_id: 299618371603
-  good: false
-  character: 
+  good: maybe
+  characters: 
 - title: Radio Bart
   season: 3
   episode: 13
@@ -104,16 +104,16 @@ episodes:
     into believing that a child has fallen down a well.  But when he falls into the
     same well, Bart cannot get anyone to save him.
   simpsonsworld_id: 272052803895
-  good: false
-  character: 
+  good: true
+  characters: 
 - title: Lisa the Greek
   season: 3
   episode: 14
   description: Lisa accurately predicts the winners of sporting events that Homer
     gambles on so she can be closer to her father.
   simpsonsworld_id: 273404483565
-  good: false
-  character: 
+  good: true
+  characters: 
 - title: Homer Alone
   season: 3
   episode: 15
@@ -121,15 +121,15 @@ episodes:
     vacation, leaving the rest of the family to realize how much she does for them.
   simpsonsworld_id: 272224835795
   good: false
-  character: 
+  characters: 
 - title: Bart the Lover
   season: 3
   episode: 16
   description: When Bart discovers that his divorced teacher, Mrs. Krabappel, has
     placed a "personals" ad in the local newspaper, he decides to create fake correspondence.
   simpsonsworld_id: 272228931984
-  good: false
-  character: 
+  good: maybe
+  characters: 
 - title: Homer at the Bat
   season: 3
   episode: 17
@@ -137,55 +137,55 @@ episodes:
     team will win the championship, then hires professional baseball players to be
     members of the team.
   simpsonsworld_id: 310380099768
-  good: false
-  character: 
+  good: true
+  characters: 
 - title: Separate Vocations
   season: 3
   episode: 18
   description: Bart finds new respect for the law and Lisa hangs out with the wrong
     crowd after they both take career aptitude tests.
   simpsonsworld_id: 263513155607
-  good: false
-  character: 
+  good: true
+  characters: 
 - title: Dog of Death
   season: 3
   episode: 19
   description: The Simpsons must choose between frills and their dog when Santa's
     Little Helper needs an expensive operation to save its life.
   simpsonsworld_id: 274404419620
-  good: false
-  character: 
+  good: maybe
+  characters: 
 - title: Colonel Homer
   season: 3
   episode: 20
   description: Homer becomes the manager of a beautiful Country Western singer.
   simpsonsworld_id: 272215619762
-  good: false
-  character: 
+  good: maybe
+  characters: 
 - title: Black Widower
   season: 3
   episode: 21
   description: To Bart's horror, Selma announces that her husband-to-be is none other
     than Sideshow Bob.
   simpsonsworld_id: 272221251812
-  good: false
-  character: 
+  good: true
+  characters: 
 - title: The Otto Show
   season: 3
   episode: 22
   description: Bart attends a Spinal Tap concert.  Otto loses his job driving the
     school bus and moves in with the Simpsons.
   simpsonsworld_id: 279103043694
-  good: false
-  character: 
+  good: true
+  characters: 
 - title: Bart's Friend Falls in Love
   season: 3
   episode: 23
   description: Bart becomes jealous when Milhouse falls for a girl who transferred
     to their school.
   simpsonsworld_id: 280393283967
-  good: false
-  character: 
+  good: maybe
+  characters: 
 - title: Brother, Can You Spare Two Dimes?
   season: 3
   episode: 24
@@ -193,4 +193,4 @@ episodes:
     a new invention: a translator of baby gibberish.'
   simpsonsworld_id: 279098435798
   good: false
-  character: 
+  characters: 
