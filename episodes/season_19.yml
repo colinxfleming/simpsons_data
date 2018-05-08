@@ -7,7 +7,7 @@ episodes:
     he's nothing but a loser.
   simpsonsworld_id: 292943427892
   good: false
-  character: 
+  characters: 
 - title: Homer of Seville
   season: 19
   episode: 2
@@ -15,7 +15,7 @@ episodes:
     obsessed fan.
   simpsonsworld_id: 350651459856
   good: false
-  character: 
+  characters: 
 - title: Midnight Towboy
   season: 19
   episode: 3
@@ -23,7 +23,7 @@ episodes:
     hires outside help to make Maggie more independent.
   simpsonsworld_id: 292968003585
   good: false
-  character: 
+  characters: 
 - title: I Don't Wanna Know Why the Caged Bird Sings
   season: 19
   episode: 4
@@ -31,7 +31,7 @@ episodes:
     about visiting him in jail.
   simpsonsworld_id: 310455875747
   good: false
-  character: 
+  characters: 
 - title: Treehouse of Horror XVIII
   season: 19
   episode: 5
@@ -41,7 +41,7 @@ episodes:
     by FXX.'
   simpsonsworld_id: 302852163741
   good: false
-  character: 
+  characters: 
 - title: Little Orphan Millie
   season: 19
   episode: 6
@@ -50,7 +50,7 @@ episodes:
     color of Marge's eyes.
   simpsonsworld_id: 302855747799
   good: false
-  character: 
+  characters: 
 - title: Husbands and Knives
   season: 19
   episode: 7
@@ -59,7 +59,7 @@ episodes:
     attractive.
   simpsonsworld_id: 294772803561
   good: false
-  character: 
+  characters: 
 - title: Funeral for a Fiend
   season: 19
   episode: 8
@@ -68,7 +68,7 @@ episodes:
     nemesis.
   simpsonsworld_id: 310458947589
   good: false
-  character: 
+  characters: 
 - title: Eternal Moonshine of the Simpson Mind
   season: 19
   episode: 9
@@ -77,7 +77,7 @@ episodes:
     the mystery.
   simpsonsworld_id: 302847555877
   good: false
-  character: 
+  characters: 
 - title: E. Pluribus Wiggum
   season: 19
   episode: 10
@@ -85,7 +85,7 @@ episodes:
     primary, voters to turn the one person they can trust: Ralph Wiggum.'
   simpsonsworld_id: 307179075535
   good: false
-  character: 
+  characters: 
 - title: That 90's Show
   season: 19
   episode: 11
@@ -93,7 +93,7 @@ episodes:
     professor during the 1990s.
   simpsonsworld_id: 299664963588
   good: false
-  character: 
+  characters: 
 - title: Love, Springfieldian Style
   season: 19
   episode: 12
@@ -102,7 +102,7 @@ episodes:
     ''Lady and the Tramp''; punk rockers Lisa and Nelson are hooked on sweets.'
   simpsonsworld_id: 310471235766
   good: false
-  character: 
+  characters: 
 - title: The Debarted
   season: 19
   episode: 13
@@ -110,7 +110,7 @@ episodes:
     his car is damaged in an accident, Homer ends up with a fancy loaner.
   simpsonsworld_id: 302849603730
   good: false
-  character: 
+  characters: 
 - title: Dial 'N' for Nerder
   season: 19
   episode: 14
@@ -118,7 +118,7 @@ episodes:
     of a reality TV show after Homer cheats on his diet.
   simpsonsworld_id: 302849091724
   good: false
-  character: 
+  characters: 
 - title: Smoke on the Daughter
   season: 19
   episode: 15
@@ -126,7 +126,7 @@ episodes:
     Homer befriends raccoons who stole his beef jerky. Presented by FXX.
   simpsonsworld_id: 310477379554
   good: false
-  character: 
+  characters: 
 - title: Papa Don't Leech
   season: 19
   episode: 16
@@ -134,7 +134,7 @@ episodes:
     with her deadbeat father.
   simpsonsworld_id: 283768387739
   good: false
-  character: 
+  characters: 
 - title: Apocalypse Cow
   season: 19
   episode: 17
@@ -142,7 +142,7 @@ episodes:
     - until he realizes the animal is going to be slaughtered.
   simpsonsworld_id: 302847555768
   good: false
-  character: 
+  characters: 
 - title: Any Given Sundance
   season: 19
   episode: 18
@@ -151,7 +151,7 @@ episodes:
     her dysfunctional family.
   simpsonsworld_id: 283769923976
   good: false
-  character: 
+  characters: 
 - title: Mona Leaves-a
   season: 19
   episode: 19
@@ -159,7 +159,7 @@ episodes:
     forgiveness.
   simpsonsworld_id: 299670083511
   good: false
-  character: 
+  characters: 
 - title: All About Lisa
   season: 19
   episode: 20
@@ -168,4 +168,4 @@ episodes:
     coin collecting.
   simpsonsworld_id: 294774851723
   good: false
-  character: 
+  characters: 

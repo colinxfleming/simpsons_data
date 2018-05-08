@@ -17,11 +17,16 @@ episode: Integer. Episode number.
 description: String. Episode description from SimpsonsWorld.
 simpsonsworld_id: BigInt. Episode video identifier from SimpsonsWorld.
 good: Boolean. Indicator of whether or not the episode is bad.
-character: Unimplemented at present. Focus character, if any.
+characters: Unimplemented at present. Focus character(s), if any.
 ```
 
-`Characters` are TK.
+`Characters` are shaped as follows:
 
+```yml
+short_name: String. Common name or nickname, unique reference key.
+name: String. Full name.
+core_family: Boolean. True if they are Homer, Marge, Lisa, Bart, or Maggie.
+```
 ### Episode coverage
 
 There's a lot of episodes and seasons to go through and mark the good ones.
@@ -32,7 +37,7 @@ Here's what's done so far:
 * **Season 3**: Not done
 * **Season 4**: Not done
 * **Season 5**: Not done
-* **Season 6**: Not done
+* **Season 6**: Mostly done
 * **Season 7**: Not done
 * **Season 8**: Not done
 * **Season 9**: Not done
@@ -59,7 +64,7 @@ Here's what's done so far:
 
 ## Usage
 
-`python compile_seasons.py json` spits out a json file with keys characters and episodes.
+`python compile_data.py` spits out a json file with keys characters and episodes.
 
 <strike>`./compile_seasons.py yaml` spits out a yaml file.</strike> (Coming soon)
 
