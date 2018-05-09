@@ -36,7 +36,7 @@ episodes:
   episode: 5
   description: Homer becomes the official mascot for a major league baseball team.
   simpsonsworld_id: 260538435888
-  good: maybe
+  good: true
   characters:
 - title: Dead Putting Society
   season: 2
@@ -157,7 +157,7 @@ episodes:
     at a wooded retreat, but Homer takes advantage of the location to attempt to catch
     a legendary catfish.
   simpsonsworld_id: 272040003661
-  good: maybe
+  good: true
   characters:
 - title: Three Men and a Comic Book
   season: 2
@@ -165,7 +165,7 @@ episodes:
   description: Bart and his friends pool their money to purchase the first issue of
     "Radioactive Man" comics, but then cannot decide who gets to keep it.
   simpsonsworld_id: 310368835964
-  good: maybe
+  good: true
   characters:
 - title: Blood Feud
   season: 2

@@ -79,7 +79,7 @@ episodes:
   description: Homer gives Moe the recipe for a unique alcoholic drink, and when it
     turns into a sensation, Moe takes credit, and the profits, from its success.
   simpsonsworld_id: 305663555961
-  good: maybe
+  good: true
   characters:
 - title: Burns Verkaufen der Kraftwerk
   season: 3
@@ -128,7 +128,7 @@ episodes:
   description: When Bart discovers that his divorced teacher, Mrs. Krabappel, has
     placed a "personals" ad in the local newspaper, he decides to create fake correspondence.
   simpsonsworld_id: 272228931984
-  good: maybe
+  good: true
   characters:
 - title: Homer at the Bat
   season: 3
@@ -184,7 +184,7 @@ episodes:
   description: Bart becomes jealous when Milhouse falls for a girl who transferred
     to their school.
   simpsonsworld_id: 280393283967
-  good: maybe
+  good: true
   characters:
 - title: Brother, Can You Spare Two Dimes?
   season: 3
