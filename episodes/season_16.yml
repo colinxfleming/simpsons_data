@@ -7,7 +7,7 @@ episodes:
     London, Lisa and Bart hunt for a killer; the Simpsons take a fantastic voyage
     after Mr. Burns swallows a miniaturized Maggie.
   simpsonsworld_id: 256741955834
-  good: false
+  good: maybe
   characters: 
 - title: All's Fair in Oven War
   season: 16
@@ -16,7 +16,7 @@ episodes:
     entries; Bart decides to live the life of a swinger after discovering Playdude
     magazine.
   simpsonsworld_id: 257840195722
-  good: false
+  good: maybe
   characters: 
 - title: Sleeping with the Enemy
   season: 16
@@ -25,7 +25,7 @@ episodes:
     fun of her posterior;  Marge takes bully Nelson Muntz under her wing ... much
     to Bart's horror.
   simpsonsworld_id: 256764995911
-  good: false
+  good: maybe
   characters: 
 - title: She Used to Be My Girl
   season: 16
@@ -34,7 +34,7 @@ episodes:
     a successful high school classmate who has traveled the world as a television
     news reporter.
   simpsonsworld_id: 256753731544
-  good: false
+  good: maybe
   characters: 
 - title: Fat Man and Little Boy
   season: 16
@@ -42,7 +42,7 @@ episodes:
   description: Homer builds a nuclear reactor for Lisa's science project; Bart makes
     money creating his own line of t-shirts.
   simpsonsworld_id: 256759363799
-  good: false
+  good: maybe
   characters: 
 - title: Midnight Rx
   season: 16
@@ -50,7 +50,7 @@ episodes:
   description: Homer and Grampa smuggle drugs out of Canada after Mr. Burns terminates
     his company's employee prescription drug program. Presented by FXX.
   simpsonsworld_id: 1094235715818
-  good: false
+  good: maybe
   characters: 
 - title: Mommie Beerest
   season: 16
@@ -59,7 +59,7 @@ episodes:
     control of the business and spends so much time with Moe that Homer fears his
     marriage is in trouble.
   simpsonsworld_id: 256807491582
-  good: false
+  good: maybe
   characters: 
 - title: Homer and Ned's Hail Mary Pass
   season: 16
@@ -68,7 +68,7 @@ episodes:
     to produce the Super Bowl half-time show; Flanders makes a movie featuring violent
     reenactments of biblical events.
   simpsonsworld_id: 256813635887
-  good: false
+  good: maybe
   characters: 
 - title: Pranksta Rap
   season: 16
@@ -76,7 +76,7 @@ episodes:
   description: After sneaking off to a rap concert, Bart fakes his own kidnapping
     and inadvertently implicates Milhouse's father in the 'crime.'
   simpsonsworld_id: 256798275935
-  good: false
+  good: maybe
   characters: 
 - title: There's Something About Marrying
   season: 16
@@ -85,7 +85,7 @@ episodes:
     hopes of reversing the dire economic slowdown - and Homer makes money by becoming
     an ordained minister.
   simpsonsworld_id: 256822339660
-  good: false
+  good: maybe
   characters: 
 - title: On a Clear Day I Can't See My Sister
   season: 16
@@ -93,7 +93,7 @@ episodes:
   description: After Bart torments his sister during a school field trip, Lisa gets
     a restraining order; Homer takes a job as a greeter at a local mega-store.
   simpsonsworld_id: 256825923849
-  good: false
+  good: maybe
   characters: 
 - title: Goo Goo Gai Pan
   season: 16
@@ -101,7 +101,7 @@ episodes:
   description: Homer pretends to be Selma's husband when Selma travels to China to
     adopt a baby.
   simpsonsworld_id: 264432707575
-  good: false
+  good: maybe
   characters: 
 - title: Mobile Homer
   season: 16
@@ -109,7 +109,7 @@ episodes:
   description: Bart and Lisa attempt to save Homer and Marge's marriage after Homer
     spends the family's savings on a recreational vehicle.
   simpsonsworld_id: 264432707841
-  good: false
+  good: maybe
   characters: 
 - title: The Seven-Beer Snitch
   season: 16
@@ -117,7 +117,7 @@ episodes:
   description: Homer becomes a prison snitch after he's convicted of breaking an outdated
     law; Lisa and Bart discover that Snowball II has a secret life.
   simpsonsworld_id: 260844611804
-  good: false
+  good: maybe
   characters: 
 - title: Future-Drama
   season: 16
@@ -126,7 +126,7 @@ episodes:
     peer into the future, where Bart breaks Lisa's heart by taking away her scholarship
     to Yale.
   simpsonsworld_id: 260841027999
-  good: false
+  good: maybe
   characters: 
 - title: Don't Fear the Roofer
   season: 16
@@ -135,7 +135,7 @@ episodes:
     contractor he befriended is a figment of his imagination; Marge allows Santa's
     Little Helper to stay at Grampa's retirement home.
   simpsonsworld_id: 260835395771
-  good: false
+  good: maybe
   characters: 
 - title: The Heartbroke Kid
   season: 16
@@ -143,7 +143,7 @@ episodes:
   description: Bart has a heart attack after he becomes addicted to junk food; the
     Simpsons turn the house into a youth hostel, which is soon overrun by German backpackers.
   simpsonsworld_id: 264207427808
-  good: false
+  good: maybe
   characters: 
 - title: A Star is Torn
   season: 16
@@ -151,7 +151,7 @@ episodes:
   description: Homer behaves like a domineering stage mom after Lisa achieves fame
     by appearing in a singing competition on The Krusty the Clown Show.
   simpsonsworld_id: 264212035982
-  good: false
+  good: maybe
   characters: 
 - title: Thank God It's Doomsday
   season: 16
@@ -159,7 +159,7 @@ episodes:
   description: Homer is declared a prophet after he convinces everyone in town that
     the end of the world is at hand.
   simpsonsworld_id: 264217155650
-  good: false
+  good: maybe
   characters: 
 - title: Home Away From Homer
   season: 16
@@ -168,7 +168,7 @@ episodes:
     from his house without his knowledge, so he and the boys move away from Springfield...
     to a town where everyone looks like a Hummel figurine.
   simpsonsworld_id: 264560707993
-  good: false
+  good: maybe
   characters: 
 - title: The Father, The Son, and The Holy Guest Star
   season: 16
@@ -176,5 +176,5 @@ episodes:
   description: After Bart gets expelled, he's enrolled in Catholic school, where he
     befriends a priest who wants to convert him and Homer to Catholicism.
   simpsonsworld_id: 264455235845
-  good: false
+  good: maybe
   characters: 

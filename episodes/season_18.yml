@@ -7,7 +7,7 @@ episodes:
     a chef; Homer and Bart take over the 'family business' after Fat Tony is gunned
     down.
   simpsonsworld_id: 292959299559
-  good: false
+  good: maybe
   characters: 
 - title: Jazzy and the Pussycats
   season: 18
@@ -15,7 +15,7 @@ episodes:
   description: Lisa grows jealous after Bart discovers he's a talented jazz drummer;
     Lisa hides some stray animals in the attic.
   simpsonsworld_id: 283202115995
-  good: false
+  good: maybe
   characters: 
 - title: Please Homer, Don't Hammer 'em
   season: 18
@@ -24,7 +24,7 @@ episodes:
     don't trust a woman to do the job; Bart discovers that Skinner is allergic to
     peanuts. Presented by FXX.
   simpsonsworld_id: 283760707876
-  good: false
+  good: maybe
   characters: 
 - title: Treehouse of Horror XVII
   season: 18
@@ -33,7 +33,7 @@ episodes:
     blob; a creature from Jewish folklore does Bart''s bidding; a radio broadcast
     convinces townspeople they''re being invaded by aliens.'
   simpsonsworld_id: 302871107984
-  good: false
+  good: maybe
   characters: 
 - title: G.I. (Annoyed Grunt)
   season: 18
@@ -42,7 +42,7 @@ episodes:
     war games.  When the Army chases Homer into town, it pits the people of Springfield
     against the military.
   simpsonsworld_id: 283080259896
-  good: false
+  good: maybe
   characters: 
 - title: Moe 'N' a Lisa
   season: 18
@@ -50,7 +50,7 @@ episodes:
   description: Lisa helps Moe get a poem published, but is deeply hurt when Moe refuses
     to acknowledge her contribution.
   simpsonsworld_id: 307167299594
-  good: false
+  good: maybe
   characters: 
 - title: Ice Cream of Margie (With the Light Blue Hair)
   season: 18
@@ -58,7 +58,7 @@ episodes:
   description: Homer finds happiness after he buys an ice cream truck; Marge finds
     her purpose in life when she makes sculptures out of popsicle sticks.
   simpsonsworld_id: 292941379558
-  good: false
+  good: maybe
   characters: 
 - title: The Haw-Hawed Couple
   season: 18
@@ -66,7 +66,7 @@ episodes:
   description: Bart becomes Nelson's best friend; Homer becomes hooked on one of Lisa's
     fantasy books.
   simpsonsworld_id: 279785027791
-  good: false
+  good: maybe
   characters: 
 - title: Kill Gil (Parts I and II)
   season: 18
@@ -74,7 +74,7 @@ episodes:
   description: During the Christmas holiday, Marge attempts to muster the wherewithal
     to kick down-on-his-luck Gil out of the house.
   simpsonsworld_id: 279793731867
-  good: false
+  good: maybe
   characters: 
 - title: The Wife Aquatic
   season: 18
@@ -83,7 +83,7 @@ episodes:
     summers; Homer is forced to work on a fishing vessel that's threatened by a huge
     storm.
   simpsonsworld_id: 283764803572
-  good: false
+  good: maybe
   characters: 
 - title: Revenge is a Dish Best Served Three Times
   season: 18
@@ -92,7 +92,7 @@ episodes:
     of Monte Cristo; Milhouse uses a gadget to get even with kids who've picked on
     him; comic hero Bart-Man searches for the villain who killed his parents.
   simpsonsworld_id: 283790915851
-  good: false
+  good: maybe
   characters: 
 - title: Little Big Girl
   season: 18
@@ -101,7 +101,7 @@ episodes:
     heritage; after saving Springfield from a fire, Bart is rewarded with a driver's
     license-and ends up with a pregnant girlfriend who wants to wed.
   simpsonsworld_id: 310462531619
-  good: false
+  good: maybe
   characters: 
 - title: Springfield Up
   season: 18
@@ -110,7 +110,7 @@ episodes:
     lives of a group of Springfield residents, including Homer, who has seemingly
     made good on his quest to become a millionaire.
   simpsonsworld_id: 302876739533
-  good: false
+  good: maybe
   characters: 
 - title: Yokel Chords
   season: 18
@@ -119,7 +119,7 @@ episodes:
     act for his television show; Bart sees a female therapist after he's caught frightening
     his classmates with a scary story.
   simpsonsworld_id: 307175491532
-  good: false
+  good: maybe
   characters: 
 - title: Rome-old and Juli-eh
   season: 18
@@ -127,7 +127,7 @@ episodes:
   description: Homer is horrified when his father begins dating Selma; Bart and Lisa
     build a fort after acquiring a large quantity of empty cardboard boxes.
   simpsonsworld_id: 302868035943
-  good: false
+  good: maybe
   characters: 
 - title: Homerazzi
   season: 18
@@ -135,7 +135,7 @@ episodes:
   description: Homer tries his hand at making money by photographing celebrities and
     selling the images to the tabloids.
   simpsonsworld_id: 292962371807
-  good: false
+  good: maybe
   characters: 
 - title: Marge Gamer
   season: 18
@@ -143,7 +143,7 @@ episodes:
   description: After discovering the Internet, Marge becomes a character in a popular
     online fantasy game; Homer referees Lisa's soccer team.
   simpsonsworld_id: 277036099916
-  good: false
+  good: maybe
   characters: 
 - title: The Boys of Bummer
   season: 18
@@ -152,7 +152,7 @@ episodes:
     field causes the Isotots to lose a pennant game; Homer and Marge fight Reverend
     Lovejoy and his wife over possession of Homer's mattress.
   simpsonsworld_id: 279798851587
-  good: false
+  good: maybe
   characters: 
 - title: Crook and Ladder
   season: 18
@@ -160,7 +160,7 @@ episodes:
   description: Homer and his friends join the volunteer fire department, only to begin
     stealing from fire victims.
   simpsonsworld_id: 310491203943
-  good: false
+  good: maybe
   characters: 
 - title: Stop Or My Dog Will Shoot
   season: 18
@@ -168,7 +168,7 @@ episodes:
   description: When Santa's Little Helper gets a job on the police force, Bart buys
     a python to replace him.
   simpsonsworld_id: 302865987860
-  good: false
+  good: maybe
   characters: 
 - title: 24 Minutes
   season: 18
@@ -177,7 +177,7 @@ episodes:
     Jimbo, Dolph and Kearney before they unleash a deadly stink bomb at an upcoming
     school bake sale.
   simpsonsworld_id: 292963907577
-  good: false
+  good: maybe
   characters: 
 - title: You Kent Always Say What You Want
   season: 18
@@ -185,5 +185,5 @@ episodes:
   description: Kent Brockman accidentally utters an obscenity during a news broadcast,
     leading to a heavy fine from the FCC - and costing Brockman his job.
   simpsonsworld_id: 302859843984
-  good: false
+  good: maybe
   characters: 

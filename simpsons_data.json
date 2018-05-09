@@ -132,7 +132,7 @@
             "episode": 2,
             "description": "Homer's life changes dramatically when he purchases a miracle hair growth formula.",
             "simpsonsworld_id": 260539971564,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -141,7 +141,7 @@
             "episode": 3,
             "description": "The Simpsons tell three bloodcurdling tales of horror on Halloween night.",
             "simpsonsworld_id": 260538435884,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -150,7 +150,7 @@
             "episode": 4,
             "description": "Homer supports Mr. Burns in his bid for governor, but Marge remains loyal to Burns's political opposition.",
             "simpsonsworld_id": 260537411822,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -168,7 +168,7 @@
             "episode": 6,
             "description": "Homer and Ned Flanders pressure their sons to win a miniature golf championship.",
             "simpsonsworld_id": 260539459670,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -186,16 +186,16 @@
             "episode": 8,
             "description": "Bart is determined to leap a gorge on his skateboard after witnessing the death defying stunts of a real daredevil.",
             "simpsonsworld_id": 260539459702,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
             "title": "Itchy and Scratchy and Marge",
             "season": 2,
             "episode": 9,
-            "description": "Marge initiates a protest movement against gratuitous violence on television when Maggie begins acting aggressively after viewing Itchy and Scratchy cartoons. Presented by FXX.",
+            "description": "Marge initiates a protest movement against gratuitous violence on television when Maggie begins acting aggressively after viewing Itchy and Scratchy cartoons.",
             "simpsonsworld_id": 1094123075920,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -247,7 +247,7 @@
             "title": "Oh Brother, Where Art Thou?",
             "season": 2,
             "episode": 15,
-            "description": "Homer locates his long lost half brother Herb and discovers that he is rich. Presented by FXX.",
+            "description": "Homer locates his long lost half brother Herb and discovers that he is rich.",
             "simpsonsworld_id": 1094123587812,
             "good": false,
             "characters": null
@@ -274,7 +274,7 @@
             "title": "Brush with Greatness",
             "season": 2,
             "episode": 18,
-            "description": "Marge renews her interest in becoming an artist after Homer finds an old painting of Ringo Starr in the attic.  Mr. Burns commissions Marge to paint a portrait of him. Presented by FXX.",
+            "description": "Marge renews her interest in becoming an artist after Homer finds an old painting of Ringo Starr in the attic.  Mr. Burns commissions Marge to paint a portrait of him.",
             "simpsonsworld_id": 1094212163883,
             "good": false,
             "characters": null
@@ -285,7 +285,7 @@
             "episode": 19,
             "description": "Lisa develops a crush on her substitute teacher, Mr. Bergstrom.  Bergstrom tells Homer he must learn to act as a positive role model for his daughter.",
             "simpsonsworld_id": 288011331912,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -330,7 +330,7 @@
             "episode": 2,
             "description": "The Simpsons travel to the Nation's Capitol when Lisa becomes a semifinalist in an essay contest on patriotism.",
             "simpsonsworld_id": 275196995796,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -348,7 +348,7 @@
             "episode": 4,
             "description": "Bart fraternizes with a gang of mobsters and becomes the prime suspect when Principal Skinner mysteriously disappears.",
             "simpsonsworld_id": 288015427922,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -393,7 +393,7 @@
             "episode": 9,
             "description": "Realizing he has not been a good father to Bart, Homer aids his son in building a soap box racer.",
             "simpsonsworld_id": 256898115598,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -429,7 +429,7 @@
             "episode": 13,
             "description": "Using his Superstar Celebrity microphone, Bart tricks all of Springfield into believing that a child has fallen down a well.  But when he falls into the same well, Bart cannot get anyone to save him.",
             "simpsonsworld_id": 272052803895,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -438,7 +438,7 @@
             "episode": 14,
             "description": "Lisa accurately predicts the winners of sporting events that Homer gambles on so she can be closer to her father.",
             "simpsonsworld_id": 273404483565,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -465,7 +465,7 @@
             "episode": 17,
             "description": "Mr. Burns bets one million dollars that his power plant's softball team will win the championship, then hires professional baseball players to be members of the team.",
             "simpsonsworld_id": 310380099768,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -474,7 +474,7 @@
             "episode": 18,
             "description": "Bart finds new respect for the law and Lisa hangs out with the wrong crowd after they both take career aptitude tests.",
             "simpsonsworld_id": 263513155607,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -501,7 +501,7 @@
             "episode": 21,
             "description": "To Bart's horror, Selma announces that her husband-to-be is none other than Sideshow Bob.",
             "simpsonsworld_id": 272221251812,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -510,7 +510,7 @@
             "episode": 22,
             "description": "Bart attends a Spinal Tap concert.  Otto loses his job driving the school bus and moves in with the Simpsons.",
             "simpsonsworld_id": 279103043694,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1224,7 +1224,7 @@
             "episode": 1,
             "description": "Lisa aids police with the investigation of the Burns shooting.",
             "simpsonsworld_id": 305689667892,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1233,7 +1233,7 @@
             "episode": 2,
             "description": "Hollywood producers cast Milhouse in a motion picture based on the popular \"Radioactive Man\" comic books.",
             "simpsonsworld_id": 305693251940,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1242,7 +1242,7 @@
             "episode": 3,
             "description": "The Flanders gain custody of the Simpson children after welfare workers accuse Homer and Marge of being negligent parents.",
             "simpsonsworld_id": 306174019869,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1251,7 +1251,7 @@
             "episode": 4,
             "description": "Bart sells his soul to Milhouse for five dollars.  Moe transforms his bar into a family restaurant.",
             "simpsonsworld_id": 276972099995,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1260,7 +1260,7 @@
             "episode": 5,
             "description": "Lisa turns vegetarian after her family visits a petting zoo.",
             "simpsonsworld_id": 276980291592,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1269,7 +1269,7 @@
             "episode": 6,
             "description": "The Simpsons appear in three horrifying Halloween tales.",
             "simpsonsworld_id": 310404163601,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1278,7 +1278,7 @@
             "episode": 7,
             "description": "Homer intentionally gains weight so he can qualify for disability and work at home.",
             "simpsonsworld_id": 294786627843,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1287,7 +1287,7 @@
             "episode": 8,
             "description": "After Homer fakes his own death, his long-thought-deceased mother arrives in Springfield to pay her last respects.",
             "simpsonsworld_id": 276983875726,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1296,7 +1296,7 @@
             "episode": 9,
             "description": "Sideshow Bob threatens to detonate a nuclear bomb unless television is abolished.",
             "simpsonsworld_id": 302792771516,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1305,7 +1305,7 @@
             "episode": 10,
             "description": "Troy McClure hosts this special 138th episode, which includes the first-ever cartoon shorts, trivia questions, and never-before-seen footage.",
             "simpsonsworld_id": 324451395934,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1314,7 +1314,7 @@
             "episode": 11,
             "description": "As Christmas approaches, Marge treats Bart like an adult after he is caught shoplifting.",
             "simpsonsworld_id": 305669699710,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1323,7 +1323,7 @@
             "episode": 12,
             "description": "Homer reluctantly accepts Mr. Burns into his new bowling league.  Bart causes a student riot by wearing a Mad magazine iron-on prompting Skinner to implement a school dress code.",
             "simpsonsworld_id": 302792771967,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1332,7 +1332,7 @@
             "episode": 13,
             "description": "Former President George Bush and his wife Barbara buy a house across the street from the Simpsons.",
             "simpsonsworld_id": 276994115834,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1341,7 +1341,7 @@
             "episode": 14,
             "description": "The Simpsons apply for membership at a posh country club.",
             "simpsonsworld_id": 305694276001,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1350,7 +1350,7 @@
             "episode": 15,
             "description": "Krusty is arrested for massive tax fraud after Bart inadvertently exposes his hero's illegal bank account.",
             "simpsonsworld_id": 301346371709,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1359,7 +1359,7 @@
             "episode": 16,
             "description": "Lisa discovers that Jebediah Springfield was a vicious pirate. Homer wins the coveted role of town crier in an upcoming parade.",
             "simpsonsworld_id": 302796355658,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1377,7 +1377,7 @@
             "episode": 18,
             "description": "Bart and Lisa come to the aid of a down-and-out man who claims to have invented the concept of cartoon violence.",
             "simpsonsworld_id": 301668931982,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1386,7 +1386,7 @@
             "episode": 19,
             "description": "Troy McClure stages a Hollywood comeback when he begins dating Selma.",
             "simpsonsworld_id": 300935235544,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1395,7 +1395,7 @@
             "episode": 20,
             "description": "Using a fake driver's license, Bart rents a car and embarks on a Spring Break road trip with his friends.  A special bond develops between Lisa and Homer after Skinner invents Go To Work With Your Parents Day.",
             "simpsonsworld_id": 277000259951,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1404,7 +1404,7 @@
             "episode": 21,
             "description": "The lives of Springfield residents are highlighted in a series of interconnecting vignettes.",
             "simpsonsworld_id": 299588163608,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1422,7 +1422,7 @@
             "episode": 23,
             "description": "Apu faces deportation when a referendum on illegal immigrants is placed on the Springfield ballot.",
             "simpsonsworld_id": 310404675978,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1431,7 +1431,7 @@
             "episode": 24,
             "description": "Homer is hired to perform in a rock festival.",
             "simpsonsworld_id": 277008451637,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1440,7 +1440,7 @@
             "episode": 25,
             "description": "While on summer vacation with her family, Lisa sheds her nerdy image in an effort to make new friends.",
             "simpsonsworld_id": 277013571573,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1449,7 +1449,7 @@
             "episode": 1,
             "description": "The Simpsons appear in three tales of terror: Bart discovers an evil twin brother living in the attic; Lisa creates a microscopic society; and space aliens transform themselves into Clinton and Dole look-alikes.",
             "simpsonsworld_id": 299625027835,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1458,7 +1458,7 @@
             "episode": 2,
             "description": "The Simpsons relocate to another community after Homer unwittingly takes a job with a company controlled by a super-villain.",
             "simpsonsworld_id": 306390595776,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1467,7 +1467,7 @@
             "episode": 3,
             "description": "Homer becomes a professional boxer when doctors discover he was born with a unique genetic condition that protects his brain from injury.",
             "simpsonsworld_id": 288058947803,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1485,7 +1485,7 @@
             "episode": 5,
             "description": "While Marge is out of town, Homer allows Bart to work at a burlesque house.",
             "simpsonsworld_id": 294789699801,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1494,7 +1494,7 @@
             "episode": 6,
             "description": "When Milhouse's parents get a divorce, Homer grows convinced that his own marriage is in jeopardy.",
             "simpsonsworld_id": 277025347786,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1503,7 +1503,7 @@
             "episode": 7,
             "description": "Lisa develops a crush on bully Nelson Muntz.  Homer uses an automatic telephone dialer for an electronic panhandling scheme.",
             "simpsonsworld_id": 306394691862,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1512,7 +1512,7 @@
             "episode": 8,
             "description": "Ned Flanders suffers a breakdown after his home is destroyed by a hurricane.",
             "simpsonsworld_id": 436250179702,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1521,7 +1521,7 @@
             "episode": 9,
             "description": "After ingesting several Guatemalan peppers during chili cook-off, Homer experiences hallucinatory visions that inspire him to find his true soul mate in life.",
             "simpsonsworld_id": 436252739905,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1537,27 +1537,27 @@
             "title": "The Twisted World of Marge Simpson",
             "season": 8,
             "episode": 11,
-            "description": "After being expelled from an investment club, Marge starts her own pretzel franchise. Presented by FXX.",
+            "description": "After being expelled from an investment club, Marge starts her own pretzel franchise.",
             "simpsonsworld_id": 436264515927,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
             "title": "Mountain of Madness",
             "season": 8,
             "episode": 12,
-            "description": "Homer and Mr. Burns are buried beneath an avalanche during a survival trek in the mountains. Presented by FXX.",
+            "description": "Homer and Mr. Burns are buried beneath an avalanche during a survival trek in the mountains.",
             "simpsonsworld_id": 436267075791,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
             "title": "Simpsoncalifragilisticexpiala(Annoyed Grunt)cious",
             "season": 8,
             "episode": 13,
-            "description": "The Simpsons hire a Mary Poppins-like nanny when Marge becomes overwhelmed by the demands of being a housewife. Presented by FXX.",
+            "description": "The Simpsons hire a Mary Poppins-like nanny when Marge becomes overwhelmed by the demands of being a housewife.",
             "simpsonsworld_id": 436271683676,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1566,16 +1566,16 @@
             "episode": 14,
             "description": "When ratings for Itchy & Scratchy cartoons plummet, a studio committee creates a new, hipper character and hires Homer to provide the voice. Presented by FXX.",
             "simpsonsworld_id": 436278339668,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
             "title": "Homer's Phobia",
             "season": 8,
             "episode": 15,
-            "description": "Homer grows homophobic after he realizes the family's new friend is gay. Presented by FXX.",
+            "description": "Homer grows homophobic after he realizes the family's new friend is gay.",
             "simpsonsworld_id": 436284995621,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1600,9 +1600,9 @@
             "title": "Homer vs. the Eighteenth Amendment",
             "season": 8,
             "episode": 18,
-            "description": "Homer turns bootlegger when Springfield enforces an antiquated prohibition law. Presented by FXX.",
+            "description": "Homer turns bootlegger when Springfield enforces an antiquated prohibition law.",
             "simpsonsworld_id": 436402755605,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1611,7 +1611,7 @@
             "episode": 19,
             "description": "Bart exposes Skinner and Krabappel's clandestine affair.",
             "simpsonsworld_id": 436412995642,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1638,7 +1638,7 @@
             "episode": 22,
             "description": "Marge becomes a church volunteer.  Homer discovers his image printed on a box of Japanese dish detergent.",
             "simpsonsworld_id": 436438595644,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1647,7 +1647,7 @@
             "episode": 23,
             "description": "A resentful, hard-working employee at the power plant makes Homer his enemy.  Bart purchases an abandoned factory for one dollar at a government auction.",
             "simpsonsworld_id": 436466755640,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1663,9 +1663,9 @@
             "title": "The Secret War of Lisa Simpson",
             "season": 8,
             "episode": 25,
-            "description": "Cadets give Lisa the \"silent treatment\" when she enrolls in an all-male military academy. Presented by FXX.",
+            "description": "Cadets give Lisa the \"silent treatment\" when she enrolls in an all-male military academy.",
             "simpsonsworld_id": 1071844931909,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1674,7 +1674,7 @@
             "episode": 1,
             "description": "The Simpsons journey to New York City to retrieve the family car.",
             "simpsonsworld_id": 436516931611,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1683,7 +1683,7 @@
             "episode": 2,
             "description": "A stranger claims that Principal Skinner is an impostor.",
             "simpsonsworld_id": 436505155662,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1701,7 +1701,7 @@
             "episode": 4,
             "description": "Homer battles killer mutants after Springfield is destroyed by a nuclear blast; a matter- transportation device melds Bart with a housefly; in Colonial times, Marge is accused of being a witch.",
             "simpsonsworld_id": 279170627965,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1710,7 +1710,7 @@
             "episode": 5,
             "description": "Homer purchases a handgun to protect his family.",
             "simpsonsworld_id": 302813251779,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1737,7 +1737,7 @@
             "episode": 8,
             "description": "Townspeople believe Lisa has unearthed the fossilized remains of an angel.",
             "simpsonsworld_id": 279180355540,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1746,7 +1746,7 @@
             "episode": 9,
             "description": "Marge gets a job with a realty firm, but her honesty costs her lucrative sales.  Homer purchases a 60s hot-rod convertible at a police auction.",
             "simpsonsworld_id": 280404547525,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1773,7 +1773,7 @@
             "episode": 12,
             "description": "A carnival worker and his son move in with the Simpsons after Homer costs them their jobs.",
             "simpsonsworld_id": 302818371931,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1782,7 +1782,7 @@
             "episode": 13,
             "description": "Marge tries her hand at deprogramming after her family is brainwashed by a religious cult.",
             "simpsonsworld_id": 299627075941,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1795,7 +1795,7 @@
             "characters": null
         },
         {
-            "title": "The Last Temptation of Krust",
+            "title": "The Last Temptation of Krusty",
             "season": 9,
             "episode": 15,
             "description": "Krusty shuns his old routines in favor of edgier material and suddenly becomes the hottest comic in show business.",
@@ -1854,7 +1854,7 @@
             "episode": 21,
             "description": "Bart attempts to upstage Lisa when the pair co-host a children's news program.  Homer obtains a helper monkey.",
             "simpsonsworld_id": 299672131928,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1870,7 +1870,7 @@
             "title": "King of the Hill",
             "season": 9,
             "episode": 23,
-            "description": "After improving his physique, Homer attempts to climb a treacherous mountain. Presented by FXX.",
+            "description": "After improving his physique, Homer attempts to climb a treacherous mountain.",
             "simpsonsworld_id": 467593795648,
             "good": false,
             "characters": null
@@ -1879,7 +1879,7 @@
             "title": "Lost Our Lisa",
             "season": 9,
             "episode": 24,
-            "description": "Lisa gets lost in an unfamiliar part of town while searching for a museum. Bart adheres novelties to his face only to discover they cannot be removed. Presented by FXX.",
+            "description": "Lisa gets lost in an unfamiliar part of town while searching for a museum. Bart adheres novelties to his face only to discover they cannot be removed.",
             "simpsonsworld_id": 467595331852,
             "good": false,
             "characters": null
@@ -1888,7 +1888,7 @@
             "title": "Natural Born Kissers",
             "season": 9,
             "episode": 25,
-            "description": "Homer and Marge discover the secret to reigniting their sex life. Bart and Lisa hunt for hidden treasure using Grampa's old mine sweeper. Presented by FXX.",
+            "description": "Homer and Marge discover the secret to reigniting their sex life. Bart and Lisa hunt for hidden treasure using Grampa's old mine sweeper.",
             "simpsonsworld_id": 467599939876,
             "good": false,
             "characters": null
@@ -1899,14 +1899,14 @@
             "episode": 1,
             "description": "Homer thinks he can net a fortune by recycling grease.  Lisa helps organize a school dance.",
             "simpsonsworld_id": 292933187533,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
             "title": "The Wizard of Evergreen Terrace",
             "season": 10,
             "episode": 2,
-            "description": "After realizing half his life is over, Homer decides to become the next Thomas Edison. Presented by FXX.",
+            "description": "After realizing half his life is over, Homer decides to become the next Thomas Edison.",
             "simpsonsworld_id": 473117763575,
             "good": false,
             "characters": null
@@ -1915,7 +1915,7 @@
             "title": "Bart the Mother",
             "season": 10,
             "episode": 3,
-            "description": "Bart tends to a nest filled with eggs after he inadvertently kills a bird with a BB gun. Presented by FXX.",
+            "description": "Bart tends to a nest filled with eggs after he inadvertently kills a bird with a BB gun.",
             "simpsonsworld_id": 473109571557,
             "good": false,
             "characters": null
@@ -1924,16 +1924,16 @@
             "title": "Treehouse of Horror IX",
             "season": 10,
             "episode": 4,
-            "description": "An evil toupee possesses Homer; Bart and Lisa find themselves trapped inside an Itchy & Scratchy cartoon; baby Maggie turns out to be the daughter of a space alien. Presented by FXX.",
+            "description": "An evil toupee possesses Homer; Bart and Lisa find themselves trapped inside an Itchy & Scratchy cartoon; baby Maggie turns out to be the daughter of a space alien.",
             "simpsonsworld_id": 473130051681,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
             "title": "When You Dish Upon a Star",
             "season": 10,
             "episode": 5,
-            "description": "Homer befriends a group of Hollywood celebrities vacationing in a remote part of town and promises to keep their whereabouts a secret. Presented by FXX.",
+            "description": "Homer befriends a group of Hollywood celebrities vacationing in a remote part of town and promises to keep their whereabouts a secret.",
             "simpsonsworld_id": 473147459674,
             "good": false,
             "characters": null
@@ -1942,7 +1942,7 @@
             "title": "D'oh-in' in the Wind",
             "season": 10,
             "episode": 6,
-            "description": "Homer embraces his newly discovered hippie heritage. Presented by FXX.",
+            "description": "Homer embraces his newly discovered hippie heritage.",
             "simpsonsworld_id": 473138243754,
             "good": false,
             "characters": null
@@ -1951,16 +1951,16 @@
             "title": "Lisa Gets an 'A'",
             "season": 10,
             "episode": 7,
-            "description": "Lisa suffers a guilty conscience after she cheats on an exam.  Homer believes he will save a fortune by raising his own lobster. Presented by FXX.",
+            "description": "Lisa suffers a guilty conscience after she cheats on an exam.  Homer believes he will save a fortune by raising his own lobster.",
             "simpsonsworld_id": 473152579638,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
             "title": "Homer Simpson in: 'Kidney Trouble'",
             "season": 10,
             "episode": 8,
-            "description": "Homer offers to donate one of his kidneys to Grampa until he realizes the surgery will place his own life in jeopardy. Presented by FXX.",
+            "description": "Homer offers to donate one of his kidneys to Grampa until he realizes the surgery will place his own life in jeopardy.",
             "simpsonsworld_id": 473158211896,
             "good": false,
             "characters": null
@@ -1969,7 +1969,7 @@
             "title": "Mayored to the Mob",
             "season": 10,
             "episode": 9,
-            "description": "Homer takes on the mob when he acts as Mayor Quimby's bodyguard. Presented by FXX.",
+            "description": "Homer takes on the mob when he acts as Mayor Quimby's bodyguard.",
             "simpsonsworld_id": 473163843671,
             "good": false,
             "characters": null
@@ -1978,7 +1978,7 @@
             "title": "Viva Ned Flanders",
             "season": 10,
             "episode": 10,
-            "description": "Homer shows Flanders how to enjoy life by taking him to Las Vegas. Presented by FXX.",
+            "description": "Homer shows Flanders how to enjoy life by taking him to Las Vegas.",
             "simpsonsworld_id": 473115203586,
             "good": false,
             "characters": null
@@ -1987,16 +1987,16 @@
             "title": "Wild Barts Can't Be Broken",
             "season": 10,
             "episode": 11,
-            "description": "The children of Springfield rebel after Wiggum enforces a curfew. Presented by FXX.",
+            "description": "The children of Springfield rebel after Wiggum enforces a curfew.",
             "simpsonsworld_id": 473155651508,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
             "title": "Sunday, Cruddy Sunday",
             "season": 10,
             "episode": 12,
-            "description": "Homer and his friends eagerly anticipate attending the Super Bowl until a ticketing snafu threatens to keep them from seeing the game. Presented by FXX.",
+            "description": "Homer and his friends eagerly anticipate attending the Super Bowl until a ticketing snafu threatens to keep them from seeing the game.",
             "simpsonsworld_id": 473132611959,
             "good": false,
             "characters": null
@@ -2005,7 +2005,7 @@
             "title": "Homer to the Max",
             "season": 10,
             "episode": 13,
-            "description": "Homer changes his name when a dimwitted television show character named \"Homer Simpson\" becomes an overnight sensation. Presented by FXX.",
+            "description": "Homer changes his name when a dimwitted television show character named \"Homer Simpson\" becomes an overnight sensation.",
             "simpsonsworld_id": 473140803870,
             "good": false,
             "characters": null
@@ -2014,7 +2014,7 @@
             "title": "I'm with Cupid",
             "season": 10,
             "episode": 14,
-            "description": "Apu showers his wife with Valentine's Day surprises making men throughout Springfield look like cheapskates. Presented by FXX.",
+            "description": "Apu showers his wife with Valentine's Day surprises making men throughout Springfield look like cheapskates.",
             "simpsonsworld_id": 473104963819,
             "good": false,
             "characters": null
@@ -2023,7 +2023,7 @@
             "title": "Marge Simpson in: 'Screaming Yellow Honkers'",
             "season": 10,
             "episode": 15,
-            "description": "Marge discovers the pleasures of driving a sport utility vehicle until aggressive highway habits cost her. Presented by FXX.",
+            "description": "Marge discovers the pleasures of driving a sport utility vehicle until aggressive highway habits cost her.",
             "simpsonsworld_id": 473097795997,
             "good": false,
             "characters": null
@@ -2032,7 +2032,7 @@
             "title": "Make Room for Lisa",
             "season": 10,
             "episode": 16,
-            "description": "Lisa exhibits signs of stress when she is forced into sharing her brother's bedroom.  Marge becomes addicted to eavesdropping on cellular phone conversations. Presented by FXX.",
+            "description": "Lisa exhibits signs of stress when she is forced into sharing her brother's bedroom.  Marge becomes addicted to eavesdropping on cellular phone conversations.",
             "simpsonsworld_id": 473093187636,
             "good": false,
             "characters": null
@@ -2041,9 +2041,9 @@
             "title": "Maximum Homerdrive",
             "season": 10,
             "episode": 17,
-            "description": "Homer and Bart attempt to deliver a dead trucker's cargo on schedule.  Meanwhile, Marge decides to have an adventure of her own and purchases a new doorbell. Presented by FXX.",
+            "description": "Homer and Bart attempt to deliver a dead trucker's cargo on schedule.  Meanwhile, Marge decides to have an adventure of her own and purchases a new doorbell.",
             "simpsonsworld_id": 473095235738,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2061,7 +2061,7 @@
             "episode": 19,
             "description": "Homer pursues a career as an artist when his misshapen barbecue pit attracts the attention of a gallery.",
             "simpsonsworld_id": 310457411688,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2097,7 +2097,7 @@
             "episode": 23,
             "description": "The Simpsons board a mega-saver flight for Tokyo, only to find themselves trapped overseas when they run out of money.",
             "simpsonsworld_id": 306901571847,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2106,7 +2106,7 @@
             "episode": 1,
             "description": "Studio executives panic when actor Mel Gibson taps Homer to help him retool his latest film.",
             "simpsonsworld_id": 306906179700,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2142,7 +2142,7 @@
             "episode": 5,
             "description": "The Simpsons relocate to a farm, where Homer produces a tomato that is highly addictive.",
             "simpsonsworld_id": 302847555697,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2176,7 +2176,7 @@
             "title": "Grift of the Magi",
             "season": 11,
             "episode": 9,
-            "description": "As the Christmas holiday approaches... Springfield Elementary closes its doors for financial reasons, only to reopen when a mysterious organization steps in to help. Presented by FXX.",
+            "description": "As the Christmas holiday approaches... Springfield Elementary closes its doors for financial reasons, only to reopen when a mysterious organization steps in to help.",
             "simpsonsworld_id": 848995395938,
             "good": false,
             "characters": null
@@ -2277,7 +2277,7 @@
             "episode": 20,
             "description": "After watching a movie about a sexy tango dancer, Lisa enrolls in a tap dance class... only to discover she has two left feet; Bart and Milhouse abandon a camping trip and hide out in a shopping mall.",
             "simpsonsworld_id": 302849091512,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2295,7 +2295,7 @@
             "episode": 22,
             "description": "This 'behind-the-scenes' special chronicles the ups and downs of America's favorite sitcom family.",
             "simpsonsworld_id": 279751747780,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2376,7 +2376,7 @@
             "episode": 9,
             "description": "Homer experiences a dramatic increase in intelligence when researchers remove a crayon lodged in his brain.",
             "simpsonsworld_id": 306945603638,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -3289,7 +3289,7 @@
             "characters": null
         },
         {
-            "title": "MIlhouse of Sand and Fog",
+            "title": "Milhouse of Sand and Fog",
             "season": 17,
             "episode": 3,
             "description": "After Kirk and Luann rekindle their relationship, Bart and Milhouse plot to end the romance... only to inadvertently cause Homer and Marge to break up instead.",

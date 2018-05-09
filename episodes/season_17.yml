@@ -7,7 +7,7 @@ episodes:
     a disgusted Marge leaves the family and hooks up with a doctor trying to save
     the lives of manatees.
   simpsonsworld_id: 273502275982
-  good: false
+  good: maybe
   characters: 
 - title: The Girl Who Slept Too Little
   season: 17
@@ -15,16 +15,16 @@ episodes:
   description: Lisa must confront her darkest fears after a cemetery is relocated
     to the Simpsons' neighborhood.
   simpsonsworld_id: 277101123962
-  good: false
+  good: maybe
   characters: 
-- title: MIlhouse of Sand and Fog
+- title: Milhouse of Sand and Fog
   season: 17
   episode: 3
   description: After Kirk and Luann rekindle their relationship, Bart and Milhouse
     plot to end the romance... only to inadvertently cause Homer and Marge to break
     up instead.
   simpsonsworld_id: 273506371834
-  good: false
+  good: maybe
   characters: 
 - title: Treehouse of Horror XVI
   season: 17
@@ -33,7 +33,7 @@ episodes:
     a coma; Burns hunts down Homer in a most dangerous game; a witch transforms trick-or-treaters
     into the costumes they're wearing.
   simpsonsworld_id: 310466627927
-  good: false
+  good: maybe
   characters: 
 - title: Marge's Son Poisoning
   season: 17
@@ -41,7 +41,7 @@ episodes:
   description: After spending time with her son, Marge begins to worry that she's
     turning Bart into a momma's boy; Homer enters an arm-wrestling competition.
   simpsonsworld_id: 279766083701
-  good: false
+  good: maybe
   characters: 
 - title: See Homer Run
   season: 17
@@ -49,7 +49,7 @@ episodes:
   description: After winning popularity as the Safety Salamander, Homer challenges
     Quimby during a special mayoral recall election.
   simpsonsworld_id: 273512003506
-  good: false
+  good: maybe
   characters: 
 - title: The Last of the Red Hat Mamas
   season: 17
@@ -57,7 +57,7 @@ episodes:
   description: A lonely Marge joins a women's group; Milhouse teaches Lisa how to
     speak Italian.
   simpsonsworld_id: 279770179721
-  good: false
+  good: maybe
   characters: 
 - title: The Italian Bob
   season: 17
@@ -65,7 +65,7 @@ episodes:
   description: The Simpsons travel to Italy to retrieve Mr. Burn's expensive new sports
     car... only to encounter Sideshow Bob and his murderous family.
   simpsonsworld_id: 256858691577
-  good: false
+  good: maybe
   characters: 
 - title: Simpsons Christmas Stories
   season: 17
@@ -74,7 +74,7 @@ episodes:
     of Jesus; a World War II tale featuring Grampa, Mr. Burns and Santa; and a musical
     featuring The Nutcracker suite.'
   simpsonsworld_id: 256885315702
-  good: false
+  good: maybe
   characters: 
 - title: Homer's Paternity Coot
   season: 17
@@ -82,7 +82,7 @@ episodes:
   description: When an old letter is delivered to the Simpson home, Homer comes to
     believe that Grampa isn't his biological father after all.
   simpsonsworld_id: 279775811924
-  good: false
+  good: maybe
   characters: 
 - title: We're on the Road to D'ohwhere
   season: 17
@@ -91,7 +91,7 @@ episodes:
     where he attends a behavior modification camp; Marge becomes a popular drug dealer
     after she sells Homer's pain medications during a yard sale.
   simpsonsworld_id: 310483523720
-  good: false
+  good: maybe
   characters: 
 - title: My Fair Laddy
   season: 17
@@ -100,7 +100,7 @@ episodes:
     time for the upcoming school science fair; Homer tries to find something to wear
     after he rips his favorite blue pants.
   simpsonsworld_id: 307171907536
-  good: false
+  good: maybe
   characters: 
 - title: The Seemingly Never-Ending Story
   season: 17
@@ -109,7 +109,7 @@ episodes:
     involving a bag of gold coins and how it affected the lives of Mr. Burns, Moe
     and Homer.
   simpsonsworld_id: 277107267767
-  good: false
+  good: maybe
   characters: 
 - title: Bart Has Two Mommies
   season: 17
@@ -117,7 +117,7 @@ episodes:
   description: Marge teaches Rod and Todd Flanders how to have fun; a lonely chimpanzee
     grabs hold of Bart.
   simpsonsworld_id: 277113411511
-  good: false
+  good: maybe
   characters: 
 - title: Homer Simpson, This is Your Wife
   season: 17
@@ -125,7 +125,7 @@ episodes:
   description: Marge swaps places with a British wife after the Simpsons become contestants
     on a reality television show.
   simpsonsworld_id: 277119043544
-  good: false
+  good: maybe
   characters: 
 - title: Million Dollar Abie
   season: 17
@@ -133,7 +133,7 @@ episodes:
   description: After costing Springfield a professional football team, Grampa tries
     to end his life, but the experience changes him, and he ends up becoming a matador.
   simpsonsworld_id: 292950083730
-  good: false
+  good: maybe
   characters: 
 - title: Kiss Kiss Bang Bangalore
   season: 17
@@ -142,7 +142,7 @@ episodes:
     forcing Homer to relocate to India; MacGyver fans Patty and Selma kidnap actor
     Richard Dean Anderson.
   simpsonsworld_id: 283757123904
-  good: false
+  good: maybe
   characters: 
 - title: The Wettest Stories Ever Told
   season: 17
@@ -150,7 +150,7 @@ episodes:
   description: 'The Simpsons appear in three stories set at sea: the journey of The
     Mayflower, the mutiny on The Bounty, and the capsizing of a cruise ship.'
   simpsonsworld_id: 310489667660
-  good: false
+  good: maybe
   characters: 
 - title: Girls Just Want to Have Sums
   season: 17
@@ -159,7 +159,7 @@ episodes:
     in math, Springfield Elementary is split into two groups-boys and girls-forcing
     Lisa to dress up like a boy so she can attend a math class. Presented by FXX.
   simpsonsworld_id: 274367043639
-  good: false
+  good: maybe
   characters: 
 - title: Regarding Margie
   season: 17
@@ -167,7 +167,7 @@ episodes:
   description: After Marge develops amnesia and can't remember anything about Homer,
     she decides to kick him out of the house and see other people.
   simpsonsworld_id: 277125187506
-  good: false
+  good: maybe
   characters: 
 - title: The Monkey Suit
   season: 17
@@ -175,7 +175,7 @@ episodes:
   description: Lisa protests when Springfield passes a law requiring that creationism
     be taught alongside evolution in public schools.
   simpsonsworld_id: 277127235959
-  good: false
+  good: maybe
   characters: 
 - title: Marge and Homer Turn a Couple Play
   season: 17
@@ -183,5 +183,5 @@ episodes:
   description: Homer and Marge play marriage counselors to help a baseball player
     and his sexy recording artist-wife.
   simpsonsworld_id: 292955203576
-  good: false
+  good: maybe
   characters: 
