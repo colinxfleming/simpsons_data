@@ -6,7 +6,7 @@ episodes:
   description: Homer and Flanders team-up as bounty hunters; Marge makes confections
     for an erotic bakery.
   simpsonsworld_id: 311088195682
-  good: false
+  good: maybe
   characters: 
 - title: Lost Verizon
   season: 20
@@ -15,7 +15,7 @@ episodes:
     GPS signal to track her son... leading the family to the ancient ruins of Machu
     Picchu.
   simpsonsworld_id: 304458307742
-  good: false
+  good: maybe
   characters: 
 - title: Double, Double, Boy in Trouble
   season: 20
@@ -23,7 +23,7 @@ episodes:
   description: Bart swaps places with his exact double-unaware that the double's wealthy
     siblings are plotting murder.
   simpsonsworld_id: 304460355919
-  good: false
+  good: maybe
   characters: 
 - title: Treehouse of Horror XIX
   season: 20
@@ -32,7 +32,7 @@ episodes:
     Homer kills off celebrities so their likenesses can be exploited; the Simpsons
     appear in a spoof of a 'Peanuts' Halloween special. Presented by FXX.
   simpsonsworld_id: 691895363987
-  good: false
+  good: maybe
   characters: 
 - title: Dangerous Curves
   season: 20
@@ -41,7 +41,7 @@ episodes:
     woods with newlyweds Flanders and Maude; Homer and Marge's marriage is nearly
     ruined when they meet exciting new people during a party.
   simpsonsworld_id: 311675459549
-  good: false
+  good: maybe
   characters: 
 - title: Homer and Lisa Exchange Cross Words
   season: 20
@@ -49,7 +49,7 @@ episodes:
   description: When Lisa discovers a talent for solving crossword puzzles, she enters
     a crossword tournament-unaware that Homer bet against her.
   simpsonsworld_id: 310541891517
-  good: false
+  good: maybe
   characters: 
 - title: Mypods and Boomsticks
   season: 20
@@ -57,7 +57,7 @@ episodes:
   description: Homer thinks Bart's new Muslim friend belongs to a family of terrorists;
     Lisa acquires her first iPod-like device.
   simpsonsworld_id: 310498883779
-  good: false
+  good: maybe
   characters: 
 - title: The Burns and the Bees
   season: 20
@@ -65,7 +65,7 @@ episodes:
   description: As Lisa tries to find a habitat for endangered bees, Mr. Burns builds
     a state-of-the-art sports arena-which happens to look like a giant hive.
   simpsonsworld_id: 310506051725
-  good: false
+  good: maybe
   characters: 
 - title: Lisa the Drama Queen
   season: 20
@@ -73,7 +73,7 @@ episodes:
   description: Lisa's new best friend creates a fantasy world so real it threatens
     to drive them apart.
   simpsonsworld_id: 292944963870
-  good: false
+  good: maybe
   characters: 
 - title: Take My Life, Please
   season: 20
@@ -82,7 +82,7 @@ episodes:
     high school, an old Italian cook uses a magic pot of tomato sauce to show him
     an alternate version of his life.
   simpsonsworld_id: 273728067781
-  good: false
+  good: maybe
   characters: 
 - title: How the Test Was Won
   season: 20
@@ -91,7 +91,7 @@ episodes:
     prevent accidents from happening after he forgets to pay an insurance bill; Skinner
     accompanies Bart and other underachievers on a trip to Capital City.
   simpsonsworld_id: 277134915702
-  good: false
+  good: maybe
   characters: 
 - title: No Loan Again, Naturally
   season: 20
@@ -100,7 +100,7 @@ episodes:
     forced to move out of the house... until Flanders purchases the property and becomes
     their landlord.
   simpsonsworld_id: 273029699673
-  good: false
+  good: maybe
   characters: 
 - title: Gone Maggie Gone
   season: 20
@@ -108,7 +108,7 @@ episodes:
   description: In this 'National Treasure'-like story... when Maggie disappears at
     a convent, Lisa goes undercover as a nun to solve a mystery involving a rare jewel.
   simpsonsworld_id: 273030211958
-  good: false
+  good: maybe
   characters: 
 - title: In the Name of the Grandfather
   season: 20
@@ -116,7 +116,7 @@ episodes:
   description: The Simpsons travel to Ireland, where Homer and Grampa purchase an
     old pub that's fallen on hard times.
   simpsonsworld_id: 307849283838
-  good: false
+  good: maybe
   characters: 
 - title: Wedding for Disaster
   season: 20
@@ -125,7 +125,7 @@ episodes:
     to marry him in style.  But when Homer mysteriously disappears just before the
     wedding, Bart and Lisa search for answers.
   simpsonsworld_id: 273024579646
-  good: false
+  good: maybe
   characters: 
 - title: Eeny Teeny Maya Moe
   season: 20
@@ -133,7 +133,7 @@ episodes:
   description: Moe meets a beautiful woman in an Internet chat room who turns out
     to be three feet tall; Homer tries to spend more time with Maggie.
   simpsonsworld_id: 273066051746
-  good: false
+  good: maybe
   characters: 
 - title: The Good, The Sad, and The Drugly
   season: 20
@@ -142,7 +142,7 @@ episodes:
     at the retirement home; Lisa is prescribed antidepressants after she reads predictions
     about what Springfield will look like in 50 years.
   simpsonsworld_id: 273057347598
-  good: false
+  good: maybe
   characters: 
 - title: Father Knows Worst
   season: 20
@@ -151,7 +151,7 @@ episodes:
     technique for boosting her popularity, while Bart enters a balsa-wood model-building
     contest; Marge discovers a sauna in the basement.
   simpsonsworld_id: 273070659848
-  good: false
+  good: maybe
   characters: 
 - title: Waverly Hills 9-0-2-1-D'oh
   season: 20
@@ -159,7 +159,7 @@ episodes:
   description: Homer and Marge rent an apartment in tony Waverly Hills so Bart and
     Lisa can attend a better elementary school.
   simpsonsworld_id: 299732035764
-  good: false
+  good: maybe
   characters: 
 - title: Four Great Women and a Manicure
   season: 20
@@ -167,7 +167,7 @@ episodes:
   description: 'As Marge and Lisa have their nails done, they spin four tales involving
     famous women: Queen Elizabeth, Snow White, Lady Macbeth and Ayn Rand.'
   simpsonsworld_id: 273732163923
-  good: false
+  good: maybe
   characters: 
 - title: Coming To Homerica
   season: 20
@@ -175,5 +175,5 @@ episodes:
   description: Springfield grapples with an immigration problem when the economy of
     nearby Ogdenville collapses. Presented by FXX.
   simpsonsworld_id: 729848899646
-  good: false
+  good: maybe
   characters: 

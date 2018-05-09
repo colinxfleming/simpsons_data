@@ -6,7 +6,7 @@ episodes:
   description: Marge hires a life coach to turn Homer around after he becomes convinced
     he's nothing but a loser.
   simpsonsworld_id: 292943427892
-  good: false
+  good: maybe
   characters: 
 - title: Homer of Seville
   season: 19
@@ -14,7 +14,7 @@ episodes:
   description: Homer becomes an opera star, only to find himself the target of an
     obsessed fan.
   simpsonsworld_id: 350651459856
-  good: false
+  good: maybe
   characters: 
 - title: Midnight Towboy
   season: 19
@@ -22,7 +22,7 @@ episodes:
   description: Homer makes enemies when he starts his own tow truck business; Marge
     hires outside help to make Maggie more independent.
   simpsonsworld_id: 292968003585
-  good: false
+  good: maybe
   characters: 
 - title: I Don't Wanna Know Why the Caged Bird Sings
   season: 19
@@ -30,7 +30,7 @@ episodes:
   description: Marge fears for her safety after breaking a promise to a bank robber
     about visiting him in jail.
   simpsonsworld_id: 310455875747
-  good: false
+  good: maybe
   characters: 
 - title: Treehouse of Horror XVIII
   season: 19
@@ -40,7 +40,7 @@ episodes:
     the space alien; Flanders uses the seven deadly sins to punish Bart. Presented
     by FXX.'
   simpsonsworld_id: 302852163741
-  good: false
+  good: maybe
   characters: 
 - title: Little Orphan Millie
   season: 19
@@ -49,7 +49,7 @@ episodes:
     cooler than Bart; Homer finds himself in hot water when he can't remember the
     color of Marge's eyes.
   simpsonsworld_id: 302855747799
-  good: false
+  good: maybe
   characters: 
 - title: Husbands and Knives
   season: 19
@@ -58,7 +58,7 @@ episodes:
     businessperson, Homer decides to have his stomach stapled so she'll find him more
     attractive.
   simpsonsworld_id: 294772803561
-  good: false
+  good: maybe
   characters: 
 - title: Funeral for a Fiend
   season: 19
@@ -67,7 +67,7 @@ episodes:
     Bob is put on trial.  During the proceedings, Bart accidentally kills his old
     nemesis.
   simpsonsworld_id: 310458947589
-  good: false
+  good: maybe
   characters: 
 - title: Eternal Moonshine of the Simpson Mind
   season: 19
@@ -76,7 +76,7 @@ episodes:
     kids have left him.  Using a variety of methods, he probes his memory to unravel
     the mystery.
   simpsonsworld_id: 302847555877
-  good: false
+  good: maybe
   characters: 
 - title: E. Pluribus Wiggum
   season: 19
@@ -84,7 +84,7 @@ episodes:
   description: 'When Springfield becomes the first city in the nation to hold a presidential
     primary, voters to turn the one person they can trust: Ralph Wiggum.'
   simpsonsworld_id: 307179075535
-  good: false
+  good: maybe
   characters: 
 - title: That 90's Show
   season: 19
@@ -92,7 +92,7 @@ episodes:
   description: Marge and Homer recount how Marge almost fell in love with a college
     professor during the 1990s.
   simpsonsworld_id: 299664963588
-  good: false
+  good: maybe
   characters: 
 - title: Love, Springfieldian Style
   season: 19
@@ -101,7 +101,7 @@ episodes:
     Day stories unfold: Bonnie and Clyde steal each other''s hearts; a take-off on
     ''Lady and the Tramp''; punk rockers Lisa and Nelson are hooked on sweets.'
   simpsonsworld_id: 310471235766
-  good: false
+  good: maybe
   characters: 
 - title: The Debarted
   season: 19
@@ -109,7 +109,7 @@ episodes:
   description: Bart befriends a new kid at school, unaware that he's a snitch; after
     his car is damaged in an accident, Homer ends up with a fancy loaner.
   simpsonsworld_id: 302849603730
-  good: false
+  good: maybe
   characters: 
 - title: Dial 'N' for Nerder
   season: 19
@@ -117,7 +117,7 @@ episodes:
   description: Bart and Lisa think they killed Martin Prince; Marge enlists the help
     of a reality TV show after Homer cheats on his diet.
   simpsonsworld_id: 302849091724
-  good: false
+  good: maybe
   characters: 
 - title: Smoke on the Daughter
   season: 19
@@ -125,7 +125,7 @@ episodes:
   description: Lisa becomes addicted to secondhand smoke when she joins a ballet academy;
     Homer befriends raccoons who stole his beef jerky. Presented by FXX.
   simpsonsworld_id: 310477379554
-  good: false
+  good: maybe
   characters: 
 - title: Papa Don't Leech
   season: 19
@@ -133,7 +133,7 @@ episodes:
   description: Marge and Homer aid country singer Lurleen Lumpkin by reuniting her
     with her deadbeat father.
   simpsonsworld_id: 283768387739
-  good: false
+  good: maybe
   characters: 
 - title: Apocalypse Cow
   season: 19
@@ -141,7 +141,7 @@ episodes:
   description: Bart is overjoyed when the calf he's raising is judged Best in Show
     - until he realizes the animal is going to be slaughtered.
   simpsonsworld_id: 302847555768
-  good: false
+  good: maybe
   characters: 
 - title: Any Given Sundance
   season: 19
@@ -150,7 +150,7 @@ episodes:
     but Lisa's initial elation turns to horror when festival-goers begin humiliating
     her dysfunctional family.
   simpsonsworld_id: 283769923976
-  good: false
+  good: maybe
   characters: 
 - title: Mona Leaves-a
   season: 19
@@ -158,7 +158,7 @@ episodes:
   description: When Homer's mother returns to Springfield, she asks Homer for his
     forgiveness.
   simpsonsworld_id: 299670083511
-  good: false
+  good: maybe
   characters: 
 - title: All About Lisa
   season: 19
@@ -167,5 +167,5 @@ episodes:
     ends up replacing him as host of his show; Bart and Homer discover the world of
     coin collecting.
   simpsonsworld_id: 294774851723
-  good: false
+  good: maybe
   characters: 

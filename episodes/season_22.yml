@@ -6,7 +6,7 @@ episodes:
   description: Lisa attends a performing arts camp; Krusty stands trial in The Hague
     after being tricked into believing he won the Nobel Prize.
   simpsonsworld_id: 263519811935
-  good: false
+  good: maybe
   characters: 
 - title: Loan-A-Lisa
   season: 22
@@ -15,7 +15,7 @@ episodes:
     company; Homer games the system by purchasing expensive items from stores and,
     after using them for a period of time, returns them for a refund.
   simpsonsworld_id: 263525955686
-  good: false
+  good: maybe
   characters: 
 - title: Money Bart
   season: 22
@@ -23,7 +23,7 @@ episodes:
   description: Lisa becomes the coach of Bart's Little League team... and ends up
     firing Bart after he ignores her instructions.
   simpsonsworld_id: 263531587720
-  good: false
+  good: maybe
   characters: 
 - title: Treehouse of Horror XXI
   season: 22
@@ -32,7 +32,7 @@ episodes:
     a 'Dead Calm' spoof a vacationing Homer and Marge rescue a stranger who may be
     a murderer; Lisa falls for a hunky vampire in a spoof of 'Twilight'.
   simpsonsworld_id: 263577155794
-  good: false
+  good: maybe
   characters: 
 - title: Lisa Simpson, This Isn't Your Life
   season: 22
@@ -41,7 +41,7 @@ episodes:
     new school bully after Nelson is humiliated by a series of mishaps; Maggie becomes
     obsessed with owning a collectible elf figure.
   simpsonsworld_id: 263540291528
-  good: false
+  good: maybe
   characters: 
 - title: The Fool Monty
   season: 22
@@ -50,7 +50,7 @@ episodes:
     exact revenge on the abusive billionaire by using him as their plaything. Presented
     by FXX.
   simpsonsworld_id: 263544387571
-  good: false
+  good: maybe
   characters: 
 - title: How Munched is that Birdie in the Window?
   season: 22
@@ -58,7 +58,7 @@ episodes:
   description: The Simpsons decide to give away Santa's Little Helper after the dog
     swallows Bart's beloved carrier pigeon.
   simpsonsworld_id: 263545923923
-  good: false
+  good: maybe
   characters: 
 - title: The Fight Before Christmas
   season: 22
@@ -67,7 +67,7 @@ episodes:
     for a dirt bike; Lisa worries after Marge is drafted to fight Nazis; Martha Stewart
     helps spruce-up the house; the family celebrates a Muppet Christmas.
   simpsonsworld_id: 263551043814
-  good: false
+  good: maybe
   characters: 
 - title: Donnie Fatso
   season: 22
@@ -75,7 +75,7 @@ episodes:
   description: Acting as an undercover informant, Homer sets out to win the trust
     of mobster Fat Tony as part of the FBI's efforts to break up his crime syndicate.
   simpsonsworld_id: 263572035826
-  good: false
+  good: maybe
   characters: 
 - title: Moms I'd Like To Forget
   season: 22
@@ -83,7 +83,7 @@ episodes:
   description: As Bart tries to determine the origin of a scar on his hand, Marge
     reacquaints herself with three old friends.
   simpsonsworld_id: 256848451515
-  good: false
+  good: maybe
   characters: 
 - title: Flaming Moe
   season: 22
@@ -91,7 +91,7 @@ episodes:
   description: Smithers convinces Moe to turn his tavern into a gay bar; with Bart's
     help, Skinner romances the elementary school's new music teacher.
   simpsonsworld_id: 263579715535
-  good: false
+  good: maybe
   characters: 
 - title: Homer the Father
   season: 22
@@ -100,7 +100,7 @@ episodes:
     boy grows obsessed with obtaining a cool mini-bike; Bart attempts to trade nuclear
     secrets to the Chinese government. Presented by FXX.
   simpsonsworld_id: 256851523744
-  good: false
+  good: maybe
   characters: 
 - title: The Blue and the Gray
   season: 22
@@ -109,7 +109,7 @@ episodes:
     his 'wingman' and help him attract women; Marge has her entire head of hair dyed
     gray after she discovers her first gray hair.
   simpsonsworld_id: 254809667917
-  good: false
+  good: maybe
   characters: 
 - title: 'Angry Dad: The Movie'
   season: 22
@@ -117,7 +117,7 @@ episodes:
   description: When the 'Angry Dad' character is turned into an award-winning animated
     short film, Homer hogs the spotlight... much to Bart's dismay.
   simpsonsworld_id: 254814275630
-  good: false
+  good: maybe
   characters: 
 - title: The Scorpion's Tale
   season: 22
@@ -126,7 +126,7 @@ episodes:
     creatures, Homer secretly spikes Grampa's coffee with juice from the plant, turning
     him into a docile old man.
   simpsonsworld_id: 254817859928
-  good: false
+  good: maybe
   characters: 
 - title: A Midsummer's Nice Dreams
   season: 22
@@ -135,7 +135,7 @@ episodes:
     to replace his old partner; Marge helps the Cat Lady empty her house of junk...
     only to become a hoarder herself.
   simpsonsworld_id: 254821955889
-  good: false
+  good: maybe
   characters: 
 - title: Love is a Many Strangled Thing
   season: 22
@@ -143,7 +143,7 @@ episodes:
   description: Homer enrolls in a fathering enrichment class, where he undergoes treatment
     to stop the urge to strangle Bart.
   simpsonsworld_id: 254830659539
-  good: false
+  good: maybe
   characters: 
 - title: The Great Simpsina
   season: 22
@@ -151,7 +151,7 @@ episodes:
   description: Lisa befriends an old magician who shows her how to perform one of
     Houdini's greatest tricks.
   simpsonsworld_id: 254866499808
-  good: false
+  good: maybe
   characters: 
 - title: The Housewives of Fat Tony
   season: 22
@@ -159,7 +159,7 @@ episodes:
   description: Fat Tony asks for Selma's hand in marriage; Bart discovers a talent
     for sniffing out truffles.
   simpsonsworld_id: 254870083832
-  good: false
+  good: maybe
   characters: 
 - title: Homer Scissorhands
   season: 22
@@ -167,7 +167,7 @@ episodes:
   description: Homer discovers a talent for cutting women's hair; Lisa becomes puzzled
     when a pretty girl at school shows an interest in Milhouse.
   simpsonsworld_id: 254876227684
-  good: false
+  good: maybe
   characters: 
 - title: 500 Keys
   season: 22
@@ -176,7 +176,7 @@ episodes:
     the Duff blimp; Bart discovers he can do no wrong; Lisa discovers a strange room
     beneath Springfield Elementary; Marge and Maggie chase a toy train.'
   simpsonsworld_id: 254880835816
-  good: false
+  good: maybe
   characters: 
 - title: The Ned-liest Catch
   season: 22
@@ -184,5 +184,5 @@ episodes:
   description: Ned Flanders falls for Bart's teacher, Edna Krabappel... but will Krabappel's
     reputation for dating every guy in town spell the end of the relationship?
   simpsonsworld_id: 255101507699
-  good: false
+  good: maybe
   characters: 

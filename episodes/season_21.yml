@@ -6,7 +6,7 @@ episodes:
   description: Homer ends up with a superhero's physique after he's chosen to appear
     in a film based on a character created by The Comic Book Guy.
   simpsonsworld_id: 250297923589
-  good: false
+  good: maybe
   characters: 
 - title: Bart Gets A 'Z'
   season: 21
@@ -15,7 +15,7 @@ episodes:
     of herself at the elementary school - but what Skinner doesn't know is that Bart
     spiked her coffee with alcohol.
   simpsonsworld_id: 310517315862
-  good: false
+  good: maybe
   characters: 
 - title: The Great Wife Hope
   season: 21
@@ -23,7 +23,7 @@ episodes:
   description: Marge vows to drive mixed martial arts from Springfield by defeating
     a fight promoter in the ring.
   simpsonsworld_id: 250299971833
-  good: false
+  good: maybe
   characters: 
 - title: Treehouse of Horror XX
   season: 21
@@ -32,7 +32,7 @@ episodes:
     exchange murders in a Hitchcock spoof; Bart is the key to saving Springfield from
     zombies; Moe's microbrewery mixes beer with Homer's blood.
   simpsonsworld_id: 262634051998
-  good: false
+  good: maybe
   characters: 
 - title: The Devil Wears Nada
   season: 21
@@ -40,7 +40,7 @@ episodes:
   description: Homer's life turns into nonstop misery when he becomes Carl's assistant;
     Marge poses for a sexy calendar.
   simpsonsworld_id: 250304067959
-  good: false
+  good: maybe
   characters: 
 - title: Pranks and Greens
   season: 21
@@ -49,7 +49,7 @@ episodes:
     was the best prankster ever; Marge begins shopping at a natural foods store. Presented
     by FXX.
   simpsonsworld_id: 792414787985
-  good: false
+  good: maybe
   characters: 
 - title: Rednecks and Broomsticks
   season: 21
@@ -57,7 +57,7 @@ episodes:
   description: Lisa befriends a group of Wiccans who are accused of blinding the people
     of Springfield with a spell.
   simpsonsworld_id: 250307139830
-  good: false
+  good: maybe
   characters: 
 - title: O Brother, Where Bart Thou?
   season: 21
@@ -65,7 +65,7 @@ episodes:
   description: Bart attempts to get Homer and Marge pregnant so he can have a brother
     to hang out with.
   simpsonsworld_id: 250311235599
-  good: false
+  good: maybe
   characters: 
 - title: Thursdays with Abie
   season: 21
@@ -73,7 +73,7 @@ episodes:
   description: Homer becomes jealous when a reporter takes an interest in Grampa's
     life; Lisa loses a stuffed lamb that Bart brought home from school.
   simpsonsworld_id: 250369603964
-  good: false
+  good: maybe
   characters: 
 - title: Once Upon A Time in Springfield
   season: 21
@@ -81,7 +81,7 @@ episodes:
   description: Krusty ends up playing second fiddle to Princess Penelope, a new character
     on his show... only to end up falling in love with the actress who plays her.
   simpsonsworld_id: 250379331672
-  good: false
+  good: maybe
   characters: 
 - title: Million Dollar Maybe
   season: 21
@@ -89,7 +89,7 @@ episodes:
   description: Homer wins a million-dollar lottery but doesn't tell his family the
     news; Lisa stimulates nursing home patients with an interactive Wii-like device.
   simpsonsworld_id: 279804995696
-  good: false
+  good: maybe
   characters: 
 - title: Boy Meets Curl
   season: 21
@@ -97,7 +97,7 @@ episodes:
   description: The Simpsons head to the Winter Olympics in Canada after Marge and
     Homer join a curling team; Lisa becomes addicted to collecting Olympic pins.
   simpsonsworld_id: 250385475646
-  good: false
+  good: maybe
   characters: 
 - title: The Color Yellow
   season: 21
@@ -105,7 +105,7 @@ episodes:
   description: Lisa discovers that her Southern ancestors helped a slave escape to
     freedom.
   simpsonsworld_id: 255100483932
-  good: false
+  good: maybe
   characters: 
 - title: Postcards From the Wedge
   season: 21
@@ -114,7 +114,7 @@ episodes:
     doing homework.  But when the plot fails, Bart tries to destroy the elementary
     school by reactivating an old Springfield subway line.
   simpsonsworld_id: 250390595937
-  good: false
+  good: maybe
   characters: 
 - title: Stealing First Base
   season: 21
@@ -122,7 +122,7 @@ episodes:
   description: Bart stirs up trouble when he kisses a girl at school; Lisa's popularity
     soars when she receives a failing grade on a test.
   simpsonsworld_id: 250397251688
-  good: false
+  good: maybe
   characters: 
 - title: The Greatest Story Ever D'ohed
   season: 21
@@ -131,7 +131,7 @@ episodes:
     Homer becomes delusional after getting lost in the desert and ends up believing
     he's the Chosen One.
   simpsonsworld_id: 279809091713
-  good: false
+  good: maybe
   characters: 
 - title: American History X-cellent
   season: 21
@@ -140,7 +140,7 @@ episodes:
     Smithers in charge of running the nuclear power plant; Bart helps Lisa maintain
     an ant farm.
   simpsonsworld_id: 250508867924
-  good: false
+  good: maybe
   characters: 
 - title: Chief of Hearts
   season: 21
@@ -148,14 +148,14 @@ episodes:
   description: After he's sentenced to perform community service, Homer befriends
     Chief Wiggum; Marge mistakes Bart's love for a Japanese card game for a drug addiction.
   simpsonsworld_id: 250515523850
-  good: false
+  good: maybe
   characters: 
 - title: The Squirt and the Whale
   season: 21
   episode: 19
   description: Lisa comes to the aid of a whale that washes up on Springfield Beach.
   simpsonsworld_id: 250519619700
-  good: false
+  good: maybe
   characters: 
 - title: To Surveil With Love
   season: 21
@@ -164,7 +164,7 @@ episodes:
     releasing radiation into the city, Springfield equips itself with surveillance
     cameras to deter terrorism, allowing Flanders to impose his views on others.
   simpsonsworld_id: 250523203904
-  good: false
+  good: maybe
   characters: 
 - title: Moe Letter Blues
   season: 21
@@ -172,7 +172,7 @@ episodes:
   description: As Mother's Day approaches, Homer, Apu and Reverend Lovejoy receive
     a letter from Moe warning that he's going to run away with one of their wives.
   simpsonsworld_id: 250592323527
-  good: false
+  good: maybe
   characters: 
 - title: The Bob Next Door
   season: 21
@@ -180,7 +180,7 @@ episodes:
   description: Bart is convinced that his new neighbor is Sideshow Bob - even though
     the man looks nothing like his arch enemy.
   simpsonsworld_id: 250531907855
-  good: false
+  good: maybe
   characters: 
 - title: Judge Me Tender
   season: 21
@@ -189,5 +189,5 @@ episodes:
     on the television series 'American Idol;' Homer drives Marge crazy when he begins
     hanging around the house.
   simpsonsworld_id: 255074883631
-  good: false
+  good: maybe
   characters: 
