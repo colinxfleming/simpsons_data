@@ -7,7 +7,7 @@ episodes:
     automated house; a gypsy curses Homer; Lisa and Bart find themselves in a Harry
     Potter-like adventure.
   simpsonsworld_id: 307115075729
-  good: false
+  good: maybe
   characters: 
 - title: The Parent Rap
   season: 13
@@ -16,7 +16,7 @@ episodes:
     and later, Homer and Marge are declared bad parents and placed in old-fashioned
     wooden stocks.
   simpsonsworld_id: 307116099877
-  good: false
+  good: maybe
   characters: 
 - title: Homer the Moe
   season: 13
@@ -24,7 +24,7 @@ episodes:
   description: Moe turns the bar into a pretentious hang-out for Springfield's 'beautiful
     people,' forcing Homer to start a bar of his own inside his garage.
   simpsonsworld_id: 300917827935
-  good: false
+  good: maybe
   characters: 
 - title: Hunka Hunka Burns in Love
   season: 13
@@ -32,7 +32,7 @@ episodes:
   description: When Mr. Burns falls for an attractive traffic cop many years his junior,
     he enlists Homer's help in romancing her.
   simpsonsworld_id: 301344323882
-  good: false
+  good: maybe
   characters: 
 - title: The Blunder Years
   season: 13
@@ -40,7 +40,7 @@ episodes:
   description: When placed under hypnosis, Homer struggles with a repressed memory-which
     leads to a shocking discovery.
   simpsonsworld_id: 302898755902
-  good: false
+  good: maybe
   characters: 
 - title: She of Little Faith
   season: 13
@@ -48,7 +48,7 @@ episodes:
   description: As Christmas approaches... Lisa searches for a new religion after Mr.
     Burns takes over her church and runs it like a corporation.
   simpsonsworld_id: 288120899968
-  good: false
+  good: maybe
   characters: 
 - title: Brawl in the Family
   season: 13
@@ -56,7 +56,7 @@ episodes:
   description: A social worker attempts to transform the family into a functional,
     cooperative unit... until Homer's other wife shows up unexpectedly.
   simpsonsworld_id: 283083843778
-  good: false
+  good: maybe
   characters: 
 - title: Sweets and Sour Marge
   season: 13
@@ -64,7 +64,7 @@ episodes:
   description: After Springfield wins the title of World's Fattest Town, Marge launches
     an anti-sugar crusade, and sugar is banned from the city.
   simpsonsworld_id: 302893635523
-  good: false
+  good: maybe
   characters: 
 - title: Jaws Wired Shut
   season: 13
@@ -72,7 +72,7 @@ episodes:
   description: When Homer has to have his jaw wired shut, he discovers the joys of
     listening, but Marge finds that a well-behaved Homer isn't what she really wanted.
   simpsonsworld_id: 310440003514
-  good: false
+  good: maybe
   characters: 
 - title: Half-Decent Proposal
   season: 13
@@ -81,7 +81,7 @@ episodes:
     a million dollars in exchange for a weekend with her, to see what 'might have
     been.'
   simpsonsworld_id: 301684803770
-  good: false
+  good: maybe
   characters: 
 - title: The Bart Wants What It Wants
   season: 13
@@ -89,7 +89,7 @@ episodes:
   description: Bart travels to Canada to win back the heart of Rainier Wolfcastle's
     daughter after she runs off with Milhouse.
   simpsonsworld_id: 307122755675
-  good: false
+  good: maybe
   characters: 
 - title: The Lastest Gun in the West
   season: 13
@@ -97,7 +97,7 @@ episodes:
   description: Bart befriends an aging movie cowboy who begins drinking heavily when
     asked to appear on Krusty's television show.
   simpsonsworld_id: 302899267542
-  good: false
+  good: maybe
   characters: 
 - title: The Old Man and the Key
   season: 13
@@ -106,7 +106,7 @@ episodes:
     home, Grampa gets his driver's license back... and gives chase when the object
     of his affection leaves for Branson, Missouri.
   simpsonsworld_id: 301659203973
-  good: false
+  good: maybe
   characters: 
 - title: Tales From the Public Domain
   season: 13
@@ -115,7 +115,7 @@ episodes:
     Odysseus leads the Greek army; Bart as Hamlet attempts to avenge the death of
     his father; Lisa as Joan of Arc pits the French against the English.'
   simpsonsworld_id: 310411843752
-  good: false
+  good: maybe
   characters: 
 - title: Blame it on Lisa
   season: 13
@@ -123,7 +123,7 @@ episodes:
   description: When the Simpsons fly to Brazil to locate a missing orphan that Lisa
     has been sponsoring, Homer ends up getting kidnapped.
   simpsonsworld_id: 301665347899
-  good: false
+  good: maybe
   characters: 
 - title: Weekend at Burnsie's
   season: 13
@@ -132,7 +132,7 @@ episodes:
     to help relieve the pain... leading Burns to promote his happy employee to executive
     vice president of the power plant.
   simpsonsworld_id: 310448195762
-  good: false
+  good: maybe
   characters: 
 - title: Gump Roast
   season: 13
@@ -141,7 +141,7 @@ episodes:
     from the past.  But the fate of the Earth hangs in the balance when aliens Kang
     and Kodos make an unexpected appearance.
   simpsonsworld_id: 302888515845
-  good: false
+  good: maybe
   characters: 
 - title: I am Furious Yellow
   season: 13
@@ -149,7 +149,7 @@ episodes:
   description: Bart launches a comic book with an angry Homer as the main character,
     and when it proves a huge success, Homer vows to give up getting angry for Lent.
   simpsonsworld_id: 302883907921
-  good: false
+  good: maybe
   characters: 
 - title: The Sweetest Apu
   season: 13
@@ -157,7 +157,7 @@ episodes:
   description: When Manjula kicks Apu out of the house for cheating on her, Homer
     and Marge search for a way to reunite the couple.
   simpsonsworld_id: 288131139601
-  good: false
+  good: maybe
   characters: 
 - title: Little Girl in the Big Ten
   season: 13
@@ -165,7 +165,7 @@ episodes:
   description: Lisa is overjoyed when she befriends some college students; Bart becomes
     a boy-in-a-plastic-bubble after he's bitten by a Chinese mosquito.
   simpsonsworld_id: 310416963509
-  good: false
+  good: maybe
   characters: 
 - title: Frying Game
   season: 13
@@ -173,7 +173,7 @@ episodes:
   description: Homer and Marge become murder suspects after an elderly shut-in the
     couple befriended is found dead.
   simpsonsworld_id: 301664323751
-  good: false
+  good: maybe
   characters: 
 - title: Papa's Got a Brand New Badge
   season: 13
@@ -181,5 +181,5 @@ episodes:
   description: When Wiggum and his men prove ineffective in controlling a citywide
     riot, townspeople begin to feel unsafe... until Homer forms his own police force.
   simpsonsworld_id: 302880835773
-  good: false
+  good: maybe
   characters: 
