@@ -7,7 +7,7 @@ episodes:
     into a nightmare.
   simpsonsworld_id: 279133251579
   good: true
-  characters: 
+  characters:
 - title: A Streetcar Named Marge
   season: 4
   episode: 2
@@ -15,7 +15,7 @@ episodes:
     Named Desire," Homer cannot hide his disinterest.
   simpsonsworld_id: 273537603751
   good: true
-  characters: 
+  characters:
 - title: Homer the Heretic
   season: 4
   episode: 3
@@ -23,14 +23,14 @@ episodes:
     on Sundays.
   simpsonsworld_id: 279137859827
   good: true
-  characters: 
+  characters:
 - title: Lisa the Beauty Queen
   season: 4
   episode: 4
   description: Homer enters Lisa in a beauty pageant when her self-esteem plummets.
   simpsonsworld_id: 273537603930
   good: true
-  characters: 
+  characters:
 - title: Treehouse of Horror III
   season: 4
   episode: 5
@@ -38,7 +38,7 @@ episodes:
     of the macabre.
   simpsonsworld_id: 305668675610
   good: true
-  characters: 
+  characters:
 - title: 'Itchy and Scratchy: The Movie'
   season: 4
   episode: 6
@@ -46,7 +46,7 @@ episodes:
     heroes as punishment for misbehaving.
   simpsonsworld_id: 278803011830
   good: true
-  characters: 
+  characters:
 - title: Marge Gets a Job
   season: 4
   episode: 7
@@ -54,7 +54,7 @@ episodes:
     repair, Marge takes a position at the power plant where Homer works.
   simpsonsworld_id: 299613763656
   good: false
-  characters: 
+  characters:
 - title: New Kid on the Block
   season: 4
   episode: 8
@@ -62,14 +62,14 @@ episodes:
     that she prefers the school bully.
   simpsonsworld_id: 273542211871
   good: false
-  characters: 
+  characters:
 - title: Mr. Plow
   season: 4
   episode: 9
   description: Homer and Barney vie for Springfield's lucrative snow plowing business.
   simpsonsworld_id: 273544259768
   good: true
-  characters: 
+  characters:
 - title: Lisa's First Word
   season: 4
   episode: 10
@@ -77,7 +77,7 @@ episodes:
     first word.
   simpsonsworld_id: 288026691837
   good: false
-  characters: 
+  characters:
 - title: Homer's Triple Bypass
   season: 4
   episode: 11
@@ -85,7 +85,7 @@ episodes:
     a delicate triple bypass operation.
   simpsonsworld_id: 273548355538
   good: true
-  characters: 
+  characters:
 - title: Marge vs. the Monorail
   season: 4
   episode: 12
@@ -93,7 +93,7 @@ episodes:
     monorail system, with Homer as the conductor.
   simpsonsworld_id: 306386499796
   good: true
-  characters: 
+  characters:
 - title: Selma's Choice
   season: 4
   episode: 13
@@ -101,7 +101,7 @@ episodes:
     it is too late.
   simpsonsworld_id: 310386755912
   good: true
-  characters: 
+  characters:
 - title: Brother from the Same Planet
   season: 4
   episode: 14
@@ -110,7 +110,7 @@ episodes:
     a 900 number.
   simpsonsworld_id: 274103363992
   good: false
-  characters: 
+  characters:
 - title: I Love Lisa
   season: 4
   episode: 15
@@ -118,7 +118,7 @@ episodes:
     on Valentine's Day. But to her horror, Ralph develops a crush on her.
   simpsonsworld_id: 274107459686
   good: true
-  characters: 
+  characters:
 - title: Duffless
   season: 4
   episode: 16
@@ -126,7 +126,7 @@ episodes:
     humiliate Bart with her science project after he ruins an experiment.
   simpsonsworld_id: 277249603926
   good: true
-  characters: 
+  characters:
 - title: Last Exit to Springfield
   season: 4
   episode: 17
@@ -135,7 +135,7 @@ episodes:
     FXX.
   simpsonsworld_id: 357630019692
   good: false
-  characters: 
+  characters:
 - title: 'So It''s Come to This: A Simpsons Clip Show'
   season: 4
   episode: 18
@@ -143,7 +143,7 @@ episodes:
     Fools' Day prank sends him to the hospital.
   simpsonsworld_id: 305670723781
   good: false
-  characters: 
+  characters:
 - title: The Front
   season: 4
   episode: 19
@@ -151,7 +151,7 @@ episodes:
     Scratchy" cartoons.
   simpsonsworld_id: 288029763650
   good: true
-  characters: 
+  characters:
 - title: Whacking Day
   season: 4
   episode: 20
@@ -159,7 +159,7 @@ episodes:
     and beaten with sticks.  Bart is expelled from school by Principal Skinner.
   simpsonsworld_id: 288129091929
   good: true
-  characters: 
+  characters:
 - title: Marge in Chains
   season: 4
   episode: 21
@@ -167,7 +167,7 @@ episodes:
     store.
   simpsonsworld_id: 299606595657
   good: false
-  characters: 
+  characters:
 - title: Krusty Gets Kancelled
   season: 4
   episode: 22
@@ -175,4 +175,4 @@ episodes:
     after his television show is canceled.
   simpsonsworld_id: 274256963874
   good: true
-  characters: 
+  characters:

@@ -7,7 +7,7 @@ episodes:
     in a film based on a character created by The Comic Book Guy.
   simpsonsworld_id: 250297923589
   good: maybe
-  characters: 
+  characters:
 - title: Bart Gets A 'Z'
   season: 21
   episode: 2
@@ -16,7 +16,7 @@ episodes:
     spiked her coffee with alcohol.
   simpsonsworld_id: 310517315862
   good: maybe
-  characters: 
+  characters:
 - title: The Great Wife Hope
   season: 21
   episode: 3
@@ -24,7 +24,7 @@ episodes:
     a fight promoter in the ring.
   simpsonsworld_id: 250299971833
   good: maybe
-  characters: 
+  characters:
 - title: Treehouse of Horror XX
   season: 21
   episode: 4
@@ -33,7 +33,7 @@ episodes:
     zombies; Moe's microbrewery mixes beer with Homer's blood.
   simpsonsworld_id: 262634051998
   good: maybe
-  characters: 
+  characters:
 - title: The Devil Wears Nada
   season: 21
   episode: 5
@@ -41,7 +41,7 @@ episodes:
     Marge poses for a sexy calendar.
   simpsonsworld_id: 250304067959
   good: maybe
-  characters: 
+  characters:
 - title: Pranks and Greens
   season: 21
   episode: 6
@@ -50,7 +50,7 @@ episodes:
     by FXX.
   simpsonsworld_id: 792414787985
   good: maybe
-  characters: 
+  characters:
 - title: Rednecks and Broomsticks
   season: 21
   episode: 7
@@ -58,7 +58,7 @@ episodes:
     of Springfield with a spell.
   simpsonsworld_id: 250307139830
   good: maybe
-  characters: 
+  characters:
 - title: O Brother, Where Bart Thou?
   season: 21
   episode: 8
@@ -66,7 +66,7 @@ episodes:
     to hang out with.
   simpsonsworld_id: 250311235599
   good: maybe
-  characters: 
+  characters:
 - title: Thursdays with Abie
   season: 21
   episode: 9
@@ -74,7 +74,7 @@ episodes:
     life; Lisa loses a stuffed lamb that Bart brought home from school.
   simpsonsworld_id: 250369603964
   good: maybe
-  characters: 
+  characters:
 - title: Once Upon A Time in Springfield
   season: 21
   episode: 10
@@ -82,7 +82,7 @@ episodes:
     on his show... only to end up falling in love with the actress who plays her.
   simpsonsworld_id: 250379331672
   good: maybe
-  characters: 
+  characters:
 - title: Million Dollar Maybe
   season: 21
   episode: 11
@@ -90,7 +90,7 @@ episodes:
     news; Lisa stimulates nursing home patients with an interactive Wii-like device.
   simpsonsworld_id: 279804995696
   good: maybe
-  characters: 
+  characters:
 - title: Boy Meets Curl
   season: 21
   episode: 12
@@ -98,7 +98,7 @@ episodes:
     Homer join a curling team; Lisa becomes addicted to collecting Olympic pins.
   simpsonsworld_id: 250385475646
   good: maybe
-  characters: 
+  characters:
 - title: The Color Yellow
   season: 21
   episode: 13
@@ -106,7 +106,7 @@ episodes:
     freedom.
   simpsonsworld_id: 255100483932
   good: maybe
-  characters: 
+  characters:
 - title: Postcards From the Wedge
   season: 21
   episode: 14
@@ -115,7 +115,7 @@ episodes:
     school by reactivating an old Springfield subway line.
   simpsonsworld_id: 250390595937
   good: maybe
-  characters: 
+  characters:
 - title: Stealing First Base
   season: 21
   episode: 15
@@ -123,7 +123,7 @@ episodes:
     soars when she receives a failing grade on a test.
   simpsonsworld_id: 250397251688
   good: maybe
-  characters: 
+  characters:
 - title: The Greatest Story Ever D'ohed
   season: 21
   episode: 16
@@ -132,7 +132,7 @@ episodes:
     he's the Chosen One.
   simpsonsworld_id: 279809091713
   good: maybe
-  characters: 
+  characters:
 - title: American History X-cellent
   season: 21
   episode: 17
@@ -141,7 +141,7 @@ episodes:
     an ant farm.
   simpsonsworld_id: 250508867924
   good: maybe
-  characters: 
+  characters:
 - title: Chief of Hearts
   season: 21
   episode: 18
@@ -149,14 +149,14 @@ episodes:
     Chief Wiggum; Marge mistakes Bart's love for a Japanese card game for a drug addiction.
   simpsonsworld_id: 250515523850
   good: maybe
-  characters: 
+  characters:
 - title: The Squirt and the Whale
   season: 21
   episode: 19
   description: Lisa comes to the aid of a whale that washes up on Springfield Beach.
   simpsonsworld_id: 250519619700
   good: maybe
-  characters: 
+  characters:
 - title: To Surveil With Love
   season: 21
   episode: 20
@@ -165,7 +165,7 @@ episodes:
     cameras to deter terrorism, allowing Flanders to impose his views on others.
   simpsonsworld_id: 250523203904
   good: maybe
-  characters: 
+  characters:
 - title: Moe Letter Blues
   season: 21
   episode: 21
@@ -173,7 +173,7 @@ episodes:
     a letter from Moe warning that he's going to run away with one of their wives.
   simpsonsworld_id: 250592323527
   good: maybe
-  characters: 
+  characters:
 - title: The Bob Next Door
   season: 21
   episode: 22
@@ -181,7 +181,7 @@ episodes:
     the man looks nothing like his arch enemy.
   simpsonsworld_id: 250531907855
   good: maybe
-  characters: 
+  characters:
 - title: Judge Me Tender
   season: 21
   episode: 23
@@ -190,4 +190,4 @@ episodes:
     hanging around the house.
   simpsonsworld_id: 255074883631
   good: maybe
-  characters: 
+  characters:

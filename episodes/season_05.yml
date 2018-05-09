@@ -7,14 +7,14 @@ episodes:
     barbershop quartet, The Be Sharps.
   simpsonsworld_id: 305674307809
   good: false
-  characters: 
+  characters:
 - title: Cape Feare
   season: 5
   episode: 2
   description: Sideshow Bob terrorizes Bart after he is paroled from prison.
   simpsonsworld_id: 305674819788
   good: false
-  characters: 
+  characters:
 - title: Homer Goes to College
   season: 5
   episode: 3
@@ -22,14 +22,14 @@ episodes:
     and convinces three nerdy classmates to help him pull off a prank.
   simpsonsworld_id: 280399427649
   good: false
-  characters: 
+  characters:
 - title: Rosebud
   season: 5
   episode: 4
   description: The Simpsons find Mr. Burns' long-lost childhood teddy bear.
   simpsonsworld_id: 279714371653
   good: false
-  characters: 
+  characters:
 - title: Treehouse of Horror IV
   season: 5
   episode: 5
@@ -37,7 +37,7 @@ episodes:
     horror.
   simpsonsworld_id: 275206211805
   good: false
-  characters: 
+  characters:
 - title: Marge on the Lam
   season: 5
   episode: 6
@@ -45,7 +45,7 @@ episodes:
     to discover that her friend is driving a stolen vehicle.
   simpsonsworld_id: 294777411510
   good: false
-  characters: 
+  characters:
 - title: Bart's Inner Child
   season: 5
   episode: 7
@@ -53,7 +53,7 @@ episodes:
     they should emulate Bart's uninhibited personality.
   simpsonsworld_id: 275202627817
   good: false
-  characters: 
+  characters:
 - title: Boy-Scoutz 'N the Hood
   season: 5
   episode: 8
@@ -61,7 +61,7 @@ episodes:
     he becomes lost at sea with Homer and Ned Flanders.
   simpsonsworld_id: 288056387698
   good: false
-  characters: 
+  characters:
 - title: The Last Temptation of Homer
   season: 5
   episode: 9
@@ -69,7 +69,7 @@ episodes:
     to his own.
   simpsonsworld_id: 275201091952
   good: false
-  characters: 
+  characters:
 - title: "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)"
   season: 5
   episode: 10
@@ -77,7 +77,7 @@ episodes:
     legalizes gambling.
   simpsonsworld_id: 305659459565
   good: false
-  characters: 
+  characters:
 - title: Homer the Vigilante
   season: 5
   episode: 11
@@ -85,7 +85,7 @@ episodes:
     by a cat burglar.
   simpsonsworld_id: 305677891810
   good: false
-  characters: 
+  characters:
 - title: Bart Gets Famous
   season: 5
   episode: 12
@@ -93,7 +93,7 @@ episodes:
     sketch on the "Krusty the Klown Show."
   simpsonsworld_id: 302789187885
   good: false
-  characters: 
+  characters:
 - title: Homer and Apu
   season: 5
   episode: 13
@@ -101,14 +101,14 @@ episodes:
     the Kwik-E-Mart for selling rancid meat.
   simpsonsworld_id: 279716931614
   good: false
-  characters: 
+  characters:
 - title: Lisa vs. Malibu Stacy
   season: 5
   episode: 14
   description: Lisa manufactures her own talking doll for little girls.
   simpsonsworld_id: 274260035625
   good: false
-  characters: 
+  characters:
 - title: Deep Space Homer
   season: 5
   episode: 15
@@ -116,28 +116,28 @@ episodes:
     space, with near disastrous results.
   simpsonsworld_id: 275720259883
   good: false
-  characters: 
+  characters:
 - title: Homer Loves Flanders
   season: 5
   episode: 16
   description: Flanders is horrified to discover he has become Homer's best friend.
   simpsonsworld_id: 310398019629
   good: false
-  characters: 
+  characters:
 - title: Bart Gets an Elephant
   season: 5
   episode: 17
   description: Bart wins a full grown African elephant as part of a radio contest.
   simpsonsworld_id: 275726403611
   good: false
-  characters: 
+  characters:
 - title: Burns' Heir
   season: 5
   episode: 18
   description: Mr. Burns chooses Bart as the heir to his vast fortune.
   simpsonsworld_id: 283747395787
   good: false
-  characters: 
+  characters:
 - title: Sweet Seymour Skinner's Baadasssss Song
   season: 5
   episode: 19
@@ -145,7 +145,7 @@ episodes:
     school principal.
   simpsonsworld_id: 274260035741
   good: false
-  characters: 
+  characters:
 - title: The Boy Who Knew Too Much
   season: 5
   episode: 20
@@ -154,7 +154,7 @@ episodes:
     class.
   simpsonsworld_id: 278796355962
   good: false
-  characters: 
+  characters:
 - title: Lady Bouvier's Lover
   season: 5
   episode: 21
@@ -162,7 +162,7 @@ episodes:
     purchases a worthless Itchy and Scratchy animation cell.
   simpsonsworld_id: 305681987583
   good: false
-  characters: 
+  characters:
 - title: Secrets of a Successful Marriage
   season: 5
   episode: 22
@@ -170,4 +170,4 @@ episodes:
     her personal secrets to an adult education class.
   simpsonsworld_id: 279720003973
   good: false
-  characters: 
+  characters:

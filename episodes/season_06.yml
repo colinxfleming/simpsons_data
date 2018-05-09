@@ -119,7 +119,7 @@ episodes:
   description: Homer recounts how Maggie's accidental birth changed his life forever.
   simpsonsworld_id: 278796867754
   good: false
-  characters: []
+  characters:[]
 - title: Bart's Comet
   season: 6
   episode: 14

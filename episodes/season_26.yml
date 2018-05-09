@@ -6,21 +6,21 @@ episodes:
   description: 'The unthinkable happens: a Springfield resident dies.'
   simpsonsworld_id: 334920771636
   good: maybe
-  characters: 
+  characters:
 - title: The Wreck of the Relationship
   season: 26
   episode: 2
   description: Homer and Bart set sail on the relation ship.
   simpsonsworld_id: 346737219924
   good: maybe
-  characters: 
+  characters:
 - title: Super Franchise Me
   season: 26
   episode: 3
   description: Marge opens a sandwich shop.
   simpsonsworld_id: 340536899599
   good: maybe
-  characters: 
+  characters:
 - title: Treehouse of Horror XXV
   season: 26
   episode: 4
@@ -28,7 +28,7 @@ episodes:
     of Horror XXV."
   simpsonsworld_id: 344255555880
   good: maybe
-  characters: 
+  characters:
 - title: Opposites-A-Frack
   season: 26
   episode: 5
@@ -36,14 +36,14 @@ episodes:
     falls for Mr. Burns.
   simpsonsworld_id: 351437379941
   good: maybe
-  characters: 
+  characters:
 - title: Simpsorama
   season: 26
   episode: 6
   description: The Simpsons travel to the 31st century.
   simpsonsworld_id: 355593283530
   good: maybe
-  characters: 
+  characters:
 - title: Blazed and Confused
   season: 26
   episode: 7
@@ -51,70 +51,70 @@ episodes:
     who vows to crush his spirit.
   simpsonsworld_id: 359228483622
   good: maybe
-  characters: 
+  characters:
 - title: Covercraft
   season: 26
   episode: 8
   description: Homer forms a cover band with some of the other dads in town.
   simpsonsworld_id: 362239555757
   good: maybe
-  characters: 
+  characters:
 - title: I Won't Be Home For Christmas
   season: 26
   episode: 9
   description: Marge doesn't approve of Homer's Christmas spirits.
   simpsonsworld_id: 368212547872
   good: maybe
-  characters: 
+  characters:
 - title: The Man Who Came To Be Dinner
   season: 26
   episode: 10
   description: An amusement park ride lands the Simpsons in outer space..
   simpsonsworld_id: 379818563729
   good: maybe
-  characters: 
+  characters:
 - title: Bart's New Friend
   season: 26
   episode: 11
   description: Bart and Homer become BFF's.
   simpsonsworld_id: 383002179865
   good: maybe
-  characters: 
+  characters:
 - title: The Musk Who Fell to Earth
   season: 26
   episode: 12
   description: Homer becomes muse to Elon Musk.
   simpsonsworld_id: 388773443652
   good: maybe
-  characters: 
+  characters:
 - title: Walking Big and Tall
   season: 26
   episode: 13
   description: Springfield gets a new town anthem.
   simpsonsworld_id: 395694659511
   good: maybe
-  characters: 
+  characters:
 - title: My Fare Lady
   season: 26
   episode: 14
   description: Marge trades in her mom-chauffeur hat for a real one.
   simpsonsworld_id: 399385667625
   good: maybe
-  characters: 
+  characters:
 - title: The Princess Guide
   season: 26
   episode: 15
   description: Moe plots revenge over Nigerian e-mail scam.
   simpsonsworld_id: 406163011894
   good: maybe
-  characters: 
+  characters:
 - title: Sky Police
   season: 26
   episode: 16
   description: The Springfield congregation turns to gambling to repair the church.
   simpsonsworld_id: 410018371522
   good: maybe
-  characters: 
+  characters:
 - title: Waiting for Duffman
   season: 26
   episode: 17
@@ -122,7 +122,7 @@ episodes:
     sets up a reality show competition to find his replacement.
   simpsonsworld_id: 420981315819
   good: maybe
-  characters: 
+  characters:
 - title: Peeping Mom
   season: 26
   episode: 18
@@ -130,7 +130,7 @@ episodes:
     to follow him everywhere until he confesses.
   simpsonsworld_id: 430426691868
   good: maybe
-  characters: 
+  characters:
 - title: The Kids Are All Fight
   season: 26
   episode: 19
@@ -139,7 +139,7 @@ episodes:
     with each other.
   simpsonsworld_id: 434682947703
   good: maybe
-  characters: 
+  characters:
 - title: Let's Go Fly A Coot
   season: 26
   episode: 20
@@ -147,7 +147,7 @@ episodes:
     up smoking to impress Milhouse's Dutch cousin.
   simpsonsworld_id: 438408259807
   good: maybe
-  characters: 
+  characters:
 - title: Bull-E
   season: 26
   episode: 21
@@ -155,7 +155,7 @@ episodes:
     to pass anti-bullying legislation.
   simpsonsworld_id: 442879555692
   good: maybe
-  characters: 
+  characters:
 - title: Mathlete's Feat
   season: 26
   episode: 22
@@ -163,4 +163,4 @@ episodes:
     Lisa transforms it into a Waldorf school.
   simpsonsworld_id: 446649411760
   good: maybe
-  characters: 
+  characters:

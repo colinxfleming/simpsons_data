@@ -7,7 +7,7 @@ episodes:
     organize a school dance.
   simpsonsworld_id: 292933187533
   good: true
-  characters: 
+  characters:
 - title: The Wizard of Evergreen Terrace
   season: 10
   episode: 2
@@ -15,7 +15,7 @@ episodes:
     next Thomas Edison.
   simpsonsworld_id: 473117763575
   good: maybe
-  characters: 
+  characters:
 - title: Bart the Mother
   season: 10
   episode: 3
@@ -23,7 +23,7 @@ episodes:
     a bird with a BB gun.
   simpsonsworld_id: 473109571557
   good: maybe
-  characters: 
+  characters:
 - title: Treehouse of Horror IX
   season: 10
   episode: 4
@@ -32,7 +32,7 @@ episodes:
     a space alien.
   simpsonsworld_id: 473130051681
   good: true
-  characters: 
+  characters:
 - title: When You Dish Upon a Star
   season: 10
   episode: 5
@@ -40,14 +40,14 @@ episodes:
     part of town and promises to keep their whereabouts a secret.
   simpsonsworld_id: 473147459674
   good: maybe
-  characters: 
+  characters:
 - title: D'oh-in' in the Wind
   season: 10
   episode: 6
   description: Homer embraces his newly discovered hippie heritage.
   simpsonsworld_id: 473138243754
   good: maybe
-  characters: 
+  characters:
 - title: Lisa Gets an 'A'
   season: 10
   episode: 7
@@ -55,7 +55,7 @@ episodes:
     believes he will save a fortune by raising his own lobster.
   simpsonsworld_id: 473152579638
   good: true
-  characters: 
+  characters:
 - title: 'Homer Simpson in: ''Kidney Trouble'''
   season: 10
   episode: 8
@@ -63,28 +63,28 @@ episodes:
     the surgery will place his own life in jeopardy.
   simpsonsworld_id: 473158211896
   good: maybe
-  characters: 
+  characters:
 - title: Mayored to the Mob
   season: 10
   episode: 9
   description: Homer takes on the mob when he acts as Mayor Quimby's bodyguard.
   simpsonsworld_id: 473163843671
   good: maybe
-  characters: 
+  characters:
 - title: Viva Ned Flanders
   season: 10
   episode: 10
   description: Homer shows Flanders how to enjoy life by taking him to Las Vegas.
   simpsonsworld_id: 473115203586
   good: maybe
-  characters: 
+  characters:
 - title: Wild Barts Can't Be Broken
   season: 10
   episode: 11
   description: The children of Springfield rebel after Wiggum enforces a curfew.
   simpsonsworld_id: 473155651508
   good: true
-  characters: 
+  characters:
 - title: Sunday, Cruddy Sunday
   season: 10
   episode: 12
@@ -92,7 +92,7 @@ episodes:
     a ticketing snafu threatens to keep them from seeing the game.
   simpsonsworld_id: 473132611959
   good: false
-  characters: 
+  characters:
 - title: Homer to the Max
   season: 10
   episode: 13
@@ -100,7 +100,7 @@ episodes:
     "Homer Simpson" becomes an overnight sensation.
   simpsonsworld_id: 473140803870
   good: maybe
-  characters: 
+  characters:
 - title: I'm with Cupid
   season: 10
   episode: 14
@@ -108,7 +108,7 @@ episodes:
     Springfield look like cheapskates.
   simpsonsworld_id: 473104963819
   good: maybe
-  characters: 
+  characters:
 - title: 'Marge Simpson in: ''Screaming Yellow Honkers'''
   season: 10
   episode: 15
@@ -116,7 +116,7 @@ episodes:
     aggressive highway habits cost her.
   simpsonsworld_id: 473097795997
   good: maybe
-  characters: 
+  characters:
 - title: Make Room for Lisa
   season: 10
   episode: 16
@@ -124,7 +124,7 @@ episodes:
     bedroom.  Marge becomes addicted to eavesdropping on cellular phone conversations.
   simpsonsworld_id: 473093187636
   good: maybe
-  characters: 
+  characters:
 - title: Maximum Homerdrive
   season: 10
   episode: 17
@@ -132,7 +132,7 @@ episodes:
     Marge decides to have an adventure of her own and purchases a new doorbell.
   simpsonsworld_id: 473095235738
   good: true
-  characters: 
+  characters:
 - title: Simpsons Bible Stories
   season: 10
   episode: 18
@@ -141,7 +141,7 @@ episodes:
     from the Bible.
   simpsonsworld_id: 299678275566
   good: false
-  characters: 
+  characters:
 - title: Mom and Pop Art
   season: 10
   episode: 19
@@ -149,14 +149,14 @@ episodes:
     attracts the attention of a gallery.
   simpsonsworld_id: 310457411688
   good: true
-  characters: 
+  characters:
 - title: The Old Man and the 'C' Student
   season: 10
   episode: 20
   description: Bart must perform community service at Grampa's retirement home.
   simpsonsworld_id: 279757379586
   good: maybe
-  characters: 
+  characters:
 - title: Monty Can't Buy Me Love
   season: 10
   episode: 21
@@ -164,14 +164,14 @@ episodes:
     to Springfield.
   simpsonsworld_id: 310427203648
   good: maybe
-  characters: 
+  characters:
 - title: They Saved Lisa's Brain
   season: 10
   episode: 22
   description: Lisa is invited to join Mensa; Homer receives a free erotic photo session.
   simpsonsworld_id: 306868803826
   good: maybe
-  characters: 
+  characters:
 - title: Thirty Minutes Over Tokyo
   season: 10
   episode: 23
@@ -179,4 +179,4 @@ episodes:
     trapped overseas when they run out of money.
   simpsonsworld_id: 306901571847
   good: true
-  characters: 
+  characters:

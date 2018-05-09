@@ -7,7 +7,7 @@ episodes:
     retool his latest film.
   simpsonsworld_id: 306906179700
   good: true
-  characters: 
+  characters:
 - title: Brother's Little Helper
   season: 11
   episode: 2
@@ -15,7 +15,7 @@ episodes:
     that quells his disruptive behavior.
   simpsonsworld_id: 302833219678
   good: maybe
-  characters: 
+  characters:
 - title: Guess Who's Coming to Criticize Dinner
   season: 11
   episode: 3
@@ -23,7 +23,7 @@ episodes:
     the ire of restaurateurs by panning their cooking.
   simpsonsworld_id: 306911811691
   good: maybe
-  characters: 
+  characters:
 - title: Treehouse of Horror X
   season: 11
   episode: 4
@@ -32,7 +32,7 @@ episodes:
     the family after Marge kills Ned Flanders.
   simpsonsworld_id: 307851843709
   good: maybe
-  characters: 
+  characters:
 - title: E-I-E-I-(Annoyed Grunt)
   season: 11
   episode: 5
@@ -40,7 +40,7 @@ episodes:
     is highly addictive.
   simpsonsworld_id: 302847555697
   good: true
-  characters: 
+  characters:
 - title: Hello Gutter, Hello Fadder
   season: 11
   episode: 6
@@ -48,14 +48,14 @@ episodes:
     when his fame fades away, he lavishes his time on baby Maggie.
   simpsonsworld_id: 294762563857
   good: maybe
-  characters: 
+  characters:
 - title: Eight Misbehavin'
   season: 11
   episode: 7
   description: Apu is driven to the brink when his wife, Manjula, gives birth to octuplets.
   simpsonsworld_id: 306920003903
   good: maybe
-  characters: 
+  characters:
 - title: Take My Wife, Sleaze
   season: 11
   episode: 8
@@ -63,7 +63,7 @@ episodes:
     the attention of Hell's Satans when he forms his own gang.
   simpsonsworld_id: 301643843522
   good: maybe
-  characters: 
+  characters:
 - title: Grift of the Magi
   season: 11
   episode: 9
@@ -72,7 +72,7 @@ episodes:
     steps in to help.
   simpsonsworld_id: 848995395938
   good: maybe
-  characters: 
+  characters:
 - title: Little Big Mom
   season: 11
   episode: 10
@@ -80,14 +80,14 @@ episodes:
     broken leg.
   simpsonsworld_id: 300903491898
   good: maybe
-  characters: 
+  characters:
 - title: Faith Off
   season: 11
   episode: 11
   description: Bart believes he has the power to heal the sick.
   simpsonsworld_id: 300909123775
   good: maybe
-  characters: 
+  characters:
 - title: The Mansion Family
   season: 11
   episode: 12
@@ -95,7 +95,7 @@ episodes:
     for a medical exam.
   simpsonsworld_id: 279747651734
   good: maybe
-  characters: 
+  characters:
 - title: Saddlesore Galactica
   season: 11
   episode: 13
@@ -103,14 +103,14 @@ episodes:
     jockeys threaten revenge.
   simpsonsworld_id: 306926659533
   good: maybe
-  characters: 
+  characters:
 - title: Alone Again Natura-Diddily
   season: 11
   episode: 14
   description: Homer attempts to help when Flanders experiences a tragic loss.
   simpsonsworld_id: 288077891629
   good: maybe
-  characters: 
+  characters:
 - title: Missionary Impossible
   season: 11
   episode: 15
@@ -118,14 +118,14 @@ episodes:
     pledges a large sum of money to PBS.
   simpsonsworld_id: 310458435665
   good: maybe
-  characters: 
+  characters:
 - title: Pygmoelian
   season: 11
   episode: 16
   description: Moe undergoes plastic surgery and becomes a hot new soap opera star.
   simpsonsworld_id: 294758467783
   good: maybe
-  characters: 
+  characters:
 - title: Bart to the Future
   season: 11
   episode: 17
@@ -134,7 +134,7 @@ episodes:
     States.
   simpsonsworld_id: 302835267686
   good: maybe
-  characters: 
+  characters:
 - title: Days of Wine and D'Ohses
   season: 11
   episode: 18
@@ -143,7 +143,7 @@ episodes:
     phone book.
   simpsonsworld_id: 306930755636
   good: maybe
-  characters: 
+  characters:
 - title: Kill the Alligator and Run
   season: 11
   episode: 19
@@ -151,7 +151,7 @@ episodes:
     kill a beloved alligator while vacationing in Florida.
   simpsonsworld_id: 292935747924
   good: maybe
-  characters: 
+  characters:
 - title: Last Tap Dance in Springfield
   season: 11
   episode: 20
@@ -160,7 +160,7 @@ episodes:
     a camping trip and hide out in a shopping mall.
   simpsonsworld_id: 302849091512
   good: true
-  characters: 
+  characters:
 - title: It's a Mad, Mad, Mad, Mad Marge
   season: 11
   episode: 21
@@ -168,7 +168,7 @@ episodes:
     with the family... forcing Marge to compete with the much younger woman.
   simpsonsworld_id: 301683779737
   good: maybe
-  characters: 
+  characters:
 - title: Behind the Laughter
   season: 11
   episode: 22
@@ -176,4 +176,4 @@ episodes:
     favorite sitcom family.
   simpsonsworld_id: 279751747780
   good: true
-  characters: 
+  characters:
