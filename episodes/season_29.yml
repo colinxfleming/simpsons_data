@@ -7,7 +7,7 @@ episodes:
     and must rely on Lisa to use magic to help Homer afford the cure.
   simpsonsworld_id: 1075435075944
   good: false
-  character: 
+  characters: 
 - title: Springfield Splendor
   season: 29
   episode: 2
@@ -15,7 +15,7 @@ episodes:
     a successful graphic novel.
   simpsonsworld_id: 1080357443795
   good: false
-  character: 
+  characters: 
 - title: Whistler's Father
   season: 29
   episode: 3
@@ -23,7 +23,7 @@ episodes:
     to start her on the path to becoming a baby celebrity.
   simpsonsworld_id: 1073411651711
   good: false
-  character: 
+  characters: 
 - title: Treehouse of Horror XXVIII
   season: 29
   episode: 4
@@ -32,7 +32,7 @@ episodes:
     family.
   simpsonsworld_id: 1078509635693
   good: false
-  character: 
+  characters: 
 - title: Grampy Can Ya Hear Me
   season: 29
   episode: 5
@@ -40,7 +40,7 @@ episodes:
     say about him after he receives a new hearing aid.
   simpsonsworld_id: 1088584771605
   good: false
-  character: 
+  characters: 
 - title: The Old Blue Mayor She Ain't What She Used to Be
   season: 29
   episode: 6
@@ -48,7 +48,7 @@ episodes:
     as she grows increasingly frustrated with how the local government operates.
   simpsonsworld_id: 1094410819778
   good: false
-  character: 
+  characters: 
 - title: Singin' in the Lane
   season: 29
   episode: 7
@@ -56,7 +56,7 @@ episodes:
     team back together again, but they soon face a team of arrogant millionaires.
   simpsonsworld_id: 1099353155881
   good: false
-  character: 
+  characters: 
 - title: Mr. Lisa's Opus
   season: 29
   episode: 8
@@ -64,7 +64,7 @@ episodes:
     essay by reflecting on how certain disappointing birthdays made her who she is.
   simpsonsworld_id: 1108700739531
   good: false
-  character: 
+  characters: 
 - title: Gone Boy
   season: 29
   episode: 9
@@ -72,7 +72,7 @@ episodes:
     the hopes of finding him.
   simpsonsworld_id: 1113094211783
   good: false
-  character: 
+  characters: 
 - title: Haw-Haw Land
   season: 29
   episode: 10
@@ -80,7 +80,7 @@ episodes:
     to a pianist and Bart learns about his natural talent for chemistry.
   simpsonsworld_id: 1131039811958
   good: false
-  character: 
+  characters: 
 - title: Fink Gets Testy
   season: 29
   episode: 11
@@ -88,4 +88,4 @@ episodes:
     he starts testing all of the residents of to figure out who would be worth saving.
   simpsonsworld_id: 1136372803875
   good: false
-  character: 
+  characters: 
