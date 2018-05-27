@@ -159,7 +159,7 @@
             "episode": 5,
             "description": "Homer becomes the official mascot for a major league baseball team.",
             "simpsonsworld_id": 260538435888,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -213,7 +213,7 @@
             "episode": 11,
             "description": "Homer believes he has only twenty-four hours to live after he eats an improperly prepared blowfish.",
             "simpsonsworld_id": 260548675839,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -294,7 +294,7 @@
             "episode": 20,
             "description": "Marge insists Homer accompany her for a weekend of marriage counseling at a wooded retreat, but Homer takes advantage of the location to attempt to catch a legendary catfish.",
             "simpsonsworld_id": 272040003661,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -303,7 +303,7 @@
             "episode": 21,
             "description": "Bart and his friends pool their money to purchase the first issue of \"Radioactive Man\" comics, but then cannot decide who gets to keep it.",
             "simpsonsworld_id": 310368835964,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -402,7 +402,7 @@
             "episode": 10,
             "description": "Homer gives Moe the recipe for a unique alcoholic drink, and when it turns into a sensation, Moe takes credit, and the profits, from its success.",
             "simpsonsworld_id": 305663555961,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -456,7 +456,7 @@
             "episode": 16,
             "description": "When Bart discovers that his divorced teacher, Mrs. Krabappel, has placed a \"personals\" ad in the local newspaper, he decides to create fake correspondence.",
             "simpsonsworld_id": 272228931984,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -519,7 +519,7 @@
             "episode": 23,
             "description": "Bart becomes jealous when Milhouse falls for a girl who transferred to their school.",
             "simpsonsworld_id": 280393283967,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1072,7 +1072,7 @@
             "description": "Homer recounts how Maggie's accidental birth changed his life forever.",
             "simpsonsworld_id": 278796867754,
             "good": false,
-            "characters": []
+            "characters": null
         },
         {
             "title": "Bart's Comet",
@@ -1530,7 +1530,7 @@
             "episode": 10,
             "description": "X-Files Agents Mulder and Scully investigate Homer's encounter with an alleged extraterrestrial.",
             "simpsonsworld_id": 436259395954,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1584,7 +1584,7 @@
             "episode": 16,
             "description": "Bart fears the worst when Sideshow Bob wins release from prison by claiming he is a reformed man and is hired by his brother to work on a construction project.",
             "simpsonsworld_id": 436296259771,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2709,7 +2709,7 @@
             "episode": 3,
             "description": "Bart and Lisa are horrified when they both end up in the same 3rd grade class.",
             "simpsonsworld_id": 221347395722,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {

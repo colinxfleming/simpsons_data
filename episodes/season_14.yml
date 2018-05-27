@@ -24,7 +24,7 @@ episodes:
   description: Bart and Lisa are horrified when they both end up in the same 3rd grade
     class.
   simpsonsworld_id: 221347395722
-  good: maybe
+  good: true
   characters:
 - title: Large Marge
   season: 14

@@ -78,7 +78,7 @@ episodes:
   description: X-Files Agents Mulder and Scully investigate Homer's encounter with
     an alleged extraterrestrial.
   simpsonsworld_id: 436259395954
-  good: maybe
+  good: true
   characters:
 - title: The Twisted World of Marge Simpson
   season: 8
@@ -128,7 +128,7 @@ episodes:
     claiming he is a reformed man and is hired by his brother to work on a construction
     project.
   simpsonsworld_id: 436296259771
-  good: maybe
+  good: true
   characters:
 - title: My Sister, My Sitter
   season: 8
@@ -189,7 +189,7 @@ episodes:
   episode: 24
   description: Troy McClure hosts three spin-offs from "The Simpsons" television show.
   simpsonsworld_id: 436481091875
-  good: maybe
+  good: false
   characters:
 - title: The Secret War of Lisa Simpson
   season: 8

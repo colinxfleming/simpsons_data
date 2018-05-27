@@ -84,7 +84,7 @@ episodes:
   description: Homer believes he has only twenty-four hours to live after he eats
     an improperly prepared blowfish.
   simpsonsworld_id: 260548675839
-  good: maybe
+  good: true
   characters:
 - title: The Way We Was
   season: 2

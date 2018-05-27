@@ -14,7 +14,7 @@ episodes:
   description: Bart is diagnosed with Attention Deficit Disorder and placed on medication
     that quells his disruptive behavior.
   simpsonsworld_id: 302833219678
-  good: maybe
+  good: false
   characters:
 - title: Guess Who's Coming to Criticize Dinner
   season: 11
