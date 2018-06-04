@@ -47,7 +47,7 @@ episodes:
   description: Bart and Lisa scheme to reunite Krusty the Clown with his father, Rabbi
     Krustofsky, who disowned him for not carrying on the family tradition.
   simpsonsworld_id: 256874051703
-  good: maybe
+  good: true
   characters:
 - title: Treehouse of Horror II
   season: 3

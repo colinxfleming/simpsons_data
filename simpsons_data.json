@@ -204,7 +204,7 @@
             "episode": 10,
             "description": "When Mr. Burns hits Bart with his car, Homer is enticed by a disreputable lawyer to sue him.",
             "simpsonsworld_id": 260550723760,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -366,7 +366,7 @@
             "episode": 6,
             "description": "Bart and Lisa scheme to reunite Krusty the Clown with his father, Rabbi Krustofsky, who disowned him for not carrying on the family tradition.",
             "simpsonsworld_id": 256874051703,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {

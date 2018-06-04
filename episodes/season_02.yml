@@ -52,7 +52,7 @@ episodes:
   description: Bart learns the true meaning of Thanksgiving when he runs away from
     home after having an argument with Lisa.
   simpsonsworld_id: 260539459701
-  good: maybe
+  good: false
   characters:
 - title: Bart the Daredevil
   season: 2
@@ -76,7 +76,7 @@ episodes:
   description: When Mr. Burns hits Bart with his car, Homer is enticed by a disreputable
     lawyer to sue him.
   simpsonsworld_id: 260550723760
-  good: maybe
+  good: true
   characters:
 - title: One Fish, Two Fish, Blowfish, Blue Fish
   season: 2
@@ -92,7 +92,7 @@ episodes:
   description: Marge recounts to her children how she and Homer first met and fell
     in love.
   simpsonsworld_id: 260549187876
-  good: maybe
+  good: false
   characters:
 - title: Homer vs. Lisa and the 8th Commandment
   season: 2
