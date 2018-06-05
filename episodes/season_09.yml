@@ -43,7 +43,7 @@ episodes:
   description: Homer becomes coach of the Springfield Pee Wee Football team and appoints
     Bart as starting quarterback.
   simpsonsworld_id: 448293443714
-  good: maybe
+  good: false
   characters:
 - title: The Two Mrs. Nahasapeemapetilons
   season: 9
@@ -106,7 +106,7 @@ episodes:
   description: Bart, Lisa and their classmates fight for survival when they become
     stranded on a remote island.  Homer starts his own business on the Internet.
   simpsonsworld_id: 448356931860
-  good: maybe
+  good: false
   characters:
 - title: The Last Temptation of Krusty
   season: 9
@@ -114,7 +114,7 @@ episodes:
   description: Krusty shuns his old routines in favor of edgier material and suddenly
     becomes the hottest comic in show business.
   simpsonsworld_id: 294812739638
-  good: maybe
+  good: true
   characters:
 - title: Dumbbell Indemnity
   season: 9
@@ -168,7 +168,7 @@ episodes:
   description: Homer enters the race for Sanitation Commissioner after garbage men
     refuse to collect his trash.
   simpsonsworld_id: 307101763818
-  good: maybe
+  good: true
   characters:
 - title: King of the Hill
   season: 9
@@ -176,7 +176,7 @@ episodes:
   description: After improving his physique, Homer attempts to climb a treacherous
     mountain.
   simpsonsworld_id: 467593795648
-  good: maybe
+  good: false
   characters:
 - title: Lost Our Lisa
   season: 9

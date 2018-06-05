@@ -375,7 +375,7 @@
             "episode": 7,
             "description": "The Simpsons eat too much candy on Halloween and experience nightmarish tales of horror while they sleep.",
             "simpsonsworld_id": 272054339616,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1800,7 +1800,7 @@
             "episode": 15,
             "description": "Krusty shuns his old routines in favor of edgier material and suddenly becomes the hottest comic in show business.",
             "simpsonsworld_id": 294812739638,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1863,7 +1863,7 @@
             "episode": 22,
             "description": "Homer enters the race for Sanitation Commissioner after garbage men refuse to collect his trash.",
             "simpsonsworld_id": 307101763818,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {

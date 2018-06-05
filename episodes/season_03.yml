@@ -55,7 +55,7 @@ episodes:
   description: The Simpsons eat too much candy on Halloween and experience nightmarish
     tales of horror while they sleep.
   simpsonsworld_id: 272054339616
-  good: maybe
+  good: true
   characters:
 - title: Lisa's Pony
   season: 3
