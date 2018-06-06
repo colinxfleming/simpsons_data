@@ -276,7 +276,7 @@
             "episode": 18,
             "description": "Marge renews her interest in becoming an artist after Homer finds an old painting of Ringo Starr in the attic.  Mr. Burns commissions Marge to paint a portrait of him.",
             "simpsonsworld_id": 1094212163883,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {

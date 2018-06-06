@@ -19,7 +19,7 @@ episodes:
   episode: 3
   description: Homer and Marge recount how Lisa got her saxophone.
   simpsonsworld_id: 279743555749
-  good: maybe
+  good: false
   characters:
 - title: Treehouse of Horror VIII
   season: 9
@@ -51,7 +51,7 @@ episodes:
   description: In an effort to annul an arranged marriage, Apu tells his mother he
     wed Marge.
   simpsonsworld_id: 279177283545
-  good: maybe
+  good: false
   characters:
 - title: Lisa the Skeptic
   season: 9

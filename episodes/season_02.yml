@@ -131,7 +131,7 @@ episodes:
   episode: 17
   description: Grampa Simpson falls in love... and inherits a fortune.
   simpsonsworld_id: 263504963955
-  good: maybe
+  good: false
   characters:
 - title: Brush with Greatness
   season: 2
@@ -140,7 +140,7 @@ episodes:
     old painting of Ringo Starr in the attic.  Mr. Burns commissions Marge to paint
     a portrait of him.
   simpsonsworld_id: 1094212163883
-  good: maybe
+  good: true
   characters:
 - title: Lisa's Substitute
   season: 2
