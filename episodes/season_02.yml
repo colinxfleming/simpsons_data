@@ -124,7 +124,7 @@ episodes:
   description: Bart must help train Santa's Little Helper to pass an obedience course
     or Homer will give the dog away.
   simpsonsworld_id: 272034883946
-  good: maybe
+  good: true
   characters:
 - title: Old Money
   season: 2

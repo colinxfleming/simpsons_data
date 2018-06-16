@@ -258,7 +258,7 @@
             "episode": 16,
             "description": "Bart must help train Santa's Little Helper to pass an obedience course or Homer will give the dog away.",
             "simpsonsworld_id": 272034883946,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -339,7 +339,7 @@
             "episode": 3,
             "description": "Ned Flanders opens a store for left-handed people and Homer is overjoyed when it performs poorly.",
             "simpsonsworld_id": 272051267562,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -357,7 +357,7 @@
             "episode": 5,
             "description": "Homer becomes a hero when he averts a catastrophe at the power plant, but what is perceived as his skill of being a quick thinker is actually dumb luck.",
             "simpsonsworld_id": 256843843704,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -483,7 +483,7 @@
             "episode": 19,
             "description": "The Simpsons must choose between frills and their dog when Santa's Little Helper needs an expensive operation to save its life.",
             "simpsonsworld_id": 274404419620,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -492,7 +492,7 @@
             "episode": 20,
             "description": "Homer becomes the manager of a beautiful Country Western singer.",
             "simpsonsworld_id": 272215619762,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
