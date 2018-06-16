@@ -1629,7 +1629,7 @@
             "episode": 21,
             "description": "Lisa helps Mr. Burns build a recycling center after a series of bad investments costs the multimillionaire his fortune.",
             "simpsonsworld_id": 436383811985,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1836,7 +1836,7 @@
             "episode": 19,
             "description": "Homer becomes the captain of a Navy submarine.  Bart gets his ear pierced.",
             "simpsonsworld_id": 302809667837,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1908,7 +1908,7 @@
             "episode": 2,
             "description": "After realizing half his life is over, Homer decides to become the next Thomas Edison.",
             "simpsonsworld_id": 473117763575,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {

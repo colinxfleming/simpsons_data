@@ -135,7 +135,7 @@ episodes:
   episode: 17
   description: Homer and Marge allow Lisa to baby-sit Bart.
   simpsonsworld_id: 436301891875
-  good: maybe
+  good: false
   characters:
 - title: Homer vs. the Eighteenth Amendment
   season: 8
@@ -158,7 +158,7 @@ episodes:
   description: Bart gives away Santa's Little Helper so he can keep a fully trained,
     blue ribbon Collie.
   simpsonsworld_id: 436370499586
-  good: maybe
+  good: false
   characters:
 - title: The Old Man and the Lisa
   season: 8
@@ -166,7 +166,7 @@ episodes:
   description: Lisa helps Mr. Burns build a recycling center after a series of bad
     investments costs the multimillionaire his fortune.
   simpsonsworld_id: 436383811985
-  good: maybe
+  good: true
   characters:
 - title: In Marge We Trust
   season: 8

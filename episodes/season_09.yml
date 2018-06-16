@@ -75,7 +75,7 @@ episodes:
   description: People throughout Springfield open their hearts and wallets after Bart
     claims the family's Christmas presents were stolen by a burglar.
   simpsonsworld_id: 306881091696
-  good: maybe
+  good: false
   characters:
 - title: All Singing, All Dancing
   season: 9
@@ -144,7 +144,7 @@ episodes:
   episode: 19
   description: Homer becomes the captain of a Navy submarine.  Bart gets his ear pierced.
   simpsonsworld_id: 302809667837
-  good: maybe
+  good: true
   characters:
 - title: The Trouble with Trillions
   season: 9

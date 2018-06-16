@@ -14,7 +14,7 @@ episodes:
   description: After realizing half his life is over, Homer decides to become the
     next Thomas Edison.
   simpsonsworld_id: 473117763575
-  good: maybe
+  good: true
   characters:
 - title: Bart the Mother
   season: 10
@@ -46,7 +46,7 @@ episodes:
   episode: 6
   description: Homer embraces his newly discovered hippie heritage.
   simpsonsworld_id: 473138243754
-  good: maybe
+  good: false
   characters:
 - title: Lisa Gets an 'A'
   season: 10

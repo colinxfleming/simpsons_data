@@ -86,7 +86,7 @@ episodes:
   episode: 11
   description: Bart believes he has the power to heal the sick.
   simpsonsworld_id: 300909123775
-  good: maybe
+  good: false
   characters:
 - title: The Mansion Family
   season: 11
@@ -150,7 +150,7 @@ episodes:
   description: The Simpsons find themselves on the run from the law after they accidentally
     kill a beloved alligator while vacationing in Florida.
   simpsonsworld_id: 292935747924
-  good: maybe
+  good: false
   characters:
 - title: Last Tap Dance in Springfield
   season: 11
