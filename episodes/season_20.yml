@@ -30,7 +30,7 @@ episodes:
   episode: 4
   description: On Halloween... Transformer-like robots duke it out in Springfield;
     Homer kills off celebrities so their likenesses can be exploited; the Simpsons
-    appear in a spoof of a 'Peanuts' Halloween special. Presented by FXX.
+    appear in a spoof of a 'Peanuts' Halloween special.
   simpsonsworld_id: 691895363987
   good: maybe
   characters:
@@ -173,7 +173,7 @@ episodes:
   season: 20
   episode: 21
   description: Springfield grapples with an immigration problem when the economy of
-    nearby Ogdenville collapses. Presented by FXX.
+    nearby Ogdenville collapses.
   simpsonsworld_id: 729848899646
   good: maybe
   characters:

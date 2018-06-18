@@ -231,7 +231,7 @@
             "episode": 13,
             "description": "Lisa disapproves when Homer has cable television installed illegally into their home.",
             "simpsonsworld_id": 260820547692,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -312,7 +312,7 @@
             "episode": 22,
             "description": "Homer expects a generous gift in return when he donates Bart's blood to an ailing Mr. Burns.",
             "simpsonsworld_id": 272041539932,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -3706,7 +3706,7 @@
             "title": "Treehouse of Horror XVIII",
             "season": 19,
             "episode": 5,
-            "description": "In three tales of Halloween terror: Homer and Marge attempt to eliminate one another after discovering their secret identities; Bart and Lisa aid Kodos the space alien; Flanders uses the seven deadly sins to punish Bart. Presented by FXX.",
+            "description": "In three tales of Halloween terror: Homer and Marge attempt to eliminate one another after discovering their secret identities; Bart and Lisa aid Kodos the space alien; Flanders uses the seven deadly sins to punish Bart.",
             "simpsonsworld_id": 302852163741,
             "good": false,
             "characters": null
@@ -3796,7 +3796,7 @@
             "title": "Smoke on the Daughter",
             "season": 19,
             "episode": 15,
-            "description": "Lisa becomes addicted to secondhand smoke when she joins a ballet academy; Homer befriends raccoons who stole his beef jerky. Presented by FXX.",
+            "description": "Lisa becomes addicted to secondhand smoke when she joins a ballet academy; Homer befriends raccoons who stole his beef jerky.",
             "simpsonsworld_id": 310477379554,
             "good": false,
             "characters": null
@@ -3877,7 +3877,7 @@
             "title": "Treehouse of Horror XIX",
             "season": 20,
             "episode": 4,
-            "description": "On Halloween... Transformer-like robots duke it out in Springfield; Homer kills off celebrities so their likenesses can be exploited; the Simpsons appear in a spoof of a 'Peanuts' Halloween special. Presented by FXX.",
+            "description": "On Halloween... Transformer-like robots duke it out in Springfield; Homer kills off celebrities so their likenesses can be exploited; the Simpsons appear in a spoof of a 'Peanuts' Halloween special.",
             "simpsonsworld_id": 691895363987,
             "good": false,
             "characters": null
@@ -4030,7 +4030,7 @@
             "title": "Coming To Homerica",
             "season": 20,
             "episode": 21,
-            "description": "Springfield grapples with an immigration problem when the economy of nearby Ogdenville collapses. Presented by FXX.",
+            "description": "Springfield grapples with an immigration problem when the economy of nearby Ogdenville collapses.",
             "simpsonsworld_id": 729848899646,
             "good": false,
             "characters": null
@@ -5461,7 +5461,7 @@
             "title": "The Town",
             "season": 28,
             "episode": 3,
-            "description": "Homer takes the family on a \"hate-cation\" to Boston after he catches Bart rooting for a rival football team. Presented by FXX.",
+            "description": "Homer takes the family on a \"hate-cation\" to Boston after he catches Bart rooting for a rival football team.",
             "simpsonsworld_id": 1064043075512,
             "good": false,
             "characters": null
@@ -5470,7 +5470,7 @@
             "title": "Treehouse of Horror XXVII",
             "season": 28,
             "episode": 4,
-            "description": "The children of Springfield fight to the death, Hunger Games style; Lisa's imaginary friend kills her real friends; Moe recruits Bart into his group of covert barfly agents. Presented by FXX.",
+            "description": "The children of Springfield fight to the death, Hunger Games style; Lisa's imaginary friend kills her real friends; Moe recruits Bart into his group of covert barfly agents.",
             "simpsonsworld_id": 1063870531930,
             "good": false,
             "characters": null
@@ -5479,7 +5479,7 @@
             "title": "Trust but Clarify",
             "season": 28,
             "episode": 5,
-            "description": "Bart and Lisa investigate Krusty's new candy; Marge helps Homer dress for a promotion; Kent Brockman struggles with the changing media world. Presented by FXX.",
+            "description": "Bart and Lisa investigate Krusty's new candy; Marge helps Homer dress for a promotion; Kent Brockman struggles with the changing media world.",
             "simpsonsworld_id": 1064042051872,
             "good": false,
             "characters": null
@@ -5497,7 +5497,7 @@
             "title": "Havana Wild Weekend",
             "season": 28,
             "episode": 7,
-            "description": "The Simpsons go to Cuba to get Grampa cheap medical care when the Retirement Castle and V.A. hospital are unable to solve his health problems. Presented by FXX.",
+            "description": "The Simpsons go to Cuba to get Grampa cheap medical care when the Retirement Castle and V.A. hospital are unable to solve his health problems.",
             "simpsonsworld_id": 1064044099513,
             "good": false,
             "characters": null
@@ -5506,7 +5506,7 @@
             "title": "Dad Behavior",
             "season": 28,
             "episode": 8,
-            "description": "Homer discovers an app that makes his life easier, while Grampa learns that he'll be a father again. Presented by FXX.",
+            "description": "Homer discovers an app that makes his life easier, while Grampa learns that he'll be a father again.",
             "simpsonsworld_id": 1064046147533,
             "good": false,
             "characters": null
@@ -5515,7 +5515,7 @@
             "title": "The Last Traction Hero",
             "season": 28,
             "episode": 9,
-            "description": "Homer is placed in a cast following a workplace accident, leading Marge to receive romance from an unexpected source; Lisa attempts to keep the peace as bus monitor. Presented by FXX.",
+            "description": "Homer is placed in a cast following a workplace accident, leading Marge to receive romance from an unexpected source; Lisa attempts to keep the peace as bus monitor.",
             "simpsonsworld_id": 1064046147517,
             "good": false,
             "characters": null
@@ -5524,7 +5524,7 @@
             "title": "The Nightmare After Krustmas",
             "season": 28,
             "episode": 10,
-            "description": "Krusty and his daughter spend Christmas with the Simpsons; Reverend Lovejoy seeks converts to boost attendance at church; A Christmas toy scares Maggie. Presented by FXX.",
+            "description": "Krusty and his daughter spend Christmas with the Simpsons; Reverend Lovejoy seeks converts to boost attendance at church; A Christmas toy scares Maggie.",
             "simpsonsworld_id": 1064045635565,
             "good": false,
             "characters": null
@@ -5533,7 +5533,7 @@
             "title": "Pork and Burns",
             "season": 28,
             "episode": 11,
-            "description": "A Japanese book on minimalism inspires Marge to adapt to a new way of living, so the Simpsons have to part with items that no longer bring them joy.  Presented by FXX.",
+            "description": "A Japanese book on minimalism inspires Marge to adapt to a new way of living, so the Simpsons have to part with items that no longer bring them joy.",
             "simpsonsworld_id": 1070436931706,
             "good": false,
             "characters": null
@@ -5542,7 +5542,7 @@
             "title": "Fatzcarraldo",
             "season": 28,
             "episode": 14,
-            "description": "When all the fast food restaurants in Springfield become healthy, Homer turns to the last bastion of greasy food for comfort; Lisa must find a good news story when her school radio station is in jeopardy. Presented by FXX.",
+            "description": "When all the fast food restaurants in Springfield become healthy, Homer turns to the last bastion of greasy food for comfort; Lisa must find a good news story when her school radio station is in jeopardy.",
             "simpsonsworld_id": 1064044611770,
             "good": false,
             "characters": null
@@ -5551,7 +5551,7 @@
             "title": "The Cad and the Hat",
             "season": 28,
             "episode": 15,
-            "description": "Bart deals with his guilt of betraying Lisa; Homer is revealed to be a master chess player. Presented by FXX.",
+            "description": "Bart deals with his guilt of betraying Lisa; Homer is revealed to be a master chess player.",
             "simpsonsworld_id": 1064044611752,
             "good": false,
             "characters": null
@@ -5560,7 +5560,7 @@
             "title": "Kamp Krustier",
             "season": 28,
             "episode": 16,
-            "description": "Bart and Lisa return home following a traumatic incident at Kamp Krusty, putting an end to Homer and Marge's sexual encounters. Presented by FXX.",
+            "description": "Bart and Lisa return home following a traumatic incident at Kamp Krusty, putting an end to Homer and Marge's sexual encounters.",
             "simpsonsworld_id": 1064043587996,
             "good": false,
             "characters": null
@@ -5569,7 +5569,7 @@
             "title": "22 for 30",
             "season": 28,
             "episode": 17,
-            "description": "Bart becomes a star basketball player at Springfield Elementary. Presented by FXX.",
+            "description": "Bart becomes a star basketball player at Springfield Elementary.",
             "simpsonsworld_id": 1064044099732,
             "good": false,
             "characters": null
@@ -5578,7 +5578,7 @@
             "title": "A Father's Watch",
             "season": 28,
             "episode": 18,
-            "description": "As Homer and Marge try a different parenting style on Bart, Grampa gives him a special watch. Presented by FXX.",
+            "description": "As Homer and Marge try a different parenting style on Bart, Grampa gives him a special watch.",
             "simpsonsworld_id": 1064046659528,
             "good": false,
             "characters": null
@@ -5587,7 +5587,7 @@
             "title": "The Caper Chase",
             "season": 28,
             "episode": 19,
-            "description": "Mr. Burns starts his own for-profit university and hires Homer as a professor. Presented by FXX.",
+            "description": "Mr. Burns starts his own for-profit university and hires Homer as a professor.",
             "simpsonsworld_id": 1064044611790,
             "good": false,
             "characters": null
@@ -5596,7 +5596,7 @@
             "title": "Looking for Mr. Goodbart",
             "season": 28,
             "episode": 20,
-            "description": "Bart befriends the grandmothers of Springfield. Presented by FXX.",
+            "description": "Bart befriends the grandmothers of Springfield.",
             "simpsonsworld_id": 1064046659522,
             "good": false,
             "characters": null
@@ -5605,7 +5605,7 @@
             "title": "Moho House",
             "season": 28,
             "episode": 21,
-            "description": "Moe helps Homer and Marge work on their marriage. Presented by FXX.",
+            "description": "Moe helps Homer and Marge work on their marriage.",
             "simpsonsworld_id": 1064045635817,
             "good": false,
             "characters": null
@@ -5614,7 +5614,7 @@
             "title": "Dogtown",
             "season": 28,
             "episode": 22,
-            "description": "The dogs of Springfield assert their dominance. Presented by FXX.",
+            "description": "The dogs of Springfield assert their dominance.",
             "simpsonsworld_id": 1064045635799,
             "good": false,
             "characters": null
@@ -5623,7 +5623,7 @@
             "title": "The Great Phatsby Parts 1 & 2",
             "season": 28,
             "episode": 1213,
-            "description": "Mr. Burns tries to relive his glory days, and crosses paths with a mysterious music mogul. After being conned by him and reduced to bankruptcy, Mr. Burns seeks revenge on the music producer. Presented by FXX.",
+            "description": "Mr. Burns tries to relive his glory days, and crosses paths with a mysterious music mogul. After being conned by him and reduced to bankruptcy, Mr. Burns seeks revenge on the music producer.",
             "simpsonsworld_id": 1077274179891,
             "good": false,
             "characters": null

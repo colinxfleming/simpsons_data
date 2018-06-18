@@ -100,7 +100,7 @@ episodes:
   description: Lisa disapproves when Homer has cable television installed illegally
     into their home.
   simpsonsworld_id: 260820547692
-  good: maybe
+  good: true
   characters:
 - title: Principal Charming
   season: 2
@@ -173,5 +173,5 @@ episodes:
   description: Homer expects a generous gift in return when he donates Bart's blood
     to an ailing Mr. Burns.
   simpsonsworld_id: 272041539932
-  good: maybe
+  good: true
   characters:

@@ -21,7 +21,7 @@ episodes:
   season: 28
   episode: 3
   description: Homer takes the family on a "hate-cation" to Boston after he catches
-    Bart rooting for a rival football team. Presented by FXX.
+    Bart rooting for a rival football team.
   simpsonsworld_id: 1064043075512
   good: maybe
   characters:
@@ -30,7 +30,7 @@ episodes:
   episode: 4
   description: The children of Springfield fight to the death, Hunger Games style;
     Lisa's imaginary friend kills her real friends; Moe recruits Bart into his group
-    of covert barfly agents. Presented by FXX.
+    of covert barfly agents.
   simpsonsworld_id: 1063870531930
   good: maybe
   characters:
@@ -38,8 +38,7 @@ episodes:
   season: 28
   episode: 5
   description: Bart and Lisa investigate Krusty's new candy; Marge helps Homer dress
-    for a promotion; Kent Brockman struggles with the changing media world. Presented
-    by FXX.
+    for a promotion; Kent Brockman struggles with the changing media world.
   simpsonsworld_id: 1064042051872
   good: maybe
   characters:
@@ -55,8 +54,7 @@ episodes:
   season: 28
   episode: 7
   description: The Simpsons go to Cuba to get Grampa cheap medical care when the Retirement
-    Castle and V.A. hospital are unable to solve his health problems. Presented by
-    FXX.
+    Castle and V.A. hospital are unable to solve his health problems.
   simpsonsworld_id: 1064044099513
   good: maybe
   characters:
@@ -64,7 +62,7 @@ episodes:
   season: 28
   episode: 8
   description: Homer discovers an app that makes his life easier, while Grampa learns
-    that he'll be a father again. Presented by FXX.
+    that he'll be a father again.
   simpsonsworld_id: 1064046147533
   good: maybe
   characters:
@@ -73,7 +71,7 @@ episodes:
   episode: 9
   description: Homer is placed in a cast following a workplace accident, leading Marge
     to receive romance from an unexpected source; Lisa attempts to keep the peace
-    as bus monitor. Presented by FXX.
+    as bus monitor.
   simpsonsworld_id: 1064046147517
   good: maybe
   characters:
@@ -82,7 +80,6 @@ episodes:
   episode: 10
   description: Krusty and his daughter spend Christmas with the Simpsons; Reverend
     Lovejoy seeks converts to boost attendance at church; A Christmas toy scares Maggie.
-    Presented by FXX.
   simpsonsworld_id: 1064045635565
   good: maybe
   characters:
@@ -90,8 +87,7 @@ episodes:
   season: 28
   episode: 11
   description: A Japanese book on minimalism inspires Marge to adapt to a new way
-    of living, so the Simpsons have to part with items that no longer bring them joy.  Presented
-    by FXX.
+    of living, so the Simpsons have to part with items that no longer bring them joy.
   simpsonsworld_id: 1070436931706
   good: maybe
   characters:
@@ -100,7 +96,7 @@ episodes:
   episode: 14
   description: When all the fast food restaurants in Springfield become healthy, Homer
     turns to the last bastion of greasy food for comfort; Lisa must find a good news
-    story when her school radio station is in jeopardy. Presented by FXX.
+    story when her school radio station is in jeopardy.
   simpsonsworld_id: 1064044611770
   good: maybe
   characters:
@@ -108,7 +104,7 @@ episodes:
   season: 28
   episode: 15
   description: Bart deals with his guilt of betraying Lisa; Homer is revealed to be
-    a master chess player. Presented by FXX.
+    a master chess player.
   simpsonsworld_id: 1064044611752
   good: maybe
   characters:
@@ -116,15 +112,14 @@ episodes:
   season: 28
   episode: 16
   description: Bart and Lisa return home following a traumatic incident at Kamp Krusty,
-    putting an end to Homer and Marge's sexual encounters. Presented by FXX.
+    putting an end to Homer and Marge's sexual encounters.
   simpsonsworld_id: 1064043587996
   good: maybe
   characters:
 - title: 22 for 30
   season: 28
   episode: 17
-  description: Bart becomes a star basketball player at Springfield Elementary. Presented
-    by FXX.
+  description: Bart becomes a star basketball player at Springfield Elementary.
   simpsonsworld_id: 1064044099732
   good: maybe
   characters:
@@ -132,7 +127,7 @@ episodes:
   season: 28
   episode: 18
   description: As Homer and Marge try a different parenting style on Bart, Grampa
-    gives him a special watch. Presented by FXX.
+    gives him a special watch.
   simpsonsworld_id: 1064046659528
   good: maybe
   characters:
@@ -140,28 +135,28 @@ episodes:
   season: 28
   episode: 19
   description: Mr. Burns starts his own for-profit university and hires Homer as a
-    professor. Presented by FXX.
+    professor.
   simpsonsworld_id: 1064044611790
   good: maybe
   characters:
 - title: Looking for Mr. Goodbart
   season: 28
   episode: 20
-  description: Bart befriends the grandmothers of Springfield. Presented by FXX.
+  description: Bart befriends the grandmothers of Springfield.
   simpsonsworld_id: 1064046659522
   good: maybe
   characters:
 - title: Moho House
   season: 28
   episode: 21
-  description: Moe helps Homer and Marge work on their marriage. Presented by FXX.
+  description: Moe helps Homer and Marge work on their marriage.
   simpsonsworld_id: 1064045635817
   good: maybe
   characters:
 - title: Dogtown
   season: 28
   episode: 22
-  description: The dogs of Springfield assert their dominance. Presented by FXX.
+  description: The dogs of Springfield assert their dominance.
   simpsonsworld_id: 1064045635799
   good: maybe
   characters:
@@ -170,7 +165,7 @@ episodes:
   episode: 1213
   description: Mr. Burns tries to relive his glory days, and crosses paths with a
     mysterious music mogul. After being conned by him and reduced to bankruptcy, Mr.
-    Burns seeks revenge on the music producer. Presented by FXX.
+    Burns seeks revenge on the music producer.
   simpsonsworld_id: 1077274179891
   good: maybe
   characters:
