@@ -130,7 +130,7 @@ episodes:
   episode: 17
   description: Homer acts as Mr. Burns' assistant while Smithers is away on vacation.
   simpsonsworld_id: 277248579634
-  good: maybe
+  good: true
   characters:
 - title: The Day the Violence Died
   season: 7
@@ -171,7 +171,7 @@ episodes:
   description: Grampa and Mr. Burns, the last surviving members of a World War II
     army unit, vie for a priceless collection of rare art hidden in a secret location.
   simpsonsworld_id: 279728707597
-  good: maybe
+  good: true
   characters:
 - title: Much Apu About Nothing
   season: 7

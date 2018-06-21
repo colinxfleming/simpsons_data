@@ -108,7 +108,7 @@ episodes:
   description: Homer arranges a date between Principal Skinner and Marge's sister,
     Selma.
   simpsonsworld_id: 263496771968
-  good: maybe
+  good: true
   characters:
 - title: Oh Brother, Where Art Thou?
   season: 2

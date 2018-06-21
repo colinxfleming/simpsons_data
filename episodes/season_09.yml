@@ -130,7 +130,7 @@ episodes:
   description: Lisa fears she is genetically predisposed to lose her intelligence.
     Apu uses a frozen Jasper as a tourist attraction.
   simpsonsworld_id: 299651139676
-  good: maybe
+  good: true
   characters:
 - title: This Little Wiggy
   season: 9
@@ -152,7 +152,7 @@ episodes:
   description: When a tax audit lands him in hot water, Homer goes undercover for
     the government and attempts to retrieve a trillion dollar note from Mr. Burns.
   simpsonsworld_id: 299644483816
-  good: maybe
+  good: false
   characters:
 - title: Girly Edition
   season: 9
@@ -184,7 +184,7 @@ episodes:
   description: Lisa gets lost in an unfamiliar part of town while searching for a
     museum. Bart adheres novelties to his face only to discover they cannot be removed.
   simpsonsworld_id: 467595331852
-  good: maybe
+  good: true
   characters:
 - title: Natural Born Kissers
   season: 9
@@ -192,5 +192,5 @@ episodes:
   description: Homer and Marge discover the secret to reigniting their sex life. Bart
     and Lisa hunt for hidden treasure using Grampa's old mine sweeper.
   simpsonsworld_id: 467599939876
-  good: maybe
+  good: false
   characters:

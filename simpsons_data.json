@@ -240,7 +240,7 @@
             "episode": 14,
             "description": "Homer arranges a date between Principal Skinner and Marge's sister, Selma.",
             "simpsonsworld_id": 263496771968,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1368,7 +1368,7 @@
             "episode": 17,
             "description": "Homer acts as Mr. Burns' assistant while Smithers is away on vacation.",
             "simpsonsworld_id": 277248579634,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1413,7 +1413,7 @@
             "episode": 22,
             "description": "Grampa and Mr. Burns, the last surviving members of a World War II army unit, vie for a priceless collection of rare art hidden in a secret location.",
             "simpsonsworld_id": 279728707597,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1818,7 +1818,7 @@
             "episode": 17,
             "description": "Lisa fears she is genetically predisposed to lose her intelligence. Apu uses a frozen Jasper as a tourist attraction.",
             "simpsonsworld_id": 299651139676,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1881,7 +1881,7 @@
             "episode": 24,
             "description": "Lisa gets lost in an unfamiliar part of town while searching for a museum. Bart adheres novelties to his face only to discover they cannot be removed.",
             "simpsonsworld_id": 467595331852,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1971,7 +1971,7 @@
             "episode": 9,
             "description": "Homer takes on the mob when he acts as Mayor Quimby's bodyguard.",
             "simpsonsworld_id": 473163843671,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2070,7 +2070,7 @@
             "episode": 20,
             "description": "Bart must perform community service at Grampa's retirement home.",
             "simpsonsworld_id": 279757379586,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2133,7 +2133,7 @@
             "episode": 4,
             "description": "Homer's Y2K error plunges the Earth into chaos; Bart and Lisa become superheroes and attempt to save Lucy Lawless from a super-villain; someone terrorizes the family after Marge kills Ned Flanders.",
             "simpsonsworld_id": 307851843709,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2169,7 +2169,7 @@
             "episode": 8,
             "description": "Homer wins a vintage motorcycle during a dance contest - and attracts the attention of Hell's Satans when he forms his own gang.",
             "simpsonsworld_id": 301643843522,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2187,7 +2187,7 @@
             "episode": 10,
             "description": "Lisa becomes mother-of-the-house when Marge is hospitalized with a broken leg.",
             "simpsonsworld_id": 300903491898,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2691,7 +2691,7 @@
             "episode": 1,
             "description": "On Halloween, Homer's evil hammock produces an army of Homer clones; zombie cowboys threaten to destroy Springfield after Lisa outlaws guns; the Simpsons travel to an island inhabited by 'manimals.'",
             "simpsonsworld_id": 221301315863,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {

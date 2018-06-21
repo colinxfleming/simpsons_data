@@ -31,7 +31,7 @@ episodes:
     superheroes and attempt to save Lucy Lawless from a super-villain; someone terrorizes
     the family after Marge kills Ned Flanders.
   simpsonsworld_id: 307851843709
-  good: maybe
+  good: true
   characters:
 - title: E-I-E-I-(Annoyed Grunt)
   season: 11
@@ -62,7 +62,7 @@ episodes:
   description: Homer wins a vintage motorcycle during a dance contest - and attracts
     the attention of Hell's Satans when he forms his own gang.
   simpsonsworld_id: 301643843522
-  good: maybe
+  good: true
   characters:
 - title: Grift of the Magi
   season: 11
@@ -79,7 +79,7 @@ episodes:
   description: Lisa becomes mother-of-the-house when Marge is hospitalized with a
     broken leg.
   simpsonsworld_id: 300903491898
-  good: maybe
+  good: true
   characters:
 - title: Faith Off
   season: 11
@@ -102,14 +102,14 @@ episodes:
   description: When Homer and Bart transform a loser racehorse into a champion, rival
     jockeys threaten revenge.
   simpsonsworld_id: 306926659533
-  good: maybe
+  good: false
   characters:
 - title: Alone Again Natura-Diddily
   season: 11
   episode: 14
   description: Homer attempts to help when Flanders experiences a tragic loss.
   simpsonsworld_id: 288077891629
-  good: maybe
+  good: false
   characters:
 - title: Missionary Impossible
   season: 11
