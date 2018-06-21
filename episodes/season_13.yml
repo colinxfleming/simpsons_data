@@ -7,7 +7,7 @@ episodes:
     automated house; a gypsy curses Homer; Lisa and Bart find themselves in a Harry
     Potter-like adventure.
   simpsonsworld_id: 307115075729
-  good: maybe
+  good: false
   characters:
 - title: The Parent Rap
   season: 13
