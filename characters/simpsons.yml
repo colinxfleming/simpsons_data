@@ -1,23 +1,16 @@
 ---
 characters:
-- short_name: Homer
+- short_name: homer
   name: Homer Jay Simpson
-  core_family: true
-- short_name: Bart
+- short_name: bart
   name: Bart Simpson
-  core_family: true
-- short_name: Marge
+- short_name: marge
   name: Marjorie Jacqueline Simpson
-  core_family: true
-- short_name: Lisa
+- short_name: lisa
   name: Lisa Simpson
-  core_family: true
-- short_name: Maggie
+- short_name: maggie
   name: Margaret Evelyn Simpson
-  core_family: true
-- short_name: Grandpa Simpson
+- short_name: grandpa_simpson
   full_name: Abraham Jebendiah Simpson
-  core_family: false
-- short_name: Grandma Simpson
+- short_name: grandma_simpson
   full_name: Mona Simpson
-  core_family: false

@@ -1,11 +1,8 @@
 ---
 characters:
-- short_name: Milhouse
+- short_name: milhouse
   name: Milhouse Van Houten
-  core_family: false
-- short_name: Kirk
+- short_name: kirk
   name: Kirk Van Houten
-  core_family: false
-- short_name: LuAnn
+- short_name: luann
   name: LuAnn Van Houten
-  core_family: false

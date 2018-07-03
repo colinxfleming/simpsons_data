@@ -17,15 +17,14 @@ episode: Integer. Episode number.
 description: String. Episode description from SimpsonsWorld.
 simpsonsworld_id: BigInt. Episode video identifier from SimpsonsWorld.
 good: Boolean. Indicator of whether or not the episode is bad.
-characters: Unimplemented at present. Focus character(s), if any.
+characters: Array of strings. Strings are character short_names. 
 ```
 
 `Characters` are shaped as follows:
 
 ```yml
-short_name: String. Common name or nickname, unique reference key.
+short_name: String. Lowercase common name or nickname, unique reference key.
 name: String. Full name.
-core_family: Boolean. True if they are Homer, Marge, Lisa, Bart, or Maggie.
 ```
 ### Episode coverage
 
