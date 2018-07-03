@@ -16,7 +16,7 @@ episodes:
     and later, Homer and Marge are declared bad parents and placed in old-fashioned
     wooden stocks.
   simpsonsworld_id: 307116099877
-  good: maybe
+  good: false
   characters:
 - title: Homer the Moe
   season: 13

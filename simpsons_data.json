@@ -2358,7 +2358,7 @@
             "episode": 7,
             "description": "Homer and Bart become scam artists when the family is faced with the cost of a sudden car repair.",
             "simpsonsworld_id": 304456259863,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2394,7 +2394,7 @@
             "episode": 11,
             "description": "When the Comic Book Guy suffers a heart attack, Bart and Milhouse take over his store.",
             "simpsonsworld_id": 310459971509,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2898,7 +2898,7 @@
             "episode": 2,
             "description": "Mother Simpson is captured by police and placed on trial for sabotaging Mr. Burns' germ warfare plant in the 1960s.  Homer's heartfelt testimony helps win her release... but Mr. Burns concocts a plot to get revenge.",
             "simpsonsworld_id": 227339843917,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {

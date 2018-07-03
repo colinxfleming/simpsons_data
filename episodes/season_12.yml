@@ -23,7 +23,7 @@ episodes:
   description: Krusty discovers that he fathered a child during the Gulf War... only
     to gamble away his daughter's precious violin during a poker game with Fat Tony.
   simpsonsworld_id: 306934851515
-  good: maybe
+  good: false
   characters:
 - title: Lisa the Treehugger
   season: 12
@@ -39,7 +39,7 @@ episodes:
   description: As the Thanksgiving holiday approaches, Mr. Burns hires Homer to be
     his 'prank monkey.'
   simpsonsworld_id: 311670339999
-  good: maybe
+  good: false
   characters:
 - title: The Computer Wore Menace Shoes
   season: 12
@@ -47,7 +47,7 @@ episodes:
   description: Homer uses his new computer to spread gossip on the Internet... and
     eventually finds himself stranded on a mysterious island.
   simpsonsworld_id: 302843971598
-  good: maybe
+  good: false
   characters:
 - title: The Great Money Caper
   season: 12
@@ -55,7 +55,7 @@ episodes:
   description: Homer and Bart become scam artists when the family is faced with the
     cost of a sudden car repair.
   simpsonsworld_id: 304456259863
-  good: maybe
+  good: true
   characters:
 - title: Skinner's Sense of Snow
   season: 12
@@ -89,7 +89,7 @@ episodes:
   description: When the Comic Book Guy suffers a heart attack, Bart and Milhouse take
     over his store.
   simpsonsworld_id: 310459971509
-  good: maybe
+  good: true
   characters:
 - title: Tennis the Menace
   season: 12
@@ -105,7 +105,7 @@ episodes:
   description: Sideshow Bob wins release from prison and hypnotizes Bart to kill Krusty
     the Clown.
   simpsonsworld_id: 307106883649
-  good: maybe
+  good: false
   characters:
 - title: New Kids on the Blecch
   season: 12
@@ -129,7 +129,7 @@ episodes:
   description: Lisa searches for answers when a new student at school bullies her;
     Homer starts his own baby-proofing business.
   simpsonsworld_id: 302846019892
-  good: maybe
+  good: false
   characters:
 - title: Simpson Safari
   season: 12

@@ -16,7 +16,7 @@ episodes:
     Mr. Burns' germ warfare plant in the 1960s.  Homer's heartfelt testimony helps
     win her release... but Mr. Burns concocts a plot to get revenge.
   simpsonsworld_id: 227339843917
-  good: maybe
+  good: true
   characters:
 - title: The President Wore Pearls
   season: 15
