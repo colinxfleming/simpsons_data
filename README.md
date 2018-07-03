@@ -32,35 +32,35 @@ core_family: Boolean. True if they are Homer, Marge, Lisa, Bart, or Maggie.
 There's a lot of episodes and seasons to go through and mark the good ones.
 Here's what's done so far:
 
-* **Season 1**: Not done
-* **Season 2**: Not done
-* **Season 3**: Not done
-* **Season 4**: Not done
-* **Season 5**: Not done
-* **Season 6**: Mostly done
-* **Season 7**: Not done
-* **Season 8**: Not done
-* **Season 9**: Not done
-* **Season 10**: Not done
-* **Season 11**: Not done
-* **Season 12**: Not done
-* **Season 13**: Not done
-* **Season 14**: Not done
-* **Season 15**: Not done
-* **Season 16**: Not done
-* **Season 17**: Not done
-* **Season 18**: Not done
-* **Season 19**: Not done
-* **Season 20**: Not done
-* **Season 21**: Not done
-* **Season 22**: Not done
-* **Season 23**: Not done
-* **Season 24**: Not done
-* **Season 25**: Not done
-* **Season 26**: Not done
-* **Season 27**: Not done
-* **Season 28**: Not done
-* **Season 29**: Not done
+* **Season 1**: Episodes cataloged; Characters uncataloged
+* **Season 2**: Episodes cataloged; Characters uncataloged
+* **Season 3**: Episodes cataloged; Characters uncataloged
+* **Season 4**: Episodes cataloged; Characters uncataloged
+* **Season 5**: Episodes cataloged; Characters uncataloged
+* **Season 6**: Episodes cataloged; Characters uncataloged
+* **Season 7**: Episodes cataloged; Characters uncataloged
+* **Season 8**: Episodes cataloged; Characters uncataloged
+* **Season 9**: Episodes uncataloged; Characters uncataloged
+* **Season 10**: Episodes uncataloged; Characters uncataloged
+* **Season 11**: Episodes uncataloged; Characters uncataloged
+* **Season 12**: Episodes uncataloged; Characters uncataloged
+* **Season 13**: Episodes uncataloged; Characters uncataloged
+* **Season 14**: Episodes uncataloged; Characters uncataloged
+* **Season 15**: Episodes uncataloged; Characters uncataloged
+* **Season 16**: Episodes uncataloged; Characters uncataloged
+* **Season 17**: Episodes uncataloged; Characters uncataloged
+* **Season 18**: Episodes uncataloged; Characters uncataloged
+* **Season 19**: Episodes uncataloged; Characters uncataloged
+* **Season 20**: Episodes uncataloged; Characters uncataloged
+* **Season 21**: Episodes uncataloged; Characters uncataloged
+* **Season 22**: Episodes uncataloged; Characters uncataloged
+* **Season 23**: Episodes uncataloged; Characters uncataloged
+* **Season 24**: Episodes uncataloged; Characters uncataloged
+* **Season 25**: Episodes uncataloged; Characters uncataloged
+* **Season 26**: Episodes uncataloged; Characters uncataloged
+* **Season 27**: Episodes uncataloged; Characters uncataloged
+* **Season 28**: Episodes uncataloged; Characters uncataloged
+* **Season 29**: Episodes uncataloged; Characters uncataloged
 
 ## Usage
 
