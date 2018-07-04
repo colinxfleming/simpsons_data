@@ -30,6 +30,7 @@ episodes:
   simpsonsworld_id: 279170627965
   good: true
   characters:
+    - treehouse_of_horror
 - title: The Cartridge Family
   season: 9
   episode: 5

@@ -35,6 +35,7 @@ episodes:
   simpsonsworld_id: 302871107984
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: G.I. (Annoyed Grunt)
   season: 18
   episode: 5

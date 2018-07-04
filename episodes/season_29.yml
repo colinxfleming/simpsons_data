@@ -33,6 +33,7 @@ episodes:
   simpsonsworld_id: 1078509635693
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: Grampy Can Ya Hear Me
   season: 29
   episode: 5

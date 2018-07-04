@@ -9,6 +9,7 @@ episodes:
   simpsonsworld_id: 307115075729
   good: false
   characters:
+    - treehouse_of_horror
 - title: The Parent Rap
   season: 13
   episode: 2

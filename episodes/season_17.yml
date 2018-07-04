@@ -35,6 +35,7 @@ episodes:
   simpsonsworld_id: 310466627927
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: Marge's Son Poisoning
   season: 17
   episode: 5

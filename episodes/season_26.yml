@@ -29,6 +29,7 @@ episodes:
   simpsonsworld_id: 344255555880
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: Opposites-A-Frack
   season: 26
   episode: 5

@@ -9,6 +9,7 @@ episodes:
   simpsonsworld_id: 256741955834
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: All's Fair in Oven War
   season: 16
   episode: 2

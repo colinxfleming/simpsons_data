@@ -57,6 +57,7 @@ episodes:
   simpsonsworld_id: 272054339616
   good: true
   characters:
+    - treehouse_of_horror
 - title: Lisa's Pony
   season: 3
   episode: 8

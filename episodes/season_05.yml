@@ -38,6 +38,7 @@ episodes:
   simpsonsworld_id: 275206211805
   good: false
   characters:
+    - treehouse_of_horror
 - title: Marge on the Lam
   season: 5
   episode: 6

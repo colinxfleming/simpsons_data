@@ -45,6 +45,7 @@ episodes:
   simpsonsworld_id: 310404163601
   good: true
   characters:
+    - treehouse_of_horror
 - title: King-Size Homer
   season: 7
   episode: 7

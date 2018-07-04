@@ -9,6 +9,7 @@ episodes:
   simpsonsworld_id: 299625027835
   good: true
   characters:
+    - treehouse_of_horror
 - title: You Only Move Twice
   season: 8
   episode: 2

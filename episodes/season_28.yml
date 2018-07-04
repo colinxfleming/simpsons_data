@@ -3,8 +3,7 @@ episodes:
 - title: Monty Burns' Fleeing Circus
   season: 28
   episode: 1
-  description: Mr. Burns puts on a variety show at the Springfield Bowl. Presented
-    by FXX.
+  description: Mr. Burns puts on a variety show at the Springfield Bowl.
   simpsonsworld_id: 1066704963871
   good: maybe
   characters:
@@ -12,8 +11,7 @@ episodes:
   season: 28
   episode: 2
   description: Homer finds a new friend in a woman who acts just like him when Mr.
-    Burns hires the other Simpsons as his live-in virtual reality family. Presented
-    by FXX.
+    Burns hires the other Simpsons as his live-in virtual reality family.
   simpsonsworld_id: 1064038980002
   good: maybe
   characters:
@@ -34,6 +32,7 @@ episodes:
   simpsonsworld_id: 1063870531930
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: Trust but Clarify
   season: 28
   episode: 5

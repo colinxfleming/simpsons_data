@@ -39,6 +39,7 @@ episodes:
   simpsonsworld_id: 305668675610
   good: true
   characters:
+    - treehouse_of_horror
 - title: 'Itchy and Scratchy: The Movie'
   season: 4
   episode: 6

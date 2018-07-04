@@ -44,6 +44,7 @@ episodes:
   simpsonsworld_id: 770433091920
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: Friend with Benefit
   season: 27
   episode: 6
