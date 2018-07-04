@@ -34,6 +34,7 @@ episodes:
   simpsonsworld_id: 262634051998
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: The Devil Wears Nada
   season: 21
   episode: 5

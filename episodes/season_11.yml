@@ -33,6 +33,7 @@ episodes:
   simpsonsworld_id: 307851843709
   good: true
   characters:
+    - treehouse_of_horror
 - title: E-I-E-I-(Annoyed Grunt)
   season: 11
   episode: 5

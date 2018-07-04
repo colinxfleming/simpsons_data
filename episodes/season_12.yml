@@ -9,6 +9,7 @@ episodes:
   simpsonsworld_id: 294765123660
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: A Tale of Two Springfields
   season: 12
   episode: 2

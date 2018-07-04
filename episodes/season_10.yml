@@ -33,6 +33,7 @@ episodes:
   simpsonsworld_id: 473130051681
   good: true
   characters:
+    - treehouse_of_horror
 - title: When You Dish Upon a Star
   season: 10
   episode: 5

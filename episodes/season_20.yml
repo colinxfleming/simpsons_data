@@ -34,6 +34,7 @@ episodes:
   simpsonsworld_id: 691895363987
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: Dangerous Curves
   season: 20
   episode: 5

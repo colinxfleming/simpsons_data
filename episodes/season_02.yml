@@ -15,6 +15,7 @@ episodes:
   simpsonsworld_id: 260539971564
   good: true
   characters:
+    - homer
 - title: Treehouse of Horror
   season: 2
   episode: 3
@@ -23,6 +24,7 @@ episodes:
   simpsonsworld_id: 260538435884
   good: true
   characters:
+    - treehouse_of_horror
 - title: Two Cars in Every Garage and Three Eyes on Every Fish
   season: 2
   episode: 4

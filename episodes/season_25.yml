@@ -18,6 +18,7 @@ episodes:
   simpsonsworld_id: 310259779794
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: Four Regrettings and a Funeral
   season: 25
   episode: 3

@@ -32,6 +32,7 @@ episodes:
   simpsonsworld_id: 1063870531930
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: Trust but Clarify
   season: 28
   episode: 5

@@ -26,6 +26,7 @@ episodes:
   simpsonsworld_id: 230493251807
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: Replaceable You
   season: 23
   episode: 4

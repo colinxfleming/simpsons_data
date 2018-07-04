@@ -9,6 +9,7 @@ episodes:
   simpsonsworld_id: 221301315863
   good: true
   characters:
+    - treehouse_of_horror
 - title: How I Spent My Strummer Vacation
   season: 14
   episode: 2

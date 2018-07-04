@@ -18,6 +18,7 @@ episodes:
   simpsonsworld_id: 221695555645
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: Adventures in Baby-getting
   season: 24
   episode: 3

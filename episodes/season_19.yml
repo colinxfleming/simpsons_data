@@ -41,6 +41,7 @@ episodes:
   simpsonsworld_id: 302852163741
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: Little Orphan Millie
   season: 19
   episode: 6

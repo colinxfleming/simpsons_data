@@ -9,6 +9,7 @@ episodes:
   simpsonsworld_id: 227335747784
   good: maybe
   characters:
+    - treehouse_of_horror
 - title: My Mother the Carjacker
   season: 15
   episode: 2
