@@ -72,8 +72,7 @@ episodes:
   season: 24
   episode: 9
   description: The Simpsons anticipate the apocalypse after Homer inadvertently triggers
-    a shockwave that disables all electronic devices in Springfield.  Presented by
-    FXX.
+    a shockwave that disables all electronic devices in Springfield.
   simpsonsworld_id: 1094312515873
   good: maybe
   characters:
@@ -140,7 +139,7 @@ episodes:
   season: 24
   episode: 17
   description: In an episode that focuses on the choices people make and their outcomes...
-    Homer attempts to save his marriage; Milhouse woos Lisa. Presented by FXX.
+    Homer attempts to save his marriage; Milhouse woos Lisa.
   simpsonsworld_id: 1094243907551
   good: maybe
   characters:
