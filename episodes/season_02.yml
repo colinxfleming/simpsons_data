@@ -33,6 +33,9 @@ episodes:
   simpsonsworld_id: 260537411822
   good: true
   characters:
+    - homer
+    - marge
+    - mr_burns
 - title: Dancin' Homer
   season: 2
   episode: 5
@@ -48,6 +51,9 @@ episodes:
   simpsonsworld_id: 260539459670
   good: true
   characters:
+    - bart
+    - homer
+    - ned
 - title: Bart vs. Thanksgiving
   season: 2
   episode: 7
@@ -56,6 +62,8 @@ episodes:
   simpsonsworld_id: 260539459701
   good: false
   characters:
+    - bart
+    - lisa
 - title: Bart the Daredevil
   season: 2
   episode: 8
@@ -64,6 +72,7 @@ episodes:
   simpsonsworld_id: 260539459702
   good: true
   characters:
+    - bart
 - title: Itchy and Scratchy and Marge
   season: 2
   episode: 9
@@ -72,6 +81,7 @@ episodes:
   simpsonsworld_id: 1094123075920
   good: true
   characters:
+    - marge
 - title: Bart Gets Hit by a Car
   season: 2
   episode: 10
@@ -80,6 +90,9 @@ episodes:
   simpsonsworld_id: 260550723760
   good: true
   characters:
+    - bart
+    - homer
+    - mr_burns
 - title: One Fish, Two Fish, Blowfish, Blue Fish
   season: 2
   episode: 11
@@ -88,6 +101,7 @@ episodes:
   simpsonsworld_id: 260548675839
   good: true
   characters:
+    - homer
 - title: The Way We Was
   season: 2
   episode: 12
@@ -104,6 +118,8 @@ episodes:
   simpsonsworld_id: 260820547692
   good: true
   characters:
+    - homer
+    - lisa
 - title: Principal Charming
   season: 2
   episode: 14
@@ -112,6 +128,9 @@ episodes:
   simpsonsworld_id: 263496771968
   good: true
   characters:
+    - homer
+    - skinner
+    - selma
 - title: Oh Brother, Where Art Thou?
   season: 2
   episode: 15
@@ -120,6 +139,7 @@ episodes:
   simpsonsworld_id: 1094123587812
   good: false
   characters:
+    - homer
 - title: Bart's Dog Gets an F
   season: 2
   episode: 16
@@ -128,6 +148,8 @@ episodes:
   simpsonsworld_id: 272034883946
   good: true
   characters:
+    - bart
+    - santas_little_helper
 - title: Old Money
   season: 2
   episode: 17
@@ -135,6 +157,7 @@ episodes:
   simpsonsworld_id: 263504963955
   good: false
   characters:
+    - grandpa
 - title: Brush with Greatness
   season: 2
   episode: 18
@@ -144,6 +167,8 @@ episodes:
   simpsonsworld_id: 1094212163883
   good: true
   characters:
+    - marge
+    - mr_burns
 - title: Lisa's Substitute
   season: 2
   episode: 19
@@ -152,6 +177,7 @@ episodes:
   simpsonsworld_id: 288011331912
   good: true
   characters:
+    - lisa
 - title: The War of the Simpsons
   season: 2
   episode: 20
@@ -161,6 +187,8 @@ episodes:
   simpsonsworld_id: 272040003661
   good: true
   characters:
+    - marge
+    - homer
 - title: Three Men and a Comic Book
   season: 2
   episode: 21
@@ -169,6 +197,9 @@ episodes:
   simpsonsworld_id: 310368835964
   good: true
   characters:
+    - bart
+    - milhouse
+    - martin
 - title: Blood Feud
   season: 2
   episode: 22
@@ -177,3 +208,5 @@ episodes:
   simpsonsworld_id: 272041539932
   good: true
   characters:
+    - homer
+    - mr_burns

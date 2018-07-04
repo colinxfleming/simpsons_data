@@ -9,6 +9,7 @@ episodes:
   simpsonsworld_id: 272234051980
   good: false
   characters:
+    - homer
 - title: Mr. Lisa Goes to Washington
   season: 3
   episode: 2
@@ -17,6 +18,7 @@ episodes:
   simpsonsworld_id: 275196995796
   good: true
   characters:
+    - lisa
 - title: When Flanders Failed
   season: 3
   episode: 3
@@ -25,6 +27,8 @@ episodes:
   simpsonsworld_id: 272051267562
   good: true
   characters:
+    - homer
+    - flanders
 - title: Bart the Murderer
   season: 3
   episode: 4
@@ -33,6 +37,8 @@ episodes:
   simpsonsworld_id: 288015427922
   good: true
   characters:
+    - bart
+    - fat_tony
 - title: Homer Defined
   season: 3
   episode: 5
@@ -41,6 +47,7 @@ episodes:
   simpsonsworld_id: 256843843704
   good: true
   characters:
+    - homer
 - title: Like Father, Like Clown
   season: 3
   episode: 6
@@ -49,6 +56,9 @@ episodes:
   simpsonsworld_id: 256874051703
   good: true
   characters:
+    - bart
+    - lisa
+    - krusty
 - title: Treehouse of Horror II
   season: 3
   episode: 7
@@ -66,6 +76,8 @@ episodes:
   simpsonsworld_id: 310374467809
   good: false
   characters:
+    - homer
+    - lisa
 - title: Saturdays of Thunder
   season: 3
   episode: 9
@@ -74,6 +86,8 @@ episodes:
   simpsonsworld_id: 256898115598
   good: true
   characters:
+    - bart
+    - homer
 - title: Flaming Moe's
   season: 3
   episode: 10
@@ -82,6 +96,8 @@ episodes:
   simpsonsworld_id: 305663555961
   good: true
   characters:
+    - homer
+    - moe
 - title: Burns Verkaufen der Kraftwerk
   season: 3
   episode: 11
@@ -90,6 +106,7 @@ episodes:
   simpsonsworld_id: 310380099512
   good: false
   characters:
+    - homer
 - title: I Married Marge
   season: 3
   episode: 12
@@ -107,6 +124,7 @@ episodes:
   simpsonsworld_id: 272052803895
   good: true
   characters:
+    - homer
 - title: Lisa the Greek
   season: 3
   episode: 14
@@ -115,6 +133,8 @@ episodes:
   simpsonsworld_id: 273404483565
   good: true
   characters:
+    - homer
+    - lisa
 - title: Homer Alone
   season: 3
   episode: 15
@@ -123,6 +143,8 @@ episodes:
   simpsonsworld_id: 272224835795
   good: false
   characters:
+    - marge
+    - simpsons
 - title: Bart the Lover
   season: 3
   episode: 16

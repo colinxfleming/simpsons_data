@@ -188,7 +188,11 @@
             "description": "Homer supports Mr. Burns in his bid for governor, but Marge remains loyal to Burns's political opposition.",
             "simpsonsworld_id": 260537411822,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge",
+                "mr_burns"
+            ]
         },
         {
             "title": "Dancin' Homer",
@@ -206,7 +210,11 @@
             "description": "Homer and Ned Flanders pressure their sons to win a miniature golf championship.",
             "simpsonsworld_id": 260539459670,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart",
+                "homer",
+                "ned"
+            ]
         },
         {
             "title": "Bart vs. Thanksgiving",
@@ -215,7 +223,10 @@
             "description": "Bart learns the true meaning of Thanksgiving when he runs away from home after having an argument with Lisa.",
             "simpsonsworld_id": 260539459701,
             "good": false,
-            "characters": null
+            "characters": [
+                "bart",
+                "lisa"
+            ]
         },
         {
             "title": "Bart the Daredevil",
@@ -224,7 +235,9 @@
             "description": "Bart is determined to leap a gorge on his skateboard after witnessing the death defying stunts of a real daredevil.",
             "simpsonsworld_id": 260539459702,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart"
+            ]
         },
         {
             "title": "Itchy and Scratchy and Marge",
@@ -233,7 +246,9 @@
             "description": "Marge initiates a protest movement against gratuitous violence on television when Maggie begins acting aggressively after viewing Itchy and Scratchy cartoons.",
             "simpsonsworld_id": 1094123075920,
             "good": true,
-            "characters": null
+            "characters": [
+                "marge"
+            ]
         },
         {
             "title": "Bart Gets Hit by a Car",
@@ -242,7 +257,11 @@
             "description": "When Mr. Burns hits Bart with his car, Homer is enticed by a disreputable lawyer to sue him.",
             "simpsonsworld_id": 260550723760,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart",
+                "homer",
+                "mr_burns"
+            ]
         },
         {
             "title": "One Fish, Two Fish, Blowfish, Blue Fish",
@@ -251,7 +270,9 @@
             "description": "Homer believes he has only twenty-four hours to live after he eats an improperly prepared blowfish.",
             "simpsonsworld_id": 260548675839,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "The Way We Was",
@@ -269,7 +290,10 @@
             "description": "Lisa disapproves when Homer has cable television installed illegally into their home.",
             "simpsonsworld_id": 260820547692,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer",
+                "lisa"
+            ]
         },
         {
             "title": "Principal Charming",
@@ -278,7 +302,11 @@
             "description": "Homer arranges a date between Principal Skinner and Marge's sister, Selma.",
             "simpsonsworld_id": 263496771968,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer",
+                "skinner",
+                "selma"
+            ]
         },
         {
             "title": "Oh Brother, Where Art Thou?",
@@ -287,7 +315,9 @@
             "description": "Homer locates his long lost half brother Herb and discovers that he is rich.",
             "simpsonsworld_id": 1094123587812,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Bart's Dog Gets an F",
@@ -296,7 +326,10 @@
             "description": "Bart must help train Santa's Little Helper to pass an obedience course or Homer will give the dog away.",
             "simpsonsworld_id": 272034883946,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart",
+                "santas_little_helper"
+            ]
         },
         {
             "title": "Old Money",
@@ -305,7 +338,9 @@
             "description": "Grampa Simpson falls in love... and inherits a fortune.",
             "simpsonsworld_id": 263504963955,
             "good": false,
-            "characters": null
+            "characters": [
+                "grandpa"
+            ]
         },
         {
             "title": "Brush with Greatness",
@@ -314,7 +349,10 @@
             "description": "Marge renews her interest in becoming an artist after Homer finds an old painting of Ringo Starr in the attic.  Mr. Burns commissions Marge to paint a portrait of him.",
             "simpsonsworld_id": 1094212163883,
             "good": true,
-            "characters": null
+            "characters": [
+                "marge",
+                "mr_burns"
+            ]
         },
         {
             "title": "Lisa's Substitute",
@@ -323,7 +361,9 @@
             "description": "Lisa develops a crush on her substitute teacher, Mr. Bergstrom.  Bergstrom tells Homer he must learn to act as a positive role model for his daughter.",
             "simpsonsworld_id": 288011331912,
             "good": true,
-            "characters": null
+            "characters": [
+                "lisa"
+            ]
         },
         {
             "title": "The War of the Simpsons",
@@ -332,7 +372,10 @@
             "description": "Marge insists Homer accompany her for a weekend of marriage counseling at a wooded retreat, but Homer takes advantage of the location to attempt to catch a legendary catfish.",
             "simpsonsworld_id": 272040003661,
             "good": true,
-            "characters": null
+            "characters": [
+                "marge",
+                "homer"
+            ]
         },
         {
             "title": "Three Men and a Comic Book",
@@ -341,7 +384,11 @@
             "description": "Bart and his friends pool their money to purchase the first issue of \"Radioactive Man\" comics, but then cannot decide who gets to keep it.",
             "simpsonsworld_id": 310368835964,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart",
+                "milhouse",
+                "martin"
+            ]
         },
         {
             "title": "Blood Feud",
@@ -350,7 +397,10 @@
             "description": "Homer expects a generous gift in return when he donates Bart's blood to an ailing Mr. Burns.",
             "simpsonsworld_id": 272041539932,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer",
+                "mr_burns"
+            ]
         },
         {
             "title": "Stark Raving Dad",
@@ -359,7 +409,9 @@
             "description": "Homer is institutionalized after Bart fills out his sanity test.  A man who thinks he is Michael Jackson helps Bart write a song for Lisa when he forgets her birthday.",
             "simpsonsworld_id": 272234051980,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Mr. Lisa Goes to Washington",
@@ -368,7 +420,9 @@
             "description": "The Simpsons travel to the Nation's Capitol when Lisa becomes a semifinalist in an essay contest on patriotism.",
             "simpsonsworld_id": 275196995796,
             "good": true,
-            "characters": null
+            "characters": [
+                "lisa"
+            ]
         },
         {
             "title": "When Flanders Failed",
@@ -377,7 +431,10 @@
             "description": "Ned Flanders opens a store for left-handed people and Homer is overjoyed when it performs poorly.",
             "simpsonsworld_id": 272051267562,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer",
+                "flanders"
+            ]
         },
         {
             "title": "Bart the Murderer",
@@ -386,7 +443,10 @@
             "description": "Bart fraternizes with a gang of mobsters and becomes the prime suspect when Principal Skinner mysteriously disappears.",
             "simpsonsworld_id": 288015427922,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart",
+                "fat_tony"
+            ]
         },
         {
             "title": "Homer Defined",
@@ -395,7 +455,9 @@
             "description": "Homer becomes a hero when he averts a catastrophe at the power plant, but what is perceived as his skill of being a quick thinker is actually dumb luck.",
             "simpsonsworld_id": 256843843704,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Like Father, Like Clown",
@@ -404,7 +466,11 @@
             "description": "Bart and Lisa scheme to reunite Krusty the Clown with his father, Rabbi Krustofsky, who disowned him for not carrying on the family tradition.",
             "simpsonsworld_id": 256874051703,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart",
+                "lisa",
+                "krusty"
+            ]
         },
         {
             "title": "Treehouse of Horror II",
@@ -424,7 +490,10 @@
             "description": "Homer realizes that he never shows Lisa the attention she deserves and buys her a pony.",
             "simpsonsworld_id": 310374467809,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "lisa"
+            ]
         },
         {
             "title": "Saturdays of Thunder",
@@ -433,7 +502,10 @@
             "description": "Realizing he has not been a good father to Bart, Homer aids his son in building a soap box racer.",
             "simpsonsworld_id": 256898115598,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart",
+                "homer"
+            ]
         },
         {
             "title": "Flaming Moe's",
@@ -442,7 +514,10 @@
             "description": "Homer gives Moe the recipe for a unique alcoholic drink, and when it turns into a sensation, Moe takes credit, and the profits, from its success.",
             "simpsonsworld_id": 305663555961,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer",
+                "moe"
+            ]
         },
         {
             "title": "Burns Verkaufen der Kraftwerk",
@@ -451,7 +526,9 @@
             "description": "Homer is fired from his job when a German firm buys the power plant from Mr. Burns.",
             "simpsonsworld_id": 310380099512,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "I Married Marge",
@@ -469,7 +546,9 @@
             "description": "Using his Superstar Celebrity microphone, Bart tricks all of Springfield into believing that a child has fallen down a well.  But when he falls into the same well, Bart cannot get anyone to save him.",
             "simpsonsworld_id": 272052803895,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Lisa the Greek",
@@ -478,7 +557,10 @@
             "description": "Lisa accurately predicts the winners of sporting events that Homer gambles on so she can be closer to her father.",
             "simpsonsworld_id": 273404483565,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer",
+                "lisa"
+            ]
         },
         {
             "title": "Homer Alone",
@@ -487,7 +569,10 @@
             "description": "When Marge reaches the breaking point, she leaves for a much needed vacation, leaving the rest of the family to realize how much she does for them.",
             "simpsonsworld_id": 272224835795,
             "good": false,
-            "characters": null
+            "characters": [
+                "marge",
+                "simpsons"
+            ]
         },
         {
             "title": "Bart the Lover",
@@ -5851,6 +5936,10 @@
             "name": "Ensemble"
         },
         {
+            "short_name": "fat_tony",
+            "name": "Fat Tony"
+        },
+        {
             "short_name": "flanders",
             "name": "Full Flanders family"
         },
@@ -5933,6 +6022,10 @@
         {
             "short_name": "rod",
             "name": "Rod Flanders"
+        },
+        {
+            "short_name": "santas_little_helper",
+            "full_name": "Santa's Little Helper"
         },
         {
             "short_name": "selma",
