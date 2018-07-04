@@ -4,3 +4,7 @@ characters:
   name: Mr. Burns
 - short_name: smithers
   name: Waylon Smithers
+- short_name: lenny
+  name: Lenny Leonard
+- short_name: carl
+  name: Carl Carlson

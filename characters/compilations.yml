@@ -4,7 +4,11 @@ characters:
   name: Ensemble
 - short_name: clip_show
   name: Clip show
-- short_name: family
+- short_name: simpsons
   name: Full Simpsons family
+- short_name: flanders
+  name: Full Flanders family
 - short_name: treehouse_of_horror
   name: Treehouse of Horror
+- short_name: bullies
+  name: Springfield School Bullies

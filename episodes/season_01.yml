@@ -8,6 +8,7 @@ episodes:
   simpsonsworld_id: 273376835817
   good: false
   characters:
+    - homer
 - title: Bart The Genius
   season: 1
   episode: 2
@@ -16,6 +17,7 @@ episodes:
   simpsonsworld_id: 283744835990
   good: false
   characters:
+    - bart
 - title: Homer's Odyssey
   season: 1
   episode: 3
@@ -24,6 +26,7 @@ episodes:
   simpsonsworld_id: 273381443699
   good: false
   characters:
+    - homer
 - title: There's No Disgrace Like Home
   season: 1
   episode: 4
@@ -33,6 +36,8 @@ episodes:
   simpsonsworld_id: 273392195780
   good: true
   characters:
+    - simpsons
+    - homer
 - title: Bart the General
   season: 1
   episode: 5
@@ -41,6 +46,8 @@ episodes:
   simpsonsworld_id: 300934723994
   good: false
   characters:
+    - bart
+    - grandpa
 - title: Moaning Lisa
   season: 1
   episode: 6
@@ -48,6 +55,8 @@ episodes:
   simpsonsworld_id: 273391683535
   good: false
   characters:
+    - lisa
+    - bleeding_gums_murphy
 - title: The Call of the Simpsons
   season: 1
   episode: 7
@@ -56,6 +65,8 @@ episodes:
   simpsonsworld_id: 273396803837
   good: false
   characters:
+    - homer
+    - bart
 - title: The Telltale Head
   season: 1
   episode: 8
@@ -64,6 +75,8 @@ episodes:
   simpsonsworld_id: 305663555641
   good: true
   characters:
+    - bart
+    - bullies
 - title: Life on the Fast Lane
   season: 1
   episode: 9
@@ -72,6 +85,7 @@ episodes:
   simpsonsworld_id: 280384579592
   good: false
   characters:
+    - marge
 - title: Homer's Night Out
   season: 1
   episode: 10
@@ -81,6 +95,8 @@ episodes:
   simpsonsworld_id: 275197507879
   good: false
   characters:
+    - homer
+    - marge
 - title: The Crepes of Wrath
   season: 1
   episode: 11
@@ -89,6 +105,7 @@ episodes:
   simpsonsworld_id: 306382403766
   good: true
   characters:
+    - bart
 - title: Krusty Gets Busted
   season: 1
   episode: 12
@@ -97,6 +114,8 @@ episodes:
   simpsonsworld_id: 288019523914
   good: true
   characters:
+    - krusty
+    - sideshow_bob
 - title: Some Enchanted Evening
   season: 1
   episode: 13
@@ -105,3 +124,4 @@ episodes:
   simpsonsworld_id: 274504771647
   good: false
   characters:
+    - simpsons
