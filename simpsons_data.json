@@ -1809,7 +1809,7 @@
             "episode": 16,
             "description": "When Moe goes broke romancing his new love, he enlists Homer in a scheme to collect on an insurance policy.",
             "simpsonsworld_id": 283910211639,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -1917,7 +1917,7 @@
             "episode": 3,
             "description": "Bart tends to a nest filled with eggs after he inadvertently kills a bird with a BB gun.",
             "simpsonsworld_id": 473109571557,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2016,7 +2016,7 @@
             "episode": 14,
             "description": "Apu showers his wife with Valentine's Day surprises making men throughout Springfield look like cheapskates.",
             "simpsonsworld_id": 473104963819,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -2025,7 +2025,7 @@
             "episode": 15,
             "description": "Marge discovers the pleasures of driving a sport utility vehicle until aggressive highway habits cost her.",
             "simpsonsworld_id": 473097795997,
-            "good": false,
+            "good": true,
             "characters": null
         },
         {
@@ -5730,54 +5730,12 @@
     ],
     "characters": [
         {
-            "short_name": "Bart",
-            "name": "Bart Simpson",
-            "core_family": true
+            "short_name": "bart",
+            "name": "Bart Simpson"
         },
         {
-            "short_name": "Grandma Simpson",
-            "full_name": "Mona Simpson",
-            "core_family": false
-        },
-        {
-            "short_name": "Grandpa Simpson",
-            "full_name": "Abraham Jebendiah Simpson",
-            "core_family": false
-        },
-        {
-            "short_name": "Homer",
-            "name": "Homer Jay Simpson",
-            "core_family": true
-        },
-        {
-            "short_name": "Kirk",
-            "name": "Kirk Van Houten",
-            "core_family": false
-        },
-        {
-            "short_name": "Lisa",
-            "name": "Lisa Simpson",
-            "core_family": true
-        },
-        {
-            "short_name": "LuAnn",
-            "name": "LuAnn Van Houten",
-            "core_family": false
-        },
-        {
-            "short_name": "Maggie",
-            "name": "Margaret Evelyn Simpson",
-            "core_family": true
-        },
-        {
-            "short_name": "Marge",
-            "name": "Marjorie Jacqueline Simpson",
-            "core_family": true
-        },
-        {
-            "short_name": "Milhouse",
-            "name": "Milhouse Van Houten",
-            "core_family": false
+            "short_name": "chalmers",
+            "name": "Superintendent Chalmers"
         },
         {
             "short_name": "clip_show",
@@ -5796,12 +5754,48 @@
             "name": "Full Simpsons family"
         },
         {
+            "short_name": "grandma_simpson",
+            "full_name": "Mona Simpson"
+        },
+        {
+            "short_name": "grandpa_simpson",
+            "full_name": "Abraham Jebediah Simpson"
+        },
+        {
+            "short_name": "homer",
+            "name": "Homer Jay Simpson"
+        },
+        {
+            "short_name": "kirk",
+            "name": "Kirk Van Houten"
+        },
+        {
             "short_name": "krusty",
             "name": "Krusty the Clown"
         },
         {
+            "short_name": "lisa",
+            "name": "Lisa Simpson"
+        },
+        {
+            "short_name": "luann",
+            "name": "LuAnn Van Houten"
+        },
+        {
+            "short_name": "maggie",
+            "name": "Margaret Evelyn Simpson"
+        },
+        {
+            "short_name": "marge",
+            "name": "Marjorie Jacqueline Simpson"
+        },
+        {
             "short_name": "maude",
             "name": "Maude Flanders"
+        },
+        {
+            "short_name": "milhouse",
+            "name": "Milhouse Van Houten"
         },
         {
             "short_name": "mr_burns",
@@ -5826,6 +5820,10 @@
         {
             "short_name": "sideshow_bob",
             "name": "Sideshow Bob Roberts"
+        },
+        {
+            "short_name": "sideshow_mel",
+            "name": "Sideshow Mel"
         },
         {
             "short_name": "skinner",

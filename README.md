@@ -39,8 +39,8 @@ Here's what's done so far:
 * **Season 6**: Episodes cataloged; Characters uncataloged
 * **Season 7**: Episodes cataloged; Characters uncataloged
 * **Season 8**: Episodes cataloged; Characters uncataloged
-* **Season 9**: Episodes uncataloged; Characters uncataloged
-* **Season 10**: Episodes uncataloged; Characters uncataloged
+* **Season 9**: Episodes cataloged; Characters uncataloged
+* **Season 10**: Episodes cataloged; Characters uncataloged
 * **Season 11**: Episodes uncataloged; Characters uncataloged
 * **Season 12**: Episodes uncataloged; Characters uncataloged
 * **Season 13**: Episodes uncataloged; Characters uncataloged

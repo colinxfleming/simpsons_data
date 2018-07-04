@@ -122,7 +122,7 @@ episodes:
   description: When Moe goes broke romancing his new love, he enlists Homer in a scheme
     to collect on an insurance policy.
   simpsonsworld_id: 283910211639
-  good: maybe
+  good: true
   characters:
 - title: Lisa the Simpson
   season: 9
@@ -137,7 +137,7 @@ episodes:
   episode: 18
   description: Bart is appalled when Marge pairs him with Ralph Wiggum.
   simpsonsworld_id: 299639875678
-  good: maybe
+  good: false
   characters:
 - title: Simpson Tide
   season: 9
