@@ -7,7 +7,9 @@
             "description": "Homer decides to gamble on a \"hunch\" at the dog track when his annual Christmas bonus is canceled.",
             "simpsonsworld_id": 273376835817,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Bart The Genius",
@@ -16,7 +18,9 @@
             "description": "Bart is believed to be a genius after he switches I.Q. tests with brainy Martin Prince.",
             "simpsonsworld_id": 283744835990,
             "good": false,
-            "characters": null
+            "characters": [
+                "bart"
+            ]
         },
         {
             "title": "Homer's Odyssey",
@@ -25,7 +29,9 @@
             "description": "Fired from his job at the Nuclear Power Plant, Homer decides to embark on a campaign to make all of Springfield safer.",
             "simpsonsworld_id": 273381443699,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "There's No Disgrace Like Home",
@@ -34,7 +40,10 @@
             "description": "After attending the annual company picnic, Homer becomes jealous of fellow employees with 'normal' families.  He decides to enlist the aid of psychologist Marvin Monroe to treat his wife and children.",
             "simpsonsworld_id": 273392195780,
             "good": true,
-            "characters": null
+            "characters": [
+                "simpsons",
+                "homer"
+            ]
         },
         {
             "title": "Bart the General",
@@ -43,7 +52,10 @@
             "description": "Grandpa Simpson aids Bart in his war against a school bully and his gang.",
             "simpsonsworld_id": 300934723994,
             "good": false,
-            "characters": null
+            "characters": [
+                "bart",
+                "grandpa"
+            ]
         },
         {
             "title": "Moaning Lisa",
@@ -52,7 +64,10 @@
             "description": "Lisa befriends a saxophone player when she develops a case of the blues.",
             "simpsonsworld_id": 273391683535,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa",
+                "bleeding_gums_murphy"
+            ]
         },
         {
             "title": "The Call of the Simpsons",
@@ -61,7 +76,10 @@
             "description": "Homer is mistaken for Bigfoot when he takes his family on a trip into the wilderness in their new camper.",
             "simpsonsworld_id": 273396803837,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "bart"
+            ]
         },
         {
             "title": "The Telltale Head",
@@ -70,7 +88,10 @@
             "description": "Bart attempts to impress his new friends by vandalizing a statue of the town's founding father, Jebediah Springfield.",
             "simpsonsworld_id": 305663555641,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart",
+                "bullies"
+            ]
         },
         {
             "title": "Life on the Fast Lane",
@@ -79,7 +100,9 @@
             "description": "Marge contemplates having an affair with a local womanizer after Homer selfishly buys her a bowling ball for her birthday.",
             "simpsonsworld_id": 280384579592,
             "good": false,
-            "characters": null
+            "characters": [
+                "marge"
+            ]
         },
         {
             "title": "Homer's Night Out",
@@ -88,7 +111,10 @@
             "description": "Bart photographs Homer with belly-dancer Princess Kashmir.  Marge will only forgive her husband when he proves to Bart that all women are not merely sexual objects.",
             "simpsonsworld_id": 275197507879,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "The Crepes of Wrath",
@@ -97,7 +123,9 @@
             "description": "To Homer's delight, Bart is sent to France for the summer as part of a student exchange program.",
             "simpsonsworld_id": 306382403766,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart"
+            ]
         },
         {
             "title": "Krusty Gets Busted",
@@ -106,7 +134,10 @@
             "description": "When Homer positively identifies Krusty the Clown as an armed robber, Bart attempts to clear his idol's name.",
             "simpsonsworld_id": 288019523914,
             "good": true,
-            "characters": null
+            "characters": [
+                "krusty",
+                "sideshow_bob"
+            ]
         },
         {
             "title": "Some Enchanted Evening",
@@ -115,7 +146,9 @@
             "description": "Marge and Homer unwittingly leave their children in the care of a villainous babysitter when they attempt to rekindle their marriage.",
             "simpsonsworld_id": 274504771647,
             "good": false,
-            "characters": null
+            "characters": [
+                "simpsons"
+            ]
         },
         {
             "title": "Bart Gets an F",
@@ -133,7 +166,9 @@
             "description": "Homer's life changes dramatically when he purchases a miracle hair growth formula.",
             "simpsonsworld_id": 260539971564,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Treehouse of Horror",
@@ -142,7 +177,9 @@
             "description": "The Simpsons tell three bloodcurdling tales of horror on Halloween night.",
             "simpsonsworld_id": 260538435884,
             "good": true,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Two Cars in Every Garage and Three Eyes on Every Fish",
@@ -376,7 +413,9 @@
             "description": "The Simpsons eat too much candy on Halloween and experience nightmarish tales of horror while they sleep.",
             "simpsonsworld_id": 272054339616,
             "good": true,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Lisa's Pony",
@@ -574,7 +613,9 @@
             "description": "During a Halloween party, the Simpsons tell three horrifying tales of the macabre.",
             "simpsonsworld_id": 305668675610,
             "good": true,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Itchy and Scratchy: The Movie",
@@ -772,7 +813,9 @@
             "description": "In a ghoulish gallery, Bart hosts three bloodcurdling tales of Halloween horror.",
             "simpsonsworld_id": 275206211805,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Marge on the Lam",
@@ -1270,7 +1313,9 @@
             "description": "The Simpsons appear in three horrifying Halloween tales.",
             "simpsonsworld_id": 310404163601,
             "good": true,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "King-Size Homer",
@@ -1450,7 +1495,9 @@
             "description": "The Simpsons appear in three tales of terror: Bart discovers an evil twin brother living in the attic; Lisa creates a microscopic society; and space aliens transform themselves into Clinton and Dole look-alikes.",
             "simpsonsworld_id": 299625027835,
             "good": true,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "You Only Move Twice",
@@ -1702,7 +1749,9 @@
             "description": "Homer battles killer mutants after Springfield is destroyed by a nuclear blast; a matter- transportation device melds Bart with a housefly; in Colonial times, Marge is accused of being a witch.",
             "simpsonsworld_id": 279170627965,
             "good": true,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "The Cartridge Family",
@@ -1927,7 +1976,9 @@
             "description": "An evil toupee possesses Homer; Bart and Lisa find themselves trapped inside an Itchy & Scratchy cartoon; baby Maggie turns out to be the daughter of a space alien.",
             "simpsonsworld_id": 473130051681,
             "good": true,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "When You Dish Upon a Star",
@@ -2134,7 +2185,9 @@
             "description": "Homer's Y2K error plunges the Earth into chaos; Bart and Lisa become superheroes and attempt to save Lucy Lawless from a super-villain; someone terrorizes the family after Marge kills Ned Flanders.",
             "simpsonsworld_id": 307851843709,
             "good": true,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "E-I-E-I-(Annoyed Grunt)",
@@ -2305,7 +2358,9 @@
             "description": "On Halloween... a deceased Homer must perform one good deed to get into heaven; angry dolphins launch an attack against the people of Springfield; Bart and Lisa encounter characters from fairy tales.",
             "simpsonsworld_id": 294765123660,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "A Tale of Two Springfields",
@@ -2494,7 +2549,9 @@
             "description": "On Halloween, the Simpsons are menaced by a computer controlling an automated house; a gypsy curses Homer; Lisa and Bart find themselves in a Harry Potter-like adventure.",
             "simpsonsworld_id": 307115075729,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "The Parent Rap",
@@ -2692,7 +2749,9 @@
             "description": "On Halloween, Homer's evil hammock produces an army of Homer clones; zombie cowboys threaten to destroy Springfield after Lisa outlaws guns; the Simpsons travel to an island inhabited by 'manimals.'",
             "simpsonsworld_id": 221301315863,
             "good": true,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "How I Spent My Strummer Vacation",
@@ -2890,7 +2949,9 @@
             "description": "On Halloween, Homer takes over for the Grim Reaper and discovers Marge's name on his list; Professor Frink reanimates his father's corpse; Bart and Milhouse play pranks with a watch that can stop time.",
             "simpsonsworld_id": 227335747784,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "My Mother the Carjacker",
@@ -3088,7 +3149,9 @@
             "description": "On Halloween... Flanders can predict when people will die; in Victorian London, Lisa and Bart hunt for a killer; the Simpsons take a fantastic voyage after Mr. Burns swallows a miniaturized Maggie.",
             "simpsonsworld_id": 256741955834,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "All's Fair in Oven War",
@@ -3304,7 +3367,9 @@
             "description": "On Halloween, Bart is replaced by a robotic boy after he falls into a coma; Burns hunts down Homer in a most dangerous game; a witch transforms trick-or-treaters into the costumes they're wearing.",
             "simpsonsworld_id": 310466627927,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Marge's Son Poisoning",
@@ -3502,7 +3567,9 @@
             "description": "The Simpsons appear in three tales of horror: Homer turns into a rampaging blob; a creature from Jewish folklore does Bart's bidding; a radio broadcast convinces townspeople they're being invaded by aliens.",
             "simpsonsworld_id": 302871107984,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "G.I. (Annoyed Grunt)",
@@ -3709,7 +3776,9 @@
             "description": "In three tales of Halloween terror: Homer and Marge attempt to eliminate one another after discovering their secret identities; Bart and Lisa aid Kodos the space alien; Flanders uses the seven deadly sins to punish Bart.",
             "simpsonsworld_id": 302852163741,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Little Orphan Millie",
@@ -3880,7 +3949,9 @@
             "description": "On Halloween... Transformer-like robots duke it out in Springfield; Homer kills off celebrities so their likenesses can be exploited; the Simpsons appear in a spoof of a 'Peanuts' Halloween special.",
             "simpsonsworld_id": 691895363987,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Dangerous Curves",
@@ -4069,7 +4140,9 @@
             "description": "Classic movie monsters are attacked by their spouses; Lisa and Bart exchange murders in a Hitchcock spoof; Bart is the key to saving Springfield from zombies; Moe's microbrewery mixes beer with Homer's blood.",
             "simpsonsworld_id": 262634051998,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "The Devil Wears Nada",
@@ -4276,7 +4349,9 @@
             "description": "Bart and Milhouse use their videogame skills to save Springfield; in a 'Dead Calm' spoof a vacationing Homer and Marge rescue a stranger who may be a murderer; Lisa falls for a hunky vampire in a spoof of 'Twilight'.",
             "simpsonsworld_id": 263577155794,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Lisa Simpson, This Isn't Your Life",
@@ -4465,7 +4540,9 @@
             "description": "In three terrifying Halloween tales... Homer discovers a unique way to communicate with his family; a spoof of 'Dexter' features Homer tricking Flanders; a spoof of the movie 'Avatar' features Bart as a tentacled alien.",
             "simpsonsworld_id": 230493251807,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Replaceable You",
@@ -4654,7 +4731,9 @@
             "description": "In these three Halloween tales... a black hole threatens to destroy Springfield; the Simpsons are terrorized by the unknown in a spoof of 'Paranormal Activity'; Bart time travels in a spoof of 'Back to the Future.'",
             "simpsonsworld_id": 221695555645,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Adventures in Baby-getting",
@@ -4852,7 +4931,9 @@
             "description": "In three terrifying Halloween tales, Bart, Lisa and Maggie receive a visit from The Fat in the Hat; when Bart is decapitated, his head is sewn onto Lisa's body; Homer plots to kill Moe at a circus freak show.",
             "simpsonsworld_id": 310259779794,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Four Regrettings and a Funeral",
@@ -5077,7 +5158,9 @@
             "description": "Don't miss the all-new, spooktacular Halloween special, \"Treehouse of Horror XXV.\"",
             "simpsonsworld_id": 344255555880,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Opposites-A-Frack",
@@ -5284,7 +5367,9 @@
             "description": "After killing Bart, Sideshow Bob doesn't know what to do with himself; Homer wakes up with short-term memory loss; Because of radiation, Lisa, Bart and Milhouse gain super-powers.",
             "simpsonsworld_id": 770433091920,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Friend with Benefit",
@@ -5443,7 +5528,7 @@
             "title": "Monty Burns' Fleeing Circus",
             "season": 28,
             "episode": 1,
-            "description": "Mr. Burns puts on a variety show at the Springfield Bowl. Presented by FXX.",
+            "description": "Mr. Burns puts on a variety show at the Springfield Bowl.",
             "simpsonsworld_id": 1066704963871,
             "good": false,
             "characters": null
@@ -5452,7 +5537,7 @@
             "title": "Friends and Family",
             "season": 28,
             "episode": 2,
-            "description": "Homer finds a new friend in a woman who acts just like him when Mr. Burns hires the other Simpsons as his live-in virtual reality family. Presented by FXX.",
+            "description": "Homer finds a new friend in a woman who acts just like him when Mr. Burns hires the other Simpsons as his live-in virtual reality family.",
             "simpsonsworld_id": 1064038980002,
             "good": false,
             "characters": null
@@ -5473,7 +5558,9 @@
             "description": "The children of Springfield fight to the death, Hunger Games style; Lisa's imaginary friend kills her real friends; Moe recruits Bart into his group of covert barfly agents.",
             "simpsonsworld_id": 1063870531930,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Trust but Clarify",
@@ -5662,7 +5749,9 @@
             "description": "Maggie's body is overwhelmed by the malice of an ancient demon; in an alternate dimension, Lisa stumbles upon a disturbingly perfect version of her family.",
             "simpsonsworld_id": 1078509635693,
             "good": false,
-            "characters": null
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Grampy Can Ya Hear Me",
@@ -5734,6 +5823,18 @@
             "name": "Bart Simpson"
         },
         {
+            "short_name": "bleeding_gums_murphy",
+            "name": "Bleeding Gums Murphy"
+        },
+        {
+            "short_name": "bullies",
+            "name": "Springfield School Bullies"
+        },
+        {
+            "short_name": "carl",
+            "name": "Carl Carlson"
+        },
+        {
             "short_name": "chalmers",
             "name": "Superintendent Chalmers"
         },
@@ -5750,8 +5851,8 @@
             "name": "Ensemble"
         },
         {
-            "short_name": "family",
-            "name": "Full Simpsons family"
+            "short_name": "flanders",
+            "name": "Full Flanders family"
         },
         {
             "short_name": "grandma_simpson",
@@ -5774,6 +5875,10 @@
             "name": "Krusty the Clown"
         },
         {
+            "short_name": "lenny",
+            "name": "Lenny Leonard"
+        },
+        {
             "short_name": "lisa",
             "name": "Lisa Simpson"
         },
@@ -5790,12 +5895,20 @@
             "name": "Marjorie Jacqueline Simpson"
         },
         {
+            "short_name": "martin",
+            "name": "Martin Prince"
+        },
+        {
             "short_name": "maude",
             "name": "Maude Flanders"
         },
         {
             "short_name": "milhouse",
             "name": "Milhouse Van Houten"
+        },
+        {
+            "short_name": "moe",
+            "name": "Moe Szyslak"
         },
         {
             "short_name": "mr_burns",
@@ -5806,8 +5919,16 @@
             "name": "Nedward Flanders"
         },
         {
+            "short_name": "nelson",
+            "name": "Nelson Muntz"
+        },
+        {
             "short_name": "patty",
             "name": "Patty Bouvier"
+        },
+        {
+            "short_name": "ralph",
+            "name": "Ralph Wiggum"
         },
         {
             "short_name": "rod",
@@ -5824,6 +5945,10 @@
         {
             "short_name": "sideshow_mel",
             "name": "Sideshow Mel"
+        },
+        {
+            "short_name": "simpsons",
+            "name": "Full Simpsons family"
         },
         {
             "short_name": "skinner",
