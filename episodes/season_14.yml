@@ -34,8 +34,12 @@ episodes:
     surgery resulting in larger breasts; Bart and Milhouse get into mischief that
     leads to a public relations nightmare for Krusty.
   simpsonsworld_id: 221352515586
-  good: maybe
+  good: false
   characters:
+    - marge
+    - krusty
+    - bart
+    - milhouse
 - title: Helter Shelter
   season: 14
   episode: 5
@@ -68,8 +72,10 @@ episodes:
   description: Homer hires a shady private investigator to spy on Lisa when he realizes
     he doesn't know very much about his daughter.
   simpsonsworld_id: 221531715548
-  good: maybe
+  good: true
   characters:
+    - homer
+    - lisa
 - title: The Strong Arms of The Ma
   season: 14
   episode: 9

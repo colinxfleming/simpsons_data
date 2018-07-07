@@ -2863,7 +2863,12 @@
             "description": "Marge's life changes dramatically when her attempt to lose weight via surgery resulting in larger breasts; Bart and Milhouse get into mischief that leads to a public relations nightmare for Krusty.",
             "simpsonsworld_id": 221352515586,
             "good": false,
-            "characters": null
+            "characters": [
+                "marge",
+                "krusty",
+                "bart",
+                "milhouse"
+            ]
         },
         {
             "title": "Helter Shelter",
@@ -2898,8 +2903,11 @@
             "episode": 8,
             "description": "Homer hires a shady private investigator to spy on Lisa when he realizes he doesn't know very much about his daughter.",
             "simpsonsworld_id": 221531715548,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "homer",
+                "lisa"
+            ]
         },
         {
             "title": "The Strong Arms of The Ma",
