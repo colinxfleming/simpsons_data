@@ -26,8 +26,10 @@ episodes:
     a better place to learn.  But Skinner tricks her into cutting well-liked programs...
     prompting Lisa to call a general student strike.
   simpsonsworld_id: 227348035643
-  good: maybe
+  good: false
   characters:
+    - lisa
+    - skinner
 - title: The Regina Monologues
   season: 15
   episode: 4
@@ -36,6 +38,7 @@ episodes:
   simpsonsworld_id: 227349059824
   good: maybe
   characters:
+    - simpsons
 - title: The Fat and the Furriest
   season: 15
   episode: 5
@@ -45,6 +48,7 @@ episodes:
   simpsonsworld_id: 227355715580
   good: maybe
   characters:
+    - homer
 - title: Today I am a Clown
   season: 15
   episode: 6
@@ -54,6 +58,8 @@ episodes:
   simpsonsworld_id: 227360323557
   good: maybe
   characters:
+    - krusty
+    - homer
 - title: "'Tis the Fifteenth Season"
   season: 15
   episode: 7
@@ -61,8 +67,10 @@ episodes:
     after watching an animated version of A Christmas Carol on television.  But Flanders
     find it impossible to live as the second-nicest-guy in town.
   simpsonsworld_id: 227364931670
-  good: maybe
+  good: false
   characters:
+    - homer
+    - ned
 - title: Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays
   season: 15
   episode: 8
@@ -71,6 +79,7 @@ episodes:
   simpsonsworld_id: 227369027832
   good: maybe
   characters:
+    - marge
 - title: I, (Annoyed Grunt)-Bot
   season: 15
   episode: 9
@@ -78,16 +87,21 @@ episodes:
     the device to make it work; Lisa searches for a replacement for Snowball II when
     the cat is run over by a car.
   simpsonsworld_id: 227376707538
-  good: maybe
+  good: false
   characters:
+    - homer
+    - bart
+    - lisa
 - title: Diatribe of a Mad Housewife
   season: 15
   episode: 10
   description: Homer buys an ambulance and starts responding to medical emergencies;
     Marge authors her own romance novel.
   simpsonsworld_id: 227378755925
-  good: maybe
+  good: true
   characters:
+    - homer
+    - marge
 - title: Margical History Tour
   season: 15
   episode: 11
@@ -95,15 +109,16 @@ episodes:
     Henry the Eighth and his quest for a son; Sacagawea''s journey with Lewis and
     Clark; and the rivalry between Mozart and Salieri.'
   simpsonsworld_id: 227386947567
-  good: maybe
+  good: false
   characters:
+    - vignettes
 - title: Milhouse Doesn't Live Here Anymore
   season: 15
   episode: 12
   description: When Milhouse and his mother relocate to Capital City, Bart strikes
     up a friendship with Lisa; Homer makes money by pretending to be a transient.
   simpsonsworld_id: 227392067706
-  good: maybe
+  good: true
   characters:
 - title: Smart and Smarter
   season: 15
@@ -111,8 +126,9 @@ episodes:
   description: Lisa searches for a new identity when baby Maggie turns out to be smarter
     than her.
   simpsonsworld_id: 229331523584
-  good: maybe
+  good: true
   characters:
+    - lisa
 - title: The Ziff Who Came to Dinner
   season: 15
   episode: 14
