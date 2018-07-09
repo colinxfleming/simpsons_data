@@ -152,16 +152,20 @@ episodes:
   description: Bart's latest prank lands him in juvenile prison, where a tough girl
     forces him to go on the lam.
   simpsonsworld_id: 227402307606
-  good: maybe
+  good: true
   characters:
+    - bart
 - title: My Big Fat Geek Wedding
   season: 15
   episode: 17
   description: Mrs. Krabappel dumps Principal Skinner at the altar and has a passionate
     affair with the Comic Book Guy.
   simpsonsworld_id: 227423299561
-  good: maybe
+  good: false
   characters:
+    - skinner
+    - edna
+    - comic_book_guy
 - title: Catch 'Em If You Can
   season: 15
   episode: 18
@@ -176,8 +180,10 @@ episodes:
   description: Homer confronts evildoers in the form of his crime-fighting alter ego,
     the Pie Man-until Mr. Burns blackmails him into throwing a pie at the Dalai Lama.
   simpsonsworld_id: 227327555884
-  good: maybe
+  good: false
   characters:
+    - homer
+    - mr_burns
 - title: The Way We Weren't
   season: 15
   episode: 20

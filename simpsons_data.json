@@ -3204,8 +3204,10 @@
             "episode": 16,
             "description": "Bart's latest prank lands him in juvenile prison, where a tough girl forces him to go on the lam.",
             "simpsonsworld_id": 227402307606,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "bart"
+            ]
         },
         {
             "title": "My Big Fat Geek Wedding",
@@ -3214,7 +3216,11 @@
             "description": "Mrs. Krabappel dumps Principal Skinner at the altar and has a passionate affair with the Comic Book Guy.",
             "simpsonsworld_id": 227423299561,
             "good": false,
-            "characters": null
+            "characters": [
+                "skinner",
+                "edna",
+                "comic_book_guy"
+            ]
         },
         {
             "title": "Catch 'Em If You Can",
@@ -3232,7 +3238,10 @@
             "description": "Homer confronts evildoers in the form of his crime-fighting alter ego, the Pie Man-until Mr. Burns blackmails him into throwing a pie at the Dalai Lama.",
             "simpsonsworld_id": 227327555884,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "mr_burns"
+            ]
         },
         {
             "title": "The Way We Weren't",
@@ -5962,6 +5971,10 @@
             "name": "Clip show"
         },
         {
+            "short_name": "comic_book_guy",
+            "name": "Comic Book Guy"
+        },
+        {
             "short_name": "edna",
             "name": "Edna Krabapple"
         },
@@ -6035,7 +6048,7 @@
         },
         {
             "short_name": "mr_burns",
-            "name": "Mr. Burns"
+            "name": "Mr. C. Montgomery Burns"
         },
         {
             "short_name": "ned",
