@@ -42,6 +42,8 @@ episodes:
   simpsonsworld_id: 311670339999
   good: false
   characters:
+    - homer
+    - mr_burns
 - title: The Computer Wore Menace Shoes
   season: 12
   episode: 6
@@ -50,6 +52,7 @@ episodes:
   simpsonsworld_id: 302843971598
   good: false
   characters:
+    - homer
 - title: The Great Money Caper
   season: 12
   episode: 7
@@ -58,6 +61,8 @@ episodes:
   simpsonsworld_id: 304456259863
   good: true
   characters:
+    - homer
+    - bart
 - title: Skinner's Sense of Snow
   season: 12
   episode: 8
@@ -75,6 +80,8 @@ episodes:
   simpsonsworld_id: 306945603638
   good: true
   characters:
+    - homer
+    - lisa
 - title: Pokey Mom
   season: 12
   episode: 10
@@ -84,6 +91,8 @@ episodes:
   simpsonsworld_id: 302844995961
   good: maybe
   characters:
+    - marge
+    - skinner
 - title: Worst Episode Ever
   season: 12
   episode: 11
@@ -92,6 +101,9 @@ episodes:
   simpsonsworld_id: 310459971509
   good: true
   characters:
+    - bart
+    - milhouse
+    - comic_book_guy
 - title: Tennis the Menace
   season: 12
   episode: 12
@@ -100,6 +112,9 @@ episodes:
   simpsonsworld_id: 300916291603
   good: maybe
   characters:
+    - marge
+    - homer
+    - bart
 - title: Day of the Jackanapes
   season: 12
   episode: 13
@@ -108,6 +123,9 @@ episodes:
   simpsonsworld_id: 307106883649
   good: false
   characters:
+    - sideshow_bob
+    - bart
+    - krusty
 - title: New Kids on the Blecch
   season: 12
   episode: 14
@@ -132,6 +150,8 @@ episodes:
   simpsonsworld_id: 302846019892
   good: false
   characters:
+    - lisa
+    - homer
 - title: Simpson Safari
   season: 12
   episode: 17
@@ -175,3 +195,4 @@ episodes:
   simpsonsworld_id: 301685315594
   good: maybe
   characters:
+    - vignettes

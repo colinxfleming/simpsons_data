@@ -2481,7 +2481,10 @@
             "description": "As the Thanksgiving holiday approaches, Mr. Burns hires Homer to be his 'prank monkey.'",
             "simpsonsworld_id": 311670339999,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "mr_burns"
+            ]
         },
         {
             "title": "The Computer Wore Menace Shoes",
@@ -2490,7 +2493,9 @@
             "description": "Homer uses his new computer to spread gossip on the Internet... and eventually finds himself stranded on a mysterious island.",
             "simpsonsworld_id": 302843971598,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "The Great Money Caper",
@@ -2499,7 +2504,10 @@
             "description": "Homer and Bart become scam artists when the family is faced with the cost of a sudden car repair.",
             "simpsonsworld_id": 304456259863,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer",
+                "bart"
+            ]
         },
         {
             "title": "Skinner's Sense of Snow",
@@ -2517,7 +2525,10 @@
             "description": "Homer experiences a dramatic increase in intelligence when researchers remove a crayon lodged in his brain.",
             "simpsonsworld_id": 306945603638,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer",
+                "lisa"
+            ]
         },
         {
             "title": "Pokey Mom",
@@ -2526,7 +2537,10 @@
             "description": "With Marge's help, an inmate with artistic ability is paroled from prison.  But when the ex-con gets a job painting a mural at the elementary school, he clashes with Skinner.",
             "simpsonsworld_id": 302844995961,
             "good": false,
-            "characters": null
+            "characters": [
+                "marge",
+                "skinner"
+            ]
         },
         {
             "title": "Worst Episode Ever",
@@ -2535,7 +2549,11 @@
             "description": "When the Comic Book Guy suffers a heart attack, Bart and Milhouse take over his store.",
             "simpsonsworld_id": 310459971509,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart",
+                "milhouse",
+                "comic_book_guy"
+            ]
         },
         {
             "title": "Tennis the Menace",
@@ -2544,7 +2562,11 @@
             "description": "When the Simpsons construct a tennis court in the backyard, Bart pairs up with Marge and becomes a tennis whiz... much to Homer's disappointment.",
             "simpsonsworld_id": 300916291603,
             "good": false,
-            "characters": null
+            "characters": [
+                "marge",
+                "homer",
+                "bart"
+            ]
         },
         {
             "title": "Day of the Jackanapes",
@@ -2553,7 +2575,11 @@
             "description": "Sideshow Bob wins release from prison and hypnotizes Bart to kill Krusty the Clown.",
             "simpsonsworld_id": 307106883649,
             "good": false,
-            "characters": null
+            "characters": [
+                "sideshow_bob",
+                "bart",
+                "krusty"
+            ]
         },
         {
             "title": "New Kids on the Blecch",
@@ -2580,7 +2606,10 @@
             "description": "Lisa searches for answers when a new student at school bullies her; Homer starts his own baby-proofing business.",
             "simpsonsworld_id": 302846019892,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa",
+                "homer"
+            ]
         },
         {
             "title": "Simpson Safari",
@@ -2625,7 +2654,9 @@
             "description": "The Simpsons jump a train, and meet a hobo, who tells them twisted versions of three classic tales, all of which feature Simpsons characters.",
             "simpsonsworld_id": 301685315594,
             "good": false,
-            "characters": null
+            "characters": [
+                "vignettes"
+            ]
         },
         {
             "title": "Treehouse of Horror XII",
@@ -3250,7 +3281,10 @@
             "description": "Homer reveals that Marge wasn't the first girl he ever kissed, but as he and Marge recount their versions of time spent at a summer camp, Homer realizes he caused Marge thirty years of heartbreak.",
             "simpsonsworld_id": 227330115859,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "Bart-Mangled Banner",
@@ -3259,7 +3293,9 @@
             "description": "The Simpsons are thrown in prison after Bart accidentally moons the American flag.",
             "simpsonsworld_id": 227410499679,
             "good": false,
-            "characters": null
+            "characters": [
+                "simpsons"
+            ]
         },
         {
             "title": "Fraudcast News",
@@ -3267,8 +3303,11 @@
             "episode": 22,
             "description": "Mr. Burns buys up all the media outlets in Springfield in an effort to polish his image, but soon finds himself at odds with Lisa, who started publishing her own newspaper.",
             "simpsonsworld_id": 227405379707,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "lisa",
+                "mr_burns"
+            ]
         },
         {
             "title": "Treehouse of Horror XV",

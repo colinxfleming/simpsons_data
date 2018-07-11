@@ -191,16 +191,19 @@ episodes:
     as he and Marge recount their versions of time spent at a summer camp, Homer realizes
     he caused Marge thirty years of heartbreak.
   simpsonsworld_id: 227330115859
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
 - title: Bart-Mangled Banner
   season: 15
   episode: 21
   description: The Simpsons are thrown in prison after Bart accidentally moons the
     American flag.
   simpsonsworld_id: 227410499679
-  good: maybe
+  good: false
   characters:
+    - simpsons
 - title: Fraudcast News
   season: 15
   episode: 22
@@ -208,5 +211,7 @@ episodes:
     to polish his image, but soon finds himself at odds with Lisa, who started publishing
     her own newspaper.
   simpsonsworld_id: 227405379707
-  good: maybe
+  good: true
   characters:
+    - lisa
+    - mr_burns
