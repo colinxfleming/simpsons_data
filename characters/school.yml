@@ -12,3 +12,5 @@ characters:
   name: Ralph Wiggum
 - short_name: nelson
   name: Nelson Muntz
+- short_name: otto
+  name: Otto Mann

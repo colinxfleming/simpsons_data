@@ -7,16 +7,19 @@ episodes:
     a disgusted Marge leaves the family and hooks up with a doctor trying to save
     the lives of manatees.
   simpsonsworld_id: 273502275982
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
 - title: The Girl Who Slept Too Little
   season: 17
   episode: 2
   description: Lisa must confront her darkest fears after a cemetery is relocated
     to the Simpsons' neighborhood.
   simpsonsworld_id: 277101123962
-  good: maybe
+  good: false
   characters:
+    - lisa
 - title: Milhouse of Sand and Fog
   season: 17
   episode: 3

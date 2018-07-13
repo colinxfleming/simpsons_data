@@ -537,7 +537,10 @@
             "description": "When Marge believes she may be pregnant, Homer recounts how Bart was born.",
             "simpsonsworld_id": 299618371603,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "Radio Bart",
@@ -581,7 +584,10 @@
             "description": "When Bart discovers that his divorced teacher, Mrs. Krabappel, has placed a \"personals\" ad in the local newspaper, he decides to create fake correspondence.",
             "simpsonsworld_id": 272228931984,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart",
+                "edna"
+            ]
         },
         {
             "title": "Homer at the Bat",
@@ -590,7 +596,10 @@
             "description": "Mr. Burns bets one million dollars that his power plant's softball team will win the championship, then hires professional baseball players to be members of the team.",
             "simpsonsworld_id": 310380099768,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer",
+                "mr_burns"
+            ]
         },
         {
             "title": "Separate Vocations",
@@ -599,7 +608,10 @@
             "description": "Bart finds new respect for the law and Lisa hangs out with the wrong crowd after they both take career aptitude tests.",
             "simpsonsworld_id": 263513155607,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart",
+                "lisa"
+            ]
         },
         {
             "title": "Dog of Death",
@@ -608,7 +620,10 @@
             "description": "The Simpsons must choose between frills and their dog when Santa's Little Helper needs an expensive operation to save its life.",
             "simpsonsworld_id": 274404419620,
             "good": true,
-            "characters": null
+            "characters": [
+                "simpsons",
+                "santas_little_helper"
+            ]
         },
         {
             "title": "Colonel Homer",
@@ -617,7 +632,9 @@
             "description": "Homer becomes the manager of a beautiful Country Western singer.",
             "simpsonsworld_id": 272215619762,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Black Widower",
@@ -626,7 +643,10 @@
             "description": "To Bart's horror, Selma announces that her husband-to-be is none other than Sideshow Bob.",
             "simpsonsworld_id": 272221251812,
             "good": true,
-            "characters": null
+            "characters": [
+                "selma",
+                "sideshow_bob"
+            ]
         },
         {
             "title": "The Otto Show",
@@ -635,7 +655,10 @@
             "description": "Bart attends a Spinal Tap concert.  Otto loses his job driving the school bus and moves in with the Simpsons.",
             "simpsonsworld_id": 279103043694,
             "good": true,
-            "characters": null
+            "characters": [
+                "otto",
+                "bart"
+            ]
         },
         {
             "title": "Bart's Friend Falls in Love",
@@ -644,7 +667,10 @@
             "description": "Bart becomes jealous when Milhouse falls for a girl who transferred to their school.",
             "simpsonsworld_id": 280393283967,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart",
+                "milhouse"
+            ]
         },
         {
             "title": "Brother, Can You Spare Two Dimes?",
@@ -653,7 +679,10 @@
             "description": "Herb Powell asks his brother Homer to let him borrow $2000 to develop a new invention: a translator of baby gibberish.",
             "simpsonsworld_id": 279098435798,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "maggie"
+            ]
         },
         {
             "title": "Kamp Krusty",
@@ -3507,7 +3536,10 @@
             "description": "When Homer allows the mob to film a pornographic movie at the house, a disgusted Marge leaves the family and hooks up with a doctor trying to save the lives of manatees.",
             "simpsonsworld_id": 273502275982,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "The Girl Who Slept Too Little",
@@ -3516,7 +3548,9 @@
             "description": "Lisa must confront her darkest fears after a cemetery is relocated to the Simpsons' neighborhood.",
             "simpsonsworld_id": 277101123962,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa"
+            ]
         },
         {
             "title": "Milhouse of Sand and Fog",
@@ -3907,7 +3941,9 @@
             "description": "Marge hires a life coach to turn Homer around after he becomes convinced he's nothing but a loser.",
             "simpsonsworld_id": 292943427892,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Homer of Seville",
@@ -3916,7 +3952,9 @@
             "description": "Homer becomes an opera star, only to find himself the target of an obsessed fan.",
             "simpsonsworld_id": 350651459856,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Midnight Towboy",
@@ -3925,7 +3963,11 @@
             "description": "Homer makes enemies when he starts his own tow truck business; Marge hires outside help to make Maggie more independent.",
             "simpsonsworld_id": 292968003585,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge",
+                "maggie"
+            ]
         },
         {
             "title": "I Don't Wanna Know Why the Caged Bird Sings",
@@ -6096,6 +6138,10 @@
         {
             "short_name": "nelson",
             "name": "Nelson Muntz"
+        },
+        {
+            "short_name": "otto",
+            "name": "Otto Mann"
         },
         {
             "short_name": "patty",

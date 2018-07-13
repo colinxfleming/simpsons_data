@@ -31,9 +31,9 @@ name: String. Full name.
 There's a lot of episodes and seasons to go through and mark the good ones.
 Here's what's done so far:
 
-* **Season 1**: Episodes cataloged; Characters uncataloged
-* **Season 2**: Episodes cataloged; Characters uncataloged
-* **Season 3**: Episodes cataloged; Characters uncataloged
+* **Season 1**: Episodes cataloged; Characters cataloged
+* **Season 2**: Episodes cataloged; Characters cataloged
+* **Season 3**: Episodes cataloged; Characters cataloged
 * **Season 4**: Episodes cataloged; Characters uncataloged
 * **Season 5**: Episodes cataloged; Characters uncataloged
 * **Season 6**: Episodes cataloged; Characters uncataloged

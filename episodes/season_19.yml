@@ -6,16 +6,18 @@ episodes:
   description: Marge hires a life coach to turn Homer around after he becomes convinced
     he's nothing but a loser.
   simpsonsworld_id: 292943427892
-  good: maybe
+  good: false
   characters:
+    - homer
 - title: Homer of Seville
   season: 19
   episode: 2
   description: Homer becomes an opera star, only to find himself the target of an
     obsessed fan.
   simpsonsworld_id: 350651459856
-  good: maybe
+  good: false
   characters:
+    - homer
 - title: Midnight Towboy
   season: 19
   episode: 3
@@ -24,6 +26,9 @@ episodes:
   simpsonsworld_id: 292968003585
   good: maybe
   characters:
+    - homer
+    - marge
+    - maggie
 - title: I Don't Wanna Know Why the Caged Bird Sings
   season: 19
   episode: 4

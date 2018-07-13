@@ -115,6 +115,8 @@ episodes:
   simpsonsworld_id: 299618371603
   good: false
   characters:
+    - homer
+    - marge
 - title: Radio Bart
   season: 3
   episode: 13
@@ -153,6 +155,8 @@ episodes:
   simpsonsworld_id: 272228931984
   good: true
   characters:
+    - bart
+    - edna
 - title: Homer at the Bat
   season: 3
   episode: 17
@@ -162,6 +166,8 @@ episodes:
   simpsonsworld_id: 310380099768
   good: true
   characters:
+    - homer
+    - mr_burns
 - title: Separate Vocations
   season: 3
   episode: 18
@@ -170,6 +176,8 @@ episodes:
   simpsonsworld_id: 263513155607
   good: true
   characters:
+    - bart
+    - lisa
 - title: Dog of Death
   season: 3
   episode: 19
@@ -178,6 +186,8 @@ episodes:
   simpsonsworld_id: 274404419620
   good: true
   characters:
+    - simpsons
+    - santas_little_helper
 - title: Colonel Homer
   season: 3
   episode: 20
@@ -185,6 +195,7 @@ episodes:
   simpsonsworld_id: 272215619762
   good: true
   characters:
+    - homer
 - title: Black Widower
   season: 3
   episode: 21
@@ -193,6 +204,8 @@ episodes:
   simpsonsworld_id: 272221251812
   good: true
   characters:
+    - selma
+    - sideshow_bob
 - title: The Otto Show
   season: 3
   episode: 22
@@ -201,6 +214,8 @@ episodes:
   simpsonsworld_id: 279103043694
   good: true
   characters:
+    - otto
+    - bart
 - title: Bart's Friend Falls in Love
   season: 3
   episode: 23
@@ -209,6 +224,8 @@ episodes:
   simpsonsworld_id: 280393283967
   good: true
   characters:
+    - bart
+    - milhouse
 - title: Brother, Can You Spare Two Dimes?
   season: 3
   episode: 24
@@ -217,3 +234,5 @@ episodes:
   simpsonsworld_id: 279098435798
   good: false
   characters:
+    - homer
+    - maggie
