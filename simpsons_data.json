@@ -157,7 +157,9 @@
             "description": "Bart must pass a critical history test or he will be held back a grade.",
             "simpsonsworld_id": 260539459671,
             "good": false,
-            "characters": null
+            "characters": [
+                "bart"
+            ]
         },
         {
             "title": "Simpson and Delilah",
@@ -201,7 +203,9 @@
             "description": "Homer becomes the official mascot for a major league baseball team.",
             "simpsonsworld_id": 260538435888,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Dead Putting Society",
@@ -281,7 +285,10 @@
             "description": "Marge recounts to her children how she and Homer first met and fell in love.",
             "simpsonsworld_id": 260549187876,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "Homer vs. Lisa and the 8th Commandment",
@@ -691,7 +698,10 @@
             "description": "Bart and Lisa are horrified when their summer at Kamp Krusty turns into a nightmare.",
             "simpsonsworld_id": 279133251579,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart",
+                "lisa"
+            ]
         },
         {
             "title": "A Streetcar Named Marge",
@@ -709,7 +719,9 @@
             "description": "Homer creates his own religion as a means of escaping church services on Sundays.",
             "simpsonsworld_id": 279137859827,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Lisa the Beauty Queen",
@@ -718,7 +730,10 @@
             "description": "Homer enters Lisa in a beauty pageant when her self-esteem plummets.",
             "simpsonsworld_id": 273537603930,
             "good": true,
-            "characters": null
+            "characters": [
+                "lisa",
+                "homer"
+            ]
         },
         {
             "title": "Treehouse of Horror III",
@@ -738,7 +753,10 @@
             "description": "Homer forbids his son from seeing a new movie about his favorite cartoon heroes as punishment for misbehaving.",
             "simpsonsworld_id": 278803011830,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer",
+                "bart"
+            ]
         },
         {
             "title": "Marge Gets a Job",
@@ -747,7 +765,9 @@
             "description": "When the foundation to the Simpsons' house is need of an expensive repair, Marge takes a position at the power plant where Homer works.",
             "simpsonsworld_id": 299613763656,
             "good": false,
-            "characters": null
+            "characters": [
+                "marge"
+            ]
         },
         {
             "title": "New Kid on the Block",
@@ -756,7 +776,10 @@
             "description": "Bart falls in love with the girl who moves in next door, only to find that she prefers the school bully.",
             "simpsonsworld_id": 273542211871,
             "good": false,
-            "characters": null
+            "characters": [
+                "bart",
+                "jimbo"
+            ]
         },
         {
             "title": "Mr. Plow",
@@ -765,7 +788,10 @@
             "description": "Homer and Barney vie for Springfield's lucrative snow plowing business.",
             "simpsonsworld_id": 273544259768,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer",
+                "barney"
+            ]
         },
         {
             "title": "Lisa's First Word",
@@ -774,7 +800,9 @@
             "description": "Marge recounts how Lisa first spoke as the family awaits baby Maggie's first word.",
             "simpsonsworld_id": 288026691837,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa"
+            ]
         },
         {
             "title": "Homer's Triple Bypass",
@@ -783,7 +811,9 @@
             "description": "Homer suffers a heart attack and hires Dr. Nick Riviera to perform a delicate triple bypass operation.",
             "simpsonsworld_id": 273548355538,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Marge vs. the Monorail",
@@ -792,7 +822,10 @@
             "description": "An unscrupulous profiteer sells the people of Springfield on a defective monorail system, with Homer as the conductor.",
             "simpsonsworld_id": 306386499796,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "Selma's Choice",
@@ -801,7 +834,11 @@
             "description": "Selma decides to take her dead aunt's advice and have children before it is too late.",
             "simpsonsworld_id": 310386755912,
             "good": true,
-            "characters": null
+            "characters": [
+                "selma",
+                "bart",
+                "lisa"
+            ]
         },
         {
             "title": "Brother from the Same Planet",
@@ -2905,7 +2942,9 @@
             "description": "When a hidden camera tapes Homer lamenting that having a family meant kissing goodbye his dreams of becoming a rock 'n' roll star, Marge enrolls him a fantasy rock star camp run by The Rolling Stones.",
             "simpsonsworld_id": 221293123693,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Bart vs. Lisa vs. 3rd Grade",

@@ -7,6 +7,7 @@ episodes:
   simpsonsworld_id: 260539459671
   good: false
   characters:
+    - bart
 - title: Simpson and Delilah
   season: 2
   episode: 2
@@ -43,6 +44,7 @@ episodes:
   simpsonsworld_id: 260538435888
   good: true
   characters:
+    - homer
 - title: Dead Putting Society
   season: 2
   episode: 6
@@ -110,6 +112,8 @@ episodes:
   simpsonsworld_id: 260549187876
   good: false
   characters:
+    - homer
+    - marge
 - title: Homer vs. Lisa and the 8th Commandment
   season: 2
   episode: 13

@@ -8,6 +8,8 @@ episodes:
   simpsonsworld_id: 279133251579
   good: true
   characters:
+    - bart
+    - lisa
 - title: A Streetcar Named Marge
   season: 4
   episode: 2
@@ -24,6 +26,7 @@ episodes:
   simpsonsworld_id: 279137859827
   good: true
   characters:
+    - homer
 - title: Lisa the Beauty Queen
   season: 4
   episode: 4
@@ -31,6 +34,8 @@ episodes:
   simpsonsworld_id: 273537603930
   good: true
   characters:
+    - lisa
+    - homer
 - title: Treehouse of Horror III
   season: 4
   episode: 5
@@ -48,6 +53,8 @@ episodes:
   simpsonsworld_id: 278803011830
   good: true
   characters:
+    - homer
+    - bart
 - title: Marge Gets a Job
   season: 4
   episode: 7
@@ -56,6 +63,7 @@ episodes:
   simpsonsworld_id: 299613763656
   good: false
   characters:
+    - marge
 - title: New Kid on the Block
   season: 4
   episode: 8
@@ -64,6 +72,8 @@ episodes:
   simpsonsworld_id: 273542211871
   good: false
   characters:
+    - bart
+    - jimbo
 - title: Mr. Plow
   season: 4
   episode: 9
@@ -71,6 +81,8 @@ episodes:
   simpsonsworld_id: 273544259768
   good: true
   characters:
+    - homer
+    - barney
 - title: Lisa's First Word
   season: 4
   episode: 10
@@ -79,6 +91,7 @@ episodes:
   simpsonsworld_id: 288026691837
   good: false
   characters:
+    - lisa
 - title: Homer's Triple Bypass
   season: 4
   episode: 11
@@ -87,6 +100,7 @@ episodes:
   simpsonsworld_id: 273548355538
   good: true
   characters:
+    - homer
 - title: Marge vs. the Monorail
   season: 4
   episode: 12
@@ -95,6 +109,8 @@ episodes:
   simpsonsworld_id: 306386499796
   good: true
   characters:
+    - homer
+    - marge
 - title: Selma's Choice
   season: 4
   episode: 13
@@ -103,6 +119,9 @@ episodes:
   simpsonsworld_id: 310386755912
   good: true
   characters:
+    - selma
+    - bart
+    - lisa
 - title: Brother from the Same Planet
   season: 4
   episode: 14

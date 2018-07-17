@@ -17,8 +17,9 @@ episodes:
     kissing goodbye his dreams of becoming a rock 'n' roll star, Marge enrolls him
     a fantasy rock star camp run by The Rolling Stones.
   simpsonsworld_id: 221293123693
-  good: maybe
+  good: false
   characters:
+    - homer
 - title: Bart vs. Lisa vs. 3rd Grade
   season: 14
   episode: 3
