@@ -131,6 +131,9 @@ episodes:
   simpsonsworld_id: 274103363992
   good: false
   characters:
+    - homer
+    - bart
+    - lisa
 - title: I Love Lisa
   season: 4
   episode: 15
@@ -139,6 +142,8 @@ episodes:
   simpsonsworld_id: 274107459686
   good: true
   characters:
+    - ralph
+    - lisa
 - title: Duffless
   season: 4
   episode: 16
@@ -151,11 +156,12 @@ episodes:
   season: 4
   episode: 17
   description: Homer is elected union leader at the power plant and tries to save
-    the dental plan so he will not have to pay for Lisa's new braces. Presented by
-    FXX.
+    the dental plan so he will not have to pay for Lisa's new braces.
   simpsonsworld_id: 357630019692
   good: false
   characters:
+    - homer
+    - mr_burns
 - title: 'So It''s Come to This: A Simpsons Clip Show'
   season: 4
   episode: 18
@@ -164,6 +170,7 @@ episodes:
   simpsonsworld_id: 305670723781
   good: false
   characters:
+    - clip_show
 - title: The Front
   season: 4
   episode: 19
@@ -172,6 +179,9 @@ episodes:
   simpsonsworld_id: 288029763650
   good: true
   characters:
+    - lisa
+    - bart
+    - grandpa
 - title: Whacking Day
   season: 4
   episode: 20
@@ -196,3 +206,6 @@ episodes:
   simpsonsworld_id: 274256963874
   good: true
   characters:
+    - bart
+    - lisa
+    - krusty

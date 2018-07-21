@@ -847,7 +847,11 @@
             "description": "Bart tires of Homer's lack of interest in him and chooses another father from the Bigger Brother program.  Lisa struggles to kick the habit of dialing a 900 number.",
             "simpsonsworld_id": 274103363992,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "bart",
+                "lisa"
+            ]
         },
         {
             "title": "I Love Lisa",
@@ -856,7 +860,10 @@
             "description": "Lisa feels pity for Ralph, a nerdy classmate, and gives him a card on Valentine's Day. But to her horror, Ralph develops a crush on her.",
             "simpsonsworld_id": 274107459686,
             "good": true,
-            "characters": null
+            "characters": [
+                "ralph",
+                "lisa"
+            ]
         },
         {
             "title": "Duffless",
@@ -871,10 +878,13 @@
             "title": "Last Exit to Springfield",
             "season": 4,
             "episode": 17,
-            "description": "Homer is elected union leader at the power plant and tries to save the dental plan so he will not have to pay for Lisa's new braces. Presented by FXX.",
+            "description": "Homer is elected union leader at the power plant and tries to save the dental plan so he will not have to pay for Lisa's new braces.",
             "simpsonsworld_id": 357630019692,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "mr_burns"
+            ]
         },
         {
             "title": "So It's Come to This: A Simpsons Clip Show",
@@ -883,7 +893,9 @@
             "description": "Family and friends reminisce about Homer's life after Bart's April Fools' Day prank sends him to the hospital.",
             "simpsonsworld_id": 305670723781,
             "good": false,
-            "characters": null
+            "characters": [
+                "clip_show"
+            ]
         },
         {
             "title": "The Front",
@@ -892,7 +904,11 @@
             "description": "Using Grandpa as a front, Lisa and Bart write their own \"Itchy and Scratchy\" cartoons.",
             "simpsonsworld_id": 288029763650,
             "good": true,
-            "characters": null
+            "characters": [
+                "lisa",
+                "bart",
+                "grandpa"
+            ]
         },
         {
             "title": "Whacking Day",
@@ -919,7 +935,11 @@
             "description": "Bart, Lisa and a group of celebrities help Krusty turn his career around after his television show is canceled.",
             "simpsonsworld_id": 274256963874,
             "good": true,
-            "characters": null
+            "characters": [
+                "bart",
+                "lisa",
+                "krusty"
+            ]
         },
         {
             "title": "Homer's Barbershop Quartet",
@@ -2751,7 +2771,10 @@
             "description": "Moe turns the bar into a pretentious hang-out for Springfield's 'beautiful people,' forcing Homer to start a bar of his own inside his garage.",
             "simpsonsworld_id": 300917827935,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "moe"
+            ]
         },
         {
             "title": "Hunka Hunka Burns in Love",
@@ -2760,7 +2783,10 @@
             "description": "When Mr. Burns falls for an attractive traffic cop many years his junior, he enlists Homer's help in romancing her.",
             "simpsonsworld_id": 301344323882,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "mr_burns"
+            ]
         },
         {
             "title": "The Blunder Years",
@@ -2769,7 +2795,9 @@
             "description": "When placed under hypnosis, Homer struggles with a repressed memory-which leads to a shocking discovery.",
             "simpsonsworld_id": 302898755902,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "She of Little Faith",
@@ -2777,8 +2805,10 @@
             "episode": 6,
             "description": "As Christmas approaches... Lisa searches for a new religion after Mr. Burns takes over her church and runs it like a corporation.",
             "simpsonsworld_id": 288120899968,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "lisa"
+            ]
         },
         {
             "title": "Brawl in the Family",
@@ -2787,7 +2817,10 @@
             "description": "A social worker attempts to transform the family into a functional, cooperative unit... until Homer's other wife shows up unexpectedly.",
             "simpsonsworld_id": 283083843778,
             "good": false,
-            "characters": null
+            "characters": [
+                "simpsons",
+                "homer"
+            ]
         },
         {
             "title": "Sweets and Sour Marge",
@@ -2796,7 +2829,9 @@
             "description": "After Springfield wins the title of World's Fattest Town, Marge launches an anti-sugar crusade, and sugar is banned from the city.",
             "simpsonsworld_id": 302893635523,
             "good": false,
-            "characters": null
+            "characters": [
+                "marge"
+            ]
         },
         {
             "title": "Jaws Wired Shut",
@@ -2804,8 +2839,11 @@
             "episode": 9,
             "description": "When Homer has to have his jaw wired shut, he discovers the joys of listening, but Marge finds that a well-behaved Homer isn't what she really wanted.",
             "simpsonsworld_id": 310440003514,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "Half-Decent Proposal",
@@ -2868,7 +2906,10 @@
             "description": "When Homer is attacked by crows, he's prescribed medical marijuana to help relieve the pain... leading Burns to promote his happy employee to executive vice president of the power plant.",
             "simpsonsworld_id": 310448195762,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "mr_burns"
+            ]
         },
         {
             "title": "Gump Roast",
@@ -2877,7 +2918,9 @@
             "description": "Homer is roasted at the Springfield Friar's Club, leading to recollections from the past.  But the fate of the Earth hangs in the balance when aliens Kang and Kodos make an unexpected appearance.",
             "simpsonsworld_id": 302888515845,
             "good": false,
-            "characters": null
+            "characters": [
+                "clip_show"
+            ]
         },
         {
             "title": "I am Furious Yellow",
@@ -2886,7 +2929,10 @@
             "description": "Bart launches a comic book with an angry Homer as the main character, and when it proves a huge success, Homer vows to give up getting angry for Lent.",
             "simpsonsworld_id": 302883907921,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "bart"
+            ]
         },
         {
             "title": "The Sweetest Apu",

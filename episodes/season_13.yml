@@ -25,56 +25,67 @@ episodes:
   description: Moe turns the bar into a pretentious hang-out for Springfield's 'beautiful
     people,' forcing Homer to start a bar of his own inside his garage.
   simpsonsworld_id: 300917827935
-  good: maybe
+  good: false
   characters:
+    - homer
+    - moe
 - title: Hunka Hunka Burns in Love
   season: 13
   episode: 4
   description: When Mr. Burns falls for an attractive traffic cop many years his junior,
     he enlists Homer's help in romancing her.
   simpsonsworld_id: 301344323882
-  good: maybe
+  good: false
   characters:
+    - homer
+    - mr_burns
 - title: The Blunder Years
   season: 13
   episode: 5
   description: When placed under hypnosis, Homer struggles with a repressed memory-which
     leads to a shocking discovery.
   simpsonsworld_id: 302898755902
-  good: maybe
+  good: false
   characters:
+    - homer
 - title: She of Little Faith
   season: 13
   episode: 6
   description: As Christmas approaches... Lisa searches for a new religion after Mr.
     Burns takes over her church and runs it like a corporation.
   simpsonsworld_id: 288120899968
-  good: maybe
+  good: true
   characters:
+    - lisa
 - title: Brawl in the Family
   season: 13
   episode: 7
   description: A social worker attempts to transform the family into a functional,
     cooperative unit... until Homer's other wife shows up unexpectedly.
   simpsonsworld_id: 283083843778
-  good: maybe
+  good: false
   characters:
+    - simpsons
+    - homer
 - title: Sweets and Sour Marge
   season: 13
   episode: 8
   description: After Springfield wins the title of World's Fattest Town, Marge launches
     an anti-sugar crusade, and sugar is banned from the city.
   simpsonsworld_id: 302893635523
-  good: maybe
+  good: false
   characters:
+    - marge
 - title: Jaws Wired Shut
   season: 13
   episode: 9
   description: When Homer has to have his jaw wired shut, he discovers the joys of
     listening, but Marge finds that a well-behaved Homer isn't what she really wanted.
   simpsonsworld_id: 310440003514
-  good: maybe
+  good: true
   characters:
+    - homer
+    - marge
 - title: Half-Decent Proposal
   season: 13
   episode: 10
@@ -135,6 +146,8 @@ episodes:
   simpsonsworld_id: 310448195762
   good: maybe
   characters:
+    - homer
+    - mr_burns
 - title: Gump Roast
   season: 13
   episode: 17
@@ -142,8 +155,9 @@ episodes:
     from the past.  But the fate of the Earth hangs in the balance when aliens Kang
     and Kodos make an unexpected appearance.
   simpsonsworld_id: 302888515845
-  good: maybe
+  good: false
   characters:
+    - clip_show
 - title: I am Furious Yellow
   season: 13
   episode: 18
@@ -152,6 +166,8 @@ episodes:
   simpsonsworld_id: 302883907921
   good: maybe
   characters:
+    - homer
+    - bart
 - title: The Sweetest Apu
   season: 13
   episode: 19
