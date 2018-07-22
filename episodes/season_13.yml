@@ -93,16 +93,20 @@ episodes:
     a million dollars in exchange for a weekend with her, to see what 'might have
     been.'
   simpsonsworld_id: 301684803770
-  good: maybe
+  good: false
   characters:
+    - marge
+    - artie
 - title: The Bart Wants What It Wants
   season: 13
   episode: 11
   description: Bart travels to Canada to win back the heart of Rainier Wolfcastle's
     daughter after she runs off with Milhouse.
   simpsonsworld_id: 307122755675
-  good: maybe
+  good: false
   characters:
+    - bart
+    - milhouse
 - title: The Lastest Gun in the West
   season: 13
   episode: 12
@@ -164,7 +168,7 @@ episodes:
   description: Bart launches a comic book with an angry Homer as the main character,
     and when it proves a huge success, Homer vows to give up getting angry for Lent.
   simpsonsworld_id: 302883907921
-  good: maybe
+  good: true
   characters:
     - homer
     - bart
@@ -174,29 +178,35 @@ episodes:
   description: When Manjula kicks Apu out of the house for cheating on her, Homer
     and Marge search for a way to reunite the couple.
   simpsonsworld_id: 288131139601
-  good: maybe
+  good: false
   characters:
+    - apu
+    - homer
 - title: Little Girl in the Big Ten
   season: 13
   episode: 20
   description: Lisa is overjoyed when she befriends some college students; Bart becomes
     a boy-in-a-plastic-bubble after he's bitten by a Chinese mosquito.
   simpsonsworld_id: 310416963509
-  good: maybe
+  good: false
   characters:
+    - lisa
 - title: Frying Game
   season: 13
   episode: 21
   description: Homer and Marge become murder suspects after an elderly shut-in the
     couple befriended is found dead.
   simpsonsworld_id: 301664323751
-  good: maybe
+  good: true
   characters:
+    - homer
+    - marge
 - title: Papa's Got a Brand New Badge
   season: 13
   episode: 22
   description: When Wiggum and his men prove ineffective in controlling a citywide
     riot, townspeople begin to feel unsafe... until Homer forms his own police force.
   simpsonsworld_id: 302880835773
-  good: maybe
+  good: true
   characters:
+    - homer

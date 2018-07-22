@@ -2852,7 +2852,10 @@
             "description": "Marge's ex-boyfriend, now one of the world's richest men, offers Homer a million dollars in exchange for a weekend with her, to see what 'might have been.'",
             "simpsonsworld_id": 301684803770,
             "good": false,
-            "characters": null
+            "characters": [
+                "marge",
+                "artie"
+            ]
         },
         {
             "title": "The Bart Wants What It Wants",
@@ -2861,7 +2864,10 @@
             "description": "Bart travels to Canada to win back the heart of Rainier Wolfcastle's daughter after she runs off with Milhouse.",
             "simpsonsworld_id": 307122755675,
             "good": false,
-            "characters": null
+            "characters": [
+                "bart",
+                "milhouse"
+            ]
         },
         {
             "title": "The Lastest Gun in the West",
@@ -2928,7 +2934,7 @@
             "episode": 18,
             "description": "Bart launches a comic book with an angry Homer as the main character, and when it proves a huge success, Homer vows to give up getting angry for Lent.",
             "simpsonsworld_id": 302883907921,
-            "good": false,
+            "good": true,
             "characters": [
                 "homer",
                 "bart"
@@ -2941,7 +2947,10 @@
             "description": "When Manjula kicks Apu out of the house for cheating on her, Homer and Marge search for a way to reunite the couple.",
             "simpsonsworld_id": 288131139601,
             "good": false,
-            "characters": null
+            "characters": [
+                "apu",
+                "homer"
+            ]
         },
         {
             "title": "Little Girl in the Big Ten",
@@ -2950,7 +2959,9 @@
             "description": "Lisa is overjoyed when she befriends some college students; Bart becomes a boy-in-a-plastic-bubble after he's bitten by a Chinese mosquito.",
             "simpsonsworld_id": 310416963509,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa"
+            ]
         },
         {
             "title": "Frying Game",
@@ -2958,8 +2969,11 @@
             "episode": 21,
             "description": "Homer and Marge become murder suspects after an elderly shut-in the couple befriended is found dead.",
             "simpsonsworld_id": 301664323751,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "Papa's Got a Brand New Badge",
@@ -2967,8 +2981,10 @@
             "episode": 22,
             "description": "When Wiggum and his men prove ineffective in controlling a citywide riot, townspeople begin to feel unsafe... until Homer forms his own police force.",
             "simpsonsworld_id": 302880835773,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Treehouse of Horror XIII",
@@ -6112,6 +6128,10 @@
         }
     ],
     "characters": [
+        {
+            "short_name": "artie",
+            "name": "Artie Ziff"
+        },
         {
             "short_name": "bart",
             "name": "Bart Simpson"
