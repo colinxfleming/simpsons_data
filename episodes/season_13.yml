@@ -113,7 +113,8 @@ episodes:
   description: Bart befriends an aging movie cowboy who begins drinking heavily when
     asked to appear on Krusty's television show.
   simpsonsworld_id: 302899267542
-  good: maybe
+  good: false
+    - bart
   characters:
 - title: The Old Man and the Key
   season: 13
@@ -122,8 +123,9 @@ episodes:
     home, Grampa gets his driver's license back... and gives chase when the object
     of his affection leaves for Branson, Missouri.
   simpsonsworld_id: 301659203973
-  good: maybe
+  good: false
   characters:
+    - grandpa
 - title: Tales From the Public Domain
   season: 13
   episode: 14
@@ -131,8 +133,9 @@ episodes:
     Odysseus leads the Greek army; Bart as Hamlet attempts to avenge the death of
     his father; Lisa as Joan of Arc pits the French against the English.'
   simpsonsworld_id: 310411843752
-  good: maybe
+  good: false
   characters:
+    - vignettes
 - title: Blame it on Lisa
   season: 13
   episode: 15

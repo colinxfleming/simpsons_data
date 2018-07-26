@@ -8,6 +8,7 @@ episodes:
   simpsonsworld_id: 306906179700
   good: true
   characters:
+    - homer
 - title: Brother's Little Helper
   season: 11
   episode: 2
@@ -16,14 +17,16 @@ episodes:
   simpsonsworld_id: 302833219678
   good: false
   characters:
+    - bart
 - title: Guess Who's Coming to Criticize Dinner
   season: 11
   episode: 3
   description: Homer becomes the Springfield Shopper's new food critic, but raises
     the ire of restaurateurs by panning their cooking.
   simpsonsworld_id: 306911811691
-  good: maybe
+  good: true
   characters:
+    - homer
 - title: Treehouse of Horror X
   season: 11
   episode: 4
@@ -48,15 +51,18 @@ episodes:
   description: Homer becomes an instant celebrity when he bowls a perfect game.  But
     when his fame fades away, he lavishes his time on baby Maggie.
   simpsonsworld_id: 294762563857
-  good: maybe
+  good: true
   characters:
+    - homer
+    - maggie
 - title: Eight Misbehavin'
   season: 11
   episode: 7
   description: Apu is driven to the brink when his wife, Manjula, gives birth to octuplets.
   simpsonsworld_id: 306920003903
-  good: maybe
+  good: false
   characters:
+    - apu
 - title: Take My Wife, Sleaze
   season: 11
   episode: 8
@@ -65,6 +71,8 @@ episodes:
   simpsonsworld_id: 301643843522
   good: true
   characters:
+    - homer
+    - marge
 - title: Grift of the Magi
   season: 11
   episode: 9
@@ -72,8 +80,10 @@ episodes:
     its doors for financial reasons, only to reopen when a mysterious organization
     steps in to help.
   simpsonsworld_id: 848995395938
-  good: maybe
+  good: false
   characters:
+    - lisa
+    - bart
 - title: Little Big Mom
   season: 11
   episode: 10
@@ -95,8 +105,10 @@ episodes:
   description: The Simpsons care for Burns' mansion when the billionaire leaves town
     for a medical exam.
   simpsonsworld_id: 279747651734
-  good: maybe
+  good: true
   characters:
+    - simpsons
+    - mr_burns
 - title: Saddlesore Galactica
   season: 11
   episode: 13
@@ -105,6 +117,8 @@ episodes:
   simpsonsworld_id: 306926659533
   good: false
   characters:
+    - homer
+    - bart
 - title: Alone Again Natura-Diddily
   season: 11
   episode: 14
@@ -112,21 +126,25 @@ episodes:
   simpsonsworld_id: 288077891629
   good: false
   characters:
+    - homer
+    - ned
 - title: Missionary Impossible
   season: 11
   episode: 15
   description: Homer is forced to become a missionary on a remote island after he
     pledges a large sum of money to PBS.
   simpsonsworld_id: 310458435665
-  good: maybe
+  good: false
   characters:
+    - homer
 - title: Pygmoelian
   season: 11
   episode: 16
   description: Moe undergoes plastic surgery and becomes a hot new soap opera star.
   simpsonsworld_id: 294758467783
-  good: maybe
+  good: false
   characters:
+    - moe
 - title: Bart to the Future
   season: 11
   episode: 17
@@ -134,8 +152,10 @@ episodes:
     a time when Bart is an over-the-hill moocher and Lisa is President of the United
     States.
   simpsonsworld_id: 302835267686
-  good: maybe
+  good: true
   characters:
+    - bart
+    - lisa
 - title: Days of Wine and D'Ohses
   season: 11
   episode: 18
@@ -143,8 +163,10 @@ episodes:
     to win a contest, Bart and Lisa attempt to photograph a new cover for the Springfield
     phone book.
   simpsonsworld_id: 306930755636
-  good: maybe
+  good: false
   characters:
+    - barney
+    - homer
 - title: Kill the Alligator and Run
   season: 11
   episode: 19
@@ -153,6 +175,7 @@ episodes:
   simpsonsworld_id: 292935747924
   good: false
   characters:
+    - simpsons
 - title: Last Tap Dance in Springfield
   season: 11
   episode: 20
@@ -162,6 +185,9 @@ episodes:
   simpsonsworld_id: 302849091512
   good: true
   characters:
+    - lisa
+    - bart
+    - milhouse
 - title: It's a Mad, Mad, Mad, Mad Marge
   season: 11
   episode: 21
@@ -170,6 +196,7 @@ episodes:
   simpsonsworld_id: 301683779737
   good: maybe
   characters:
+    - marge
 - title: Behind the Laughter
   season: 11
   episode: 22
@@ -178,3 +205,4 @@ episodes:
   simpsonsworld_id: 279751747780
   good: true
   characters:
+    - simpsons

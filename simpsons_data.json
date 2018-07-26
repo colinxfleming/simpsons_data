@@ -2329,7 +2329,9 @@
             "description": "Studio executives panic when actor Mel Gibson taps Homer to help him retool his latest film.",
             "simpsonsworld_id": 306906179700,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Brother's Little Helper",
@@ -2338,7 +2340,9 @@
             "description": "Bart is diagnosed with Attention Deficit Disorder and placed on medication that quells his disruptive behavior.",
             "simpsonsworld_id": 302833219678,
             "good": false,
-            "characters": null
+            "characters": [
+                "bart"
+            ]
         },
         {
             "title": "Guess Who's Coming to Criticize Dinner",
@@ -2346,8 +2350,10 @@
             "episode": 3,
             "description": "Homer becomes the Springfield Shopper's new food critic, but raises the ire of restaurateurs by panning their cooking.",
             "simpsonsworld_id": 306911811691,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Treehouse of Horror X",
@@ -2375,8 +2381,11 @@
             "episode": 6,
             "description": "Homer becomes an instant celebrity when he bowls a perfect game.  But when his fame fades away, he lavishes his time on baby Maggie.",
             "simpsonsworld_id": 294762563857,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "homer",
+                "maggie"
+            ]
         },
         {
             "title": "Eight Misbehavin'",
@@ -2385,7 +2394,9 @@
             "description": "Apu is driven to the brink when his wife, Manjula, gives birth to octuplets.",
             "simpsonsworld_id": 306920003903,
             "good": false,
-            "characters": null
+            "characters": [
+                "apu"
+            ]
         },
         {
             "title": "Take My Wife, Sleaze",
@@ -2394,7 +2405,10 @@
             "description": "Homer wins a vintage motorcycle during a dance contest - and attracts the attention of Hell's Satans when he forms his own gang.",
             "simpsonsworld_id": 301643843522,
             "good": true,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "Grift of the Magi",
@@ -2403,7 +2417,10 @@
             "description": "As the Christmas holiday approaches... Springfield Elementary closes its doors for financial reasons, only to reopen when a mysterious organization steps in to help.",
             "simpsonsworld_id": 848995395938,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa",
+                "bart"
+            ]
         },
         {
             "title": "Little Big Mom",
@@ -2429,8 +2446,11 @@
             "episode": 12,
             "description": "The Simpsons care for Burns' mansion when the billionaire leaves town for a medical exam.",
             "simpsonsworld_id": 279747651734,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "simpsons",
+                "mr_burns"
+            ]
         },
         {
             "title": "Saddlesore Galactica",
@@ -2439,7 +2459,10 @@
             "description": "When Homer and Bart transform a loser racehorse into a champion, rival jockeys threaten revenge.",
             "simpsonsworld_id": 306926659533,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "bart"
+            ]
         },
         {
             "title": "Alone Again Natura-Diddily",
@@ -2448,7 +2471,10 @@
             "description": "Homer attempts to help when Flanders experiences a tragic loss.",
             "simpsonsworld_id": 288077891629,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "ned"
+            ]
         },
         {
             "title": "Missionary Impossible",
@@ -2457,7 +2483,9 @@
             "description": "Homer is forced to become a missionary on a remote island after he pledges a large sum of money to PBS.",
             "simpsonsworld_id": 310458435665,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Pygmoelian",
@@ -2466,7 +2494,9 @@
             "description": "Moe undergoes plastic surgery and becomes a hot new soap opera star.",
             "simpsonsworld_id": 294758467783,
             "good": false,
-            "characters": null
+            "characters": [
+                "moe"
+            ]
         },
         {
             "title": "Bart to the Future",
@@ -2474,8 +2504,11 @@
             "episode": 17,
             "description": "A Native American casino manager shows Bart a glimpse into the future... a time when Bart is an over-the-hill moocher and Lisa is President of the United States.",
             "simpsonsworld_id": 302835267686,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "bart",
+                "lisa"
+            ]
         },
         {
             "title": "Days of Wine and D'Ohses",
@@ -2484,7 +2517,10 @@
             "description": "Barney swears off alcohol, creating a rift between he and Homer; seeking to win a contest, Bart and Lisa attempt to photograph a new cover for the Springfield phone book.",
             "simpsonsworld_id": 306930755636,
             "good": false,
-            "characters": null
+            "characters": [
+                "barney",
+                "homer"
+            ]
         },
         {
             "title": "Kill the Alligator and Run",
@@ -2493,7 +2529,9 @@
             "description": "The Simpsons find themselves on the run from the law after they accidentally kill a beloved alligator while vacationing in Florida.",
             "simpsonsworld_id": 292935747924,
             "good": false,
-            "characters": null
+            "characters": [
+                "simpsons"
+            ]
         },
         {
             "title": "Last Tap Dance in Springfield",
@@ -2502,7 +2540,11 @@
             "description": "After watching a movie about a sexy tango dancer, Lisa enrolls in a tap dance class... only to discover she has two left feet; Bart and Milhouse abandon a camping trip and hide out in a shopping mall.",
             "simpsonsworld_id": 302849091512,
             "good": true,
-            "characters": null
+            "characters": [
+                "lisa",
+                "bart",
+                "milhouse"
+            ]
         },
         {
             "title": "It's a Mad, Mad, Mad, Mad Marge",
@@ -2511,7 +2553,9 @@
             "description": "When Otto ditches his fianc\u00e9e at the altar, Bart invites her to stay with the family... forcing Marge to compete with the much younger woman.",
             "simpsonsworld_id": 301683779737,
             "good": false,
-            "characters": null
+            "characters": [
+                "marge"
+            ]
         },
         {
             "title": "Behind the Laughter",
@@ -2520,7 +2564,9 @@
             "description": "This 'behind-the-scenes' special chronicles the ups and downs of America's favorite sitcom family.",
             "simpsonsworld_id": 279751747780,
             "good": true,
-            "characters": null
+            "characters": [
+                "simpsons"
+            ]
         },
         {
             "title": "Treehouse of Horror XI",
@@ -2875,7 +2921,7 @@
             "episode": 12,
             "description": "Bart befriends an aging movie cowboy who begins drinking heavily when asked to appear on Krusty's television show.",
             "simpsonsworld_id": 302899267542,
-            "good": false,
+            "good": "false - bart",
             "characters": null
         },
         {
@@ -2885,7 +2931,9 @@
             "description": "In an effort to win a date with a beautiful new resident at the nursing home, Grampa gets his driver's license back... and gives chase when the object of his affection leaves for Branson, Missouri.",
             "simpsonsworld_id": 301659203973,
             "good": false,
-            "characters": null
+            "characters": [
+                "grandpa"
+            ]
         },
         {
             "title": "Tales From the Public Domain",
@@ -2894,7 +2942,9 @@
             "description": "The Simpsons appear as characters in three classic tales: Homer as Odysseus leads the Greek army; Bart as Hamlet attempts to avenge the death of his father; Lisa as Joan of Arc pits the French against the English.",
             "simpsonsworld_id": 310411843752,
             "good": false,
-            "characters": null
+            "characters": [
+                "vignettes"
+            ]
         },
         {
             "title": "Blame it on Lisa",
@@ -3842,7 +3892,12 @@
             "description": "Lisa befriends the son of mobster Fat Tony, whose dream is to become a chef; Homer and Bart take over the 'family business' after Fat Tony is gunned down.",
             "simpsonsworld_id": 292959299559,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa",
+                "fat_tony",
+                "homer",
+                "bart"
+            ]
         },
         {
             "title": "Jazzy and the Pussycats",
@@ -3851,7 +3906,10 @@
             "description": "Lisa grows jealous after Bart discovers he's a talented jazz drummer; Lisa hides some stray animals in the attic.",
             "simpsonsworld_id": 283202115995,
             "good": false,
-            "characters": null
+            "characters": [
+                "bart",
+                "lisa"
+            ]
         },
         {
             "title": "Please Homer, Don't Hammer 'em",
@@ -3860,7 +3918,12 @@
             "description": "Marge starts her own carpentry business, only to discover that men don't trust a woman to do the job; Bart discovers that Skinner is allergic to peanuts.",
             "simpsonsworld_id": 283760707876,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge",
+                "bart",
+                "skinner"
+            ]
         },
         {
             "title": "Treehouse of Horror XVII",
@@ -3880,7 +3943,9 @@
             "description": "After Homer joins the Army, he's selected to play an enemy target during war games.  When the Army chases Homer into town, it pits the people of Springfield against the military.",
             "simpsonsworld_id": 283080259896,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Moe 'N' a Lisa",
@@ -3889,7 +3954,10 @@
             "description": "Lisa helps Moe get a poem published, but is deeply hurt when Moe refuses to acknowledge her contribution.",
             "simpsonsworld_id": 307167299594,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa",
+                "moe"
+            ]
         },
         {
             "title": "Ice Cream of Margie (With the Light Blue Hair)",
@@ -6181,12 +6249,12 @@
             "full_name": "Mona Simpson"
         },
         {
-            "short_name": "grandpa_simpson",
-            "full_name": "Abraham Jebediah Simpson"
+            "short_name": "grandpa",
+            "full_name": "Abraham Simpson"
         },
         {
             "short_name": "homer",
-            "name": "Homer Jay Simpson"
+            "name": "Homer Simpson"
         },
         {
             "short_name": "kirk",
@@ -6214,7 +6282,7 @@
         },
         {
             "short_name": "marge",
-            "name": "Marjorie Jacqueline Simpson"
+            "name": "Marge Simpson"
         },
         {
             "short_name": "martin",

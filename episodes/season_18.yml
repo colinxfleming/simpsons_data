@@ -7,16 +7,22 @@ episodes:
     a chef; Homer and Bart take over the 'family business' after Fat Tony is gunned
     down.
   simpsonsworld_id: 292959299559
-  good: maybe
+  good: false
   characters:
+    - lisa
+    - fat_tony
+    - homer
+    - bart
 - title: Jazzy and the Pussycats
   season: 18
   episode: 2
   description: Lisa grows jealous after Bart discovers he's a talented jazz drummer;
     Lisa hides some stray animals in the attic.
   simpsonsworld_id: 283202115995
-  good: maybe
+  good: false
   characters:
+    - bart
+    - lisa
 - title: Please Homer, Don't Hammer 'em
   season: 18
   episode: 3
@@ -24,8 +30,12 @@ episodes:
     don't trust a woman to do the job; Bart discovers that Skinner is allergic to
     peanuts.
   simpsonsworld_id: 283760707876
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
+    - bart
+    - skinner
 - title: Treehouse of Horror XVII
   season: 18
   episode: 4
@@ -33,7 +43,7 @@ episodes:
     blob; a creature from Jewish folklore does Bart''s bidding; a radio broadcast
     convinces townspeople they''re being invaded by aliens.'
   simpsonsworld_id: 302871107984
-  good: maybe
+  good: false
   characters:
     - treehouse_of_horror
 - title: G.I. (Annoyed Grunt)
@@ -43,16 +53,19 @@ episodes:
     war games.  When the Army chases Homer into town, it pits the people of Springfield
     against the military.
   simpsonsworld_id: 283080259896
-  good: maybe
+  good: false
   characters:
+    - homer
 - title: Moe 'N' a Lisa
   season: 18
   episode: 6
   description: Lisa helps Moe get a poem published, but is deeply hurt when Moe refuses
     to acknowledge her contribution.
   simpsonsworld_id: 307167299594
-  good: maybe
+  good: false
   characters:
+    - lisa
+    - moe
 - title: Ice Cream of Margie (With the Light Blue Hair)
   season: 18
   episode: 7
