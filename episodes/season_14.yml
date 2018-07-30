@@ -48,16 +48,19 @@ episodes:
     seek shelter elsewhere... and ends up participating in a reality TV program set
     in a house from the 1800s.
   simpsonsworld_id: 221388355650
-  good: maybe
+  good: false
   characters:
+    - simpsons
 - title: The Great Louse Detective
   season: 14
   episode: 6
   description: When someone attempts to murder Homer, Sideshow Bob is released from
     prison to help identify the culprit before he strikes again.
   simpsonsworld_id: 221467203550
-  good: maybe
+  good: false
   characters:
+    - homer
+    - sideshow_bob
 - title: Special Edna
   season: 14
   episode: 7
@@ -67,6 +70,8 @@ episodes:
   simpsonsworld_id: 221467715532
   good: maybe
   characters:
+    - skinner
+    - edna
 - title: The Dad Who Knew Too Little
   season: 14
   episode: 8
@@ -83,8 +88,9 @@ episodes:
   description: When Marge is mugged at the Kwik-E-Mart, she develops agoraphobia and
     ends up living in the basement... until she turns into a fearless bodybuilder.
   simpsonsworld_id: 221532739689
-  good: maybe
+  good: false
   characters:
+    - marge
 - title: Pray Anything
   season: 14
   episode: 10
@@ -94,6 +100,7 @@ episodes:
   simpsonsworld_id: 221526595805
   good: maybe
   characters:
+    - homer
 - title: Barting Over
   season: 14
   episode: 11

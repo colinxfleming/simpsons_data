@@ -142,8 +142,9 @@ episodes:
   description: When the Simpsons fly to Brazil to locate a missing orphan that Lisa
     has been sponsoring, Homer ends up getting kidnapped.
   simpsonsworld_id: 301665347899
-  good: maybe
+  good: false
   characters:
+    - simpsons
 - title: Weekend at Burnsie's
   season: 13
   episode: 16
@@ -151,7 +152,7 @@ episodes:
     to help relieve the pain... leading Burns to promote his happy employee to executive
     vice president of the power plant.
   simpsonsworld_id: 310448195762
-  good: maybe
+  good: true
   characters:
     - homer
     - mr_burns

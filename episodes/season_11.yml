@@ -194,7 +194,7 @@ episodes:
   description: When Otto ditches his fiancée at the altar, Bart invites her to stay
     with the family... forcing Marge to compete with the much younger woman.
   simpsonsworld_id: 301683779737
-  good: maybe
+  good: true
   characters:
     - marge
 - title: Behind the Laughter

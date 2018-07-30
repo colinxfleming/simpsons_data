@@ -7,7 +7,7 @@ episodes:
     into heaven; angry dolphins launch an attack against the people of Springfield;
     Bart and Lisa encounter characters from fairy tales.
   simpsonsworld_id: 294765123660
-  good: maybe
+  good: false
   characters:
     - treehouse_of_horror
 - title: A Tale of Two Springfields
@@ -16,8 +16,9 @@ episodes:
   description: The townspeople of Springfield divide into two communities when the
     telephone company institutes a new area code system.
   simpsonsworld_id: 300911171880
-  good: maybe
+  good: true
   characters:
+    - homer
 - title: Insane Clown Poppy
   season: 12
   episode: 3
@@ -26,6 +27,7 @@ episodes:
   simpsonsworld_id: 306934851515
   good: false
   characters:
+    - krusty
 - title: Lisa the Treehugger
   season: 12
   episode: 4
@@ -34,6 +36,7 @@ episodes:
   simpsonsworld_id: 306939971530
   good: maybe
   characters:
+    - lisa
 - title: Homer vs. Dignity
   season: 12
   episode: 5

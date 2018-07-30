@@ -2552,7 +2552,7 @@
             "episode": 21,
             "description": "When Otto ditches his fianc\u00e9e at the altar, Bart invites her to stay with the family... forcing Marge to compete with the much younger woman.",
             "simpsonsworld_id": 301683779737,
-            "good": false,
+            "good": true,
             "characters": [
                 "marge"
             ]
@@ -2585,8 +2585,10 @@
             "episode": 2,
             "description": "The townspeople of Springfield divide into two communities when the telephone company institutes a new area code system.",
             "simpsonsworld_id": 300911171880,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Insane Clown Poppy",
@@ -2595,7 +2597,9 @@
             "description": "Krusty discovers that he fathered a child during the Gulf War... only to gamble away his daughter's precious violin during a poker game with Fat Tony.",
             "simpsonsworld_id": 306934851515,
             "good": false,
-            "characters": null
+            "characters": [
+                "krusty"
+            ]
         },
         {
             "title": "Lisa the Treehugger",
@@ -2604,7 +2608,9 @@
             "description": "Lisa joins a group of eco-radicals in her attempt to save the city's oldest redwood tree.",
             "simpsonsworld_id": 306939971530,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa"
+            ]
         },
         {
             "title": "Homer vs. Dignity",
@@ -2953,7 +2959,9 @@
             "description": "When the Simpsons fly to Brazil to locate a missing orphan that Lisa has been sponsoring, Homer ends up getting kidnapped.",
             "simpsonsworld_id": 301665347899,
             "good": false,
-            "characters": null
+            "characters": [
+                "simpsons"
+            ]
         },
         {
             "title": "Weekend at Burnsie's",
@@ -2961,7 +2969,7 @@
             "episode": 16,
             "description": "When Homer is attacked by crows, he's prescribed medical marijuana to help relieve the pain... leading Burns to promote his happy employee to executive vice president of the power plant.",
             "simpsonsworld_id": 310448195762,
-            "good": false,
+            "good": true,
             "characters": [
                 "homer",
                 "mr_burns"
@@ -3088,7 +3096,9 @@
             "description": "When the Simpson house undergoes fumigation, the family is forced to seek shelter elsewhere... and ends up participating in a reality TV program set in a house from the 1800s.",
             "simpsonsworld_id": 221388355650,
             "good": false,
-            "characters": null
+            "characters": [
+                "simpsons"
+            ]
         },
         {
             "title": "The Great Louse Detective",
@@ -3097,7 +3107,10 @@
             "description": "When someone attempts to murder Homer, Sideshow Bob is released from prison to help identify the culprit before he strikes again.",
             "simpsonsworld_id": 221467203550,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "sideshow_bob"
+            ]
         },
         {
             "title": "Special Edna",
@@ -3106,7 +3119,10 @@
             "description": "When Bart gets Mrs. Krabappel nominated for Teacher of the Year, the family heads for Orlando to attend the ceremony.  But Skinner fears he may lose Krabappel forever... and asks Bart to sabotage the affair.",
             "simpsonsworld_id": 221467715532,
             "good": false,
-            "characters": null
+            "characters": [
+                "skinner",
+                "edna"
+            ]
         },
         {
             "title": "The Dad Who Knew Too Little",
@@ -3127,7 +3143,9 @@
             "description": "When Marge is mugged at the Kwik-E-Mart, she develops agoraphobia and ends up living in the basement... until she turns into a fearless bodybuilder.",
             "simpsonsworld_id": 221532739689,
             "good": false,
-            "characters": null
+            "characters": [
+                "marge"
+            ]
         },
         {
             "title": "Pray Anything",
@@ -3136,7 +3154,9 @@
             "description": "Inspired by Ned Flanders, Homer turns to prayer in hopes of changing his lot in life.  But when he injures himself coming out of church, Homer sues for damages... and is awarded the church itself.",
             "simpsonsworld_id": 221526595805,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Barting Over",
