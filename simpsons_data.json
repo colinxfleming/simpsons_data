@@ -2654,7 +2654,11 @@
             "description": "As Christmas approaches, a winter snowstorm traps Bart, Lisa and their fellow students inside Springfield Elementary, where Principal Skinner attempts to keep chaos from erupting.",
             "simpsonsworld_id": 307850819951,
             "good": false,
-            "characters": null
+            "characters": [
+                "skinner",
+                "bart",
+                "lisa"
+            ]
         },
         {
             "title": "HOMR",
@@ -2756,7 +2760,9 @@
             "description": "The Simpsons journey through Africa, where they encounter jungle animals, tribesmen... and a chimp refuge owner with a secret.",
             "simpsonsworld_id": 302845507908,
             "good": false,
-            "characters": null
+            "characters": [
+                "simpsons"
+            ]
         },
         {
             "title": "Trilogy of Error",
@@ -2765,7 +2771,10 @@
             "description": "A day in the life of the Simpsons replays three times: Homer panics when Marge slices off his thumb; Lisa attempts to place her entry in the school science fair; Bart is pursued by gangsters.",
             "simpsonsworld_id": 302842947994,
             "good": false,
-            "characters": null
+            "characters": [
+                "simpsons",
+                "vignettes"
+            ]
         },
         {
             "title": "I'm Goin' to Praise Land",
@@ -3118,7 +3127,7 @@
             "episode": 7,
             "description": "When Bart gets Mrs. Krabappel nominated for Teacher of the Year, the family heads for Orlando to attend the ceremony.  But Skinner fears he may lose Krabappel forever... and asks Bart to sabotage the affair.",
             "simpsonsworld_id": 221467715532,
-            "good": false,
+            "good": true,
             "characters": [
                 "skinner",
                 "edna"
@@ -3191,8 +3200,11 @@
             "episode": 14,
             "description": "When Springfield Airport changes the flight paths of airplanes, sending them over the Simpson's house, the family convinces Krusty to run for congress so he can change the law.",
             "simpsonsworld_id": 221699651686,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "krusty",
+                "simpsons"
+            ]
         },
         {
             "title": "C.E.D'oh",
@@ -3200,8 +3212,11 @@
             "episode": 15,
             "description": "On Valentine's Day, Homer attends a college course on how to succeed in the corporate world, he becomes the owner of the power plant and fires Mr. Burns... only to realize that running the plant means being away from family.",
             "simpsonsworld_id": 221696067982,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "homer",
+                "mr_burns"
+            ]
         },
         {
             "title": "'Scuse Me While I Miss The Sky",
@@ -3210,7 +3225,10 @@
             "description": "As a British filmmaker makes a documentary about Springfield Elementary, Lisa tires to save the nighttime sky from light pollution, while Bart attempts to restore his coolness by obtaining a hood ornament from Fat Tony's car.",
             "simpsonsworld_id": 221700675635,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa",
+                "bart"
+            ]
         },
         {
             "title": "Three Gays of the Condo",
@@ -3219,7 +3237,10 @@
             "description": "Homer moves in with a gay couple after discovering a letter Marge wrote years earlier that implies she resents him.",
             "simpsonsworld_id": 221699139984,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "Dude, Where's My Ranch?",
@@ -3228,7 +3249,10 @@
             "description": "While vacationing at a dude ranch, Lisa falls for a cute 13-year-old cowboy; Homer vows to stop beavers who've dammed a river and kept Native Americans from their land.",
             "simpsonsworld_id": 221700163549,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa",
+                "homer"
+            ]
         },
         {
             "title": "Old Yeller-Belly",
@@ -3237,7 +3261,9 @@
             "description": "When Santa's Little Helper becomes Duff Beer's new, highly-paid mascot, his original owner comes out of the woodwork and claims the dog belongs to him.",
             "simpsonsworld_id": 221701187546,
             "good": false,
-            "characters": null
+            "characters": [
+                "santas_little_helper"
+            ]
         },
         {
             "title": "Brake My Wife, Please",
@@ -3246,7 +3272,10 @@
             "description": "When Homer loses his driver's license, he embraces walking.  But Marge begins to suffer from stress when the pressure of being the only full-time driver in the house takes its toll-and ends up running Homer over in her car.",
             "simpsonsworld_id": 229724227970,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "The Bart of War",

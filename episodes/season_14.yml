@@ -68,7 +68,7 @@ episodes:
     family heads for Orlando to attend the ceremony.  But Skinner fears he may lose
     Krabappel forever... and asks Bart to sabotage the affair.
   simpsonsworld_id: 221467715532
-  good: maybe
+  good: true
   characters:
     - skinner
     - edna
@@ -135,8 +135,10 @@ episodes:
     them over the Simpson's house, the family convinces Krusty to run for congress
     so he can change the law.
   simpsonsworld_id: 221699651686
-  good: maybe
+  good: true
   characters:
+    - krusty
+    - simpsons
 - title: C.E.D'oh
   season: 14
   episode: 15
@@ -144,8 +146,10 @@ episodes:
     in the corporate world, he becomes the owner of the power plant and fires Mr.
     Burns... only to realize that running the plant means being away from family.
   simpsonsworld_id: 221696067982
-  good: maybe
+  good: true
   characters:
+    - homer
+    - mr_burns
 - title: "'Scuse Me While I Miss The Sky"
   season: 14
   episode: 16
@@ -153,16 +157,20 @@ episodes:
     Lisa tires to save the nighttime sky from light pollution, while Bart attempts
     to restore his coolness by obtaining a hood ornament from Fat Tony's car.
   simpsonsworld_id: 221700675635
-  good: maybe
+  good: false
   characters:
+    - lisa
+    - bart
 - title: Three Gays of the Condo
   season: 14
   episode: 17
   description: Homer moves in with a gay couple after discovering a letter Marge wrote
     years earlier that implies she resents him.
   simpsonsworld_id: 221699139984
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
 - title: Dude, Where's My Ranch?
   season: 14
   episode: 18
@@ -170,16 +178,19 @@ episodes:
     cowboy; Homer vows to stop beavers who've dammed a river and kept Native Americans
     from their land.
   simpsonsworld_id: 221700163549
-  good: maybe
+  good: false
   characters:
+    - lisa
+    - homer
 - title: Old Yeller-Belly
   season: 14
   episode: 19
   description: When Santa's Little Helper becomes Duff Beer's new, highly-paid mascot,
     his original owner comes out of the woodwork and claims the dog belongs to him.
   simpsonsworld_id: 221701187546
-  good: maybe
+  good: false
   characters:
+    - santas_little_helper
 - title: Brake My Wife, Please
   season: 14
   episode: 20
@@ -187,8 +198,10 @@ episodes:
     begins to suffer from stress when the pressure of being the only full-time driver
     in the house takes its toll-and ends up running Homer over in her car.
   simpsonsworld_id: 229724227970
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
 - title: The Bart of War
   season: 14
   episode: 21

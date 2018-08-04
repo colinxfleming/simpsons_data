@@ -34,7 +34,7 @@ episodes:
   description: Lisa joins a group of eco-radicals in her attempt to save the city's
     oldest redwood tree.
   simpsonsworld_id: 306939971530
-  good: maybe
+  good: false
   characters:
     - lisa
 - title: Homer vs. Dignity
@@ -73,8 +73,11 @@ episodes:
     fellow students inside Springfield Elementary, where Principal Skinner attempts
     to keep chaos from erupting.
   simpsonsworld_id: 307850819951
-  good: maybe
+  good: false
   characters:
+    - skinner
+    - bart
+    - lisa
 - title: HOMR
   season: 12
   episode: 9
@@ -161,8 +164,9 @@ episodes:
   description: The Simpsons journey through Africa, where they encounter jungle animals,
     tribesmen... and a chimp refuge owner with a secret.
   simpsonsworld_id: 302845507908
-  good: maybe
+  good: false
   characters:
+    - simpsons
 - title: Trilogy of Error
   season: 12
   episode: 18
@@ -170,8 +174,10 @@ episodes:
     when Marge slices off his thumb; Lisa attempts to place her entry in the school
     science fair; Bart is pursued by gangsters.'
   simpsonsworld_id: 302842947994
-  good: maybe
+  good: false
   characters:
+    - simpsons
+    - vignettes
 - title: I'm Goin' to Praise Land
   season: 12
   episode: 19
