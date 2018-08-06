@@ -2729,8 +2729,10 @@
             "episode": 14,
             "description": "After casting Bart and his friends as singers in an all-boy band, a crazed record producer launches an attack on the offices of MAD magazine.",
             "simpsonsworld_id": 310437443723,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "bart"
+            ]
         },
         {
             "title": "Hungry Hungry Homer",
@@ -2738,8 +2740,10 @@
             "episode": 15,
             "description": "Homer goes on a hunger strike after learning that the owner of the Springfield Isotopes plans on moving the team to Albuquerque.",
             "simpsonsworld_id": 307850819931,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Bye Bye Nerdy",
@@ -2782,8 +2786,10 @@
             "episode": 19,
             "description": "To fulfill his dead wife's final wish, Ned Flanders converts an old, closed amusement park into a new Christian amusement park, 'Praiseland.'  The park flops until visitors begin having 'visions.'",
             "simpsonsworld_id": 302848579632,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "flanders"
+            ]
         },
         {
             "title": "Children of a Lesser Clod",
@@ -2792,7 +2798,9 @@
             "description": "After Homer injures his knee, he's housebound for recuperation.  A successful stint as a babysitter prompts Homer to open a full-time daycare service, leaving Bart and Lisa feeling neglected.",
             "simpsonsworld_id": 301652547508,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Simpsons Tall Tales",
