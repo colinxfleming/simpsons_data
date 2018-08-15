@@ -27,8 +27,10 @@ episodes:
     plot to end the romance... only to inadvertently cause Homer and Marge to break
     up instead.
   simpsonsworld_id: 273506371834
-  good: maybe
+  good: false
   characters:
+    - bart
+    - milhouse
 - title: Treehouse of Horror XVI
   season: 17
   episode: 4
@@ -36,7 +38,7 @@ episodes:
     a coma; Burns hunts down Homer in a most dangerous game; a witch transforms trick-or-treaters
     into the costumes they're wearing.
   simpsonsworld_id: 310466627927
-  good: maybe
+  good: false
   characters:
     - treehouse_of_horror
 - title: Marge's Son Poisoning
@@ -45,8 +47,10 @@ episodes:
   description: After spending time with her son, Marge begins to worry that she's
     turning Bart into a momma's boy; Homer enters an arm-wrestling competition.
   simpsonsworld_id: 279766083701
-  good: maybe
+  good: false
   characters:
+    - marge
+    - bart
 - title: See Homer Run
   season: 17
   episode: 6

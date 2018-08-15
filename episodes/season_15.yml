@@ -7,7 +7,7 @@ episodes:
     name on his list; Professor Frink reanimates his father's corpse; Bart and Milhouse
     play pranks with a watch that can stop time.
   simpsonsworld_id: 227335747784
-  good: maybe
+  good: true
   characters:
     - treehouse_of_horror
 - title: My Mother the Carjacker
@@ -19,6 +19,9 @@ episodes:
   simpsonsworld_id: 227339843917
   good: true
   characters:
+    - grandma
+    - homer
+    - mr_burns
 - title: The President Wore Pearls
   season: 15
   episode: 3
@@ -46,7 +49,7 @@ episodes:
     him.  But when he seeks a rematch, Homer bonds with the animal and tries to save
     its life.
   simpsonsworld_id: 227355715580
-  good: maybe
+  good: false
   characters:
     - homer
 - title: Today I am a Clown
@@ -144,8 +147,10 @@ episodes:
     Marge in the driver's seat so she'll be blamed for the accident; Lisa and Bart
     complain to the creator of the Cosmic Wars saga about his latest films.
   simpsonsworld_id: 227399235673
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
 - title: The Wandering Juvie
   season: 15
   episode: 16

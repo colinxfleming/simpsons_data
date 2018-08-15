@@ -3182,7 +3182,10 @@
             "description": "When Bart discovers the existence of an embarrassing TV commercial he appeared in as a baby-and that Homer spent the money he earned-he sues for emancipation and moves out of the house.",
             "simpsonsworld_id": 221696067841,
             "good": false,
-            "characters": null
+            "characters": [
+                "bart",
+                "homer"
+            ]
         },
         {
             "title": "I'm Spelling as Fast as I Can",
@@ -3191,7 +3194,10 @@
             "description": "When Lisa becomes a finalist in a spelling bee, she's offered a college scholarship in exchange for losing; Homer falls hopelessly in love with Krustyburger's limited-time-only rib sandwich.",
             "simpsonsworld_id": 221698627830,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa",
+                "homer"
+            ]
         },
         {
             "title": "A Star is Born-Again",
@@ -3292,7 +3298,9 @@
             "description": "After police discover Bart and Milhouse ransacking Flanders' Beatles memorabilia, Marge decides to place her son in a supervised activity, the Pre-Teen Braves.",
             "simpsonsworld_id": 229731395601,
             "good": false,
-            "characters": null
+            "characters": [
+                "bart"
+            ]
         },
         {
             "title": "Moe Baby Blues",
@@ -3300,8 +3308,13 @@
             "episode": 22,
             "description": "When Moe saves baby Maggie's life, a close bond forms.  But when Maggie wanders off with some gangsters, Homer and Marge mistakenly believe that Moe is responsible for the baby's disappearance.",
             "simpsonsworld_id": 228412483812,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "moe",
+                "maggie",
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "Treehouse of Horror XIV",
@@ -3309,7 +3322,7 @@
             "episode": 1,
             "description": "On Halloween, Homer takes over for the Grim Reaper and discovers Marge's name on his list; Professor Frink reanimates his father's corpse; Bart and Milhouse play pranks with a watch that can stop time.",
             "simpsonsworld_id": 227335747784,
-            "good": false,
+            "good": true,
             "characters": [
                 "treehouse_of_horror"
             ]
@@ -3321,7 +3334,11 @@
             "description": "Mother Simpson is captured by police and placed on trial for sabotaging Mr. Burns' germ warfare plant in the 1960s.  Homer's heartfelt testimony helps win her release... but Mr. Burns concocts a plot to get revenge.",
             "simpsonsworld_id": 227339843917,
             "good": true,
-            "characters": null
+            "characters": [
+                "grandma",
+                "homer",
+                "mr_burns"
+            ]
         },
         {
             "title": "The President Wore Pearls",
@@ -3464,7 +3481,10 @@
             "description": "When a drunken Homer loses control of his car, he places an unconscious Marge in the driver's seat so she'll be blamed for the accident; Lisa and Bart complain to the creator of the Cosmic Wars saga about his latest films.",
             "simpsonsworld_id": 227399235673,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "The Wandering Juvie",
@@ -3767,7 +3787,10 @@
             "description": "After Kirk and Luann rekindle their relationship, Bart and Milhouse plot to end the romance... only to inadvertently cause Homer and Marge to break up instead.",
             "simpsonsworld_id": 273506371834,
             "good": false,
-            "characters": null
+            "characters": [
+                "bart",
+                "milhouse"
+            ]
         },
         {
             "title": "Treehouse of Horror XVI",
@@ -3787,7 +3810,10 @@
             "description": "After spending time with her son, Marge begins to worry that she's turning Bart into a momma's boy; Homer enters an arm-wrestling competition.",
             "simpsonsworld_id": 279766083701,
             "good": false,
-            "characters": null
+            "characters": [
+                "marge",
+                "bart"
+            ]
         },
         {
             "title": "See Homer Run",
@@ -4202,7 +4228,9 @@
             "description": "Marge fears for her safety after breaking a promise to a bank robber about visiting him in jail.",
             "simpsonsworld_id": 310455875747,
             "good": false,
-            "characters": null
+            "characters": [
+                "marge"
+            ]
         },
         {
             "title": "Treehouse of Horror XVIII",

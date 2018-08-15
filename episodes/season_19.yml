@@ -37,6 +37,7 @@ episodes:
   simpsonsworld_id: 310455875747
   good: maybe
   characters:
+    - marge
 - title: Treehouse of Horror XVIII
   season: 19
   episode: 5

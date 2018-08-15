@@ -98,7 +98,7 @@ episodes:
     his lot in life.  But when he injures himself coming out of church, Homer sues
     for damages... and is awarded the church itself.
   simpsonsworld_id: 221526595805
-  good: maybe
+  good: false
   characters:
     - homer
 - title: Barting Over
@@ -108,8 +108,10 @@ episodes:
     he appeared in as a baby-and that Homer spent the money he earned-he sues for
     emancipation and moves out of the house.
   simpsonsworld_id: 221696067841
-  good: maybe
+  good: false
   characters:
+    - bart
+    - homer
 - title: I'm Spelling as Fast as I Can
   season: 14
   episode: 12
@@ -117,8 +119,10 @@ episodes:
     scholarship in exchange for losing; Homer falls hopelessly in love with Krustyburger's
     limited-time-only rib sandwich.
   simpsonsworld_id: 221698627830
-  good: maybe
+  good: false
   characters:
+    - lisa
+    - homer
 - title: A Star is Born-Again
   season: 14
   episode: 13
@@ -209,8 +213,9 @@ episodes:
     memorabilia, Marge decides to place her son in a supervised activity, the Pre-Teen
     Braves.
   simpsonsworld_id: 229731395601
-  good: maybe
+  good: false
   characters:
+    - bart
 - title: Moe Baby Blues
   season: 14
   episode: 22
@@ -218,5 +223,9 @@ episodes:
     wanders off with some gangsters, Homer and Marge mistakenly believe that Moe is
     responsible for the baby's disappearance.
   simpsonsworld_id: 228412483812
-  good: maybe
+  good: true
   characters:
+    - moe
+    - maggie
+    - homer
+    - marge
