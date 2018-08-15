@@ -3737,7 +3737,9 @@
             "description": "Homer is declared a prophet after he convinces everyone in town that the end of the world is at hand.",
             "simpsonsworld_id": 264217155650,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Home Away From Homer",
