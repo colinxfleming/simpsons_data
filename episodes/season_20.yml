@@ -6,8 +6,11 @@ episodes:
   description: Homer and Flanders team-up as bounty hunters; Marge makes confections
     for an erotic bakery.
   simpsonsworld_id: 311088195682
-  good: maybe
+  good: true
   characters:
+    - homer
+    - ned
+    - marge
 - title: Lost Verizon
   season: 20
   episode: 2
@@ -15,8 +18,10 @@ episodes:
     GPS signal to track her son... leading the family to the ancient ruins of Machu
     Picchu.
   simpsonsworld_id: 304458307742
-  good: maybe
+  good: false
   characters:
+    - bart
+    - marge
 - title: Double, Double, Boy in Trouble
   season: 20
   episode: 3

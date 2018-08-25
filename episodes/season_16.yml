@@ -7,7 +7,7 @@ episodes:
     London, Lisa and Bart hunt for a killer; the Simpsons take a fantastic voyage
     after Mr. Burns swallows a miniaturized Maggie.
   simpsonsworld_id: 256741955834
-  good: maybe
+  good: true
   characters:
     - treehouse_of_horror
 - title: All's Fair in Oven War
@@ -43,8 +43,11 @@ episodes:
   description: Homer builds a nuclear reactor for Lisa's science project; Bart makes
     money creating his own line of t-shirts.
   simpsonsworld_id: 256759363799
-  good: maybe
+  good: false
   characters:
+    - bart
+    - homer
+    - lisa
 - title: Midnight Rx
   season: 16
   episode: 6
