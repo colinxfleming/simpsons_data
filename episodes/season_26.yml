@@ -5,29 +5,33 @@ episodes:
   episode: 1
   description: 'The unthinkable happens: a Springfield resident dies.'
   simpsonsworld_id: 334920771636
-  good: maybe
+  good: false
   characters:
+    - krusty
 - title: The Wreck of the Relationship
   season: 26
   episode: 2
   description: Homer and Bart set sail on the relation ship.
   simpsonsworld_id: 346737219924
-  good: maybe
+  good: false
   characters:
+    - bart
+    - homer
 - title: Super Franchise Me
   season: 26
   episode: 3
   description: Marge opens a sandwich shop.
   simpsonsworld_id: 340536899599
-  good: maybe
+  good: false
   characters:
+    - marge
 - title: Treehouse of Horror XXV
   season: 26
   episode: 4
   description: Don't miss the all-new, spooktacular Halloween special, "Treehouse
     of Horror XXV."
   simpsonsworld_id: 344255555880
-  good: maybe
+  good: false
   characters:
     - treehouse_of_horror
 - title: Opposites-A-Frack

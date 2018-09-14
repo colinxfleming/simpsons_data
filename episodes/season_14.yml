@@ -130,8 +130,9 @@ episodes:
     when the relationship blossoms, Ned's faith is put to the test when the star wants
     to have premarital sex.
   simpsonsworld_id: 221695043703
-  good: maybe
+  good: false
   characters:
+    - ned
 - title: Mr. Spritz Goes To Washington
   season: 14
   episode: 14
