@@ -40,30 +40,36 @@ episodes:
   description: An all-new episode featuring guest voice Jane Fonda, whose character
     falls for Mr. Burns.
   simpsonsworld_id: 351437379941
-  good: maybe
+  good: false
   characters:
+    - mr_burns
+    - homer
 - title: Simpsorama
   season: 26
   episode: 6
   description: The Simpsons travel to the 31st century.
   simpsonsworld_id: 355593283530
-  good: maybe
+  good: false
   characters:
+    - simpsons
 - title: Blazed and Confused
   season: 26
   episode: 7
   description: Bart faces a tough test at school when he gets a new teacher, Mr. Lassen,
     who vows to crush his spirit.
   simpsonsworld_id: 359228483622
-  good: maybe
+  good: false
   characters:
+    - bart
 - title: Covercraft
   season: 26
   episode: 8
   description: Homer forms a cover band with some of the other dads in town.
   simpsonsworld_id: 362239555757
-  good: maybe
+  good: false
   characters:
+    - homer
+    - apu
 - title: I Won't Be Home For Christmas
   season: 26
   episode: 9
