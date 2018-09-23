@@ -157,8 +157,10 @@ episodes:
   description: The Simpsons learn about Grampa's days in the Air Force, and Bart takes
     up smoking to impress Milhouse's Dutch cousin.
   simpsonsworld_id: 438408259807
-  good: maybe
+  good: false
   characters:
+    - grandpa
+    - bart
 - title: Bull-E
   season: 26
   episode: 21
