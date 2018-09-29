@@ -5,29 +5,33 @@ episodes:
   episode: 1
   description: 'The unthinkable happens: a Springfield resident dies.'
   simpsonsworld_id: 334920771636
-  good: maybe
+  good: false
   characters:
+    - krusty
 - title: The Wreck of the Relationship
   season: 26
   episode: 2
   description: Homer and Bart set sail on the relation ship.
   simpsonsworld_id: 346737219924
-  good: maybe
+  good: false
   characters:
+    - bart
+    - homer
 - title: Super Franchise Me
   season: 26
   episode: 3
   description: Marge opens a sandwich shop.
   simpsonsworld_id: 340536899599
-  good: maybe
+  good: false
   characters:
+    - marge
 - title: Treehouse of Horror XXV
   season: 26
   episode: 4
   description: Don't miss the all-new, spooktacular Halloween special, "Treehouse
     of Horror XXV."
   simpsonsworld_id: 344255555880
-  good: maybe
+  good: false
   characters:
     - treehouse_of_horror
 - title: Opposites-A-Frack
@@ -36,30 +40,36 @@ episodes:
   description: An all-new episode featuring guest voice Jane Fonda, whose character
     falls for Mr. Burns.
   simpsonsworld_id: 351437379941
-  good: maybe
+  good: false
   characters:
+    - mr_burns
+    - homer
 - title: Simpsorama
   season: 26
   episode: 6
   description: The Simpsons travel to the 31st century.
   simpsonsworld_id: 355593283530
-  good: maybe
+  good: false
   characters:
+    - simpsons
 - title: Blazed and Confused
   season: 26
   episode: 7
   description: Bart faces a tough test at school when he gets a new teacher, Mr. Lassen,
     who vows to crush his spirit.
   simpsonsworld_id: 359228483622
-  good: maybe
+  good: false
   characters:
+    - bart
 - title: Covercraft
   season: 26
   episode: 8
   description: Homer forms a cover band with some of the other dads in town.
   simpsonsworld_id: 362239555757
-  good: maybe
+  good: false
   characters:
+    - homer
+    - apu
 - title: I Won't Be Home For Christmas
   season: 26
   episode: 9
@@ -147,8 +157,10 @@ episodes:
   description: The Simpsons learn about Grampa's days in the Air Force, and Bart takes
     up smoking to impress Milhouse's Dutch cousin.
   simpsonsworld_id: 438408259807
-  good: maybe
+  good: false
   characters:
+    - grandpa
+    - bart
 - title: Bull-E
   season: 26
   episode: 21

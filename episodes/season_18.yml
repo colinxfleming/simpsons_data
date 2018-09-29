@@ -141,16 +141,23 @@ episodes:
   description: Homer is horrified when his father begins dating Selma; Bart and Lisa
     build a fort after acquiring a large quantity of empty cardboard boxes.
   simpsonsworld_id: 302868035943
-  good: maybe
+  good: false
   characters:
+    - homer
+    - grandpa
+    - selma
+    - bart
+    - lisa
 - title: Homerazzi
   season: 18
   episode: 16
   description: Homer tries his hand at making money by photographing celebrities and
     selling the images to the tabloids.
   simpsonsworld_id: 292962371807
-  good: maybe
+  good: false
   characters:
+    - homer
+    - wolfcastle
 - title: Marge Gamer
   season: 18
   episode: 17

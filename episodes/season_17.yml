@@ -191,5 +191,7 @@ episodes:
   description: Homer and Marge play marriage counselors to help a baseball player
     and his sexy recording artist-wife.
   simpsonsworld_id: 292955203576
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
