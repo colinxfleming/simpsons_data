@@ -24,7 +24,7 @@ episodes:
     to communicate with his family; a spoof of 'Dexter' features Homer tricking Flanders;
     a spoof of the movie 'Avatar' features Bart as a tentacled alien.
   simpsonsworld_id: 230493251807
-  good: maybe
+  good: false
   characters:
     - treehouse_of_horror
 - title: Replaceable You

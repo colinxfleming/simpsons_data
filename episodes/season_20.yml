@@ -37,7 +37,7 @@ episodes:
     Homer kills off celebrities so their likenesses can be exploited; the Simpsons
     appear in a spoof of a 'Peanuts' Halloween special.
   simpsonsworld_id: 691895363987
-  good: maybe
+  good: false
   characters:
     - treehouse_of_horror
 - title: Dangerous Curves

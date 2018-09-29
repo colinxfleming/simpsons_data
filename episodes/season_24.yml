@@ -16,7 +16,7 @@ episodes:
     Springfield; the Simpsons are terrorized by the unknown in a spoof of 'Paranormal
     Activity'; Bart time travels in a spoof of 'Back to the Future.'
   simpsonsworld_id: 221695555645
-  good: maybe
+  good: true
   characters:
     - treehouse_of_horror
 - title: Adventures in Baby-getting
