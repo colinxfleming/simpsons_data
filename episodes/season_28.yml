@@ -30,7 +30,7 @@ episodes:
     Lisa's imaginary friend kills her real friends; Moe recruits Bart into his group
     of covert barfly agents.
   simpsonsworld_id: 1063870531930
-  good: maybe
+  good: false
   characters:
     - treehouse_of_horror
 - title: Trust but Clarify

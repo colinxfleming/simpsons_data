@@ -32,7 +32,7 @@ episodes:
     a 'Dead Calm' spoof a vacationing Homer and Marge rescue a stranger who may be
     a murderer; Lisa falls for a hunky vampire in a spoof of 'Twilight'.
   simpsonsworld_id: 263577155794
-  good: maybe
+  good: false
   characters:
     - treehouse_of_horror
 - title: Lisa Simpson, This Isn't Your Life

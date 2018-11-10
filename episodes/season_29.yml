@@ -31,7 +31,7 @@ episodes:
     an alternate dimension, Lisa stumbles upon a disturbingly perfect version of her
     family.
   simpsonsworld_id: 1078509635693
-  good: maybe
+  good: false
   characters:
     - treehouse_of_horror
 - title: Grampy Can Ya Hear Me

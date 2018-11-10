@@ -32,7 +32,7 @@ episodes:
     exchange murders in a Hitchcock spoof; Bart is the key to saving Springfield from
     zombies; Moe's microbrewery mixes beer with Homer's blood.
   simpsonsworld_id: 262634051998
-  good: maybe
+  good: false
   characters:
     - treehouse_of_horror
 - title: The Devil Wears Nada

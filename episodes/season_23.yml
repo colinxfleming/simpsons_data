@@ -98,16 +98,18 @@ episodes:
     on a cable talk show, and attempts to convince leaders of the Republican party
     to nominate singer Ted Nugent for president.
   simpsonsworld_id: 230549059731
-  good: maybe
+  good: false
   characters:
+    - homer
 - title: The D'oh-cial Network
   season: 23
   episode: 11
   description: Lisa's idea for an online social network becomes a tremendous hit,
     but so many people become addicted to posting on the site, it leads to chaos.
   simpsonsworld_id: 230552131592
-  good: maybe
+  good: false
   characters:
+    - lisa
 - title: Moe Goes From Rags To Riches
   season: 23
   episode: 12

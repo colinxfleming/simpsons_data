@@ -45,7 +45,7 @@ episodes:
     one another after discovering their secret identities; Bart and Lisa aid Kodos
     the space alien; Flanders uses the seven deadly sins to punish Bart.'
   simpsonsworld_id: 302852163741
-  good: maybe
+  good: false
   characters:
     - treehouse_of_horror
 - title: Little Orphan Millie
