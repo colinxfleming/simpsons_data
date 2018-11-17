@@ -7,16 +7,21 @@ episodes:
     moves on with her life. Homer is initially devastated, but soon stumbles into
     a romance with a younger woman.
   simpsonsworld_id: 770426947744
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
 - title: Cue Detective
   season: 27
   episode: 2
   description: A celebrity television chef challenges Homer to a barbecue cook-off.
     But before the competition, Homer's new, prized barbecue grill is stolen.
   simpsonsworld_id: 770595395906
-  good: maybe
+  good: false
   characters:
+    - homer
+    - bart
+    - lisa
 - title: Puffless
   season: 27
   episode: 3
@@ -26,6 +31,9 @@ episodes:
   simpsonsworld_id: 772103747997
   good: maybe
   characters:
+    - patty
+    - selma
+    - maggie
 - title: Halloween of Horror
   season: 27
   episode: 4
