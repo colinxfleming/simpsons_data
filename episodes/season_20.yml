@@ -55,8 +55,10 @@ episodes:
   description: When Lisa discovers a talent for solving crossword puzzles, she enters
     a crossword tournament-unaware that Homer bet against her.
   simpsonsworld_id: 310541891517
-  good: maybe
+  good: false
   characters:
+    - lisa
+    - homer
 - title: Mypods and Boomsticks
   season: 20
   episode: 7
@@ -71,8 +73,10 @@ episodes:
   description: As Lisa tries to find a habitat for endangered bees, Mr. Burns builds
     a state-of-the-art sports arena-which happens to look like a giant hive.
   simpsonsworld_id: 310506051725
-  good: maybe
+  good: true
   characters:
+    - mr_burns
+    - lisa
 - title: Lisa the Drama Queen
   season: 20
   episode: 9
