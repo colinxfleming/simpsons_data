@@ -39,7 +39,7 @@ episodes:
   description: The Simpsons travel to England, where Homer is imprisoned in the Tower
     of London after he smashes a car into the Queen's royal coach.
   simpsonsworld_id: 227349059824
-  good: maybe
+  good: false
   characters:
     - simpsons
 - title: The Fat and the Furriest
@@ -59,7 +59,7 @@ episodes:
     he chooses Homer as temporary guest host.  But when Homer's career unexpectedly
     takes off, Krusty finds himself out of a job.
   simpsonsworld_id: 227360323557
-  good: maybe
+  good: false
   characters:
     - krusty
     - homer
@@ -80,7 +80,7 @@ episodes:
   description: Marge opposes a political group made up of childless people who've
     grown fed-up with accommodating people with families.
   simpsonsworld_id: 227369027832
-  good: maybe
+  good: false
   characters:
     - marge
 - title: I, (Annoyed Grunt)-Bot
@@ -138,8 +138,10 @@ episodes:
   description: Homer becomes the majority shareholder of Artie Ziff's troubled Internet
     company-and ends up being arrested by the Securities and Exchange Commission.
   simpsonsworld_id: 227426371786
-  good: maybe
+  good: true
   characters:
+    - homer
+    - artie
 - title: Co-Dependent's Day
   season: 15
   episode: 15
