@@ -3206,7 +3206,9 @@
             "description": "A Hollywood movie star takes a romantic interest in Ned Flanders, and when the relationship blossoms, Ned's faith is put to the test when the star wants to have premarital sex.",
             "simpsonsworld_id": 221695043703,
             "good": false,
-            "characters": null
+            "characters": [
+                "ned"
+            ]
         },
         {
             "title": "Mr. Spritz Goes To Washington",
@@ -3471,8 +3473,11 @@
             "episode": 14,
             "description": "Homer becomes the majority shareholder of Artie Ziff's troubled Internet company-and ends up being arrested by the Securities and Exchange Commission.",
             "simpsonsworld_id": 227426371786,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "homer",
+                "artie"
+            ]
         },
         {
             "title": "Co-Dependent's Day",
@@ -3972,7 +3977,10 @@
             "description": "Homer and Marge play marriage counselors to help a baseball player and his sexy recording artist-wife.",
             "simpsonsworld_id": 292955203576,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "The Mook, the Chef, the Wife and Her Homer",
@@ -4127,7 +4135,13 @@
             "description": "Homer is horrified when his father begins dating Selma; Bart and Lisa build a fort after acquiring a large quantity of empty cardboard boxes.",
             "simpsonsworld_id": 302868035943,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "grandpa",
+                "selma",
+                "bart",
+                "lisa"
+            ]
         },
         {
             "title": "Homerazzi",
@@ -4136,7 +4150,10 @@
             "description": "Homer tries his hand at making money by photographing celebrities and selling the images to the tabloids.",
             "simpsonsworld_id": 292962371807,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "wolfcastle"
+            ]
         },
         {
             "title": "Marge Gamer",
@@ -4445,7 +4462,10 @@
             "description": "When Lisa discovers a talent for solving crossword puzzles, she enters a crossword tournament-unaware that Homer bet against her.",
             "simpsonsworld_id": 310541891517,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa",
+                "homer"
+            ]
         },
         {
             "title": "Mypods and Boomsticks",
@@ -4462,8 +4482,11 @@
             "episode": 8,
             "description": "As Lisa tries to find a habitat for endangered bees, Mr. Burns builds a state-of-the-art sports arena-which happens to look like a giant hive.",
             "simpsonsworld_id": 310506051725,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "mr_burns",
+                "lisa"
+            ]
         },
         {
             "title": "Lisa the Drama Queen",
@@ -4998,7 +5021,9 @@
             "description": "Homer attempts to help a former CIA agent plagued by violent flashbacks from his past.",
             "simpsonsworld_id": 273517123847,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Bart Stops to Smell the Roosevelts",
@@ -5006,8 +5031,11 @@
             "episode": 2,
             "description": "Superintendant Chalmers teaches Bart about Teddy Roosevelt after personally taking charge of the boy's education. When Chalmers loses his job, Bart and his classmates attempt to get him reinstated.",
             "simpsonsworld_id": 273518659843,
-            "good": false,
-            "characters": null
+            "good": true,
+            "characters": [
+                "bart",
+                "chalmers"
+            ]
         },
         {
             "title": "Treehouse of Horror XXII",
@@ -5027,7 +5055,10 @@
             "description": "With some help from Martin Prince, Bart constructs cute, baby seal-like robots that rival Lisa's entry in a science fair project; Homer ends up working for his new assistant.",
             "simpsonsworld_id": 273736771817,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "bart"
+            ]
         },
         {
             "title": "The Food Wife",
@@ -5036,7 +5067,9 @@
             "description": "As Homer and Marge vie for the kids' approval... Marge, Bart and Lisa become successful food bloggers; Homer finds himself trapped in a meth lab after Marge deliberately gives him the wrong address for a restaurant.",
             "simpsonsworld_id": 233194563539,
             "good": false,
-            "characters": null
+            "characters": [
+                "marge"
+            ]
         },
         {
             "title": "The Book Job",
@@ -5045,7 +5078,10 @@
             "description": "After Lisa discovers that her favorite author doesn't exist, Homer forms a literary gang in hopes of writing a bestselling \"tween\" novel and raking in millions.",
             "simpsonsworld_id": 264559171655,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa",
+                "homer"
+            ]
         },
         {
             "title": "The Man in the Blue Flannel Pants",
@@ -5054,7 +5090,9 @@
             "description": "Burns appoints Homer the nuclear power plant's new account man, damning him to a 'Mad Men'-like existence; Lisa becomes Bart's mentor.",
             "simpsonsworld_id": 1071533123906,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "The Ten-Per-Cent Solution",
@@ -5063,7 +5101,9 @@
             "description": "After being fired from his popular kids' show, Krusty stages a comeback with help from an agent who's also an old flame.",
             "simpsonsworld_id": 230516291714,
             "good": false,
-            "characters": null
+            "characters": [
+                "krusty"
+            ]
         },
         {
             "title": "Holidays Of Future Passed",
@@ -5072,7 +5112,10 @@
             "description": "Thirty years in the future, Bart and Lisa attempt to bond with their children on Christmas; an unwed Maggie gives birth while heading home for the holidays.",
             "simpsonsworld_id": 230516803889,
             "good": false,
-            "characters": null
+            "characters": [
+                "bart",
+                "lisa"
+            ]
         },
         {
             "title": "Politically Inept, With Homer Simpson",
@@ -5081,7 +5124,9 @@
             "description": "Homer becomes a celebrity after he voices his conservative opinions on a cable talk show, and attempts to convince leaders of the Republican party to nominate singer Ted Nugent for president.",
             "simpsonsworld_id": 230549059731,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "The D'oh-cial Network",
@@ -5090,7 +5135,9 @@
             "description": "Lisa's idea for an online social network becomes a tremendous hit, but so many people become addicted to posting on the site, it leads to chaos.",
             "simpsonsworld_id": 230552131592,
             "good": false,
-            "characters": null
+            "characters": [
+                "lisa"
+            ]
         },
         {
             "title": "Moe Goes From Rags To Riches",
@@ -5206,7 +5253,7 @@
             "episode": 2,
             "description": "In these three Halloween tales... a black hole threatens to destroy Springfield; the Simpsons are terrorized by the unknown in a spoof of 'Paranormal Activity'; Bart time travels in a spoof of 'Back to the Future.'",
             "simpsonsworld_id": 221695555645,
-            "good": false,
+            "good": true,
             "characters": [
                 "treehouse_of_horror"
             ]
@@ -5607,7 +5654,9 @@
             "description": "The unthinkable happens: a Springfield resident dies.",
             "simpsonsworld_id": 334920771636,
             "good": false,
-            "characters": null
+            "characters": [
+                "krusty"
+            ]
         },
         {
             "title": "The Wreck of the Relationship",
@@ -5616,7 +5665,10 @@
             "description": "Homer and Bart set sail on the relation ship.",
             "simpsonsworld_id": 346737219924,
             "good": false,
-            "characters": null
+            "characters": [
+                "bart",
+                "homer"
+            ]
         },
         {
             "title": "Super Franchise Me",
@@ -5625,7 +5677,9 @@
             "description": "Marge opens a sandwich shop.",
             "simpsonsworld_id": 340536899599,
             "good": false,
-            "characters": null
+            "characters": [
+                "marge"
+            ]
         },
         {
             "title": "Treehouse of Horror XXV",
@@ -5645,7 +5699,10 @@
             "description": "An all-new episode featuring guest voice Jane Fonda, whose character falls for Mr. Burns.",
             "simpsonsworld_id": 351437379941,
             "good": false,
-            "characters": null
+            "characters": [
+                "mr_burns",
+                "homer"
+            ]
         },
         {
             "title": "Simpsorama",
@@ -5654,7 +5711,9 @@
             "description": "The Simpsons travel to the 31st century.",
             "simpsonsworld_id": 355593283530,
             "good": false,
-            "characters": null
+            "characters": [
+                "simpsons"
+            ]
         },
         {
             "title": "Blazed and Confused",
@@ -5663,7 +5722,9 @@
             "description": "Bart faces a tough test at school when he gets a new teacher, Mr. Lassen, who vows to crush his spirit.",
             "simpsonsworld_id": 359228483622,
             "good": false,
-            "characters": null
+            "characters": [
+                "bart"
+            ]
         },
         {
             "title": "Covercraft",
@@ -5672,7 +5733,10 @@
             "description": "Homer forms a cover band with some of the other dads in town.",
             "simpsonsworld_id": 362239555757,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "apu"
+            ]
         },
         {
             "title": "I Won't Be Home For Christmas",
@@ -5780,7 +5844,10 @@
             "description": "The Simpsons learn about Grampa's days in the Air Force, and Bart takes up smoking to impress Milhouse's Dutch cousin.",
             "simpsonsworld_id": 438408259807,
             "good": false,
-            "characters": null
+            "characters": [
+                "grandpa",
+                "bart"
+            ]
         },
         {
             "title": "Bull-E",
@@ -5807,7 +5874,10 @@
             "description": "Marge decides it's finally time to separate from Homer, and quickly moves on with her life. Homer is initially devastated, but soon stumbles into a romance with a younger woman.",
             "simpsonsworld_id": 770426947744,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "Cue Detective",
@@ -5816,7 +5886,11 @@
             "description": "A celebrity television chef challenges Homer to a barbecue cook-off. But before the competition, Homer's new, prized barbecue grill is stolen.",
             "simpsonsworld_id": 770595395906,
             "good": false,
-            "characters": null
+            "characters": [
+                "homer",
+                "bart",
+                "lisa"
+            ]
         },
         {
             "title": "Puffless",
@@ -5825,7 +5899,11 @@
             "description": "Patty and Selma try to quit smoking, but Patty moves in with the Simpsons when Selma takes it up again. Meanwhile, Maggie goes on an adventure with some local creatures.",
             "simpsonsworld_id": 772103747997,
             "good": false,
-            "characters": null
+            "characters": [
+                "patty",
+                "selma",
+                "maggie"
+            ]
         },
         {
             "title": "Halloween of Horror",
@@ -6469,6 +6547,10 @@
         {
             "short_name": "wiggum",
             "name": "Police Chief Wiggum"
+        },
+        {
+            "short_name": "wolfcastle",
+            "name": "Rainier Wolfcastle"
         }
     ]
 }
