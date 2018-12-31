@@ -114,8 +114,8 @@ episodes:
     asked to appear on Krusty's television show.
   simpsonsworld_id: 302899267542
   good: false
-    - bart
   characters:
+    - bart
 - title: The Old Man and the Key
   season: 13
   episode: 13

@@ -2944,8 +2944,10 @@
             "episode": 12,
             "description": "Bart befriends an aging movie cowboy who begins drinking heavily when asked to appear on Krusty's television show.",
             "simpsonsworld_id": 302899267542,
-            "good": "false - bart",
-            "characters": null
+            "good": false,
+            "characters": [
+                "bart"
+            ]
         },
         {
             "title": "The Old Man and the Key",
