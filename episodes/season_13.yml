@@ -125,7 +125,7 @@ episodes:
   simpsonsworld_id: 301659203973
   good: false
   characters:
-    - grandpa
+    - grandpa_simpson
 - title: Tales From the Public Domain
   season: 13
   episode: 14

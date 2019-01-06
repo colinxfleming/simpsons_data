@@ -19,7 +19,7 @@ episodes:
   simpsonsworld_id: 227339843917
   good: true
   characters:
-    - grandma
+    - grandma_simpson
     - homer
     - mr_burns
 - title: The President Wore Pearls

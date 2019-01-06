@@ -159,7 +159,7 @@ episodes:
   simpsonsworld_id: 438408259807
   good: false
   characters:
-    - grandpa
+    - grandpa_simpson
     - bart
 - title: Bull-E
   season: 26

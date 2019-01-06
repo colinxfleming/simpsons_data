@@ -47,7 +47,7 @@ episodes:
   good: false
   characters:
     - bart
-    - grandpa
+    - grandpa_simpson
 - title: Moaning Lisa
   season: 1
   episode: 6

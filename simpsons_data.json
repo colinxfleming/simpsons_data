@@ -54,7 +54,7 @@
             "good": false,
             "characters": [
                 "bart",
-                "grandpa"
+                "grandpa_simpson"
             ]
         },
         {
@@ -346,7 +346,7 @@
             "simpsonsworld_id": 263504963955,
             "good": false,
             "characters": [
-                "grandpa"
+                "grandpa_simpson"
             ]
         },
         {
@@ -1185,7 +1185,7 @@
             "simpsonsworld_id": 283752003577,
             "good": true,
             "characters": [
-                "family"
+                "simpsons"
             ]
         },
         {
@@ -1254,7 +1254,7 @@
             "good": true,
             "characters": [
                 "homer",
-                "grandpa"
+                "grandpa_simpson"
             ]
         },
         {
@@ -2957,7 +2957,7 @@
             "simpsonsworld_id": 301659203973,
             "good": false,
             "characters": [
-                "grandpa"
+                "grandpa_simpson"
             ]
         },
         {
@@ -3339,7 +3339,7 @@
             "simpsonsworld_id": 227339843917,
             "good": true,
             "characters": [
-                "grandma",
+                "grandma_simpson",
                 "homer",
                 "mr_burns"
             ]
@@ -4139,7 +4139,7 @@
             "good": false,
             "characters": [
                 "homer",
-                "grandpa",
+                "grandpa_simpson",
                 "selma",
                 "bart",
                 "lisa"
@@ -5847,7 +5847,7 @@
             "simpsonsworld_id": 438408259807,
             "good": false,
             "characters": [
-                "grandpa",
+                "grandpa_simpson",
                 "bart"
             ]
         },
@@ -6375,8 +6375,16 @@
     ],
     "characters": [
         {
+            "short_name": "apu",
+            "name": "Apu Nahasapeemapetilon"
+        },
+        {
             "short_name": "artie",
             "name": "Artie Ziff"
+        },
+        {
+            "short_name": "barney",
+            "name": "Barney Gumble"
         },
         {
             "short_name": "bart",
@@ -6427,12 +6435,16 @@
             "full_name": "Mona Simpson"
         },
         {
-            "short_name": "grandpa",
+            "short_name": "grandpa_simpson",
             "full_name": "Abraham Simpson"
         },
         {
             "short_name": "homer",
             "name": "Homer Simpson"
+        },
+        {
+            "short_name": "jimbo",
+            "name": "Jimbo"
         },
         {
             "short_name": "kirk",

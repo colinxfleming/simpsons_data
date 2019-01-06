@@ -39,7 +39,7 @@ episodes:
   simpsonsworld_id: 283752003577
   good: true
   characters:
-    - family
+    - simpsons
 - title: Sideshow Bob Roberts
   season: 6
   episode: 5
@@ -94,7 +94,7 @@ episodes:
   good: true
   characters:
     - homer
-    - grandpa
+    - grandpa_simpson
 - title: Fear of Flying
   season: 6
   episode: 11

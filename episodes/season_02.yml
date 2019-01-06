@@ -161,7 +161,7 @@ episodes:
   simpsonsworld_id: 263504963955
   good: false
   characters:
-    - grandpa
+    - grandpa_simpson
 - title: Brush with Greatness
   season: 2
   episode: 18

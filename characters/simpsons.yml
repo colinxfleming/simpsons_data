@@ -10,7 +10,7 @@ characters:
   name: Lisa Simpson
 - short_name: maggie
   name: Margaret Evelyn Simpson
-- short_name: grandpa
+- short_name: grandpa_simpson
   full_name: Abraham Simpson
 - short_name: grandma_simpson
   full_name: Mona Simpson
