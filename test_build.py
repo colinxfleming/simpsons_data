@@ -31,9 +31,11 @@ with open('simpsons_data.json', 'r') as f:
 
         # Season should be an int
         assert isinstance(episode['season'], int)
+        # assert episode['season'] < 50
 
         # Episode should be an int
         assert isinstance(episode['episode'], int)
+        # assert episode['episode'] < 50
 
         # Description should be a string
         assert isinstance(episode['description'], str)
@@ -54,7 +56,7 @@ with open('simpsons_data.json', 'r') as f:
                         if char['short_name'] == character)
 
     # Season-Episode pair should be unique
-    assert len(all_episodes) == len(set(f"#{ep['season']}-#{ep['episode']}"
+    assert len(all_episodes) == len(set(f"{ep['season']}-{ep['episode']}"
                                         for ep in all_episodes))
 
     # CHARACTER QA #
