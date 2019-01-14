@@ -47,11 +47,23 @@ with open('simpsons_data.json', 'r') as f:
     assert len(all_episodes) == len(set(f"#{ep['season']}-#{ep['episode']}"
                                         for ep in all_episodes))
 
-
     # CHARACTER QA #
 
+    print('QAing characters...')
+
+    for character in all_characters:
+        # Name should be a string
+        assert isinstance(character['name'], str)
+
+        # Short name should be a string
+        assert isinstance(character['short_name'], str)
+
     # Character name should be unique
+    assert len(all_characters) == len(set(f"#{char['name']}"
+                                          for char in all_characters))
 
     # Character shortname should be unique
+    assert len(all_characters) == len(set(f"#{char['short_name']}"
+                                          for char in all_characters))
 
 print('QA complete!')
