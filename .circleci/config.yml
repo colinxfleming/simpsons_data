@@ -33,4 +33,4 @@ jobs:
           name: run tests
           command: |
             . venv/bin/activate
-            python build.py
+            python test_build.py

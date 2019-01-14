@@ -11,8 +11,8 @@ characters:
 - short_name: maggie
   name: Margaret Evelyn Simpson
 - short_name: grandpa_simpson
-  full_name: Abraham Simpson
+  name: Abraham Simpson
 - short_name: grandma_simpson
-  full_name: Mona Simpson
+  name: Mona Simpson
 - short_name: santas_little_helper
-  full_name: Santa's Little Helper
+  name: Santa's Little Helper
