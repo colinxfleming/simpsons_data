@@ -20,8 +20,9 @@ with open('simpsons_data.json', 'r') as f:
 
     for episode in all_episodes:
         # Should have expected keys
+        # print(f"#{episode['sea/son']} - #{episode['episode']}")
         for key in expected_ep_keys:
-            assert episode[key]
+            assert key in episode
         assert len(expected_ep_keys) == len(episode.keys())
 
         # Title should be a string
@@ -63,7 +64,7 @@ with open('simpsons_data.json', 'r') as f:
     for character in all_characters:
         # Should have expected keys
         for key in expected_char_keys:
-            assert character[key]
+            assert key in character
         assert len(expected_char_keys) == len(character.keys())
 
         # Name should be a string
