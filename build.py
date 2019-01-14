@@ -43,9 +43,10 @@ with open('simpsons_data.json', 'r') as f:
             assert next(char for char in all_characters
                         if char['short_name'] == character)
 
-        # Season-Episode pair should be unique
+    # Season-Episode pair should be unique
+    assert len(all_episodes) == len(set(f"#{ep['season']}-#{ep['episode']}"
+                                        for ep in all_episodes))
 
-        # Characters should exist in the corresponding Characters blob
 
     # CHARACTER QA #
 
