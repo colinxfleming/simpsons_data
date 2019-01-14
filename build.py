@@ -3,6 +3,10 @@
 """A series of asserts to verify data quality."""
 import json
 
+expected_ep_keys = ['title', 'season', 'episode', 'description',
+                    'simpsonsworld_id', 'good', 'characters']
+expected_char_keys = ['name', 'short_name']
+
 print('loading file...')
 
 with open('simpsons_data.json', 'r') as f:
@@ -15,6 +19,11 @@ with open('simpsons_data.json', 'r') as f:
     print('QAing episodes...')
 
     for episode in all_episodes:
+        # Should have expected keys
+        for key in expected_ep_keys:
+            assert episode[key]
+        assert len(expected_ep_keys) == len(episode.keys())
+
         # Title should be a string
         assert isinstance(episode['title'], str)
         assert len(episode['title']) > 0
@@ -52,6 +61,11 @@ with open('simpsons_data.json', 'r') as f:
     print('QAing characters...')
 
     for character in all_characters:
+        # Should have expected keys
+        for key in expected_char_keys:
+            assert character[key]
+        assert len(expected_char_keys) == len(character.keys())
+
         # Name should be a string
         assert isinstance(character['name'], str)
 
