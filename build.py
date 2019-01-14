@@ -1,5 +1,9 @@
+#!/usr/bin/env python
+
 """A series of asserts to verify data quality."""
 import json
+
+print('loading file...')
 
 with open('simpsons_data.json', 'r') as f:
     all_json = json.load(f)
@@ -7,6 +11,8 @@ with open('simpsons_data.json', 'r') as f:
     all_characters = all_json['characters']
 
     # EPISODE QA #
+
+    print('QAing episodes...')
 
     for episode in all_episodes:
         # Title should be a string
@@ -46,3 +52,5 @@ with open('simpsons_data.json', 'r') as f:
     # Character name should be unique
 
     # Character shortname should be unique
+
+print('QA complete!')
