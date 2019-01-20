@@ -3524,7 +3524,9 @@
             "description": "Bart and Lisa pursue Homer and Marge after they sneak away on a second honeymoon; Grampa catches the eye of a dashing Cuban man.",
             "simpsonsworld_id": 227415619717,
             "good": false,
-            "characters": []
+            "characters": [
+                "simpsons"
+            ]
         },
         {
             "title": "Simple Simpson",
@@ -3591,7 +3593,10 @@
             "description": "Marge enters a bakeoff competition, but ends up sabotaging the other entries; Bart decides to live the life of a swinger after discovering Playdude magazine.",
             "simpsonsworld_id": 257840195722,
             "good": false,
-            "characters": []
+            "characters": [
+                "marge",
+                "bart"
+            ]
         },
         {
             "title": "Sleeping with the Enemy",
@@ -3600,7 +3605,12 @@
             "description": "Lisa becomes self-conscious about her weight after kids at school make fun of her posterior;  Marge takes bully Nelson Muntz under her wing ... much to Bart's horror.",
             "simpsonsworld_id": 256764995911,
             "good": false,
-            "characters": []
+            "characters": [
+                "lisa",
+                "marge",
+                "nelson",
+                "bart"
+            ]
         },
         {
             "title": "She Used to Be My Girl",

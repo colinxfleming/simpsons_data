@@ -179,8 +179,9 @@ episodes:
   description: Bart and Lisa pursue Homer and Marge after they sneak away on a second
     honeymoon; Grampa catches the eye of a dashing Cuban man.
   simpsonsworld_id: 227415619717
-  good: maybe
+  good: false
   characters:
+    - simpsons
 - title: Simple Simpson
   season: 15
   episode: 19

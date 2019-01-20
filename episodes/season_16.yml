@@ -17,8 +17,10 @@ episodes:
     entries; Bart decides to live the life of a swinger after discovering Playdude
     magazine.
   simpsonsworld_id: 257840195722
-  good: maybe
+  good: false
   characters:
+    - marge
+    - bart
 - title: Sleeping with the Enemy
   season: 16
   episode: 3
@@ -26,8 +28,12 @@ episodes:
     fun of her posterior;  Marge takes bully Nelson Muntz under her wing ... much
     to Bart's horror.
   simpsonsworld_id: 256764995911
-  good: maybe
+  good: false
   characters:
+    - lisa
+    - marge
+    - nelson
+    - bart
 - title: She Used to Be My Girl
   season: 16
   episode: 4
