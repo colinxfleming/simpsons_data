@@ -5,24 +5,31 @@ episodes:
   episode: 1
   description: Mr. Burns puts on a variety show at the Springfield Bowl.
   simpsonsworld_id: 1066704963871
-  good: maybe
+  good: false
   characters:
+    - mr_burns
+    - lisa
+    - homer
 - title: Friends and Family
   season: 28
   episode: 2
   description: Homer finds a new friend in a woman who acts just like him when Mr.
     Burns hires the other Simpsons as his live-in virtual reality family.
   simpsonsworld_id: 1064038980002
-  good: maybe
+  good: false
   characters:
+    - homer
+    - mr_burns
+    - simpsons
 - title: The Town
   season: 28
   episode: 3
   description: Homer takes the family on a "hate-cation" to Boston after he catches
     Bart rooting for a rival football team.
   simpsonsworld_id: 1064043075512
-  good: maybe
+  good: false
   characters:
+    - simpsons
 - title: Treehouse of Horror XXVII
   season: 28
   episode: 4

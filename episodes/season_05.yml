@@ -6,23 +6,30 @@ episodes:
   description: Homer recounts his phenomenal rise to superstardom as a member of the
     barbershop quartet, The Be Sharps.
   simpsonsworld_id: 305674307809
-  good: maybe
+  good: false
   characters:
+    - homer
+    - barney
+    - skinner
+    - apu
 - title: Cape Feare
   season: 5
   episode: 2
   description: Sideshow Bob terrorizes Bart after he is paroled from prison.
   simpsonsworld_id: 305674819788
-  good: maybe
+  good: true
   characters:
+    - bart
+    - sideshow_bob
 - title: Homer Goes to College
   season: 5
   episode: 3
   description: Homer enrolls in a nuclear physics class at Springfield University
     and convinces three nerdy classmates to help him pull off a prank.
   simpsonsworld_id: 280399427649
-  good: maybe
+  good: true
   characters:
+    - homer
 - title: Rosebud
   season: 5
   episode: 4
@@ -36,7 +43,7 @@ episodes:
   description: In a ghoulish gallery, Bart hosts three bloodcurdling tales of Halloween
     horror.
   simpsonsworld_id: 275206211805
-  good: maybe
+  good: true
   characters:
     - treehouse_of_horror
 - title: Marge on the Lam
@@ -108,16 +115,19 @@ episodes:
   episode: 14
   description: Lisa manufactures her own talking doll for little girls.
   simpsonsworld_id: 274260035625
-  good: maybe
+  good: true
   characters:
+    - lisa
 - title: Deep Space Homer
   season: 5
   episode: 15
   description: NASA scientists train Homer to become the first average American in
     space, with near disastrous results.
   simpsonsworld_id: 275720259883
-  good: maybe
+  good: true
   characters:
+    - homer
+    - barney
 - title: Homer Loves Flanders
   season: 5
   episode: 16
@@ -145,8 +155,10 @@ episodes:
   description: Bart suffers enormous guilt after Skinner is fired from his job as
     school principal.
   simpsonsworld_id: 274260035741
-  good: maybe
+  good: true
   characters:
+    - bart
+    - skinner
 - title: The Boy Who Knew Too Much
   season: 5
   episode: 20
@@ -154,8 +166,10 @@ episodes:
     he fears that identifying himself as a witness will mean expulsion for skipping
     class.
   simpsonsworld_id: 278796355962
-  good: maybe
+  good: true
   characters:
+    - bart
+    - skinner
 - title: Lady Bouvier's Lover
   season: 5
   episode: 21
@@ -170,5 +184,7 @@ episodes:
   description: Marge kicks Homer out of the house after she discovers that he revealed
     her personal secrets to an adult education class.
   simpsonsworld_id: 279720003973
-  good: maybe
+  good: true
   characters:
+    - homer
+    - marge
