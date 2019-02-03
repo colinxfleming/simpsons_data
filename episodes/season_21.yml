@@ -6,8 +6,10 @@ episodes:
   description: Homer ends up with a superhero's physique after he's chosen to appear
     in a film based on a character created by The Comic Book Guy.
   simpsonsworld_id: 250297923589
-  good: maybe
+  good: false
   characters:
+    - comic_book_guy
+    - homer
 - title: Bart Gets A 'Z'
   season: 21
   episode: 2
