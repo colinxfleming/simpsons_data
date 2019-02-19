@@ -948,7 +948,12 @@
             "description": "Homer recounts his phenomenal rise to superstardom as a member of the barbershop quartet, The Be Sharps.",
             "simpsonsworld_id": 305674307809,
             "good": false,
-            "characters": []
+            "characters": [
+                "homer",
+                "barney",
+                "skinner",
+                "apu"
+            ]
         },
         {
             "title": "Cape Feare",
@@ -956,8 +961,11 @@
             "episode": 2,
             "description": "Sideshow Bob terrorizes Bart after he is paroled from prison.",
             "simpsonsworld_id": 305674819788,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "bart",
+                "sideshow_bob"
+            ]
         },
         {
             "title": "Homer Goes to College",
@@ -965,8 +973,10 @@
             "episode": 3,
             "description": "Homer enrolls in a nuclear physics class at Springfield University and convinces three nerdy classmates to help him pull off a prank.",
             "simpsonsworld_id": 280399427649,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Rosebud",
@@ -983,7 +993,7 @@
             "episode": 5,
             "description": "In a ghoulish gallery, Bart hosts three bloodcurdling tales of Halloween horror.",
             "simpsonsworld_id": 275206211805,
-            "good": false,
+            "good": true,
             "characters": [
                 "treehouse_of_horror"
             ]
@@ -1066,8 +1076,10 @@
             "episode": 14,
             "description": "Lisa manufactures her own talking doll for little girls.",
             "simpsonsworld_id": 274260035625,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "lisa"
+            ]
         },
         {
             "title": "Deep Space Homer",
@@ -1075,8 +1087,11 @@
             "episode": 15,
             "description": "NASA scientists train Homer to become the first average American in space, with near disastrous results.",
             "simpsonsworld_id": 275720259883,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "homer",
+                "barney"
+            ]
         },
         {
             "title": "Homer Loves Flanders",
@@ -1111,8 +1126,11 @@
             "episode": 19,
             "description": "Bart suffers enormous guilt after Skinner is fired from his job as school principal.",
             "simpsonsworld_id": 274260035741,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "bart",
+                "skinner"
+            ]
         },
         {
             "title": "The Boy Who Knew Too Much",
@@ -1120,8 +1138,11 @@
             "episode": 20,
             "description": "Only Bart can clear Mayor Quimby's nephew of an assault charge, but he fears that identifying himself as a witness will mean expulsion for skipping class.",
             "simpsonsworld_id": 278796355962,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "bart",
+                "skinner"
+            ]
         },
         {
             "title": "Lady Bouvier's Lover",
@@ -1138,8 +1159,11 @@
             "episode": 22,
             "description": "Marge kicks Homer out of the house after she discovers that he revealed her personal secrets to an adult education class.",
             "simpsonsworld_id": 279720003973,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "Bart of Darkness",
@@ -4624,7 +4648,10 @@
             "description": "Homer ends up with a superhero's physique after he's chosen to appear in a film based on a character created by The Comic Book Guy.",
             "simpsonsworld_id": 250297923589,
             "good": false,
-            "characters": []
+            "characters": [
+                "comic_book_guy",
+                "homer"
+            ]
         },
         {
             "title": "Bart Gets A 'Z'",
@@ -6097,7 +6124,11 @@
             "description": "Mr. Burns puts on a variety show at the Springfield Bowl.",
             "simpsonsworld_id": 1066704963871,
             "good": false,
-            "characters": []
+            "characters": [
+                "mr_burns",
+                "lisa",
+                "homer"
+            ]
         },
         {
             "title": "Friends and Family",
@@ -6106,7 +6137,11 @@
             "description": "Homer finds a new friend in a woman who acts just like him when Mr. Burns hires the other Simpsons as his live-in virtual reality family.",
             "simpsonsworld_id": 1064038980002,
             "good": false,
-            "characters": []
+            "characters": [
+                "homer",
+                "mr_burns",
+                "simpsons"
+            ]
         },
         {
             "title": "The Town",
@@ -6115,7 +6150,9 @@
             "description": "Homer takes the family on a \"hate-cation\" to Boston after he catches Bart rooting for a rival football team.",
             "simpsonsworld_id": 1064043075512,
             "good": false,
-            "characters": []
+            "characters": [
+                "simpsons"
+            ]
         },
         {
             "title": "Treehouse of Horror XXVII",
