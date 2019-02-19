@@ -4,7 +4,12 @@ Please enjoy this dataset of Simpsons data, scraped from SimponsWorld.
 
 ## Contents
 
-Season data is in its own individual file, which gets compiled by a python script.
+This contains episodes and characters split out into yaml files, which gets boiled down to a json file, which gets loaded into [Simpsons Optimizer](https://www.simpsonsoptimizer.com/).
+
+## Contributing
+
+* Change episode or character in the yaml files
+* Open pull request
 
 ## Data model
 
@@ -35,17 +40,17 @@ Here's what's done so far:
 * **Season 2**: Episodes cataloged; Characters cataloged
 * **Season 3**: Episodes cataloged; Characters cataloged
 * **Season 4**: Episodes cataloged; Characters uncataloged
-* **Season 5**: Episodes cataloged; Characters uncataloged
+* **Season 5**: Episodes uncataloged; Characters uncataloged
 * **Season 6**: Episodes cataloged; Characters uncataloged
 * **Season 7**: Episodes cataloged; Characters uncataloged
 * **Season 8**: Episodes cataloged; Characters uncataloged
 * **Season 9**: Episodes cataloged; Characters uncataloged
 * **Season 10**: Episodes cataloged; Characters uncataloged
-* **Season 11**: Episodes uncataloged; Characters uncataloged
-* **Season 12**: Episodes uncataloged; Characters uncataloged
-* **Season 13**: Episodes uncataloged; Characters uncataloged
-* **Season 14**: Episodes uncataloged; Characters uncataloged
-* **Season 15**: Episodes uncataloged; Characters uncataloged
+* **Season 11**: Episodes cataloged; Characters uncataloged
+* **Season 12**: Episodes cataloged; Characters uncataloged
+* **Season 13**: Episodes cataloged; Characters uncataloged
+* **Season 14**: Episodes cataloged; Characters uncataloged
+* **Season 15**: Episodes cataloged; Characters uncataloged
 * **Season 16**: Episodes uncataloged; Characters uncataloged
 * **Season 17**: Episodes uncataloged; Characters uncataloged
 * **Season 18**: Episodes uncataloged; Characters uncataloged
@@ -64,8 +69,6 @@ Here's what's done so far:
 ## Usage
 
 `python compile_data.py` spits out a json file with keys characters and episodes.
-
-<strike>`./compile_seasons.py yaml` spits out a yaml file.</strike> (Coming soon)
 
 There are current versions of these in the base directory for your convenience.
 
