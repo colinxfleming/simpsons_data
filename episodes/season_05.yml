@@ -35,8 +35,10 @@ episodes:
   episode: 4
   description: The Simpsons find Mr. Burns' long-lost childhood teddy bear.
   simpsonsworld_id: 279714371653
-  good: maybe
+  good: true
   characters:
+    - mr_burns
+    - homer
 - title: Treehouse of Horror IV
   season: 5
   episode: 5
@@ -52,24 +54,29 @@ episodes:
   description: Marge joins divorcee Ruth Powers for a wild night on the town, only
     to discover that her friend is driving a stolen vehicle.
   simpsonsworld_id: 294777411510
-  good: maybe
+  good: true
   characters:
+    - marge
 - title: Bart's Inner Child
   season: 5
   episode: 7
   description: The host of a self-help workshop convinces the people of Springfield
     they should emulate Bart's uninhibited personality.
   simpsonsworld_id: 275202627817
-  good: maybe
+  good: true
   characters:
+    - bart
 - title: Boy-Scoutz 'N the Hood
   season: 5
   episode: 8
   description: Bart inadvertently joins the Junior Campers, and during a rafting trip,
     he becomes lost at sea with Homer and Ned Flanders.
   simpsonsworld_id: 288056387698
-  good: maybe
+  good: true
   characters:
+    - bart
+    - homer
+    - ned
 - title: The Last Temptation of Homer
   season: 5
   episode: 9
