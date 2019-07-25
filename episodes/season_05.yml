@@ -83,32 +83,38 @@ episodes:
   description: Homer is attracted to a sexy co-worker with a personality identical
     to his own.
   simpsonsworld_id: 275201091952
-  good: maybe
+  good: true
   characters:
+    - homer
 - title: "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)"
   season: 5
   episode: 10
   description: Marge becomes addicted to playing slot machines after the town of Springfield
     legalizes gambling.
   simpsonsworld_id: 305659459565
-  good: maybe
+  good: true
   characters:
+    - marge
+    - homer
 - title: Homer the Vigilante
   season: 5
   episode: 11
   description: Homer takes the law into his own hands after Springfield is victimized
     by a cat burglar.
   simpsonsworld_id: 305677891810
-  good: maybe
+  good: true
   characters:
+    - homer
 - title: Bart Gets Famous
   season: 5
   episode: 12
   description: Bart becomes an instant celebrity after he ad-libs a line during a
     sketch on the "Krusty the Klown Show."
   simpsonsworld_id: 302789187885
-  good: maybe
+  good: true
   characters:
+    - bart
+    - krusty
 - title: Homer and Apu
   season: 5
   episode: 13
