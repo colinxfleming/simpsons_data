@@ -158,7 +158,7 @@ episodes:
   description: Homer is elected union leader at the power plant and tries to save
     the dental plan so he will not have to pay for Lisa's new braces.
   simpsonsworld_id: 357630019692
-  good: false
+  good: true
   characters:
     - homer
     - mr_burns
