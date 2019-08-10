@@ -121,8 +121,10 @@ episodes:
   description: Apu offers the Simpsons his services as valet after he is fired from
     the Kwik-E-Mart for selling rancid meat.
   simpsonsworld_id: 279716931614
-  good: maybe
+  good: false
   characters:
+    - homer
+    - apu
 - title: Lisa vs. Malibu Stacy
   season: 5
   episode: 14

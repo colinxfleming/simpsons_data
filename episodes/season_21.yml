@@ -17,16 +17,19 @@ episodes:
     of herself at the elementary school - but what Skinner doesn't know is that Bart
     spiked her coffee with alcohol.
   simpsonsworld_id: 310517315862
-  good: maybe
+  good: false
   characters:
+    - edna
+    - bart
 - title: The Great Wife Hope
   season: 21
   episode: 3
   description: Marge vows to drive mixed martial arts from Springfield by defeating
     a fight promoter in the ring.
   simpsonsworld_id: 250299971833
-  good: maybe
+  good: false
   characters:
+    - marge
 - title: Treehouse of Horror XX
   season: 21
   episode: 4
@@ -43,8 +46,11 @@ episodes:
   description: Homer's life turns into nonstop misery when he becomes Carl's assistant;
     Marge poses for a sexy calendar.
   simpsonsworld_id: 250304067959
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
+    - carl
 - title: Pranks and Greens
   season: 21
   episode: 6
