@@ -35,8 +35,10 @@ episodes:
   episode: 4
   description: The Simpsons find Mr. Burns' long-lost childhood teddy bear.
   simpsonsworld_id: 279714371653
-  good: maybe
+  good: true
   characters:
+    - mr_burns
+    - homer
 - title: Treehouse of Horror IV
   season: 5
   episode: 5
@@ -52,64 +54,77 @@ episodes:
   description: Marge joins divorcee Ruth Powers for a wild night on the town, only
     to discover that her friend is driving a stolen vehicle.
   simpsonsworld_id: 294777411510
-  good: maybe
+  good: true
   characters:
+    - marge
 - title: Bart's Inner Child
   season: 5
   episode: 7
   description: The host of a self-help workshop convinces the people of Springfield
     they should emulate Bart's uninhibited personality.
   simpsonsworld_id: 275202627817
-  good: maybe
+  good: true
   characters:
+    - bart
 - title: Boy-Scoutz 'N the Hood
   season: 5
   episode: 8
   description: Bart inadvertently joins the Junior Campers, and during a rafting trip,
     he becomes lost at sea with Homer and Ned Flanders.
   simpsonsworld_id: 288056387698
-  good: maybe
+  good: true
   characters:
+    - bart
+    - homer
+    - ned
 - title: The Last Temptation of Homer
   season: 5
   episode: 9
   description: Homer is attracted to a sexy co-worker with a personality identical
     to his own.
   simpsonsworld_id: 275201091952
-  good: maybe
+  good: true
   characters:
+    - homer
 - title: "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)"
   season: 5
   episode: 10
   description: Marge becomes addicted to playing slot machines after the town of Springfield
     legalizes gambling.
   simpsonsworld_id: 305659459565
-  good: maybe
+  good: true
   characters:
+    - marge
+    - homer
 - title: Homer the Vigilante
   season: 5
   episode: 11
   description: Homer takes the law into his own hands after Springfield is victimized
     by a cat burglar.
   simpsonsworld_id: 305677891810
-  good: maybe
+  good: true
   characters:
+    - homer
 - title: Bart Gets Famous
   season: 5
   episode: 12
   description: Bart becomes an instant celebrity after he ad-libs a line during a
     sketch on the "Krusty the Klown Show."
   simpsonsworld_id: 302789187885
-  good: maybe
+  good: true
   characters:
+    - bart
+    - krusty
 - title: Homer and Apu
   season: 5
   episode: 13
   description: Apu offers the Simpsons his services as valet after he is fired from
     the Kwik-E-Mart for selling rancid meat.
   simpsonsworld_id: 279716931614
-  good: maybe
+  good: false
   characters:
+    - homer
+    - apu
 - title: Lisa vs. Malibu Stacy
   season: 5
   episode: 14
