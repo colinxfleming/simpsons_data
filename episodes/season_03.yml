@@ -10,6 +10,7 @@ episodes:
   good: false
   characters:
     - homer
+    - bart
 - title: Mr. Lisa Goes to Washington
   season: 3
   episode: 2
@@ -126,7 +127,7 @@ episodes:
   simpsonsworld_id: 272052803895
   good: true
   characters:
-    - homer
+    - bart
 - title: Lisa the Greek
   season: 3
   episode: 14
