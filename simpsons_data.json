@@ -880,7 +880,7 @@
             "episode": 17,
             "description": "Homer is elected union leader at the power plant and tries to save the dental plan so he will not have to pay for Lisa's new braces.",
             "simpsonsworld_id": 357630019692,
-            "good": false,
+            "good": true,
             "characters": [
                 "homer",
                 "mr_burns"
@@ -984,8 +984,11 @@
             "episode": 4,
             "description": "The Simpsons find Mr. Burns' long-lost childhood teddy bear.",
             "simpsonsworld_id": 279714371653,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "mr_burns",
+                "homer"
+            ]
         },
         {
             "title": "Treehouse of Horror IV",
@@ -1004,8 +1007,10 @@
             "episode": 6,
             "description": "Marge joins divorcee Ruth Powers for a wild night on the town, only to discover that her friend is driving a stolen vehicle.",
             "simpsonsworld_id": 294777411510,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "marge"
+            ]
         },
         {
             "title": "Bart's Inner Child",
@@ -1013,8 +1018,10 @@
             "episode": 7,
             "description": "The host of a self-help workshop convinces the people of Springfield they should emulate Bart's uninhibited personality.",
             "simpsonsworld_id": 275202627817,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "bart"
+            ]
         },
         {
             "title": "Boy-Scoutz 'N the Hood",
@@ -1022,8 +1029,12 @@
             "episode": 8,
             "description": "Bart inadvertently joins the Junior Campers, and during a rafting trip, he becomes lost at sea with Homer and Ned Flanders.",
             "simpsonsworld_id": 288056387698,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "bart",
+                "homer",
+                "ned"
+            ]
         },
         {
             "title": "The Last Temptation of Homer",
@@ -1031,8 +1042,10 @@
             "episode": 9,
             "description": "Homer is attracted to a sexy co-worker with a personality identical to his own.",
             "simpsonsworld_id": 275201091952,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)",
@@ -1040,8 +1053,11 @@
             "episode": 10,
             "description": "Marge becomes addicted to playing slot machines after the town of Springfield legalizes gambling.",
             "simpsonsworld_id": 305659459565,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "marge",
+                "homer"
+            ]
         },
         {
             "title": "Homer the Vigilante",
@@ -1049,8 +1065,10 @@
             "episode": 11,
             "description": "Homer takes the law into his own hands after Springfield is victimized by a cat burglar.",
             "simpsonsworld_id": 305677891810,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "Bart Gets Famous",
@@ -1058,8 +1076,11 @@
             "episode": 12,
             "description": "Bart becomes an instant celebrity after he ad-libs a line during a sketch on the \"Krusty the Klown Show.\"",
             "simpsonsworld_id": 302789187885,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "bart",
+                "krusty"
+            ]
         },
         {
             "title": "Homer and Apu",
@@ -1068,7 +1089,10 @@
             "description": "Apu offers the Simpsons his services as valet after he is fired from the Kwik-E-Mart for selling rancid meat.",
             "simpsonsworld_id": 279716931614,
             "good": false,
-            "characters": []
+            "characters": [
+                "homer",
+                "apu"
+            ]
         },
         {
             "title": "Lisa vs. Malibu Stacy",
@@ -4134,7 +4158,7 @@
             "episode": 11,
             "description": "The Simpsons spin three tales of revenge; Homer appears as the Count of Monte Cristo; Milhouse uses a gadget to get even with kids who've picked on him; comic hero Bart-Man searches for the villain who killed his parents.",
             "simpsonsworld_id": 283790915851,
-            "good": false,
+            "good": true,
             "characters": []
         },
         {
@@ -4660,7 +4684,10 @@
             "description": "Principal Skinner fires Mrs. Krabappel after she makes a drunken fool of herself at the elementary school - but what Skinner doesn't know is that Bart spiked her coffee with alcohol.",
             "simpsonsworld_id": 310517315862,
             "good": false,
-            "characters": []
+            "characters": [
+                "edna",
+                "bart"
+            ]
         },
         {
             "title": "The Great Wife Hope",
@@ -4669,7 +4696,9 @@
             "description": "Marge vows to drive mixed martial arts from Springfield by defeating a fight promoter in the ring.",
             "simpsonsworld_id": 250299971833,
             "good": false,
-            "characters": []
+            "characters": [
+                "marge"
+            ]
         },
         {
             "title": "Treehouse of Horror XX",
@@ -4689,7 +4718,11 @@
             "description": "Homer's life turns into nonstop misery when he becomes Carl's assistant; Marge poses for a sexy calendar.",
             "simpsonsworld_id": 250304067959,
             "good": false,
-            "characters": []
+            "characters": [
+                "homer",
+                "marge",
+                "carl"
+            ]
         },
         {
             "title": "Pranks and Greens",
