@@ -3,7 +3,7 @@
 """A series of asserts to verify data quality."""
 import json
 
-expected_ep_keys = ['title', 'season', 'episode', 'description',
+expected_ep_keys = ['title', 'season', 'episode', 'description', 'disneyplus_id',
                     'simpsonsworld_id', 'good', 'characters']
 expected_char_keys = ['name', 'short_name']
 
@@ -20,7 +20,7 @@ with open('simpsons_data.json', 'r') as f:
 
     for episode in all_episodes:
         # Should have expected keys
-        # print(f"#{episode['sea/son']} - #{episode['episode']}")
+        # print(f"#{episode['season']} - #{episode['episode']}")
         for key in expected_ep_keys:
             assert key in episode
         assert len(expected_ep_keys) == len(episode.keys())
@@ -40,8 +40,13 @@ with open('simpsons_data.json', 'r') as f:
         # Description should be a string
         assert isinstance(episode['description'], str)
 
-        # Simpsonsworld ID should be an int
-        assert isinstance(episode['simpsonsworld_id'], int)
+        # Simpsonsworld ID should be a str if set
+        if episode['disneyplus_id']:
+            assert isinstance(episode['disneyplus_id'], str)
+
+        # Simpsonsworld ID should be an int if set
+        if episode['simpsonsworld_id']:
+            assert isinstance(episode['simpsonsworld_id'], int)
 
         # Good should be a boolean
         assert isinstance(episode['good'], bool)
