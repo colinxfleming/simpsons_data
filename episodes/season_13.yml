@@ -6,6 +6,7 @@ episodes:
   description: On Halloween, the Simpsons are menaced by a computer controlling an
     automated house; a gypsy curses Homer; Lisa and Bart find themselves in a Harry
     Potter-like adventure.
+  disneyplus_id:
   simpsonsworld_id: 307115075729
   good: false
   characters:
@@ -16,6 +17,7 @@ episodes:
   description: A stern judge rules that Homer and Bart are to be tethered together,
     and later, Homer and Marge are declared bad parents and placed in old-fashioned
     wooden stocks.
+  disneyplus_id:
   simpsonsworld_id: 307116099877
   good: false
   characters:
@@ -24,6 +26,7 @@ episodes:
   episode: 3
   description: Moe turns the bar into a pretentious hang-out for Springfield's 'beautiful
     people,' forcing Homer to start a bar of his own inside his garage.
+  disneyplus_id:
   simpsonsworld_id: 300917827935
   good: false
   characters:
@@ -34,6 +37,7 @@ episodes:
   episode: 4
   description: When Mr. Burns falls for an attractive traffic cop many years his junior,
     he enlists Homer's help in romancing her.
+  disneyplus_id:
   simpsonsworld_id: 301344323882
   good: false
   characters:
@@ -44,6 +48,7 @@ episodes:
   episode: 5
   description: When placed under hypnosis, Homer struggles with a repressed memory-which
     leads to a shocking discovery.
+  disneyplus_id:
   simpsonsworld_id: 302898755902
   good: false
   characters:
@@ -53,6 +58,7 @@ episodes:
   episode: 6
   description: As Christmas approaches... Lisa searches for a new religion after Mr.
     Burns takes over her church and runs it like a corporation.
+  disneyplus_id:
   simpsonsworld_id: 288120899968
   good: true
   characters:
@@ -62,6 +68,7 @@ episodes:
   episode: 7
   description: A social worker attempts to transform the family into a functional,
     cooperative unit... until Homer's other wife shows up unexpectedly.
+  disneyplus_id:
   simpsonsworld_id: 283083843778
   good: false
   characters:
@@ -72,6 +79,7 @@ episodes:
   episode: 8
   description: After Springfield wins the title of World's Fattest Town, Marge launches
     an anti-sugar crusade, and sugar is banned from the city.
+  disneyplus_id:
   simpsonsworld_id: 302893635523
   good: false
   characters:
@@ -81,6 +89,7 @@ episodes:
   episode: 9
   description: When Homer has to have his jaw wired shut, he discovers the joys of
     listening, but Marge finds that a well-behaved Homer isn't what she really wanted.
+  disneyplus_id:
   simpsonsworld_id: 310440003514
   good: true
   characters:
@@ -92,6 +101,7 @@ episodes:
   description: Marge's ex-boyfriend, now one of the world's richest men, offers Homer
     a million dollars in exchange for a weekend with her, to see what 'might have
     been.'
+  disneyplus_id:
   simpsonsworld_id: 301684803770
   good: false
   characters:
@@ -102,6 +112,7 @@ episodes:
   episode: 11
   description: Bart travels to Canada to win back the heart of Rainier Wolfcastle's
     daughter after she runs off with Milhouse.
+  disneyplus_id:
   simpsonsworld_id: 307122755675
   good: false
   characters:
@@ -112,6 +123,7 @@ episodes:
   episode: 12
   description: Bart befriends an aging movie cowboy who begins drinking heavily when
     asked to appear on Krusty's television show.
+  disneyplus_id:
   simpsonsworld_id: 302899267542
   good: false
   characters:
@@ -122,6 +134,7 @@ episodes:
   description: In an effort to win a date with a beautiful new resident at the nursing
     home, Grampa gets his driver's license back... and gives chase when the object
     of his affection leaves for Branson, Missouri.
+  disneyplus_id:
   simpsonsworld_id: 301659203973
   good: false
   characters:
@@ -132,6 +145,7 @@ episodes:
   description: 'The Simpsons appear as characters in three classic tales: Homer as
     Odysseus leads the Greek army; Bart as Hamlet attempts to avenge the death of
     his father; Lisa as Joan of Arc pits the French against the English.'
+  disneyplus_id:
   simpsonsworld_id: 310411843752
   good: false
   characters:
@@ -141,6 +155,7 @@ episodes:
   episode: 15
   description: When the Simpsons fly to Brazil to locate a missing orphan that Lisa
     has been sponsoring, Homer ends up getting kidnapped.
+  disneyplus_id:
   simpsonsworld_id: 301665347899
   good: false
   characters:
@@ -151,6 +166,7 @@ episodes:
   description: When Homer is attacked by crows, he's prescribed medical marijuana
     to help relieve the pain... leading Burns to promote his happy employee to executive
     vice president of the power plant.
+  disneyplus_id:
   simpsonsworld_id: 310448195762
   good: true
   characters:
@@ -162,6 +178,7 @@ episodes:
   description: Homer is roasted at the Springfield Friar's Club, leading to recollections
     from the past.  But the fate of the Earth hangs in the balance when aliens Kang
     and Kodos make an unexpected appearance.
+  disneyplus_id:
   simpsonsworld_id: 302888515845
   good: false
   characters:
@@ -171,6 +188,7 @@ episodes:
   episode: 18
   description: Bart launches a comic book with an angry Homer as the main character,
     and when it proves a huge success, Homer vows to give up getting angry for Lent.
+  disneyplus_id:
   simpsonsworld_id: 302883907921
   good: true
   characters:
@@ -181,6 +199,7 @@ episodes:
   episode: 19
   description: When Manjula kicks Apu out of the house for cheating on her, Homer
     and Marge search for a way to reunite the couple.
+  disneyplus_id:
   simpsonsworld_id: 288131139601
   good: false
   characters:
@@ -191,6 +210,7 @@ episodes:
   episode: 20
   description: Lisa is overjoyed when she befriends some college students; Bart becomes
     a boy-in-a-plastic-bubble after he's bitten by a Chinese mosquito.
+  disneyplus_id:
   simpsonsworld_id: 310416963509
   good: false
   characters:
@@ -200,6 +220,7 @@ episodes:
   episode: 21
   description: Homer and Marge become murder suspects after an elderly shut-in the
     couple befriended is found dead.
+  disneyplus_id:
   simpsonsworld_id: 301664323751
   good: true
   characters:
@@ -210,6 +231,7 @@ episodes:
   episode: 22
   description: When Wiggum and his men prove ineffective in controlling a citywide
     riot, townspeople begin to feel unsafe... until Homer forms his own police force.
+  disneyplus_id:
   simpsonsworld_id: 302880835773
   good: true
   characters:

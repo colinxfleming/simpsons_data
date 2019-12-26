@@ -5,6 +5,7 @@ episodes:
   episode: 1
   description: Homer decides to gamble on a "hunch" at the dog track when his annual
     Christmas bonus is canceled.
+  disneyplus_id:
   simpsonsworld_id: 273376835817
   good: false
   characters:
@@ -14,6 +15,7 @@ episodes:
   episode: 2
   description: Bart is believed to be a genius after he switches I.Q. tests with brainy
     Martin Prince.
+  disneyplus_id:
   simpsonsworld_id: 283744835990
   good: false
   characters:
@@ -23,6 +25,7 @@ episodes:
   episode: 3
   description: Fired from his job at the Nuclear Power Plant, Homer decides to embark
     on a campaign to make all of Springfield safer.
+  disneyplus_id:
   simpsonsworld_id: 273381443699
   good: false
   characters:
@@ -33,6 +36,7 @@ episodes:
   description: After attending the annual company picnic, Homer becomes jealous of
     fellow employees with 'normal' families.  He decides to enlist the aid of psychologist
     Marvin Monroe to treat his wife and children.
+  disneyplus_id:
   simpsonsworld_id: 273392195780
   good: true
   characters:
@@ -43,6 +47,7 @@ episodes:
   episode: 5
   description: Grandpa Simpson aids Bart in his war against a school bully and his
     gang.
+  disneyplus_id:
   simpsonsworld_id: 300934723994
   good: false
   characters:
@@ -52,6 +57,7 @@ episodes:
   season: 1
   episode: 6
   description: Lisa befriends a saxophone player when she develops a case of the blues.
+  disneyplus_id:
   simpsonsworld_id: 273391683535
   good: false
   characters:
@@ -62,6 +68,7 @@ episodes:
   episode: 7
   description: Homer is mistaken for Bigfoot when he takes his family on a trip into
     the wilderness in their new camper.
+  disneyplus_id:
   simpsonsworld_id: 273396803837
   good: false
   characters:
@@ -72,6 +79,7 @@ episodes:
   episode: 8
   description: Bart attempts to impress his new friends by vandalizing a statue of
     the town's founding father, Jebediah Springfield.
+  disneyplus_id:
   simpsonsworld_id: 305663555641
   good: true
   characters:
@@ -82,6 +90,7 @@ episodes:
   episode: 9
   description: Marge contemplates having an affair with a local womanizer after Homer
     selfishly buys her a bowling ball for her birthday.
+  disneyplus_id:
   simpsonsworld_id: 280384579592
   good: false
   characters:
@@ -92,6 +101,7 @@ episodes:
   description: Bart photographs Homer with belly-dancer Princess Kashmir.  Marge will
     only forgive her husband when he proves to Bart that all women are not merely
     sexual objects.
+  disneyplus_id:
   simpsonsworld_id: 275197507879
   good: false
   characters:
@@ -102,6 +112,7 @@ episodes:
   episode: 11
   description: To Homer's delight, Bart is sent to France for the summer as part of
     a student exchange program.
+  disneyplus_id:
   simpsonsworld_id: 306382403766
   good: true
   characters:
@@ -111,6 +122,7 @@ episodes:
   episode: 12
   description: When Homer positively identifies Krusty the Clown as an armed robber,
     Bart attempts to clear his idol's name.
+  disneyplus_id:
   simpsonsworld_id: 288019523914
   good: true
   characters:
@@ -121,6 +133,7 @@ episodes:
   episode: 13
   description: Marge and Homer unwittingly leave their children in the care of a villainous
     babysitter when they attempt to rekindle their marriage.
+  disneyplus_id:
   simpsonsworld_id: 274504771647
   good: false
   characters:

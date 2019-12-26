@@ -6,6 +6,7 @@ episodes:
   description: On Halloween, Homer takes over for the Grim Reaper and discovers Marge's
     name on his list; Professor Frink reanimates his father's corpse; Bart and Milhouse
     play pranks with a watch that can stop time.
+  disneyplus_id:
   simpsonsworld_id: 227335747784
   good: true
   characters:
@@ -16,6 +17,7 @@ episodes:
   description: Mother Simpson is captured by police and placed on trial for sabotaging
     Mr. Burns' germ warfare plant in the 1960s.  Homer's heartfelt testimony helps
     win her release... but Mr. Burns concocts a plot to get revenge.
+  disneyplus_id:
   simpsonsworld_id: 227339843917
   good: true
   characters:
@@ -28,6 +30,7 @@ episodes:
   description: When Lisa is elected student body president, she vows to make the school
     a better place to learn.  But Skinner tricks her into cutting well-liked programs...
     prompting Lisa to call a general student strike.
+  disneyplus_id:
   simpsonsworld_id: 227348035643
   good: false
   characters:
@@ -38,6 +41,7 @@ episodes:
   episode: 4
   description: The Simpsons travel to England, where Homer is imprisoned in the Tower
     of London after he smashes a car into the Queen's royal coach.
+  disneyplus_id:
   simpsonsworld_id: 227349059824
   good: false
   characters:
@@ -48,6 +52,7 @@ episodes:
   description: Homer becomes the laughing stock of the town when a wild bear humiliates
     him.  But when he seeks a rematch, Homer bonds with the animal and tries to save
     its life.
+  disneyplus_id:
   simpsonsworld_id: 227355715580
   good: false
   characters:
@@ -58,6 +63,7 @@ episodes:
   description: When Krusty takes the Sabbath off so he can study for his bar mitzvah,
     he chooses Homer as temporary guest host.  But when Homer's career unexpectedly
     takes off, Krusty finds himself out of a job.
+  disneyplus_id:
   simpsonsworld_id: 227360323557
   good: false
   characters:
@@ -69,6 +75,7 @@ episodes:
   description: As Christmas approaches, Homer discovers the true meaning of the season
     after watching an animated version of A Christmas Carol on television.  But Flanders
     find it impossible to live as the second-nicest-guy in town.
+  disneyplus_id:
   simpsonsworld_id: 227364931670
   good: false
   characters:
@@ -79,6 +86,7 @@ episodes:
   episode: 8
   description: Marge opposes a political group made up of childless people who've
     grown fed-up with accommodating people with families.
+  disneyplus_id:
   simpsonsworld_id: 227369027832
   good: false
   characters:
@@ -89,6 +97,7 @@ episodes:
   description: Homer builds a fighting robot for Bart, but finds he must hide inside
     the device to make it work; Lisa searches for a replacement for Snowball II when
     the cat is run over by a car.
+  disneyplus_id:
   simpsonsworld_id: 227376707538
   good: false
   characters:
@@ -100,6 +109,7 @@ episodes:
   episode: 10
   description: Homer buys an ambulance and starts responding to medical emergencies;
     Marge authors her own romance novel.
+  disneyplus_id:
   simpsonsworld_id: 227378755925
   good: true
   characters:
@@ -111,6 +121,7 @@ episodes:
   description: 'Marge tells the children three historical tales: the story of King
     Henry the Eighth and his quest for a son; Sacagawea''s journey with Lewis and
     Clark; and the rivalry between Mozart and Salieri.'
+  disneyplus_id:
   simpsonsworld_id: 227386947567
   good: false
   characters:
@@ -120,6 +131,7 @@ episodes:
   episode: 12
   description: When Milhouse and his mother relocate to Capital City, Bart strikes
     up a friendship with Lisa; Homer makes money by pretending to be a transient.
+  disneyplus_id:
   simpsonsworld_id: 227392067706
   good: true
   characters:
@@ -128,6 +140,7 @@ episodes:
   episode: 13
   description: Lisa searches for a new identity when baby Maggie turns out to be smarter
     than her.
+  disneyplus_id:
   simpsonsworld_id: 229331523584
   good: true
   characters:
@@ -137,6 +150,7 @@ episodes:
   episode: 14
   description: Homer becomes the majority shareholder of Artie Ziff's troubled Internet
     company-and ends up being arrested by the Securities and Exchange Commission.
+  disneyplus_id:
   simpsonsworld_id: 227426371786
   good: true
   characters:
@@ -148,6 +162,7 @@ episodes:
   description: When a drunken Homer loses control of his car, he places an unconscious
     Marge in the driver's seat so she'll be blamed for the accident; Lisa and Bart
     complain to the creator of the Cosmic Wars saga about his latest films.
+  disneyplus_id:
   simpsonsworld_id: 227399235673
   good: false
   characters:
@@ -158,6 +173,7 @@ episodes:
   episode: 16
   description: Bart's latest prank lands him in juvenile prison, where a tough girl
     forces him to go on the lam.
+  disneyplus_id:
   simpsonsworld_id: 227402307606
   good: true
   characters:
@@ -167,6 +183,7 @@ episodes:
   episode: 17
   description: Mrs. Krabappel dumps Principal Skinner at the altar and has a passionate
     affair with the Comic Book Guy.
+  disneyplus_id:
   simpsonsworld_id: 227423299561
   good: false
   characters:
@@ -178,6 +195,7 @@ episodes:
   episode: 18
   description: Bart and Lisa pursue Homer and Marge after they sneak away on a second
     honeymoon; Grampa catches the eye of a dashing Cuban man.
+  disneyplus_id:
   simpsonsworld_id: 227415619717
   good: false
   characters:
@@ -187,6 +205,7 @@ episodes:
   episode: 19
   description: Homer confronts evildoers in the form of his crime-fighting alter ego,
     the Pie Man-until Mr. Burns blackmails him into throwing a pie at the Dalai Lama.
+  disneyplus_id:
   simpsonsworld_id: 227327555884
   good: false
   characters:
@@ -198,6 +217,7 @@ episodes:
   description: Homer reveals that Marge wasn't the first girl he ever kissed, but
     as he and Marge recount their versions of time spent at a summer camp, Homer realizes
     he caused Marge thirty years of heartbreak.
+  disneyplus_id:
   simpsonsworld_id: 227330115859
   good: false
   characters:
@@ -208,6 +228,7 @@ episodes:
   episode: 21
   description: The Simpsons are thrown in prison after Bart accidentally moons the
     American flag.
+  disneyplus_id:
   simpsonsworld_id: 227410499679
   good: false
   characters:
@@ -218,6 +239,7 @@ episodes:
   description: Mr. Burns buys up all the media outlets in Springfield in an effort
     to polish his image, but soon finds himself at odds with Lisa, who started publishing
     her own newspaper.
+  disneyplus_id:
   simpsonsworld_id: 227405379707
   good: true
   characters:

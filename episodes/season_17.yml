@@ -6,6 +6,7 @@ episodes:
   description: When Homer allows the mob to film a pornographic movie at the house,
     a disgusted Marge leaves the family and hooks up with a doctor trying to save
     the lives of manatees.
+  disneyplus_id:
   simpsonsworld_id: 273502275982
   good: false
   characters:
@@ -16,6 +17,7 @@ episodes:
   episode: 2
   description: Lisa must confront her darkest fears after a cemetery is relocated
     to the Simpsons' neighborhood.
+  disneyplus_id:
   simpsonsworld_id: 277101123962
   good: false
   characters:
@@ -26,6 +28,7 @@ episodes:
   description: After Kirk and Luann rekindle their relationship, Bart and Milhouse
     plot to end the romance... only to inadvertently cause Homer and Marge to break
     up instead.
+  disneyplus_id:
   simpsonsworld_id: 273506371834
   good: false
   characters:
@@ -37,6 +40,7 @@ episodes:
   description: On Halloween, Bart is replaced by a robotic boy after he falls into
     a coma; Burns hunts down Homer in a most dangerous game; a witch transforms trick-or-treaters
     into the costumes they're wearing.
+  disneyplus_id:
   simpsonsworld_id: 310466627927
   good: false
   characters:
@@ -46,6 +50,7 @@ episodes:
   episode: 5
   description: After spending time with her son, Marge begins to worry that she's
     turning Bart into a momma's boy; Homer enters an arm-wrestling competition.
+  disneyplus_id:
   simpsonsworld_id: 279766083701
   good: false
   characters:
@@ -56,6 +61,7 @@ episodes:
   episode: 6
   description: After winning popularity as the Safety Salamander, Homer challenges
     Quimby during a special mayoral recall election.
+  disneyplus_id:
   simpsonsworld_id: 273512003506
   good: maybe
   characters:
@@ -64,6 +70,7 @@ episodes:
   episode: 7
   description: A lonely Marge joins a women's group; Milhouse teaches Lisa how to
     speak Italian.
+  disneyplus_id:
   simpsonsworld_id: 279770179721
   good: maybe
   characters:
@@ -72,6 +79,7 @@ episodes:
   episode: 8
   description: The Simpsons travel to Italy to retrieve Mr. Burn's expensive new sports
     car... only to encounter Sideshow Bob and his murderous family.
+  disneyplus_id:
   simpsonsworld_id: 256858691577
   good: maybe
   characters:
@@ -81,6 +89,7 @@ episodes:
   description: 'The Simpsons appear in three Christmas tales: the story of the birth
     of Jesus; a World War II tale featuring Grampa, Mr. Burns and Santa; and a musical
     featuring The Nutcracker suite.'
+  disneyplus_id:
   simpsonsworld_id: 256885315702
   good: maybe
   characters:
@@ -89,6 +98,7 @@ episodes:
   episode: 10
   description: When an old letter is delivered to the Simpson home, Homer comes to
     believe that Grampa isn't his biological father after all.
+  disneyplus_id:
   simpsonsworld_id: 279775811924
   good: maybe
   characters:
@@ -98,6 +108,7 @@ episodes:
   description: After Bart gets into trouble at school, Homer drives Bart to Oregon,
     where he attends a behavior modification camp; Marge becomes a popular drug dealer
     after she sells Homer's pain medications during a yard sale.
+  disneyplus_id:
   simpsonsworld_id: 310483523720
   good: maybe
   characters:
@@ -107,6 +118,7 @@ episodes:
   description: Lisa vows to turn Groundskeeper Willie into a 'proper gentleman' in
     time for the upcoming school science fair; Homer tries to find something to wear
     after he rips his favorite blue pants.
+  disneyplus_id:
   simpsonsworld_id: 307171907536
   good: maybe
   characters:
@@ -116,6 +128,7 @@ episodes:
   description: When the Simpsons become trapped inside a cave, Lisa recounts a story
     involving a bag of gold coins and how it affected the lives of Mr. Burns, Moe
     and Homer.
+  disneyplus_id:
   simpsonsworld_id: 277107267767
   good: maybe
   characters:
@@ -124,6 +137,7 @@ episodes:
   episode: 14
   description: Marge teaches Rod and Todd Flanders how to have fun; a lonely chimpanzee
     grabs hold of Bart.
+  disneyplus_id:
   simpsonsworld_id: 277113411511
   good: maybe
   characters:
@@ -132,6 +146,7 @@ episodes:
   episode: 15
   description: Marge swaps places with a British wife after the Simpsons become contestants
     on a reality television show.
+  disneyplus_id:
   simpsonsworld_id: 277119043544
   good: maybe
   characters:
@@ -140,6 +155,7 @@ episodes:
   episode: 16
   description: After costing Springfield a professional football team, Grampa tries
     to end his life, but the experience changes him, and he ends up becoming a matador.
+  disneyplus_id:
   simpsonsworld_id: 292950083730
   good: maybe
   characters:
@@ -149,6 +165,7 @@ episodes:
   description: Mr. Burns closes the nuclear power plant and outsources all the jobs,
     forcing Homer to relocate to India; MacGyver fans Patty and Selma kidnap actor
     Richard Dean Anderson.
+  disneyplus_id:
   simpsonsworld_id: 283757123904
   good: maybe
   characters:
@@ -157,6 +174,7 @@ episodes:
   episode: 18
   description: 'The Simpsons appear in three stories set at sea: the journey of The
     Mayflower, the mutiny on The Bounty, and the capsizing of a cruise ship.'
+  disneyplus_id:
   simpsonsworld_id: 310489667660
   good: maybe
   characters:
@@ -166,6 +184,7 @@ episodes:
   description: After Skinner is fired for insinuating that girls are inferior to boys
     in math, Springfield Elementary is split into two groups-boys and girls-forcing
     Lisa to dress up like a boy so she can attend a math class.
+  disneyplus_id:
   simpsonsworld_id: 274367043639
   good: maybe
   characters:
@@ -174,6 +193,7 @@ episodes:
   episode: 20
   description: After Marge develops amnesia and can't remember anything about Homer,
     she decides to kick him out of the house and see other people.
+  disneyplus_id:
   simpsonsworld_id: 277125187506
   good: maybe
   characters:
@@ -182,6 +202,7 @@ episodes:
   episode: 21
   description: Lisa protests when Springfield passes a law requiring that creationism
     be taught alongside evolution in public schools.
+  disneyplus_id:
   simpsonsworld_id: 277127235959
   good: maybe
   characters:
@@ -190,6 +211,7 @@ episodes:
   episode: 22
   description: Homer and Marge play marriage counselors to help a baseball player
     and his sexy recording artist-wife.
+  disneyplus_id:
   simpsonsworld_id: 292955203576
   good: false
   characters:

@@ -5,6 +5,7 @@ episodes:
   episode: 1
   description: Homer attempts to help a former CIA agent plagued by violent flashbacks
     from his past.
+  disneyplus_id:
   simpsonsworld_id: 273517123847
   good: false
   characters:
@@ -15,6 +16,7 @@ episodes:
   description: Superintendant Chalmers teaches Bart about Teddy Roosevelt after personally
     taking charge of the boy's education. When Chalmers loses his job, Bart and his
     classmates attempt to get him reinstated.
+  disneyplus_id:
   simpsonsworld_id: 273518659843
   good: true
   characters:
@@ -26,6 +28,7 @@ episodes:
   description: In three terrifying Halloween tales... Homer discovers a unique way
     to communicate with his family; a spoof of 'Dexter' features Homer tricking Flanders;
     a spoof of the movie 'Avatar' features Bart as a tentacled alien.
+  disneyplus_id:
   simpsonsworld_id: 230493251807
   good: false
   characters:
@@ -36,6 +39,7 @@ episodes:
   description: With some help from Martin Prince, Bart constructs cute, baby seal-like
     robots that rival Lisa's entry in a science fair project; Homer ends up working
     for his new assistant.
+  disneyplus_id:
   simpsonsworld_id: 273736771817
   good: false
   characters:
@@ -47,6 +51,7 @@ episodes:
   description: As Homer and Marge vie for the kids' approval... Marge, Bart and Lisa
     become successful food bloggers; Homer finds himself trapped in a meth lab after
     Marge deliberately gives him the wrong address for a restaurant.
+  disneyplus_id:
   simpsonsworld_id: 233194563539
   good: false
   characters:
@@ -57,6 +62,7 @@ episodes:
   description: After Lisa discovers that her favorite author doesn't exist, Homer
     forms a literary gang in hopes of writing a bestselling "tween" novel and raking
     in millions.
+  disneyplus_id:
   simpsonsworld_id: 264559171655
   good: false
   characters:
@@ -67,6 +73,7 @@ episodes:
   episode: 7
   description: Burns appoints Homer the nuclear power plant's new account man, damning
     him to a 'Mad Men'-like existence; Lisa becomes Bart's mentor.
+  disneyplus_id:
   simpsonsworld_id: 1071533123906
   good: false
   characters:
@@ -76,6 +83,7 @@ episodes:
   episode: 8
   description: After being fired from his popular kids' show, Krusty stages a comeback
     with help from an agent who's also an old flame.
+  disneyplus_id:
   simpsonsworld_id: 230516291714
   good: false
   characters:
@@ -86,6 +94,7 @@ episodes:
   description: Thirty years in the future, Bart and Lisa attempt to bond with their
     children on Christmas; an unwed Maggie gives birth while heading home for the
     holidays.
+  disneyplus_id:
   simpsonsworld_id: 230516803889
   good: false
   characters:
@@ -97,6 +106,7 @@ episodes:
   description: Homer becomes a celebrity after he voices his conservative opinions
     on a cable talk show, and attempts to convince leaders of the Republican party
     to nominate singer Ted Nugent for president.
+  disneyplus_id:
   simpsonsworld_id: 230549059731
   good: false
   characters:
@@ -106,6 +116,7 @@ episodes:
   episode: 11
   description: Lisa's idea for an online social network becomes a tremendous hit,
     but so many people become addicted to posting on the site, it leads to chaos.
+  disneyplus_id:
   simpsonsworld_id: 230552131592
   good: false
   characters:
@@ -115,6 +126,7 @@ episodes:
   episode: 12
   description: Moe's bar rag tells the story of his existence; Milhouse tires of taking
     abuse from Bart.
+  disneyplus_id:
   simpsonsworld_id: 230553667901
   good: maybe
   characters:
@@ -124,6 +136,7 @@ episodes:
   description: As Valentine's Day approaches, Marge grows concerned when Lisa finds
     a boyfriend; Bart and Milhouse set out on a 'mythbusting' mission at Springfield
     Elementary.
+  disneyplus_id:
   simpsonsworld_id: 230562371905
   good: maybe
   characters:
@@ -132,6 +145,7 @@ episodes:
   episode: 14
   description: Fed up with the family's negative impact on the city, townspeople banish
     the Simpsons from Springfield.
+  disneyplus_id:
   simpsonsworld_id: 230541891832
   good: maybe
   characters:
@@ -141,6 +155,7 @@ episodes:
   description: Bart becomes a famous street artist after he plasters Springfield with
     unflattering graffiti of Homer's likeness; Apu panics when he's forced to compete
     with a friendly grocery store chain featuring a South Pacific motif.
+  disneyplus_id:
   simpsonsworld_id: 304468035701
   good: maybe
   characters:
@@ -149,6 +164,7 @@ episodes:
   episode: 16
   description: With help from one of Professor Frink's inventions, Marge and the kids
     enter Homer's dreams in hopes of curing him of incontinence.
+  disneyplus_id:
   simpsonsworld_id: 230597187582
   good: maybe
   characters:
@@ -157,6 +173,7 @@ episodes:
   episode: 17
   description: Homer becomes the last human employee at the nuclear power plant after
     Mr. Burns orders a mass firing and replaces staffers with robots.
+  disneyplus_id:
   simpsonsworld_id: 230592067926
   good: maybe
   characters:
@@ -165,6 +182,7 @@ episodes:
   episode: 18
   description: Bart falls for Jimbo's girlfriend Shauna; Homer buys a tricked-out
     treadmill so he can watch old episodes of a 'Lost'-like television show.
+  disneyplus_id:
   simpsonsworld_id: 311189571768
   good: maybe
   characters:
@@ -173,6 +191,7 @@ episodes:
   episode: 19
   description: The Simpsons vacation on a cruise liner, where Bart has so much fun
     he concocts a scheme to keep his family aboard the ship forever.
+  disneyplus_id:
   simpsonsworld_id: 273522243657
   good: maybe
   characters:
@@ -182,6 +201,7 @@ episodes:
   description: After being injured at work, Homer is given eight weeks of paid vacation,
     and decides to keep the news secret from his family; Bart gets Nelson hooked on
     Krustyburgers so he'll gain weight and stop picking on him.
+  disneyplus_id:
   simpsonsworld_id: 230588995967
   good: maybe
   characters:
@@ -190,6 +210,7 @@ episodes:
   episode: 21
   description: Complications ensue when Flanders and Krabappel admit they're secretly
     married.
+  disneyplus_id:
   simpsonsworld_id: 277098051530
   good: maybe
   characters:
@@ -198,6 +219,7 @@ episodes:
   episode: 22
   description: Singer Lady Gaga attempts to cheer Lisa after she's voted the most
     unpopular kid at school.
+  disneyplus_id:
   simpsonsworld_id: 233190467851
   good: maybe
   characters:

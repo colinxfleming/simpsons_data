@@ -5,6 +5,7 @@ episodes:
   episode: 1
   description: Homer thinks he can net a fortune by recycling grease.  Lisa helps
     organize a school dance.
+  disneyplus_id:
   simpsonsworld_id: 292933187533
   good: true
   characters:
@@ -13,6 +14,7 @@ episodes:
   episode: 2
   description: After realizing half his life is over, Homer decides to become the
     next Thomas Edison.
+  disneyplus_id:
   simpsonsworld_id: 473117763575
   good: true
   characters:
@@ -21,6 +23,7 @@ episodes:
   episode: 3
   description: Bart tends to a nest filled with eggs after he inadvertently kills
     a bird with a BB gun.
+  disneyplus_id:
   simpsonsworld_id: 473109571557
   good: true
   characters:
@@ -30,6 +33,7 @@ episodes:
   description: An evil toupee possesses Homer; Bart and Lisa find themselves trapped
     inside an Itchy & Scratchy cartoon; baby Maggie turns out to be the daughter of
     a space alien.
+  disneyplus_id:
   simpsonsworld_id: 473130051681
   good: true
   characters:
@@ -39,6 +43,7 @@ episodes:
   episode: 5
   description: Homer befriends a group of Hollywood celebrities vacationing in a remote
     part of town and promises to keep their whereabouts a secret.
+  disneyplus_id:
   simpsonsworld_id: 473147459674
   good: false
   characters:
@@ -46,6 +51,7 @@ episodes:
   season: 10
   episode: 6
   description: Homer embraces his newly discovered hippie heritage.
+  disneyplus_id:
   simpsonsworld_id: 473138243754
   good: false
   characters:
@@ -54,6 +60,7 @@ episodes:
   episode: 7
   description: Lisa suffers a guilty conscience after she cheats on an exam.  Homer
     believes he will save a fortune by raising his own lobster.
+  disneyplus_id:
   simpsonsworld_id: 473152579638
   good: true
   characters:
@@ -62,6 +69,7 @@ episodes:
   episode: 8
   description: Homer offers to donate one of his kidneys to Grampa until he realizes
     the surgery will place his own life in jeopardy.
+  disneyplus_id:
   simpsonsworld_id: 473158211896
   good: false
   characters:
@@ -69,6 +77,7 @@ episodes:
   season: 10
   episode: 9
   description: Homer takes on the mob when he acts as Mayor Quimby's bodyguard.
+  disneyplus_id:
   simpsonsworld_id: 473163843671
   good: true
   characters:
@@ -76,6 +85,7 @@ episodes:
   season: 10
   episode: 10
   description: Homer shows Flanders how to enjoy life by taking him to Las Vegas.
+  disneyplus_id:
   simpsonsworld_id: 473115203586
   good: false
   characters:
@@ -83,6 +93,7 @@ episodes:
   season: 10
   episode: 11
   description: The children of Springfield rebel after Wiggum enforces a curfew.
+  disneyplus_id:
   simpsonsworld_id: 473155651508
   good: true
   characters:
@@ -91,6 +102,7 @@ episodes:
   episode: 12
   description: Homer and his friends eagerly anticipate attending the Super Bowl until
     a ticketing snafu threatens to keep them from seeing the game.
+  disneyplus_id:
   simpsonsworld_id: 473132611959
   good: false
   characters:
@@ -99,6 +111,7 @@ episodes:
   episode: 13
   description: Homer changes his name when a dimwitted television show character named
     "Homer Simpson" becomes an overnight sensation.
+  disneyplus_id:
   simpsonsworld_id: 473140803870
   good: false
   characters:
@@ -107,6 +120,7 @@ episodes:
   episode: 14
   description: Apu showers his wife with Valentine's Day surprises making men throughout
     Springfield look like cheapskates.
+  disneyplus_id:
   simpsonsworld_id: 473104963819
   good: true
   characters:
@@ -115,6 +129,7 @@ episodes:
   episode: 15
   description: Marge discovers the pleasures of driving a sport utility vehicle until
     aggressive highway habits cost her.
+  disneyplus_id:
   simpsonsworld_id: 473097795997
   good: true
   characters:
@@ -123,6 +138,7 @@ episodes:
   episode: 16
   description: Lisa exhibits signs of stress when she is forced into sharing her brother's
     bedroom.  Marge becomes addicted to eavesdropping on cellular phone conversations.
+  disneyplus_id:
   simpsonsworld_id: 473093187636
   good: false
   characters:
@@ -131,6 +147,7 @@ episodes:
   episode: 17
   description: Homer and Bart attempt to deliver a dead trucker's cargo on schedule.  Meanwhile,
     Marge decides to have an adventure of her own and purchases a new doorbell.
+  disneyplus_id:
   simpsonsworld_id: 473095235738
   good: true
   characters:
@@ -140,6 +157,7 @@ episodes:
   description: While listening to one of Reverend Lovejoy's sermons on a sweltering
     Easter Sunday morning, the Simpsons fall asleep and envision themselves as characters
     from the Bible.
+  disneyplus_id:
   simpsonsworld_id: 299678275566
   good: false
   characters:
@@ -148,6 +166,7 @@ episodes:
   episode: 19
   description: Homer pursues a career as an artist when his misshapen barbecue pit
     attracts the attention of a gallery.
+  disneyplus_id:
   simpsonsworld_id: 310457411688
   good: true
   characters:
@@ -155,6 +174,7 @@ episodes:
   season: 10
   episode: 20
   description: Bart must perform community service at Grampa's retirement home.
+  disneyplus_id:
   simpsonsworld_id: 279757379586
   good: true
   characters:
@@ -163,6 +183,7 @@ episodes:
   episode: 21
   description: Mr. Burns attempts to win adoration by transporting the Loch Ness monster
     to Springfield.
+  disneyplus_id:
   simpsonsworld_id: 310427203648
   good: false
   characters:
@@ -170,6 +191,7 @@ episodes:
   season: 10
   episode: 22
   description: Lisa is invited to join Mensa; Homer receives a free erotic photo session.
+  disneyplus_id:
   simpsonsworld_id: 306868803826
   good: false
   characters:
@@ -178,6 +200,7 @@ episodes:
   episode: 23
   description: The Simpsons board a mega-saver flight for Tokyo, only to find themselves
     trapped overseas when they run out of money.
+  disneyplus_id:
   simpsonsworld_id: 306901571847
   good: true
   characters:
