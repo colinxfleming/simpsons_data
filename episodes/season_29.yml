@@ -90,3 +90,73 @@ episodes:
   simpsonsworld_id: 1136372803875
   good: maybe
   characters:
+- title: Homer Is Where the Art Isn't
+  season: 29
+  episode: 12
+  description: Homer learns to love a piece of art.
+  simpsonsworld_id:
+  good: maybe
+  characters:
+- title: 3 Scenes Plus a Tag from a Marriage
+  season: 29
+  episode: 13
+  description: The Simpsons visit their old apartment and remember the days without their kids.
+  simpsonsworld_id:
+  good: maybe
+  characters:
+- title: Fears of a Clown
+  season: 29
+  episode: 14
+  description: Due to a general fear of clowns, Krusty can no longer do his job.
+  simpsonsworld_id:
+  good: maybe
+  characters:
+- title: No Good Read Goes Unpunished
+  season: 29
+  episode: 15
+  description: Bart tries to conquer Homer with help from a book.
+  simpsonsworld_id:
+  good: maybe
+  characters:
+- title: King Leer
+  season: 29
+  episode: 16
+  description: Moe inherits a mattress business from his father.
+  simpsonsworld_id:
+  good: maybe
+  characters:
+- title: Lisa Gets the Blues
+  season: 29
+  episode: 17
+  description: The family goes to New Orleans where they try to recover from various traumas.
+  simpsonsworld_id:
+  good: maybe
+  characters:
+- title: Forgive and Regret
+  season: 29
+  episode: 18
+  description: Grampa is about to die when he reveals a terrible secret.
+  simpsonsworld_id:
+  good: maybe
+  characters:
+- title: Left Behind
+  season: 29
+  episode: 19
+  description: Flanders loses his business and works with Homer at the plant.
+  simpsonsworld_id:
+  good: maybe
+  characters:
+- title: Throw Grampa from the Dane
+  season: 29
+  episode: 20
+  description: The Simpsons visit Denmark and everyone but Homer falls in love with the happy country.
+  simpsonsworld_id:
+  good: maybe
+  characters:
+- title: Flanders' Ladder
+  season: 29
+  episode: 21
+  description: Bart is struck by lightning and has horrible dreams.
+  simpsonsworld_id:
+  good: maybe
+  characters:
