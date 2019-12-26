@@ -4,6 +4,7 @@ episodes:
   season: 2
   episode: 1
   description: Bart must pass a critical history test or he will be held back a grade.
+  disneyplus_id:
   simpsonsworld_id: 260539459671
   good: false
   characters:
@@ -13,6 +14,7 @@ episodes:
   episode: 2
   description: Homer's life changes dramatically when he purchases a miracle hair
     growth formula.
+  disneyplus_id:
   simpsonsworld_id: 260539971564
   good: true
   characters:
@@ -22,6 +24,7 @@ episodes:
   episode: 3
   description: The Simpsons tell three bloodcurdling tales of horror on Halloween
     night.
+  disneyplus_id:
   simpsonsworld_id: 260538435884
   good: true
   characters:
@@ -31,6 +34,7 @@ episodes:
   episode: 4
   description: Homer supports Mr. Burns in his bid for governor, but Marge remains
     loyal to Burns's political opposition.
+  disneyplus_id:
   simpsonsworld_id: 260537411822
   good: true
   characters:
@@ -41,6 +45,7 @@ episodes:
   season: 2
   episode: 5
   description: Homer becomes the official mascot for a major league baseball team.
+  disneyplus_id:
   simpsonsworld_id: 260538435888
   good: true
   characters:
@@ -50,6 +55,7 @@ episodes:
   episode: 6
   description: Homer and Ned Flanders pressure their sons to win a miniature golf
     championship.
+  disneyplus_id:
   simpsonsworld_id: 260539459670
   good: true
   characters:
@@ -61,6 +67,7 @@ episodes:
   episode: 7
   description: Bart learns the true meaning of Thanksgiving when he runs away from
     home after having an argument with Lisa.
+  disneyplus_id:
   simpsonsworld_id: 260539459701
   good: false
   characters:
@@ -71,6 +78,7 @@ episodes:
   episode: 8
   description: Bart is determined to leap a gorge on his skateboard after witnessing
     the death defying stunts of a real daredevil.
+  disneyplus_id:
   simpsonsworld_id: 260539459702
   good: true
   characters:
@@ -80,6 +88,7 @@ episodes:
   episode: 9
   description: Marge initiates a protest movement against gratuitous violence on television
     when Maggie begins acting aggressively after viewing Itchy and Scratchy cartoons.
+  disneyplus_id:
   simpsonsworld_id: 1094123075920
   good: true
   characters:
@@ -89,6 +98,7 @@ episodes:
   episode: 10
   description: When Mr. Burns hits Bart with his car, Homer is enticed by a disreputable
     lawyer to sue him.
+  disneyplus_id:
   simpsonsworld_id: 260550723760
   good: true
   characters:
@@ -100,6 +110,7 @@ episodes:
   episode: 11
   description: Homer believes he has only twenty-four hours to live after he eats
     an improperly prepared blowfish.
+  disneyplus_id:
   simpsonsworld_id: 260548675839
   good: true
   characters:
@@ -109,6 +120,7 @@ episodes:
   episode: 12
   description: Marge recounts to her children how she and Homer first met and fell
     in love.
+  disneyplus_id:
   simpsonsworld_id: 260549187876
   good: false
   characters:
@@ -119,6 +131,7 @@ episodes:
   episode: 13
   description: Lisa disapproves when Homer has cable television installed illegally
     into their home.
+  disneyplus_id:
   simpsonsworld_id: 260820547692
   good: true
   characters:
@@ -129,6 +142,7 @@ episodes:
   episode: 14
   description: Homer arranges a date between Principal Skinner and Marge's sister,
     Selma.
+  disneyplus_id:
   simpsonsworld_id: 263496771968
   good: true
   characters:
@@ -140,6 +154,7 @@ episodes:
   episode: 15
   description: Homer locates his long lost half brother Herb and discovers that he
     is rich.
+  disneyplus_id:
   simpsonsworld_id: 1094123587812
   good: false
   characters:
@@ -149,6 +164,7 @@ episodes:
   episode: 16
   description: Bart must help train Santa's Little Helper to pass an obedience course
     or Homer will give the dog away.
+  disneyplus_id:
   simpsonsworld_id: 272034883946
   good: true
   characters:
@@ -158,6 +174,7 @@ episodes:
   season: 2
   episode: 17
   description: Grampa Simpson falls in love... and inherits a fortune.
+  disneyplus_id:
   simpsonsworld_id: 263504963955
   good: false
   characters:
@@ -168,6 +185,7 @@ episodes:
   description: Marge renews her interest in becoming an artist after Homer finds an
     old painting of Ringo Starr in the attic.  Mr. Burns commissions Marge to paint
     a portrait of him.
+  disneyplus_id:
   simpsonsworld_id: 1094212163883
   good: true
   characters:
@@ -178,6 +196,7 @@ episodes:
   episode: 19
   description: Lisa develops a crush on her substitute teacher, Mr. Bergstrom.  Bergstrom
     tells Homer he must learn to act as a positive role model for his daughter.
+  disneyplus_id:
   simpsonsworld_id: 288011331912
   good: true
   characters:
@@ -188,6 +207,7 @@ episodes:
   description: Marge insists Homer accompany her for a weekend of marriage counseling
     at a wooded retreat, but Homer takes advantage of the location to attempt to catch
     a legendary catfish.
+  disneyplus_id:
   simpsonsworld_id: 272040003661
   good: true
   characters:
@@ -198,6 +218,7 @@ episodes:
   episode: 21
   description: Bart and his friends pool their money to purchase the first issue of
     "Radioactive Man" comics, but then cannot decide who gets to keep it.
+  disneyplus_id:
   simpsonsworld_id: 310368835964
   good: true
   characters:
@@ -209,6 +230,7 @@ episodes:
   episode: 22
   description: Homer expects a generous gift in return when he donates Bart's blood
     to an ailing Mr. Burns.
+  disneyplus_id:
   simpsonsworld_id: 272041539932
   good: true
   characters:

@@ -1,8 +1,10 @@
-
+---
+episodes:
 - title: Bart's Not Dead
   season: 30
   episode: 1
   description: Bart's cover for his lie backfires.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -10,6 +12,7 @@
   season: 30
   episode: 2
   description: Homer and Marge go on an amazing race type show where they are eliminated immediately.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -17,6 +20,7 @@
   season: 30
   episode: 3
   description: The Simpsons explore three ways to get into heaven.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -24,6 +28,7 @@
   season: 30
   episode: 4
   description: The Simpsons battle spores from space and Grampa goes to a Jurassic Park-style senior home.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -31,6 +36,7 @@
   season: 30
   episode: 5
   description: Marge and Homer work together at a cool tech company.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -38,6 +44,7 @@
   season: 30
   episode: 6
   description: Bart orders a Russian bride for Moe. She turns Moe's life around, and he falls in love.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -45,6 +52,7 @@
   season: 30
   episode: 7
   description: Marge becomes a successful Tupperware saleswoman because customers think she's a man in drag.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -52,6 +60,7 @@
   season: 30
   episode: 8
   description: Homer becomes an internet recapper while Krusty joins the circus.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -59,13 +68,15 @@
   season: 30
   episode: 9
   description: Lisa reads "To Kill a Mockingbird" and observes similarities between her dad and Atticus Finch.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
-- title: 'Tis the 30th Season
+- title: "'Tis the 30th Season"
   season: 30
   episode: 10
   description: The Simpsons try to spend a relaxing Florida Christmas.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -73,6 +84,7 @@
   season: 30
   episode: 11
   description: Grampa learns a startling secret from his past. It takes him to Texas to find a long-lost life.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -80,6 +92,7 @@
   season: 30
   episode: 12
   description: Lisa discovers the ideal family... and lies about her own.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -87,6 +100,7 @@
   season: 30
   episode: 13
   description: When Homer breaks a promise and binge watches a show without Marge, she is more furious than ever.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -94,6 +108,7 @@
   season: 30
   episode: 14
   description: On a podcast Krusty discusses a lost film he made in the ‘80s.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -101,6 +116,7 @@
   season: 30
   episode: 15
   description: Homer goes on a joyride and is threatened with prison by Comic Book Guy.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -108,6 +124,7 @@
   season: 30
   episode: 16
   description: Homer gets an inguinal hernia which comes to life and tells him to take it easy.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -115,6 +132,7 @@
   season: 30
   episode: 17
   description: Bart earns money in a video game competition, and Homer becomes his coach.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -122,6 +140,7 @@
   season: 30
   episode: 18
   description: Bart is upset to learn there is a new, all-girl version of Itchy and Scratchy.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -129,6 +148,7 @@
   season: 30
   episode: 19
   description: Lisa joins an advanced youth orchestra in Capital City, throwing the family’s lives into havoc.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -136,6 +156,7 @@
   season: 30
   episode: 20
   description: Marge becomes director of a local theater production.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -143,6 +164,7 @@
   season: 30
   episode: 21
   description: Lisa goes to Canada and refuses to leave. A desperate Marge tries to get her back.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -150,6 +172,7 @@
   season: 30
   episode: 22
   description: $600 theft rocks the Simpson home. A local TV crime show attempts to crack it to no avail.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -157,6 +180,7 @@
   season: 30
   episode: 23
   description: Marge sells crystals and makes a fortune.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:

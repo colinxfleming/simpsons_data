@@ -5,6 +5,7 @@ episodes:
   episode: 1
   description: In a world of magic, Marge's mother is transformed into an Ice Walker
     and must rely on Lisa to use magic to help Homer afford the cure.
+  disneyplus_id:
   simpsonsworld_id: 1075435075944
   good: maybe
   characters:
@@ -13,6 +14,7 @@ episodes:
   episode: 2
   description: Marge and Lisa decide to turns an unpleasant experience Lisa had into
     a successful graphic novel.
+  disneyplus_id:
   simpsonsworld_id: 1080357443795
   good: maybe
   characters:
@@ -21,6 +23,7 @@ episodes:
   episode: 3
   description: Homer stumbles upon Maggie's incredible talent for whistling and decides
     to start her on the path to becoming a baby celebrity.
+  disneyplus_id:
   simpsonsworld_id: 1073411651711
   good: maybe
   characters:
@@ -30,6 +33,7 @@ episodes:
   description: Maggie's body is overwhelmed by the malice of an ancient demon; in
     an alternate dimension, Lisa stumbles upon a disturbingly perfect version of her
     family.
+  disneyplus_id:
   simpsonsworld_id: 1078509635693
   good: false
   characters:
@@ -39,6 +43,7 @@ episodes:
   episode: 5
   description: Grampa Simpson is finally able to hear the various things that people
     say about him after he receives a new hearing aid.
+  disneyplus_id:
   simpsonsworld_id: 1088584771605
   good: maybe
   characters:
@@ -47,6 +52,7 @@ episodes:
   episode: 6
   description: Marge decides to enter the race to become the next mayor of Springfield
     as she grows increasingly frustrated with how the local government operates.
+  disneyplus_id:
   simpsonsworld_id: 1094410819778
   good: maybe
   characters:
@@ -55,6 +61,7 @@ episodes:
   episode: 7
   description: Homer and the guys try helping Moe cheer up by getting their old bowling
     team back together again, but they soon face a team of arrogant millionaires.
+  disneyplus_id:
   simpsonsworld_id: 1099353155881
   good: maybe
   characters:
@@ -63,6 +70,7 @@ episodes:
   episode: 8
   description: In the future, Lisa works on writing her Harvard college application
     essay by reflecting on how certain disappointing birthdays made her who she is.
+  disneyplus_id:
   simpsonsworld_id: 1108700739531
   good: maybe
   characters:
@@ -71,6 +79,7 @@ episodes:
   episode: 9
   description: When Bart suddenly disappears, the town organizes a search party in
     the hopes of finding him.
+  disneyplus_id:
   simpsonsworld_id: 1113094211783
   good: maybe
   characters:
@@ -79,6 +88,7 @@ episodes:
   episode: 10
   description: While the Simpson family attends a STEM conference, Lisa becomes attracted
     to a pianist and Bart learns about his natural talent for chemistry.
+  disneyplus_id:
   simpsonsworld_id: 1131039811958
   good: maybe
   characters:
@@ -87,6 +97,7 @@ episodes:
   episode: 11
   description: When Mr. Burns begins to worry that the world is coming to an end,
     he starts testing all of the residents of to figure out who would be worth saving.
+  disneyplus_id:
   simpsonsworld_id: 1136372803875
   good: maybe
   characters:
@@ -94,6 +105,7 @@ episodes:
   season: 29
   episode: 12
   description: Homer learns to love a piece of art.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -101,6 +113,7 @@ episodes:
   season: 29
   episode: 13
   description: The Simpsons visit their old apartment and remember the days without their kids.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -108,6 +121,7 @@ episodes:
   season: 29
   episode: 14
   description: Due to a general fear of clowns, Krusty can no longer do his job.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -115,6 +129,7 @@ episodes:
   season: 29
   episode: 15
   description: Bart tries to conquer Homer with help from a book.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -122,6 +137,7 @@ episodes:
   season: 29
   episode: 16
   description: Moe inherits a mattress business from his father.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -129,6 +145,7 @@ episodes:
   season: 29
   episode: 17
   description: The family goes to New Orleans where they try to recover from various traumas.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -136,6 +153,7 @@ episodes:
   season: 29
   episode: 18
   description: Grampa is about to die when he reveals a terrible secret.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -143,6 +161,7 @@ episodes:
   season: 29
   episode: 19
   description: Flanders loses his business and works with Homer at the plant.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -150,6 +169,7 @@ episodes:
   season: 29
   episode: 20
   description: The Simpsons visit Denmark and everyone but Homer falls in love with the happy country.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:
@@ -157,6 +177,7 @@ episodes:
   season: 29
   episode: 21
   description: Bart is struck by lightning and has horrible dreams.
+  disneyplus_id:
   simpsonsworld_id:
   good: maybe
   characters:

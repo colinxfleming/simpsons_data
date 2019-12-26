@@ -4,6 +4,7 @@ episodes:
   season: 7
   episode: 1
   description: Lisa aids police with the investigation of the Burns shooting.
+  disneyplus_id:
   simpsonsworld_id: 305689667892
   good: true
   characters:
@@ -12,6 +13,7 @@ episodes:
   episode: 2
   description: Hollywood producers cast Milhouse in a motion picture based on the
     popular "Radioactive Man" comic books.
+  disneyplus_id:
   simpsonsworld_id: 305693251940
   good: true
   characters:
@@ -20,6 +22,7 @@ episodes:
   episode: 3
   description: The Flanders gain custody of the Simpson children after welfare workers
     accuse Homer and Marge of being negligent parents.
+  disneyplus_id:
   simpsonsworld_id: 306174019869
   good: true
   characters:
@@ -28,6 +31,7 @@ episodes:
   episode: 4
   description: Bart sells his soul to Milhouse for five dollars.  Moe transforms his
     bar into a family restaurant.
+  disneyplus_id:
   simpsonsworld_id: 276972099995
   good: true
   characters:
@@ -35,6 +39,7 @@ episodes:
   season: 7
   episode: 5
   description: Lisa turns vegetarian after her family visits a petting zoo.
+  disneyplus_id:
   simpsonsworld_id: 276980291592
   good: true
   characters:
@@ -42,6 +47,7 @@ episodes:
   season: 7
   episode: 6
   description: The Simpsons appear in three horrifying Halloween tales.
+  disneyplus_id:
   simpsonsworld_id: 310404163601
   good: true
   characters:
@@ -51,6 +57,7 @@ episodes:
   episode: 7
   description: Homer intentionally gains weight so he can qualify for disability and
     work at home.
+  disneyplus_id:
   simpsonsworld_id: 294786627843
   good: true
   characters:
@@ -59,6 +66,7 @@ episodes:
   episode: 8
   description: After Homer fakes his own death, his long-thought-deceased mother arrives
     in Springfield to pay her last respects.
+  disneyplus_id:
   simpsonsworld_id: 276983875726
   good: true
   characters:
@@ -67,6 +75,7 @@ episodes:
   episode: 9
   description: Sideshow Bob threatens to detonate a nuclear bomb unless television
     is abolished.
+  disneyplus_id:
   simpsonsworld_id: 302792771516
   good: true
   characters:
@@ -75,6 +84,7 @@ episodes:
   episode: 10
   description: Troy McClure hosts this special 138th episode, which includes the first-ever
     cartoon shorts, trivia questions, and never-before-seen footage.
+  disneyplus_id:
   simpsonsworld_id: 324451395934
   good: true
   characters:
@@ -83,6 +93,7 @@ episodes:
   episode: 11
   description: As Christmas approaches, Marge treats Bart like an adult after he is
     caught shoplifting.
+  disneyplus_id:
   simpsonsworld_id: 305669699710
   good: true
   characters:
@@ -92,6 +103,7 @@ episodes:
   description: Homer reluctantly accepts Mr. Burns into his new bowling league.  Bart
     causes a student riot by wearing a Mad magazine iron-on prompting Skinner to implement
     a school dress code.
+  disneyplus_id:
   simpsonsworld_id: 302792771967
   good: true
   characters:
@@ -100,6 +112,7 @@ episodes:
   episode: 13
   description: Former President George Bush and his wife Barbara buy a house across
     the street from the Simpsons.
+  disneyplus_id:
   simpsonsworld_id: 276994115834
   good: true
   characters:
@@ -107,6 +120,7 @@ episodes:
   season: 7
   episode: 14
   description: The Simpsons apply for membership at a posh country club.
+  disneyplus_id:
   simpsonsworld_id: 305694276001
   good: true
   characters:
@@ -115,6 +129,7 @@ episodes:
   episode: 15
   description: Krusty is arrested for massive tax fraud after Bart inadvertently exposes
     his hero's illegal bank account.
+  disneyplus_id:
   simpsonsworld_id: 301346371709
   good: true
   characters:
@@ -123,6 +138,7 @@ episodes:
   episode: 16
   description: Lisa discovers that Jebediah Springfield was a vicious pirate. Homer
     wins the coveted role of town crier in an upcoming parade.
+  disneyplus_id:
   simpsonsworld_id: 302796355658
   good: true
   characters:
@@ -130,6 +146,7 @@ episodes:
   season: 7
   episode: 17
   description: Homer acts as Mr. Burns' assistant while Smithers is away on vacation.
+  disneyplus_id:
   simpsonsworld_id: 277248579634
   good: true
   characters:
@@ -138,6 +155,7 @@ episodes:
   episode: 18
   description: Bart and Lisa come to the aid of a down-and-out man who claims to have
     invented the concept of cartoon violence.
+  disneyplus_id:
   simpsonsworld_id: 301668931982
   good: true
   characters:
@@ -145,6 +163,7 @@ episodes:
   season: 7
   episode: 19
   description: Troy McClure stages a Hollywood comeback when he begins dating Selma.
+  disneyplus_id:
   simpsonsworld_id: 300935235544
   good: true
   characters:
@@ -154,6 +173,7 @@ episodes:
   description: Using a fake driver's license, Bart rents a car and embarks on a Spring
     Break road trip with his friends.  A special bond develops between Lisa and Homer
     after Skinner invents Go To Work With Your Parents Day.
+  disneyplus_id:
   simpsonsworld_id: 277000259951
   good: true
   characters:
@@ -162,6 +182,7 @@ episodes:
   episode: 21
   description: The lives of Springfield residents are highlighted in a series of interconnecting
     vignettes.
+  disneyplus_id:
   simpsonsworld_id: 299588163608
   good: true
   characters:
@@ -171,6 +192,7 @@ episodes:
   episode: 22
   description: Grampa and Mr. Burns, the last surviving members of a World War II
     army unit, vie for a priceless collection of rare art hidden in a secret location.
+  disneyplus_id:
   simpsonsworld_id: 279728707597
   good: true
   characters:
@@ -179,6 +201,7 @@ episodes:
   episode: 23
   description: Apu faces deportation when a referendum on illegal immigrants is placed
     on the Springfield ballot.
+  disneyplus_id:
   simpsonsworld_id: 310404675978
   good: true
   characters:
@@ -186,6 +209,7 @@ episodes:
   season: 7
   episode: 24
   description: Homer is hired to perform in a rock festival.
+  disneyplus_id:
   simpsonsworld_id: 277008451637
   good: true
   characters:
@@ -194,6 +218,7 @@ episodes:
   episode: 25
   description: While on summer vacation with her family, Lisa sheds her nerdy image
     in an effort to make new friends.
+  disneyplus_id:
   simpsonsworld_id: 277013571573
   good: true
   characters:

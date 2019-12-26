@@ -5,6 +5,7 @@ episodes:
   episode: 1
   description: Homer recounts his phenomenal rise to superstardom as a member of the
     barbershop quartet, The Be Sharps.
+  disneyplus_id:
   simpsonsworld_id: 305674307809
   good: false
   characters:
@@ -16,6 +17,7 @@ episodes:
   season: 5
   episode: 2
   description: Sideshow Bob terrorizes Bart after he is paroled from prison.
+  disneyplus_id:
   simpsonsworld_id: 305674819788
   good: true
   characters:
@@ -26,6 +28,7 @@ episodes:
   episode: 3
   description: Homer enrolls in a nuclear physics class at Springfield University
     and convinces three nerdy classmates to help him pull off a prank.
+  disneyplus_id:
   simpsonsworld_id: 280399427649
   good: true
   characters:
@@ -34,6 +37,7 @@ episodes:
   season: 5
   episode: 4
   description: The Simpsons find Mr. Burns' long-lost childhood teddy bear.
+  disneyplus_id:
   simpsonsworld_id: 279714371653
   good: true
   characters:
@@ -44,6 +48,7 @@ episodes:
   episode: 5
   description: In a ghoulish gallery, Bart hosts three bloodcurdling tales of Halloween
     horror.
+  disneyplus_id:
   simpsonsworld_id: 275206211805
   good: true
   characters:
@@ -53,6 +58,7 @@ episodes:
   episode: 6
   description: Marge joins divorcee Ruth Powers for a wild night on the town, only
     to discover that her friend is driving a stolen vehicle.
+  disneyplus_id:
   simpsonsworld_id: 294777411510
   good: true
   characters:
@@ -62,6 +68,7 @@ episodes:
   episode: 7
   description: The host of a self-help workshop convinces the people of Springfield
     they should emulate Bart's uninhibited personality.
+  disneyplus_id:
   simpsonsworld_id: 275202627817
   good: true
   characters:
@@ -71,6 +78,7 @@ episodes:
   episode: 8
   description: Bart inadvertently joins the Junior Campers, and during a rafting trip,
     he becomes lost at sea with Homer and Ned Flanders.
+  disneyplus_id:
   simpsonsworld_id: 288056387698
   good: true
   characters:
@@ -82,6 +90,7 @@ episodes:
   episode: 9
   description: Homer is attracted to a sexy co-worker with a personality identical
     to his own.
+  disneyplus_id:
   simpsonsworld_id: 275201091952
   good: true
   characters:
@@ -91,6 +100,7 @@ episodes:
   episode: 10
   description: Marge becomes addicted to playing slot machines after the town of Springfield
     legalizes gambling.
+  disneyplus_id:
   simpsonsworld_id: 305659459565
   good: true
   characters:
@@ -101,6 +111,7 @@ episodes:
   episode: 11
   description: Homer takes the law into his own hands after Springfield is victimized
     by a cat burglar.
+  disneyplus_id:
   simpsonsworld_id: 305677891810
   good: true
   characters:
@@ -110,6 +121,7 @@ episodes:
   episode: 12
   description: Bart becomes an instant celebrity after he ad-libs a line during a
     sketch on the "Krusty the Klown Show."
+  disneyplus_id:
   simpsonsworld_id: 302789187885
   good: true
   characters:
@@ -120,6 +132,7 @@ episodes:
   episode: 13
   description: Apu offers the Simpsons his services as valet after he is fired from
     the Kwik-E-Mart for selling rancid meat.
+  disneyplus_id:
   simpsonsworld_id: 279716931614
   good: false
   characters:
@@ -129,6 +142,7 @@ episodes:
   season: 5
   episode: 14
   description: Lisa manufactures her own talking doll for little girls.
+  disneyplus_id:
   simpsonsworld_id: 274260035625
   good: true
   characters:
@@ -138,6 +152,7 @@ episodes:
   episode: 15
   description: NASA scientists train Homer to become the first average American in
     space, with near disastrous results.
+  disneyplus_id:
   simpsonsworld_id: 275720259883
   good: true
   characters:
@@ -147,6 +162,7 @@ episodes:
   season: 5
   episode: 16
   description: Flanders is horrified to discover he has become Homer's best friend.
+  disneyplus_id:
   simpsonsworld_id: 310398019629
   good: maybe
   characters:
@@ -154,6 +170,7 @@ episodes:
   season: 5
   episode: 17
   description: Bart wins a full grown African elephant as part of a radio contest.
+  disneyplus_id:
   simpsonsworld_id: 275726403611
   good: maybe
   characters:
@@ -161,6 +178,7 @@ episodes:
   season: 5
   episode: 18
   description: Mr. Burns chooses Bart as the heir to his vast fortune.
+  disneyplus_id:
   simpsonsworld_id: 283747395787
   good: maybe
   characters:
@@ -169,6 +187,7 @@ episodes:
   episode: 19
   description: Bart suffers enormous guilt after Skinner is fired from his job as
     school principal.
+  disneyplus_id:
   simpsonsworld_id: 274260035741
   good: true
   characters:
@@ -180,6 +199,7 @@ episodes:
   description: Only Bart can clear Mayor Quimby's nephew of an assault charge, but
     he fears that identifying himself as a witness will mean expulsion for skipping
     class.
+  disneyplus_id:
   simpsonsworld_id: 278796355962
   good: true
   characters:
@@ -190,6 +210,7 @@ episodes:
   episode: 21
   description: Grampa and Mr. Burns vie for Mrs. Bouvier's hand in marriage.  Bart
     purchases a worthless Itchy and Scratchy animation cell.
+  disneyplus_id:
   simpsonsworld_id: 305681987583
   good: maybe
   characters:
@@ -198,6 +219,7 @@ episodes:
   episode: 22
   description: Marge kicks Homer out of the house after she discovers that he revealed
     her personal secrets to an adult education class.
+  disneyplus_id:
   simpsonsworld_id: 279720003973
   good: true
   characters:

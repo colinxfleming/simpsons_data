@@ -4,6 +4,7 @@ episodes:
   season: 26
   episode: 1
   description: 'The unthinkable happens: a Springfield resident dies.'
+  disneyplus_id:
   simpsonsworld_id: 334920771636
   good: false
   characters:
@@ -12,6 +13,7 @@ episodes:
   season: 26
   episode: 2
   description: Homer and Bart set sail on the relation ship.
+  disneyplus_id:
   simpsonsworld_id: 346737219924
   good: false
   characters:
@@ -21,6 +23,7 @@ episodes:
   season: 26
   episode: 3
   description: Marge opens a sandwich shop.
+  disneyplus_id:
   simpsonsworld_id: 340536899599
   good: false
   characters:
@@ -30,6 +33,7 @@ episodes:
   episode: 4
   description: Don't miss the all-new, spooktacular Halloween special, "Treehouse
     of Horror XXV."
+  disneyplus_id:
   simpsonsworld_id: 344255555880
   good: false
   characters:
@@ -39,6 +43,7 @@ episodes:
   episode: 5
   description: An all-new episode featuring guest voice Jane Fonda, whose character
     falls for Mr. Burns.
+  disneyplus_id:
   simpsonsworld_id: 351437379941
   good: false
   characters:
@@ -48,6 +53,7 @@ episodes:
   season: 26
   episode: 6
   description: The Simpsons travel to the 31st century.
+  disneyplus_id:
   simpsonsworld_id: 355593283530
   good: false
   characters:
@@ -57,6 +63,7 @@ episodes:
   episode: 7
   description: Bart faces a tough test at school when he gets a new teacher, Mr. Lassen,
     who vows to crush his spirit.
+  disneyplus_id:
   simpsonsworld_id: 359228483622
   good: false
   characters:
@@ -65,6 +72,7 @@ episodes:
   season: 26
   episode: 8
   description: Homer forms a cover band with some of the other dads in town.
+  disneyplus_id:
   simpsonsworld_id: 362239555757
   good: false
   characters:
@@ -74,6 +82,7 @@ episodes:
   season: 26
   episode: 9
   description: Marge doesn't approve of Homer's Christmas spirits.
+  disneyplus_id:
   simpsonsworld_id: 368212547872
   good: maybe
   characters:
@@ -81,6 +90,7 @@ episodes:
   season: 26
   episode: 10
   description: An amusement park ride lands the Simpsons in outer space..
+  disneyplus_id:
   simpsonsworld_id: 379818563729
   good: maybe
   characters:
@@ -88,6 +98,7 @@ episodes:
   season: 26
   episode: 11
   description: Bart and Homer become BFF's.
+  disneyplus_id:
   simpsonsworld_id: 383002179865
   good: maybe
   characters:
@@ -95,6 +106,7 @@ episodes:
   season: 26
   episode: 12
   description: Homer becomes muse to Elon Musk.
+  disneyplus_id:
   simpsonsworld_id: 388773443652
   good: maybe
   characters:
@@ -102,6 +114,7 @@ episodes:
   season: 26
   episode: 13
   description: Springfield gets a new town anthem.
+  disneyplus_id:
   simpsonsworld_id: 395694659511
   good: maybe
   characters:
@@ -109,6 +122,7 @@ episodes:
   season: 26
   episode: 14
   description: Marge trades in her mom-chauffeur hat for a real one.
+  disneyplus_id:
   simpsonsworld_id: 399385667625
   good: maybe
   characters:
@@ -116,6 +130,7 @@ episodes:
   season: 26
   episode: 15
   description: Moe plots revenge over Nigerian e-mail scam.
+  disneyplus_id:
   simpsonsworld_id: 406163011894
   good: maybe
   characters:
@@ -123,6 +138,7 @@ episodes:
   season: 26
   episode: 16
   description: The Springfield congregation turns to gambling to repair the church.
+  disneyplus_id:
   simpsonsworld_id: 410018371522
   good: maybe
   characters:
@@ -131,6 +147,7 @@ episodes:
   episode: 17
   description: When Duffman undergoes hip replacement surgery and retires, the company
     sets up a reality show competition to find his replacement.
+  disneyplus_id:
   simpsonsworld_id: 420981315819
   good: maybe
   characters:
@@ -139,6 +156,7 @@ episodes:
   episode: 18
   description: Bart lies about being involved in a bulldozer crash, so Marge decides
     to follow him everywhere until he confesses.
+  disneyplus_id:
   simpsonsworld_id: 430426691868
   good: maybe
   characters:
@@ -148,6 +166,7 @@ episodes:
   description: When Homer gets an old film roll developed, the family takes a trip
     down memory lane to see the origins of how Bart and Lisa first started fighting
     with each other.
+  disneyplus_id:
   simpsonsworld_id: 434682947703
   good: maybe
   characters:
@@ -156,6 +175,7 @@ episodes:
   episode: 20
   description: The Simpsons learn about Grampa's days in the Air Force, and Bart takes
     up smoking to impress Milhouse's Dutch cousin.
+  disneyplus_id:
   simpsonsworld_id: 438408259807
   good: false
   characters:
@@ -166,6 +186,7 @@ episodes:
   episode: 21
   description: After Bart gets bullied at the school dance, Marge convinces the town
     to pass anti-bullying legislation.
+  disneyplus_id:
   simpsonsworld_id: 442879555692
   good: maybe
   characters:
@@ -174,6 +195,7 @@ episodes:
   episode: 22
   description: When a modernized Springfield Elementary has a technical meltdown,
     Lisa transforms it into a Waldorf school.
+  disneyplus_id:
   simpsonsworld_id: 446649411760
   good: maybe
   characters:

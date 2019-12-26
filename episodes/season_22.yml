@@ -5,6 +5,7 @@ episodes:
   episode: 1
   description: Lisa attends a performing arts camp; Krusty stands trial in The Hague
     after being tricked into believing he won the Nobel Prize.
+  disneyplus_id:
   simpsonsworld_id: 263519811935
   good: maybe
   characters:
@@ -14,6 +15,7 @@ episodes:
   description: Lisa donates money to a microfinance bank to help Nelson's custom bicycle
     company; Homer games the system by purchasing expensive items from stores and,
     after using them for a period of time, returns them for a refund.
+  disneyplus_id:
   simpsonsworld_id: 263525955686
   good: maybe
   characters:
@@ -22,6 +24,7 @@ episodes:
   episode: 3
   description: Lisa becomes the coach of Bart's Little League team... and ends up
     firing Bart after he ignores her instructions.
+  disneyplus_id:
   simpsonsworld_id: 263531587720
   good: maybe
   characters:
@@ -31,6 +34,7 @@ episodes:
   description: Bart and Milhouse use their videogame skills to save Springfield; in
     a 'Dead Calm' spoof a vacationing Homer and Marge rescue a stranger who may be
     a murderer; Lisa falls for a hunky vampire in a spoof of 'Twilight'.
+  disneyplus_id:
   simpsonsworld_id: 263577155794
   good: false
   characters:
@@ -41,6 +45,7 @@ episodes:
   description: Lisa decides she doesn't want to end up like Marge; Bart becomes the
     new school bully after Nelson is humiliated by a series of mishaps; Maggie becomes
     obsessed with owning a collectible elf figure.
+  disneyplus_id:
   simpsonsworld_id: 263540291528
   good: maybe
   characters:
@@ -49,6 +54,7 @@ episodes:
   episode: 6
   description: When a dying Mr. Burns loses his memory, the residents of Springfield
     exact revenge on the abusive billionaire by using him as their plaything.
+  disneyplus_id:
   simpsonsworld_id: 263544387571
   good: maybe
   characters:
@@ -57,6 +63,7 @@ episodes:
   episode: 7
   description: The Simpsons decide to give away Santa's Little Helper after the dog
     swallows Bart's beloved carrier pigeon.
+  disneyplus_id:
   simpsonsworld_id: 263545923923
   good: maybe
   characters:
@@ -66,6 +73,7 @@ episodes:
   description: Four Christmas tales... Bart takes a 'Polar Express' ride to ask Santa
     for a dirt bike; Lisa worries after Marge is drafted to fight Nazis; Martha Stewart
     helps spruce-up the house; the family celebrates a Muppet Christmas.
+  disneyplus_id:
   simpsonsworld_id: 263551043814
   good: maybe
   characters:
@@ -74,6 +82,7 @@ episodes:
   episode: 9
   description: Acting as an undercover informant, Homer sets out to win the trust
     of mobster Fat Tony as part of the FBI's efforts to break up his crime syndicate.
+  disneyplus_id:
   simpsonsworld_id: 263572035826
   good: maybe
   characters:
@@ -82,6 +91,7 @@ episodes:
   episode: 10
   description: As Bart tries to determine the origin of a scar on his hand, Marge
     reacquaints herself with three old friends.
+  disneyplus_id:
   simpsonsworld_id: 256848451515
   good: maybe
   characters:
@@ -90,6 +100,7 @@ episodes:
   episode: 11
   description: Smithers convinces Moe to turn his tavern into a gay bar; with Bart's
     help, Skinner romances the elementary school's new music teacher.
+  disneyplus_id:
   simpsonsworld_id: 263579715535
   good: maybe
   characters:
@@ -99,6 +110,7 @@ episodes:
   description: Homer uses plotlines from a 1980's sitcom to deal with Bart when the
     boy grows obsessed with obtaining a cool mini-bike; Bart attempts to trade nuclear
     secrets to the Chinese government.
+  disneyplus_id:
   simpsonsworld_id: 256851523744
   good: maybe
   characters:
@@ -108,6 +120,7 @@ episodes:
   description: Unable to get a date for Valentine's Day, Moe asks Homer to act as
     his 'wingman' and help him attract women; Marge has her entire head of hair dyed
     gray after she discovers her first gray hair.
+  disneyplus_id:
   simpsonsworld_id: 254809667917
   good: maybe
   characters:
@@ -116,6 +129,7 @@ episodes:
   episode: 14
   description: When the 'Angry Dad' character is turned into an award-winning animated
     short film, Homer hogs the spotlight... much to Bart's dismay.
+  disneyplus_id:
   simpsonsworld_id: 254814275630
   good: maybe
   characters:
@@ -125,6 +139,7 @@ episodes:
   description: When Lisa discovers a wildflower that turns scorpions into blissful
     creatures, Homer secretly spikes Grampa's coffee with juice from the plant, turning
     him into a docile old man.
+  disneyplus_id:
   simpsonsworld_id: 254817859928
   good: maybe
   characters:
@@ -134,6 +149,7 @@ episodes:
   description: When legendary comics Cheech and Chong split up, Cheech asks Homer
     to replace his old partner; Marge helps the Cat Lady empty her house of junk...
     only to become a hoarder herself.
+  disneyplus_id:
   simpsonsworld_id: 254821955889
   good: maybe
   characters:
@@ -142,6 +158,7 @@ episodes:
   episode: 17
   description: Homer enrolls in a fathering enrichment class, where he undergoes treatment
     to stop the urge to strangle Bart.
+  disneyplus_id:
   simpsonsworld_id: 254830659539
   good: maybe
   characters:
@@ -150,6 +167,7 @@ episodes:
   episode: 18
   description: Lisa befriends an old magician who shows her how to perform one of
     Houdini's greatest tricks.
+  disneyplus_id:
   simpsonsworld_id: 254866499808
   good: maybe
   characters:
@@ -158,6 +176,7 @@ episodes:
   episode: 19
   description: Fat Tony asks for Selma's hand in marriage; Bart discovers a talent
     for sniffing out truffles.
+  disneyplus_id:
   simpsonsworld_id: 254870083832
   good: maybe
   characters:
@@ -166,6 +185,7 @@ episodes:
   episode: 20
   description: Homer discovers a talent for cutting women's hair; Lisa becomes puzzled
     when a pretty girl at school shows an interest in Milhouse.
+  disneyplus_id:
   simpsonsworld_id: 254876227684
   good: maybe
   characters:
@@ -175,6 +195,7 @@ episodes:
   description: 'A drawer full of old keys sparks several adventures: Homer steals
     the Duff blimp; Bart discovers he can do no wrong; Lisa discovers a strange room
     beneath Springfield Elementary; Marge and Maggie chase a toy train.'
+  disneyplus_id:
   simpsonsworld_id: 254880835816
   good: maybe
   characters:
@@ -183,6 +204,7 @@ episodes:
   episode: 22
   description: Ned Flanders falls for Bart's teacher, Edna Krabappel... but will Krabappel's
     reputation for dating every guy in town spell the end of the relationship?
+  disneyplus_id:
   simpsonsworld_id: 255101507699
   good: maybe
   characters:

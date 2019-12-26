@@ -5,6 +5,7 @@ episodes:
   episode: 1
   description: Bart believes he witnessed Ned Flanders murder his wife.  Lisa's popularity
     soars after her family buys a swimming pool during a heat wave.
+  disneyplus_id:
   simpsonsworld_id: 300925507538
   good: true
   characters:
@@ -17,6 +18,7 @@ episodes:
   description: Lisa becomes jealous when she meets a new student who is even more
     intelligent than herself.  Homer acquires a truckload of white sugar, thinking
     it will net him a fortune.
+  disneyplus_id:
   simpsonsworld_id: 278809667691
   good: false
   characters:
@@ -27,6 +29,7 @@ episodes:
   episode: 3
   description: When Marge suspects that romance has gone out of her life, her family
     recalls romantic encounters from their past.
+  disneyplus_id:
   simpsonsworld_id: 300928067775
   good: false
   characters:
@@ -36,6 +39,7 @@ episodes:
   episode: 4
   description: The Simpsons visit a theme park based on the gratuitously violent Itchy
     and Scratchy cartoons.
+  disneyplus_id:
   simpsonsworld_id: 283752003577
   good: true
   characters:
@@ -45,6 +49,7 @@ episodes:
   episode: 5
   description: Sideshow Bob runs for political office after Mayor Quimby pardons him
     from prison.
+  disneyplus_id:
   simpsonsworld_id: 275729987504
   good: true
   characters:
@@ -54,6 +59,7 @@ episodes:
   season: 6
   episode: 6
   description: The Simpsons spin three tales of Halloween horror.
+  disneyplus_id:
   simpsonsworld_id: 299597891663
   good: true
   characters:
@@ -63,6 +69,7 @@ episodes:
   episode: 7
   description: Bart falls in love with Reverend Lovejoy's beautiful daughter, only
     to discover that she is more of a hellion than he is.
+  disneyplus_id:
   simpsonsworld_id: 275744323759
   good: true
   characters:
@@ -72,6 +79,7 @@ episodes:
   episode: 8
   description: Lisa joins a hockey team and finds herself pitted against Bart in a
     critical game.
+  disneyplus_id:
   simpsonsworld_id: 275746371575
   good: true
   characters:
@@ -81,6 +89,7 @@ episodes:
   season: 6
   episode: 9
   description: Homer is wrongly accused of committing sexual harassment.
+  disneyplus_id:
   simpsonsworld_id: 275746883653
   good: true
   characters:
@@ -90,6 +99,7 @@ episodes:
   episode: 10
   description: While selling a homemade tonic guaranteed to increase sexual desire
     in men, Grampa reveals that Homer's conception was accidental.
+  disneyplus_id:
   simpsonsworld_id: 274264643876
   good: true
   characters:
@@ -100,6 +110,7 @@ episodes:
   episode: 11
   description: Marge seeks professional help from a psychiatrist after realizing she
     is afraid to fly.
+  disneyplus_id:
   simpsonsworld_id: 305684547546
   good: false
   characters:
@@ -109,6 +120,7 @@ episodes:
   episode: 12
   description: Homer's popularity skyrockets when he is chosen as the leader of a
     secret organization.
+  disneyplus_id:
   simpsonsworld_id: 275745859881
   good: true
   characters:
@@ -117,6 +129,7 @@ episodes:
   season: 6
   episode: 13
   description: Homer recounts how Maggie's accidental birth changed his life forever.
+  disneyplus_id:
   simpsonsworld_id: 278796867754
   good: false
   characters:
@@ -124,6 +137,7 @@ episodes:
   season: 6
   episode: 14
   description: Bart discovers a comet that is on a collision course with Springfield.
+  disneyplus_id:
   simpsonsworld_id: 275746883888
   good: true
   characters:
@@ -132,6 +146,7 @@ episodes:
   season: 6
   episode: 15
   description: Homer enrolls in a clown college franchised by Krusty the Clown.
+  disneyplus_id:
   simpsonsworld_id: 279723587611
   good: true
   characters:
@@ -142,6 +157,7 @@ episodes:
   episode: 16
   description: Bart must apologize to the country of Australia after he tricks a boy
     from down under into accepting an expensive collect call.
+  disneyplus_id:
   simpsonsworld_id: 275748931680
   good: true
   characters:
@@ -151,6 +167,7 @@ episodes:
   episode: 17
   description: Homer is forced to borrow money from Patty and Selma after he wipes
     out the family's savings by investing in pumpkins.
+  disneyplus_id:
   simpsonsworld_id: 305686083529
   good: true
   characters:
@@ -162,6 +179,7 @@ episodes:
   episode: 18
   description: Homer grows jealous after Marge asks critic Jay Sherman to co-judge
     Springfield's film festival.
+  disneyplus_id:
   simpsonsworld_id: 283753539580
   good: true
   characters:
@@ -172,6 +190,7 @@ episodes:
   episode: 19
   description: A fortune teller describes how a genteel Englishman will ask for Lisa's
     hand in marriage in the year 2010.
+  disneyplus_id:
   simpsonsworld_id: 275751491511
   good: false
   characters:
@@ -181,6 +200,7 @@ episodes:
   episode: 20
   description: Bart and Lisa attempt to rescue 25 greyhound puppies from Mr. Burns,
     who wants to use their hides for a new tuxedo.
+  disneyplus_id:
   simpsonsworld_id: 278807107855
   good: true
   characters:
@@ -192,6 +212,7 @@ episodes:
   episode: 21
   description: Bart masterminds a teacher's strike, but is humiliated when Marge takes
     charge of his class.
+  disneyplus_id:
   simpsonsworld_id: 294780995610
   good: true
   characters:
@@ -202,6 +223,7 @@ episodes:
   episode: 22
   description: Lisa is saddened by the death of blues great Bleeding Gums Murphy.  Bart
     ingests a piece of jagged metal while eating Krusty-O cereal.
+  disneyplus_id:
   simpsonsworld_id: 275755587777
   good: true
   characters:
@@ -212,6 +234,7 @@ episodes:
   season: 6
   episode: 23
   description: Marge joins the police force.
+  disneyplus_id:
   simpsonsworld_id: 305689155572
   good: true
   characters:
@@ -222,6 +245,7 @@ episodes:
   episode: 24
   description: Bart and his friends march on Shelbyville when Springfield's lemon
     tree is stolen by a gang of children from across the border.
+  disneyplus_id:
   simpsonsworld_id: 274269763684
   good: true
   characters:
@@ -233,6 +257,7 @@ episodes:
   description: Just about everyone in Springfield vows to kill Mr. Burns after he
     cheats the elementary school out of a newly discovered oil well and threatens
     to block out the sun.
+  disneyplus_id:
   simpsonsworld_id: 294781507859
   good: true
   characters:
