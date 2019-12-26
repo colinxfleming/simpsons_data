@@ -1,4 +1,5 @@
-
+---
+episodes:
 - title: Bart's Not Dead
   season: 30
   episode: 1
@@ -62,7 +63,7 @@
   simpsonsworld_id:
   good: maybe
   characters:
-- title: 'Tis the 30th Season
+- title: "'Tis the 30th Season"
   season: 30
   episode: 10
   description: The Simpsons try to spend a relaxing Florida Christmas.
