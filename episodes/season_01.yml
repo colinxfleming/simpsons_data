@@ -47,7 +47,7 @@ episodes:
   episode: 5
   description: Grandpa Simpson aids Bart in his war against a school bully and his
     gang.
-  disneyplus_id:
+  disneyplus_id: 051c32fc-0d9a-4bee-a960-9c6ab85eccdb
   simpsonsworld_id: 300934723994
   good: false
   characters:
@@ -57,7 +57,7 @@ episodes:
   season: 1
   episode: 6
   description: Lisa befriends a saxophone player when she develops a case of the blues.
-  disneyplus_id:
+  disneyplus_id: d7502c3a-a254-451a-bdc0-b57e67b1ace4
   simpsonsworld_id: 273391683535
   good: false
   characters:
@@ -68,7 +68,7 @@ episodes:
   episode: 7
   description: Homer is mistaken for Bigfoot when he takes his family on a trip into
     the wilderness in their new camper.
-  disneyplus_id:
+  disneyplus_id: 8d4aad23-2222-4980-af9b-729bc8159898
   simpsonsworld_id: 273396803837
   good: false
   characters:
@@ -79,7 +79,7 @@ episodes:
   episode: 8
   description: Bart attempts to impress his new friends by vandalizing a statue of
     the town's founding father, Jebediah Springfield.
-  disneyplus_id:
+  disneyplus_id: 8868eddb-224d-4df4-93c2-145abd60270d
   simpsonsworld_id: 305663555641
   good: true
   characters:
@@ -90,7 +90,7 @@ episodes:
   episode: 9
   description: Marge contemplates having an affair with a local womanizer after Homer
     selfishly buys her a bowling ball for her birthday.
-  disneyplus_id:
+  disneyplus_id: 6303b4c8-5e65-46a0-bd51-6460bba86e8e
   simpsonsworld_id: 280384579592
   good: false
   characters:
@@ -101,7 +101,7 @@ episodes:
   description: Bart photographs Homer with belly-dancer Princess Kashmir.  Marge will
     only forgive her husband when he proves to Bart that all women are not merely
     sexual objects.
-  disneyplus_id:
+  disneyplus_id: 084078a6-9f7e-4468-8b33-48ce7fb5c7c0
   simpsonsworld_id: 275197507879
   good: false
   characters:
@@ -112,7 +112,7 @@ episodes:
   episode: 11
   description: To Homer's delight, Bart is sent to France for the summer as part of
     a student exchange program.
-  disneyplus_id:
+  disneyplus_id: 01937c40-fe95-4e8f-aa0d-3933ee3ba378
   simpsonsworld_id: 306382403766
   good: true
   characters:
@@ -122,7 +122,7 @@ episodes:
   episode: 12
   description: When Homer positively identifies Krusty the Clown as an armed robber,
     Bart attempts to clear his idol's name.
-  disneyplus_id:
+  disneyplus_id: 829bc530-f7b3-459d-bac1-dc92672c9138
   simpsonsworld_id: 288019523914
   good: true
   characters:
@@ -133,7 +133,7 @@ episodes:
   episode: 13
   description: Marge and Homer unwittingly leave their children in the care of a villainous
     babysitter when they attempt to rekindle their marriage.
-  disneyplus_id:
+  disneyplus_id: 332f91c5-2de7-40d2-ac02-9de76820f4f6
   simpsonsworld_id: 274504771647
   good: false
   characters:
