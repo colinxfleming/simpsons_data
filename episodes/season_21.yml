@@ -5,6 +5,7 @@ episodes:
   episode: 1
   description: Homer ends up with a superhero's physique after he's chosen to appear
     in a film based on a character created by The Comic Book Guy.
+  disneyplus_id:
   simpsonsworld_id: 250297923589
   good: false
   characters:
@@ -16,6 +17,7 @@ episodes:
   description: Principal Skinner fires Mrs. Krabappel after she makes a drunken fool
     of herself at the elementary school - but what Skinner doesn't know is that Bart
     spiked her coffee with alcohol.
+  disneyplus_id:
   simpsonsworld_id: 310517315862
   good: false
   characters:
@@ -26,6 +28,7 @@ episodes:
   episode: 3
   description: Marge vows to drive mixed martial arts from Springfield by defeating
     a fight promoter in the ring.
+  disneyplus_id:
   simpsonsworld_id: 250299971833
   good: false
   characters:
@@ -36,6 +39,7 @@ episodes:
   description: Classic movie monsters are attacked by their spouses; Lisa and Bart
     exchange murders in a Hitchcock spoof; Bart is the key to saving Springfield from
     zombies; Moe's microbrewery mixes beer with Homer's blood.
+  disneyplus_id:
   simpsonsworld_id: 262634051998
   good: false
   characters:
@@ -45,6 +49,7 @@ episodes:
   episode: 5
   description: Homer's life turns into nonstop misery when he becomes Carl's assistant;
     Marge poses for a sexy calendar.
+  disneyplus_id:
   simpsonsworld_id: 250304067959
   good: false
   characters:
@@ -56,6 +61,7 @@ episodes:
   episode: 6
   description: Skinner tells Bart about a former Springfield Elementary student who
     was the best prankster ever; Marge begins shopping at a natural foods store.
+  disneyplus_id:
   simpsonsworld_id: 792414787985
   good: maybe
   characters:
@@ -64,6 +70,7 @@ episodes:
   episode: 7
   description: Lisa befriends a group of Wiccans who are accused of blinding the people
     of Springfield with a spell.
+  disneyplus_id:
   simpsonsworld_id: 250307139830
   good: maybe
   characters:
@@ -72,6 +79,7 @@ episodes:
   episode: 8
   description: Bart attempts to get Homer and Marge pregnant so he can have a brother
     to hang out with.
+  disneyplus_id:
   simpsonsworld_id: 250311235599
   good: maybe
   characters:
@@ -80,6 +88,7 @@ episodes:
   episode: 9
   description: Homer becomes jealous when a reporter takes an interest in Grampa's
     life; Lisa loses a stuffed lamb that Bart brought home from school.
+  disneyplus_id:
   simpsonsworld_id: 250369603964
   good: maybe
   characters:
@@ -88,6 +97,7 @@ episodes:
   episode: 10
   description: Krusty ends up playing second fiddle to Princess Penelope, a new character
     on his show... only to end up falling in love with the actress who plays her.
+  disneyplus_id:
   simpsonsworld_id: 250379331672
   good: maybe
   characters:
@@ -96,6 +106,7 @@ episodes:
   episode: 11
   description: Homer wins a million-dollar lottery but doesn't tell his family the
     news; Lisa stimulates nursing home patients with an interactive Wii-like device.
+  disneyplus_id:
   simpsonsworld_id: 279804995696
   good: maybe
   characters:
@@ -104,6 +115,7 @@ episodes:
   episode: 12
   description: The Simpsons head to the Winter Olympics in Canada after Marge and
     Homer join a curling team; Lisa becomes addicted to collecting Olympic pins.
+  disneyplus_id:
   simpsonsworld_id: 250385475646
   good: maybe
   characters:
@@ -112,6 +124,7 @@ episodes:
   episode: 13
   description: Lisa discovers that her Southern ancestors helped a slave escape to
     freedom.
+  disneyplus_id:
   simpsonsworld_id: 255100483932
   good: maybe
   characters:
@@ -121,6 +134,7 @@ episodes:
   description: Bart creates friction between Marge and Homer so he can get out of
     doing homework.  But when the plot fails, Bart tries to destroy the elementary
     school by reactivating an old Springfield subway line.
+  disneyplus_id:
   simpsonsworld_id: 250390595937
   good: maybe
   characters:
@@ -129,6 +143,7 @@ episodes:
   episode: 15
   description: Bart stirs up trouble when he kisses a girl at school; Lisa's popularity
     soars when she receives a failing grade on a test.
+  disneyplus_id:
   simpsonsworld_id: 250397251688
   good: maybe
   characters:
@@ -138,6 +153,7 @@ episodes:
   description: Flanders attempts to redeem Homer during a Bible study trip to Israel;
     Homer becomes delusional after getting lost in the desert and ends up believing
     he's the Chosen One.
+  disneyplus_id:
   simpsonsworld_id: 279809091713
   good: maybe
   characters:
@@ -147,6 +163,7 @@ episodes:
   description: When Mr. Burns is sent to prison for possessing stolen art, he places
     Smithers in charge of running the nuclear power plant; Bart helps Lisa maintain
     an ant farm.
+  disneyplus_id:
   simpsonsworld_id: 250508867924
   good: maybe
   characters:
@@ -155,6 +172,7 @@ episodes:
   episode: 18
   description: After he's sentenced to perform community service, Homer befriends
     Chief Wiggum; Marge mistakes Bart's love for a Japanese card game for a drug addiction.
+  disneyplus_id:
   simpsonsworld_id: 250515523850
   good: maybe
   characters:
@@ -162,6 +180,7 @@ episodes:
   season: 21
   episode: 19
   description: Lisa comes to the aid of a whale that washes up on Springfield Beach.
+  disneyplus_id:
   simpsonsworld_id: 250519619700
   good: maybe
   characters:
@@ -171,6 +190,7 @@ episodes:
   description: After a bomb squad mistakenly blows up Homer's unattended gym bag,
     releasing radiation into the city, Springfield equips itself with surveillance
     cameras to deter terrorism, allowing Flanders to impose his views on others.
+  disneyplus_id:
   simpsonsworld_id: 250523203904
   good: maybe
   characters:
@@ -179,6 +199,7 @@ episodes:
   episode: 21
   description: As Mother's Day approaches, Homer, Apu and Reverend Lovejoy receive
     a letter from Moe warning that he's going to run away with one of their wives.
+  disneyplus_id:
   simpsonsworld_id: 250592323527
   good: maybe
   characters:
@@ -187,6 +208,7 @@ episodes:
   episode: 22
   description: Bart is convinced that his new neighbor is Sideshow Bob - even though
     the man looks nothing like his arch enemy.
+  disneyplus_id:
   simpsonsworld_id: 250531907855
   good: maybe
   characters:
@@ -196,6 +218,7 @@ episodes:
   description: Moe discovers a talent for judging contests, leading to an appearance
     on the television series 'American Idol;' Homer drives Marge crazy when he begins
     hanging around the house.
+  disneyplus_id:
   simpsonsworld_id: 255074883631
   good: maybe
   characters:
