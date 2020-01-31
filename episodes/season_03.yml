@@ -6,7 +6,7 @@ episodes:
   description: Homer is institutionalized after Bart fills out his sanity test.  A
     man who thinks he is Michael Jackson helps Bart write a song for Lisa when he
     forgets her birthday.
-  disneyplus_id:
+  disneyplus_id: not-ported-over
   simpsonsworld_id: 272234051980
   good: false
   characters:
@@ -17,7 +17,7 @@ episodes:
   episode: 2
   description: The Simpsons travel to the Nation's Capitol when Lisa becomes a semifinalist
     in an essay contest on patriotism.
-  disneyplus_id:
+  disneyplus_id: 30e6b625-ad02-4c52-ba41-571b68eee431
   simpsonsworld_id: 275196995796
   good: true
   characters:
@@ -27,7 +27,7 @@ episodes:
   episode: 3
   description: Ned Flanders opens a store for left-handed people and Homer is overjoyed
     when it performs poorly.
-  disneyplus_id:
+  disneyplus_id: bba00c31-32ab-4167-9990-d44ca856fb77
   simpsonsworld_id: 272051267562
   good: true
   characters:
@@ -38,7 +38,7 @@ episodes:
   episode: 4
   description: Bart fraternizes with a gang of mobsters and becomes the prime suspect
     when Principal Skinner mysteriously disappears.
-  disneyplus_id:
+  disneyplus_id: 062bfbc7-f1ac-4c7f-9ccc-bd2e96fd6da4
   simpsonsworld_id: 288015427922
   good: true
   characters:
@@ -49,7 +49,7 @@ episodes:
   episode: 5
   description: Homer becomes a hero when he averts a catastrophe at the power plant,
     but what is perceived as his skill of being a quick thinker is actually dumb luck.
-  disneyplus_id:
+  disneyplus_id: 03be2e07-7414-436a-9522-e697bd015483
   simpsonsworld_id: 256843843704
   good: true
   characters:
@@ -59,7 +59,7 @@ episodes:
   episode: 6
   description: Bart and Lisa scheme to reunite Krusty the Clown with his father, Rabbi
     Krustofsky, who disowned him for not carrying on the family tradition.
-  disneyplus_id:
+  disneyplus_id: 27977583-ce54-45e5-8c9e-3ea55d551a3e
   simpsonsworld_id: 256874051703
   good: true
   characters:
@@ -71,7 +71,7 @@ episodes:
   episode: 7
   description: The Simpsons eat too much candy on Halloween and experience nightmarish
     tales of horror while they sleep.
-  disneyplus_id:
+  disneyplus_id: 1d2183e7-f0c6-4b61-abd7-47688dccfd15
   simpsonsworld_id: 272054339616
   good: true
   characters:
@@ -81,7 +81,7 @@ episodes:
   episode: 8
   description: Homer realizes that he never shows Lisa the attention she deserves
     and buys her a pony.
-  disneyplus_id:
+  disneyplus_id: 9ce55c08-4635-4cc8-857c-081460a2480e
   simpsonsworld_id: 310374467809
   good: false
   characters:
@@ -92,7 +92,7 @@ episodes:
   episode: 9
   description: Realizing he has not been a good father to Bart, Homer aids his son
     in building a soap box racer.
-  disneyplus_id:
+  disneyplus_id: b1ecdef1-ffef-4cb1-b7cc-3980a258cc69
   simpsonsworld_id: 256898115598
   good: true
   characters:
@@ -103,7 +103,7 @@ episodes:
   episode: 10
   description: Homer gives Moe the recipe for a unique alcoholic drink, and when it
     turns into a sensation, Moe takes credit, and the profits, from its success.
-  disneyplus_id:
+  disneyplus_id: 796cd258-4056-43ab-9268-4932550f11f5
   simpsonsworld_id: 305663555961
   good: true
   characters:
@@ -114,7 +114,7 @@ episodes:
   episode: 11
   description: Homer is fired from his job when a German firm buys the power plant
     from Mr. Burns.
-  disneyplus_id:
+  disneyplus_id: dd37faf9-f191-4a97-99c4-2cf7e966e441
   simpsonsworld_id: 310380099512
   good: false
   characters:
@@ -124,7 +124,7 @@ episodes:
   episode: 12
   description: When Marge believes she may be pregnant, Homer recounts how Bart was
     born.
-  disneyplus_id:
+  disneyplus_id: e7a09c16-34cd-448d-89c8-3a7cd3f1db05
   simpsonsworld_id: 299618371603
   good: false
   characters:
@@ -136,7 +136,7 @@ episodes:
   description: Using his Superstar Celebrity microphone, Bart tricks all of Springfield
     into believing that a child has fallen down a well.  But when he falls into the
     same well, Bart cannot get anyone to save him.
-  disneyplus_id:
+  disneyplus_id: 4b6bb3d5-cf1f-4edc-a1f5-b619c5d5979f
   simpsonsworld_id: 272052803895
   good: true
   characters:
@@ -146,7 +146,7 @@ episodes:
   episode: 14
   description: Lisa accurately predicts the winners of sporting events that Homer
     gambles on so she can be closer to her father.
-  disneyplus_id:
+  disneyplus_id: f4faa613-2619-484b-b9d5-84cb7907b60e
   simpsonsworld_id: 273404483565
   good: true
   characters:
@@ -157,7 +157,7 @@ episodes:
   episode: 15
   description: When Marge reaches the breaking point, she leaves for a much needed
     vacation, leaving the rest of the family to realize how much she does for them.
-  disneyplus_id:
+  disneyplus_id: affe697b-246e-4e2b-b314-86abb18f51f3
   simpsonsworld_id: 272224835795
   good: false
   characters:
@@ -168,7 +168,7 @@ episodes:
   episode: 16
   description: When Bart discovers that his divorced teacher, Mrs. Krabappel, has
     placed a "personals" ad in the local newspaper, he decides to create fake correspondence.
-  disneyplus_id:
+  disneyplus_id: 8e541791-0374-4447-92d5-427e190347c0
   simpsonsworld_id: 272228931984
   good: true
   characters:
@@ -180,7 +180,7 @@ episodes:
   description: Mr. Burns bets one million dollars that his power plant's softball
     team will win the championship, then hires professional baseball players to be
     members of the team.
-  disneyplus_id:
+  disneyplus_id: 277c0f29-5036-4ec1-8730-346b62202ec9
   simpsonsworld_id: 310380099768
   good: true
   characters:
@@ -191,7 +191,7 @@ episodes:
   episode: 18
   description: Bart finds new respect for the law and Lisa hangs out with the wrong
     crowd after they both take career aptitude tests.
-  disneyplus_id:
+  disneyplus_id: 84689699-9a61-4873-9e97-b92fdfdfd912
   simpsonsworld_id: 263513155607
   good: true
   characters:
@@ -202,7 +202,7 @@ episodes:
   episode: 19
   description: The Simpsons must choose between frills and their dog when Santa's
     Little Helper needs an expensive operation to save its life.
-  disneyplus_id:
+  disneyplus_id: 2d3ca633-e681-408d-b43a-17d34c4e3429
   simpsonsworld_id: 274404419620
   good: true
   characters:
@@ -212,7 +212,7 @@ episodes:
   season: 3
   episode: 20
   description: Homer becomes the manager of a beautiful Country Western singer.
-  disneyplus_id:
+  disneyplus_id: dd81dd22-a6d1-490b-9e4d-86b5bf64e2b0
   simpsonsworld_id: 272215619762
   good: true
   characters:
@@ -222,7 +222,7 @@ episodes:
   episode: 21
   description: To Bart's horror, Selma announces that her husband-to-be is none other
     than Sideshow Bob.
-  disneyplus_id:
+  disneyplus_id: d5a7bef2-e845-4439-916e-121bb33838c4
   simpsonsworld_id: 272221251812
   good: true
   characters:
@@ -233,7 +233,7 @@ episodes:
   episode: 22
   description: Bart attends a Spinal Tap concert.  Otto loses his job driving the
     school bus and moves in with the Simpsons.
-  disneyplus_id:
+  disneyplus_id: 97b16e5f-ef0a-4bdb-b113-e8ceb248217a
   simpsonsworld_id: 279103043694
   good: true
   characters:
@@ -244,7 +244,7 @@ episodes:
   episode: 23
   description: Bart becomes jealous when Milhouse falls for a girl who transferred
     to their school.
-  disneyplus_id:
+  disneyplus_id: 44f88f5f-ef09-4102-a975-4cc963938ec3
   simpsonsworld_id: 280393283967
   good: true
   characters:
@@ -255,7 +255,7 @@ episodes:
   episode: 24
   description: 'Herb Powell asks his brother Homer to let him borrow $2000 to develop
     a new invention: a translator of baby gibberish.'
-  disneyplus_id:
+  disneyplus_id: 7262519a-bba5-44c2-a547-2c812ed2541d
   simpsonsworld_id: 279098435798
   good: false
   characters:
