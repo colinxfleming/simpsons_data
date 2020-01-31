@@ -5,7 +5,7 @@ episodes:
   episode: 1
   description: Bart and Lisa are horrified when their summer at Kamp Krusty turns
     into a nightmare.
-  disneyplus_id:
+  disneyplus_id: 326e39c2-45a8-4781-9931-438ccbcc7f0a
   simpsonsworld_id: 279133251579
   good: true
   characters:
@@ -16,7 +16,7 @@ episodes:
   episode: 2
   description: When Marge lands the role of Blanche in a local production of "A Streetcar
     Named Desire," Homer cannot hide his disinterest.
-  disneyplus_id:
+  disneyplus_id: 0e1f575c-eb6e-46d3-8765-d786c3cbe0fc
   simpsonsworld_id: 273537603751
   good: true
   characters:
@@ -25,7 +25,7 @@ episodes:
   episode: 3
   description: Homer creates his own religion as a means of escaping church services
     on Sundays.
-  disneyplus_id:
+  disneyplus_id: 1aac9cd6-a6d9-49ea-9ae3-fb1622a811fa
   simpsonsworld_id: 279137859827
   good: true
   characters:
@@ -34,7 +34,7 @@ episodes:
   season: 4
   episode: 4
   description: Homer enters Lisa in a beauty pageant when her self-esteem plummets.
-  disneyplus_id:
+  disneyplus_id: 2f06393f-b88c-46b7-bddb-65bdf8172d44
   simpsonsworld_id: 273537603930
   good: true
   characters:
@@ -45,7 +45,7 @@ episodes:
   episode: 5
   description: During a Halloween party, the Simpsons tell three horrifying tales
     of the macabre.
-  disneyplus_id:
+  disneyplus_id: 540e1a2c-051a-4f48-b5f0-585138090af5
   simpsonsworld_id: 305668675610
   good: true
   characters:
@@ -55,7 +55,7 @@ episodes:
   episode: 6
   description: Homer forbids his son from seeing a new movie about his favorite cartoon
     heroes as punishment for misbehaving.
-  disneyplus_id:
+  disneyplus_id: 8c17cbd3-960b-4157-9792-8d02f0098c59
   simpsonsworld_id: 278803011830
   good: true
   characters:
@@ -66,7 +66,7 @@ episodes:
   episode: 7
   description: When the foundation to the Simpsons' house is need of an expensive
     repair, Marge takes a position at the power plant where Homer works.
-  disneyplus_id:
+  disneyplus_id: 5d3a5020-24d8-40a9-b0b3-44fa32517226
   simpsonsworld_id: 299613763656
   good: false
   characters:
@@ -76,7 +76,7 @@ episodes:
   episode: 8
   description: Bart falls in love with the girl who moves in next door, only to find
     that she prefers the school bully.
-  disneyplus_id:
+  disneyplus_id: ca3bcaa1-7de1-4a36-b493-92db5ade62a6
   simpsonsworld_id: 273542211871
   good: false
   characters:
@@ -86,7 +86,7 @@ episodes:
   season: 4
   episode: 9
   description: Homer and Barney vie for Springfield's lucrative snow plowing business.
-  disneyplus_id:
+  disneyplus_id: 4534ec67-6d1f-48ad-b286-43e1cc108d3c
   simpsonsworld_id: 273544259768
   good: true
   characters:
@@ -97,7 +97,7 @@ episodes:
   episode: 10
   description: Marge recounts how Lisa first spoke as the family awaits baby Maggie's
     first word.
-  disneyplus_id:
+  disneyplus_id: 0cf6e0b2-0c75-4106-93a2-efc89238c60c
   simpsonsworld_id: 288026691837
   good: false
   characters:
@@ -107,7 +107,7 @@ episodes:
   episode: 11
   description: Homer suffers a heart attack and hires Dr. Nick Riviera to perform
     a delicate triple bypass operation.
-  disneyplus_id:
+  disneyplus_id: 2299137d-d5f0-4488-8b35-bfcd5e15dedd
   simpsonsworld_id: 273548355538
   good: true
   characters:
@@ -117,7 +117,7 @@ episodes:
   episode: 12
   description: An unscrupulous profiteer sells the people of Springfield on a defective
     monorail system, with Homer as the conductor.
-  disneyplus_id:
+  disneyplus_id: fc04c428-5f24-4c42-a419-1d1dda6db8dd
   simpsonsworld_id: 306386499796
   good: true
   characters:
@@ -128,7 +128,7 @@ episodes:
   episode: 13
   description: Selma decides to take her dead aunt's advice and have children before
     it is too late.
-  disneyplus_id:
+  disneyplus_id: f2c8d63e-df66-419c-af18-5500e71f6d77
   simpsonsworld_id: 310386755912
   good: true
   characters:
@@ -141,7 +141,7 @@ episodes:
   description: Bart tires of Homer's lack of interest in him and chooses another father
     from the Bigger Brother program.  Lisa struggles to kick the habit of dialing
     a 900 number.
-  disneyplus_id:
+  disneyplus_id: 7225aa46-1c9a-4a64-8a39-116dd909fc0a
   simpsonsworld_id: 274103363992
   good: false
   characters:
@@ -153,7 +153,7 @@ episodes:
   episode: 15
   description: Lisa feels pity for Ralph, a nerdy classmate, and gives him a card
     on Valentine's Day. But to her horror, Ralph develops a crush on her.
-  disneyplus_id:
+  disneyplus_id: 24614fa3-99fe-4898-9dff-80ef324eb72f
   simpsonsworld_id: 274107459686
   good: true
   characters:
@@ -164,7 +164,7 @@ episodes:
   episode: 16
   description: Marge convinces Homer he may have a drinking problem. Lisa plots to
     humiliate Bart with her science project after he ruins an experiment.
-  disneyplus_id:
+  disneyplus_id: 3bb045c7-34fd-45cb-98c2-b72e8db1ccba
   simpsonsworld_id: 277249603926
   good: true
   characters:
@@ -173,7 +173,7 @@ episodes:
   episode: 17
   description: Homer is elected union leader at the power plant and tries to save
     the dental plan so he will not have to pay for Lisa's new braces.
-  disneyplus_id:
+  disneyplus_id: e8b46e3c-2e23-42b8-aed6-136763d57c71
   simpsonsworld_id: 357630019692
   good: true
   characters:
@@ -184,7 +184,7 @@ episodes:
   episode: 18
   description: Family and friends reminisce about Homer's life after Bart's April
     Fools' Day prank sends him to the hospital.
-  disneyplus_id:
+  disneyplus_id: db1dbdfe-ce8d-4bd5-8471-68c776549ac1
   simpsonsworld_id: 305670723781
   good: false
   characters:
@@ -194,7 +194,7 @@ episodes:
   episode: 19
   description: Using Grandpa as a front, Lisa and Bart write their own "Itchy and
     Scratchy" cartoons.
-  disneyplus_id:
+  disneyplus_id: a5a0f5e2-1972-4360-8ec3-7c1374319a1a
   simpsonsworld_id: 288029763650
   good: true
   characters:
@@ -206,7 +206,7 @@ episodes:
   episode: 20
   description: Lisa seeks to end a local holiday in which snakes are chased into town
     and beaten with sticks.  Bart is expelled from school by Principal Skinner.
-  disneyplus_id:
+  disneyplus_id: 9ccf6860-afd1-4db1-8ea7-afe4f5dcbde9
   simpsonsworld_id: 288129091929
   good: true
   characters:
@@ -215,7 +215,7 @@ episodes:
   episode: 21
   description: Marge is jailed when she is convicted of stealing from Apu's convenience
     store.
-  disneyplus_id:
+  disneyplus_id: d02ae0e2-fcf2-43c0-b34a-372808d5dfd2
   simpsonsworld_id: 299606595657
   good: false
   characters:
@@ -224,7 +224,7 @@ episodes:
   episode: 22
   description: Bart, Lisa and a group of celebrities help Krusty turn his career around
     after his television show is canceled.
-  disneyplus_id:
+  disneyplus_id: 5c868b0d-b9d4-48a7-b40a-1027f81154db
   simpsonsworld_id: 274256963874
   good: true
   characters:
