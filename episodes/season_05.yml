@@ -164,23 +164,26 @@ episodes:
   description: Flanders is horrified to discover he has become Homer's best friend.
   disneyplus_id: a7f65f67-17f0-483c-bd70-a15d4050d877
   simpsonsworld_id: 310398019629
-  good: maybe
+  good: true
   characters:
+    - homer
+    - ned
 - title: Bart Gets an Elephant
   season: 5
   episode: 17
   description: Bart wins a full grown African elephant as part of a radio contest.
   disneyplus_id: 980ff0ba-e78c-41cf-8e83-5b7a91f4d3c9
   simpsonsworld_id: 275726403611
-  good: maybe
+  good: true
   characters:
+    - bart
 - title: Burns' Heir
   season: 5
   episode: 18
   description: Mr. Burns chooses Bart as the heir to his vast fortune.
   disneyplus_id: c4e4a495-db5f-4fee-9314-0866330c664b
   simpsonsworld_id: 283747395787
-  good: maybe
+  good: false
   characters:
 - title: Sweet Seymour Skinner's Baadasssss Song
   season: 5
@@ -212,8 +215,11 @@ episodes:
     purchases a worthless Itchy and Scratchy animation cell.
   disneyplus_id: e38cf670-0fdc-4ca8-9095-51296ffc7a16
   simpsonsworld_id: 305681987583
-  good: maybe
+  good: true
   characters:
+    - grandpa_simpson
+    - mr_burns
+    - bart
 - title: Secrets of a Successful Marriage
   season: 5
   episode: 22
