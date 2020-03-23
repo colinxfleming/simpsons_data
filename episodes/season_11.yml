@@ -5,7 +5,7 @@ episodes:
   episode: 1
   description: Studio executives panic when actor Mel Gibson taps Homer to help him
     retool his latest film.
-  disneyplus_id:
+  disneyplus_id: 51a94205-716d-4276-b609-6bee5ae6e993
   simpsonsworld_id: 306906179700
   good: true
   characters:
@@ -15,7 +15,7 @@ episodes:
   episode: 2
   description: Bart is diagnosed with Attention Deficit Disorder and placed on medication
     that quells his disruptive behavior.
-  disneyplus_id:
+  disneyplus_id: 66fa7298-1240-43a9-bb52-a74dc9ad59ee
   simpsonsworld_id: 302833219678
   good: false
   characters:
@@ -25,7 +25,7 @@ episodes:
   episode: 3
   description: Homer becomes the Springfield Shopper's new food critic, but raises
     the ire of restaurateurs by panning their cooking.
-  disneyplus_id:
+  disneyplus_id: a34950c4-0127-4fba-b78a-1bd91e9ce551
   simpsonsworld_id: 306911811691
   good: true
   characters:
@@ -36,7 +36,7 @@ episodes:
   description: Homer's Y2K error plunges the Earth into chaos; Bart and Lisa become
     superheroes and attempt to save Lucy Lawless from a super-villain; someone terrorizes
     the family after Marge kills Ned Flanders.
-  disneyplus_id:
+  disneyplus_id: 763cd9de-443f-443f-8611-1d34a7d719c9
   simpsonsworld_id: 307851843709
   good: true
   characters:
@@ -46,7 +46,7 @@ episodes:
   episode: 5
   description: The Simpsons relocate to a farm, where Homer produces a tomato that
     is highly addictive.
-  disneyplus_id:
+  disneyplus_id: 4e4cc6d6-b29e-4c57-8ce2-4fe36f2b2e5b
   simpsonsworld_id: 302847555697
   good: true
   characters:
@@ -55,7 +55,7 @@ episodes:
   episode: 6
   description: Homer becomes an instant celebrity when he bowls a perfect game.  But
     when his fame fades away, he lavishes his time on baby Maggie.
-  disneyplus_id:
+  disneyplus_id: 676796b5-1bb2-4f80-a6e6-b954950c2c85
   simpsonsworld_id: 294762563857
   good: true
   characters:
@@ -65,7 +65,7 @@ episodes:
   season: 11
   episode: 7
   description: Apu is driven to the brink when his wife, Manjula, gives birth to octuplets.
-  disneyplus_id:
+  disneyplus_id: 634f7da4-8b3a-46c3-b430-76727eb16fef
   simpsonsworld_id: 306920003903
   good: false
   characters:
@@ -75,7 +75,7 @@ episodes:
   episode: 8
   description: Homer wins a vintage motorcycle during a dance contest - and attracts
     the attention of Hell's Satans when he forms his own gang.
-  disneyplus_id:
+  disneyplus_id: 8a0511a7-ba04-4454-b63b-28f8916d677c
   simpsonsworld_id: 301643843522
   good: true
   characters:
@@ -87,7 +87,7 @@ episodes:
   description: As the Christmas holiday approaches... Springfield Elementary closes
     its doors for financial reasons, only to reopen when a mysterious organization
     steps in to help.
-  disneyplus_id:
+  disneyplus_id: 4dd995c4-c319-418d-99ac-0be2d2687fcc
   simpsonsworld_id: 848995395938
   good: false
   characters:
@@ -98,7 +98,7 @@ episodes:
   episode: 10
   description: Lisa becomes mother-of-the-house when Marge is hospitalized with a
     broken leg.
-  disneyplus_id:
+  disneyplus_id: a8d8e5e8-bdb5-4f66-b1cc-de7e0bf648c7
   simpsonsworld_id: 300903491898
   good: true
   characters:
@@ -106,7 +106,7 @@ episodes:
   season: 11
   episode: 11
   description: Bart believes he has the power to heal the sick.
-  disneyplus_id:
+  disneyplus_id: 3f6ee369-ee77-4e31-8bb4-1db00856908a
   simpsonsworld_id: 300909123775
   good: false
   characters:
@@ -115,7 +115,7 @@ episodes:
   episode: 12
   description: The Simpsons care for Burns' mansion when the billionaire leaves town
     for a medical exam.
-  disneyplus_id:
+  disneyplus_id: 1ea1b7a7-bc53-4895-b7b9-390e6c371fd6
   simpsonsworld_id: 279747651734
   good: true
   characters:
@@ -126,7 +126,7 @@ episodes:
   episode: 13
   description: When Homer and Bart transform a loser racehorse into a champion, rival
     jockeys threaten revenge.
-  disneyplus_id:
+  disneyplus_id: 472ef84f-0b34-4e34-870e-e31843d98194
   simpsonsworld_id: 306926659533
   good: false
   characters:
@@ -147,7 +147,7 @@ episodes:
   episode: 15
   description: Homer is forced to become a missionary on a remote island after he
     pledges a large sum of money to PBS.
-  disneyplus_id:
+  disneyplus_id: f40944fc-3c09-48d9-9af7-5be976b9d51c
   simpsonsworld_id: 310458435665
   good: false
   characters:
@@ -156,7 +156,7 @@ episodes:
   season: 11
   episode: 16
   description: Moe undergoes plastic surgery and becomes a hot new soap opera star.
-  disneyplus_id:
+  disneyplus_id: c116ee6a-7621-4cf8-822f-d9de5f159905
   simpsonsworld_id: 294758467783
   good: false
   characters:
@@ -167,7 +167,7 @@ episodes:
   description: A Native American casino manager shows Bart a glimpse into the future...
     a time when Bart is an over-the-hill moocher and Lisa is President of the United
     States.
-  disneyplus_id:
+  disneyplus_id: 3c3bad55-e8a0-402f-a246-5b0d1aefe749
   simpsonsworld_id: 302835267686
   good: true
   characters:
@@ -179,7 +179,7 @@ episodes:
   description: Barney swears off alcohol, creating a rift between he and Homer; seeking
     to win a contest, Bart and Lisa attempt to photograph a new cover for the Springfield
     phone book.
-  disneyplus_id:
+  disneyplus_id: 4373fcc9-f26f-4a82-b33c-ee08ccfb1410
   simpsonsworld_id: 306930755636
   good: false
   characters:
@@ -190,7 +190,7 @@ episodes:
   episode: 19
   description: The Simpsons find themselves on the run from the law after they accidentally
     kill a beloved alligator while vacationing in Florida.
-  disneyplus_id:
+  disneyplus_id: 0d9af443-5878-47d7-85cd-cfbf013953bf
   simpsonsworld_id: 292935747924
   good: false
   characters:
@@ -201,7 +201,7 @@ episodes:
   description: After watching a movie about a sexy tango dancer, Lisa enrolls in a
     tap dance class... only to discover she has two left feet; Bart and Milhouse abandon
     a camping trip and hide out in a shopping mall.
-  disneyplus_id:
+  disneyplus_id: da2d4067-691f-4445-8a05-73afbded1024
   simpsonsworld_id: 302849091512
   good: true
   characters:
@@ -213,7 +213,7 @@ episodes:
   episode: 21
   description: When Otto ditches his fiancée at the altar, Bart invites her to stay
     with the family... forcing Marge to compete with the much younger woman.
-  disneyplus_id:
+  disneyplus_id: 8567caad-39f1-4f5d-9866-2f1540bd9e12
   simpsonsworld_id: 301683779737
   good: true
   characters:
@@ -223,7 +223,7 @@ episodes:
   episode: 22
   description: This 'behind-the-scenes' special chronicles the ups and downs of America's
     favorite sitcom family.
-  disneyplus_id:
+  disneyplus_id: 767915dc-10a7-4a1d-ba3f-65ab847a98fb
   simpsonsworld_id: 279751747780
   good: true
   characters:

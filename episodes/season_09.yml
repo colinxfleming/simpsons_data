@@ -4,7 +4,7 @@ episodes:
   season: 9
   episode: 1
   description: The Simpsons journey to New York City to retrieve the family car.
-  disneyplus_id:
+  disneyplus_id: 1f47b3ec-a412-4546-a073-8361d53384cf
   simpsonsworld_id: 436516931611
   good: true
   characters:
@@ -12,7 +12,7 @@ episodes:
   season: 9
   episode: 2
   description: A stranger claims that Principal Skinner is an impostor.
-  disneyplus_id:
+  disneyplus_id: 84e0db92-6db1-435b-a2dd-b58d76dc31fc
   simpsonsworld_id: 436505155662
   good: true
   characters:
@@ -20,7 +20,7 @@ episodes:
   season: 9
   episode: 3
   description: Homer and Marge recount how Lisa got her saxophone.
-  disneyplus_id:
+  disneyplus_id: 53c81aff-a0d3-4989-b86f-62d92ddac2e8
   simpsonsworld_id: 279743555749
   good: false
   characters:
@@ -30,7 +30,7 @@ episodes:
   description: Homer battles killer mutants after Springfield is destroyed by a nuclear
     blast; a matter- transportation device melds Bart with a housefly; in Colonial
     times, Marge is accused of being a witch.
-  disneyplus_id:
+  disneyplus_id: 80cee80e-5b99-4e4a-b184-d7d618b0e295
   simpsonsworld_id: 279170627965
   good: true
   characters:
@@ -39,7 +39,7 @@ episodes:
   season: 9
   episode: 5
   description: Homer purchases a handgun to protect his family.
-  disneyplus_id:
+  disneyplus_id: aa731556-7526-4c2a-94b5-55b5c202ff95
   simpsonsworld_id: 302813251779
   good: true
   characters:
@@ -48,7 +48,7 @@ episodes:
   episode: 6
   description: Homer becomes coach of the Springfield Pee Wee Football team and appoints
     Bart as starting quarterback.
-  disneyplus_id:
+  disneyplus_id: 1b249ab0-7a7a-464f-afb4-748c0b961764
   simpsonsworld_id: 448293443714
   good: false
   characters:
@@ -57,7 +57,7 @@ episodes:
   episode: 7
   description: In an effort to annul an arranged marriage, Apu tells his mother he
     wed Marge.
-  disneyplus_id:
+  disneyplus_id: bbdad28f-868c-4a4a-91b8-d5e2eab7ecb0
   simpsonsworld_id: 279177283545
   good: false
   characters:
@@ -66,7 +66,7 @@ episodes:
   episode: 8
   description: Townspeople believe Lisa has unearthed the fossilized remains of an
     angel.
-  disneyplus_id:
+  disneyplus_id: 2099bcea-1439-42de-a3ac-05beb85d364a
   simpsonsworld_id: 279180355540
   good: true
   characters:
@@ -75,7 +75,7 @@ episodes:
   episode: 9
   description: Marge gets a job with a realty firm, but her honesty costs her lucrative
     sales.  Homer purchases a 60s hot-rod convertible at a police auction.
-  disneyplus_id:
+  disneyplus_id: e940d201-0f89-4f0d-ac75-b4f075887dc3
   simpsonsworld_id: 280404547525
   good: true
   characters:
@@ -84,7 +84,7 @@ episodes:
   episode: 10
   description: People throughout Springfield open their hearts and wallets after Bart
     claims the family's Christmas presents were stolen by a burglar.
-  disneyplus_id:
+  disneyplus_id: e63b2ce3-d2a4-4490-874c-82a7d8ec0dc6
   simpsonsworld_id: 306881091696
   good: false
   characters:
@@ -92,7 +92,7 @@ episodes:
   season: 9
   episode: 11
   description: The Simpsons recall their many musical moments from seasons past.
-  disneyplus_id:
+  disneyplus_id: 010cfd47-8910-4edc-9bb6-e068c9ca3429
   simpsonsworld_id: 294808131518
   good: false
   characters:
@@ -101,7 +101,7 @@ episodes:
   episode: 12
   description: A carnival worker and his son move in with the Simpsons after Homer
     costs them their jobs.
-  disneyplus_id:
+  disneyplus_id: 66a225cb-1385-434a-aa31-330547596f0f
   simpsonsworld_id: 302818371931
   good: true
   characters:
@@ -110,7 +110,7 @@ episodes:
   episode: 13
   description: Marge tries her hand at deprogramming after her family is brainwashed
     by a religious cult.
-  disneyplus_id:
+  disneyplus_id: f7bbd9ed-04b9-40a8-89b3-13b680238710
   simpsonsworld_id: 299627075941
   good: true
   characters:
@@ -119,7 +119,7 @@ episodes:
   episode: 14
   description: Bart, Lisa and their classmates fight for survival when they become
     stranded on a remote island.  Homer starts his own business on the Internet.
-  disneyplus_id:
+  disneyplus_id: d0aa607e-1140-438a-ac60-932640cb8ce0
   simpsonsworld_id: 448356931860
   good: false
   characters:
@@ -128,7 +128,7 @@ episodes:
   episode: 15
   description: Krusty shuns his old routines in favor of edgier material and suddenly
     becomes the hottest comic in show business.
-  disneyplus_id:
+  disneyplus_id: 0697ad05-0c9e-4e51-9fd3-6784d6b1f93f
   simpsonsworld_id: 294812739638
   good: true
   characters:
@@ -137,7 +137,7 @@ episodes:
   episode: 16
   description: When Moe goes broke romancing his new love, he enlists Homer in a scheme
     to collect on an insurance policy.
-  disneyplus_id:
+  disneyplus_id: daa5afa4-7b1d-436d-a06c-16cd940e8cad
   simpsonsworld_id: 283910211639
   good: true
   characters:
@@ -146,7 +146,7 @@ episodes:
   episode: 17
   description: Lisa fears she is genetically predisposed to lose her intelligence.
     Apu uses a frozen Jasper as a tourist attraction.
-  disneyplus_id:
+  disneyplus_id: a8995f58-eb52-4194-986a-0dd838a8402f
   simpsonsworld_id: 299651139676
   good: true
   characters:
@@ -154,7 +154,7 @@ episodes:
   season: 9
   episode: 18
   description: Bart is appalled when Marge pairs him with Ralph Wiggum.
-  disneyplus_id:
+  disneyplus_id: 75efdcf2-b757-41fc-97eb-e26a4f226b70
   simpsonsworld_id: 299639875678
   good: false
   characters:
@@ -162,7 +162,7 @@ episodes:
   season: 9
   episode: 19
   description: Homer becomes the captain of a Navy submarine.  Bart gets his ear pierced.
-  disneyplus_id:
+  disneyplus_id: 8adf7684-75d6-411f-a29c-ccf717e3a34c
   simpsonsworld_id: 302809667837
   good: true
   characters:
@@ -171,7 +171,7 @@ episodes:
   episode: 20
   description: When a tax audit lands him in hot water, Homer goes undercover for
     the government and attempts to retrieve a trillion dollar note from Mr. Burns.
-  disneyplus_id:
+  disneyplus_id: 7e591366-4790-471b-aa26-33d9a164bfbd
   simpsonsworld_id: 299644483816
   good: false
   characters:
@@ -180,7 +180,7 @@ episodes:
   episode: 21
   description: Bart attempts to upstage Lisa when the pair co-host a children's news
     program.  Homer obtains a helper monkey.
-  disneyplus_id:
+  disneyplus_id: fd8b912e-c01d-4a97-aadd-1515a9409321
   simpsonsworld_id: 299672131928
   good: true
   characters:
@@ -189,7 +189,7 @@ episodes:
   episode: 22
   description: Homer enters the race for Sanitation Commissioner after garbage men
     refuse to collect his trash.
-  disneyplus_id:
+  disneyplus_id: 6da3fbc3-cf7f-4bff-8e00-5ce4760aceff
   simpsonsworld_id: 307101763818
   good: true
   characters:
@@ -198,7 +198,7 @@ episodes:
   episode: 23
   description: After improving his physique, Homer attempts to climb a treacherous
     mountain.
-  disneyplus_id:
+  disneyplus_id: ed68b15a-036d-4360-9d1b-023894a48cfd
   simpsonsworld_id: 467593795648
   good: false
   characters:
@@ -207,7 +207,7 @@ episodes:
   episode: 24
   description: Lisa gets lost in an unfamiliar part of town while searching for a
     museum. Bart adheres novelties to his face only to discover they cannot be removed.
-  disneyplus_id:
+  disneyplus_id: 9263db95-a448-4113-a53b-4b797a60d35f
   simpsonsworld_id: 467595331852
   good: true
   characters:
@@ -216,7 +216,7 @@ episodes:
   episode: 25
   description: Homer and Marge discover the secret to reigniting their sex life. Bart
     and Lisa hunt for hidden treasure using Grampa's old mine sweeper.
-  disneyplus_id:
+  disneyplus_id: 35b270b9-47d8-4e68-af5f-3f69e2266355
   simpsonsworld_id: 467599939876
   good: false
   characters:
