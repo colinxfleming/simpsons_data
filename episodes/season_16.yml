@@ -45,8 +45,9 @@ episodes:
     news reporter.
   disneyplus_id:
   simpsonsworld_id: 256753731544
-  good: maybe
+  good: false
   characters:
+    - marge
 - title: Fat Man and Little Boy
   season: 16
   episode: 5
@@ -66,8 +67,10 @@ episodes:
     his company's employee prescription drug program.
   disneyplus_id:
   simpsonsworld_id: 1094235715818
-  good: maybe
+  good: false
   characters:
+    - homer
+    - grandpa
 - title: Mommie Beerest
   season: 16
   episode: 7
@@ -76,8 +79,11 @@ episodes:
     marriage is in trouble.
   disneyplus_id:
   simpsonsworld_id: 256807491582
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
+    - moe
 - title: Homer and Ned's Hail Mary Pass
   season: 16
   episode: 8
@@ -86,8 +92,10 @@ episodes:
     reenactments of biblical events.
   disneyplus_id:
   simpsonsworld_id: 256813635887
-  good: maybe
+  good: false
   characters:
+    - homer
+    - ned
 - title: Pranksta Rap
   season: 16
   episode: 9
@@ -95,8 +103,10 @@ episodes:
     and inadvertently implicates Milhouse's father in the 'crime.'
   disneyplus_id:
   simpsonsworld_id: 256798275935
-  good: maybe
+  good: false
   characters:
+    - bart
+    - wiggum
 - title: There's Something About Marrying
   season: 16
   episode: 10
@@ -105,8 +115,11 @@ episodes:
     an ordained minister.
   disneyplus_id:
   simpsonsworld_id: 256822339660
-  good: maybe
+  good: false
   characters:
+    - patty
+    - homer
+    - marge
 - title: On a Clear Day I Can't See My Sister
   season: 16
   episode: 11
@@ -116,6 +129,9 @@ episodes:
   simpsonsworld_id: 256825923849
   good: maybe
   characters:
+    - bart
+    - lisa
+    - homer
 - title: Goo Goo Gai Pan
   season: 16
   episode: 12

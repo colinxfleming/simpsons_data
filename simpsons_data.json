@@ -4016,7 +4016,9 @@
             "disneyplus_id": null,
             "simpsonsworld_id": 256753731544,
             "good": false,
-            "characters": []
+            "characters": [
+                "marge"
+            ]
         },
         {
             "title": "Fat Man and Little Boy",
@@ -4040,7 +4042,10 @@
             "disneyplus_id": null,
             "simpsonsworld_id": 1094235715818,
             "good": false,
-            "characters": []
+            "characters": [
+                "homer",
+                "grandpa"
+            ]
         },
         {
             "title": "Mommie Beerest",
@@ -4050,7 +4055,11 @@
             "disneyplus_id": null,
             "simpsonsworld_id": 256807491582,
             "good": false,
-            "characters": []
+            "characters": [
+                "homer",
+                "marge",
+                "moe"
+            ]
         },
         {
             "title": "Homer and Ned's Hail Mary Pass",
@@ -4060,7 +4069,10 @@
             "disneyplus_id": null,
             "simpsonsworld_id": 256813635887,
             "good": false,
-            "characters": []
+            "characters": [
+                "homer",
+                "ned"
+            ]
         },
         {
             "title": "Pranksta Rap",
@@ -4070,7 +4082,10 @@
             "disneyplus_id": null,
             "simpsonsworld_id": 256798275935,
             "good": false,
-            "characters": []
+            "characters": [
+                "bart",
+                "wiggum"
+            ]
         },
         {
             "title": "There's Something About Marrying",
@@ -4080,7 +4095,11 @@
             "disneyplus_id": null,
             "simpsonsworld_id": 256822339660,
             "good": false,
-            "characters": []
+            "characters": [
+                "patty",
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "On a Clear Day I Can't See My Sister",
@@ -4090,7 +4109,11 @@
             "disneyplus_id": null,
             "simpsonsworld_id": 256825923849,
             "good": false,
-            "characters": []
+            "characters": [
+                "bart",
+                "lisa",
+                "homer"
+            ]
         },
         {
             "title": "Goo Goo Gai Pan",
