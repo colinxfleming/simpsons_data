@@ -70,7 +70,7 @@ episodes:
   good: false
   characters:
     - homer
-    - grandpa
+    - grandpa_simpson
 - title: Mommie Beerest
   season: 16
   episode: 7
@@ -127,7 +127,7 @@ episodes:
     a restraining order; Homer takes a job as a greeter at a local mega-store.
   disneyplus_id:
   simpsonsworld_id: 256825923849
-  good: maybe
+  good: false
   characters:
     - bart
     - lisa
@@ -139,8 +139,10 @@ episodes:
     adopt a baby.
   disneyplus_id:
   simpsonsworld_id: 264432707575
-  good: maybe
+  good: false
   characters:
+    - simpsons
+    - selma
 - title: Mobile Homer
   season: 16
   episode: 13
@@ -148,8 +150,9 @@ episodes:
     spends the family's savings on a recreational vehicle.
   disneyplus_id:
   simpsonsworld_id: 264432707841
-  good: maybe
+  good: false
   characters:
+    - simpsons
 - title: The Seven-Beer Snitch
   season: 16
   episode: 14

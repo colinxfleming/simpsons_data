@@ -4044,7 +4044,7 @@
             "good": false,
             "characters": [
                 "homer",
-                "grandpa"
+                "grandpa_simpson"
             ]
         },
         {
@@ -4123,7 +4123,10 @@
             "disneyplus_id": null,
             "simpsonsworld_id": 264432707575,
             "good": false,
-            "characters": []
+            "characters": [
+                "simpsons",
+                "selma"
+            ]
         },
         {
             "title": "Mobile Homer",
@@ -4133,7 +4136,9 @@
             "disneyplus_id": null,
             "simpsonsworld_id": 264432707841,
             "good": false,
-            "characters": []
+            "characters": [
+                "simpsons"
+            ]
         },
         {
             "title": "The Seven-Beer Snitch",
