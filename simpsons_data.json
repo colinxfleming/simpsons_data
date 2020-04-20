@@ -4147,8 +4147,12 @@
             "description": "Homer becomes a prison snitch after he's convicted of breaking an outdated law; Lisa and Bart discover that Snowball II has a secret life.",
             "disneyplus_id": null,
             "simpsonsworld_id": 260844611804,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "homer",
+                "bart",
+                "lisa"
+            ]
         },
         {
             "title": "Future-Drama",
@@ -4158,7 +4162,9 @@
             "disneyplus_id": null,
             "simpsonsworld_id": 260841027999,
             "good": false,
-            "characters": []
+            "characters": [
+                "bart"
+            ]
         },
         {
             "title": "Don't Fear the Roofer",

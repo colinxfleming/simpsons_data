@@ -160,8 +160,11 @@ episodes:
     law; Lisa and Bart discover that Snowball II has a secret life.
   disneyplus_id:
   simpsonsworld_id: 260844611804
-  good: maybe
+  good: true
   characters:
+    - homer
+    - bart
+    - lisa
 - title: Future-Drama
   season: 16
   episode: 15
@@ -170,8 +173,9 @@ episodes:
     to Yale.
   disneyplus_id:
   simpsonsworld_id: 260841027999
-  good: maybe
+  good: false
   characters:
+    - bart
 - title: Don't Fear the Roofer
   season: 16
   episode: 16
