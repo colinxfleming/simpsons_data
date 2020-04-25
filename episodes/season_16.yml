@@ -194,8 +194,10 @@ episodes:
     Simpsons turn the house into a youth hostel, which is soon overrun by German backpackers.
   disneyplus_id:
   simpsonsworld_id: 264207427808
-  good: maybe
+  good: false
   characters:
+    - bart
+    - simpsons
 - title: A Star is Torn
   season: 16
   episode: 18
@@ -203,8 +205,10 @@ episodes:
     by appearing in a singing competition on The Krusty the Clown Show.
   disneyplus_id:
   simpsonsworld_id: 264212035982
-  good: maybe
+  good: false
   characters:
+    - lisa
+    - bart
 - title: Thank God It's Doomsday
   season: 16
   episode: 19
