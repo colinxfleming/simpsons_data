@@ -184,8 +184,9 @@ episodes:
     Little Helper to stay at Grampa's retirement home.
   disneyplus_id:
   simpsonsworld_id: 260835395771
-  good: maybe
+  good: false
   characters:
+    - homer
 - title: The Heartbroke Kid
   season: 16
   episode: 17
