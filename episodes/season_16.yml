@@ -219,22 +219,25 @@ episodes:
   good: false
   characters:
     - homer
-- title: Home Away From Homer
+- title: The Father, The Son, and The Holy Guest Star
   season: 16
   episode: 20
+  description: After Bart gets expelled, he's enrolled in Catholic school, where he
+    befriends a priest who wants to convert him and Homer to Catholicism.
+  disneyplus_id:
+  simpsonsworld_id: 264455235845
+  good: false
+  characters:
+    - bart
+- title: Home Away From Homer
+  season: 16
+  episode: 21
   description: Flanders feels like a fool after sorority girls run an adult Web site
     from his house without his knowledge, so he and the boys move away from Springfield...
     to a town where everyone looks like a Hummel figurine.
   disneyplus_id:
   simpsonsworld_id: 264560707993
-  good: maybe
+  good: false
   characters:
-- title: The Father, The Son, and The Holy Guest Star
-  season: 16
-  episode: 21
-  description: After Bart gets expelled, he's enrolled in Catholic school, where he
-    befriends a priest who wants to convert him and Homer to Catholicism.
-  disneyplus_id:
-  simpsonsworld_id: 264455235845
-  good: maybe
-  characters:
+    - homer
+    - flanders
