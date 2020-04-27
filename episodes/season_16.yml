@@ -45,8 +45,9 @@ episodes:
     news reporter.
   disneyplus_id:
   simpsonsworld_id: 256753731544
-  good: maybe
+  good: false
   characters:
+    - marge
 - title: Fat Man and Little Boy
   season: 16
   episode: 5
@@ -66,8 +67,10 @@ episodes:
     his company's employee prescription drug program.
   disneyplus_id:
   simpsonsworld_id: 1094235715818
-  good: maybe
+  good: false
   characters:
+    - homer
+    - grandpa_simpson
 - title: Mommie Beerest
   season: 16
   episode: 7
@@ -76,8 +79,11 @@ episodes:
     marriage is in trouble.
   disneyplus_id:
   simpsonsworld_id: 256807491582
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
+    - moe
 - title: Homer and Ned's Hail Mary Pass
   season: 16
   episode: 8
@@ -86,8 +92,10 @@ episodes:
     reenactments of biblical events.
   disneyplus_id:
   simpsonsworld_id: 256813635887
-  good: maybe
+  good: false
   characters:
+    - homer
+    - ned
 - title: Pranksta Rap
   season: 16
   episode: 9
@@ -95,8 +103,10 @@ episodes:
     and inadvertently implicates Milhouse's father in the 'crime.'
   disneyplus_id:
   simpsonsworld_id: 256798275935
-  good: maybe
+  good: false
   characters:
+    - bart
+    - wiggum
 - title: There's Something About Marrying
   season: 16
   episode: 10
@@ -105,8 +115,11 @@ episodes:
     an ordained minister.
   disneyplus_id:
   simpsonsworld_id: 256822339660
-  good: maybe
+  good: false
   characters:
+    - patty
+    - homer
+    - marge
 - title: On a Clear Day I Can't See My Sister
   season: 16
   episode: 11
@@ -114,8 +127,11 @@ episodes:
     a restraining order; Homer takes a job as a greeter at a local mega-store.
   disneyplus_id:
   simpsonsworld_id: 256825923849
-  good: maybe
+  good: false
   characters:
+    - bart
+    - lisa
+    - homer
 - title: Goo Goo Gai Pan
   season: 16
   episode: 12
@@ -123,8 +139,10 @@ episodes:
     adopt a baby.
   disneyplus_id:
   simpsonsworld_id: 264432707575
-  good: maybe
+  good: false
   characters:
+    - simpsons
+    - selma
 - title: Mobile Homer
   season: 16
   episode: 13
@@ -132,8 +150,9 @@ episodes:
     spends the family's savings on a recreational vehicle.
   disneyplus_id:
   simpsonsworld_id: 264432707841
-  good: maybe
+  good: false
   characters:
+    - simpsons
 - title: The Seven-Beer Snitch
   season: 16
   episode: 14
@@ -141,8 +160,11 @@ episodes:
     law; Lisa and Bart discover that Snowball II has a secret life.
   disneyplus_id:
   simpsonsworld_id: 260844611804
-  good: maybe
+  good: true
   characters:
+    - homer
+    - bart
+    - lisa
 - title: Future-Drama
   season: 16
   episode: 15
@@ -151,8 +173,9 @@ episodes:
     to Yale.
   disneyplus_id:
   simpsonsworld_id: 260841027999
-  good: maybe
+  good: false
   characters:
+    - bart
 - title: Don't Fear the Roofer
   season: 16
   episode: 16
@@ -161,8 +184,9 @@ episodes:
     Little Helper to stay at Grampa's retirement home.
   disneyplus_id:
   simpsonsworld_id: 260835395771
-  good: maybe
+  good: false
   characters:
+    - homer
 - title: The Heartbroke Kid
   season: 16
   episode: 17
@@ -170,8 +194,10 @@ episodes:
     Simpsons turn the house into a youth hostel, which is soon overrun by German backpackers.
   disneyplus_id:
   simpsonsworld_id: 264207427808
-  good: maybe
+  good: false
   characters:
+    - bart
+    - simpsons
 - title: A Star is Torn
   season: 16
   episode: 18
@@ -179,8 +205,10 @@ episodes:
     by appearing in a singing competition on The Krusty the Clown Show.
   disneyplus_id:
   simpsonsworld_id: 264212035982
-  good: maybe
+  good: false
   characters:
+    - lisa
+    - bart
 - title: Thank God It's Doomsday
   season: 16
   episode: 19
@@ -191,22 +219,25 @@ episodes:
   good: false
   characters:
     - homer
-- title: Home Away From Homer
+- title: The Father, The Son, and The Holy Guest Star
   season: 16
   episode: 20
+  description: After Bart gets expelled, he's enrolled in Catholic school, where he
+    befriends a priest who wants to convert him and Homer to Catholicism.
+  disneyplus_id:
+  simpsonsworld_id: 264455235845
+  good: false
+  characters:
+    - bart
+- title: Home Away From Homer
+  season: 16
+  episode: 21
   description: Flanders feels like a fool after sorority girls run an adult Web site
     from his house without his knowledge, so he and the boys move away from Springfield...
     to a town where everyone looks like a Hummel figurine.
   disneyplus_id:
   simpsonsworld_id: 264560707993
-  good: maybe
+  good: false
   characters:
-- title: The Father, The Son, and The Holy Guest Star
-  season: 16
-  episode: 21
-  description: After Bart gets expelled, he's enrolled in Catholic school, where he
-    befriends a priest who wants to convert him and Homer to Catholicism.
-  disneyplus_id:
-  simpsonsworld_id: 264455235845
-  good: maybe
-  characters:
+    - homer
+    - flanders
