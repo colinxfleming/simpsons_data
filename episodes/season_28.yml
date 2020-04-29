@@ -4,7 +4,7 @@ episodes:
   season: 28
   episode: 1
   description: Mr. Burns puts on a variety show at the Springfield Bowl.
-  disneyplus_id:
+  disneyplus_id: 27983e4e-5a9b-49a6-ad4d-773b53d6dbc5
   simpsonsworld_id: 1066704963871
   good: false
   characters:
@@ -16,7 +16,7 @@ episodes:
   episode: 2
   description: Homer finds a new friend in a woman who acts just like him when Mr.
     Burns hires the other Simpsons as his live-in virtual reality family.
-  disneyplus_id:
+  disneyplus_id: c5ae8a57-bdea-435b-b4c7-4febd43dfc33
   simpsonsworld_id: 1064038980002
   good: false
   characters:
@@ -28,7 +28,7 @@ episodes:
   episode: 3
   description: Homer takes the family on a "hate-cation" to Boston after he catches
     Bart rooting for a rival football team.
-  disneyplus_id:
+  disneyplus_id: c7350a7a-9a33-48db-a40f-3b8b7893b677
   simpsonsworld_id: 1064043075512
   good: false
   characters:
@@ -39,7 +39,7 @@ episodes:
   description: The children of Springfield fight to the death, Hunger Games style;
     Lisa's imaginary friend kills her real friends; Moe recruits Bart into his group
     of covert barfly agents.
-  disneyplus_id:
+  disneyplus_id: 424f6c55-dd37-4443-8ca3-0504f0cbc8b7
   simpsonsworld_id: 1063870531930
   good: false
   characters:
@@ -49,7 +49,7 @@ episodes:
   episode: 5
   description: Bart and Lisa investigate Krusty's new candy; Marge helps Homer dress
     for a promotion; Kent Brockman struggles with the changing media world.
-  disneyplus_id:
+  disneyplus_id: 8633fa65-033e-4548-8c55-f65d0f1c633e
   simpsonsworld_id: 1064042051872
   good: maybe
   characters:
@@ -58,7 +58,7 @@ episodes:
   episode: 6
   description: Homer coaches the kids' lacrosse team with Kirk Van Houten, who disappears
     before the championship game, after Homer rants about him being a loser.
-  disneyplus_id:
+  disneyplus_id: 21ac2b78-d86b-49cf-8def-e73e7d3feb7d
   simpsonsworld_id: 1064041539874
   good: maybe
   characters:
@@ -67,7 +67,7 @@ episodes:
   episode: 7
   description: The Simpsons go to Cuba to get Grampa cheap medical care when the Retirement
     Castle and V.A. hospital are unable to solve his health problems.
-  disneyplus_id:
+  disneyplus_id: 86be2b24-f4ea-48ac-af2d-e03665f8c542
   simpsonsworld_id: 1064044099513
   good: maybe
   characters:
@@ -76,7 +76,7 @@ episodes:
   episode: 8
   description: Homer discovers an app that makes his life easier, while Grampa learns
     that he'll be a father again.
-  disneyplus_id:
+  disneyplus_id: 6122d981-dab6-448a-b5e2-8e045d49a1cb
   simpsonsworld_id: 1064046147533
   good: maybe
   characters:
@@ -86,7 +86,7 @@ episodes:
   description: Homer is placed in a cast following a workplace accident, leading Marge
     to receive romance from an unexpected source; Lisa attempts to keep the peace
     as bus monitor.
-  disneyplus_id:
+  disneyplus_id: de1d1646-e66b-40fe-b949-8982a7d54a1d
   simpsonsworld_id: 1064046147517
   good: maybe
   characters:
@@ -95,7 +95,7 @@ episodes:
   episode: 10
   description: Krusty and his daughter spend Christmas with the Simpsons; Reverend
     Lovejoy seeks converts to boost attendance at church; A Christmas toy scares Maggie.
-  disneyplus_id:
+  disneyplus_id: 596be041-df7a-4f32-9209-f8734a20bf70
   simpsonsworld_id: 1064045635565
   good: maybe
   characters:
@@ -104,7 +104,7 @@ episodes:
   episode: 11
   description: A Japanese book on minimalism inspires Marge to adapt to a new way
     of living, so the Simpsons have to part with items that no longer bring them joy.
-  disneyplus_id:
+  disneyplus_id: e599bf8f-3846-4fc7-9ab9-a526ecd27ca6
   simpsonsworld_id: 1070436931706
   good: maybe
   characters:
@@ -114,7 +114,7 @@ episodes:
   description: When all the fast food restaurants in Springfield become healthy, Homer
     turns to the last bastion of greasy food for comfort; Lisa must find a good news
     story when her school radio station is in jeopardy.
-  disneyplus_id:
+  disneyplus_id: 6c1936c3-80d3-4ca5-8439-c2b86226f8a1
   simpsonsworld_id: 1064044611770
   good: maybe
   characters:
@@ -123,7 +123,7 @@ episodes:
   episode: 15
   description: Bart deals with his guilt of betraying Lisa; Homer is revealed to be
     a master chess player.
-  disneyplus_id:
+  disneyplus_id: 5f3df5ed-6614-4cb8-9db6-355f12fade31
   simpsonsworld_id: 1064044611752
   good: maybe
   characters:
@@ -132,7 +132,7 @@ episodes:
   episode: 16
   description: Bart and Lisa return home following a traumatic incident at Kamp Krusty,
     putting an end to Homer and Marge's sexual encounters.
-  disneyplus_id:
+  disneyplus_id: d455a9c4-d285-4430-b651-90c922210560
   simpsonsworld_id: 1064043587996
   good: maybe
   characters:
@@ -140,7 +140,7 @@ episodes:
   season: 28
   episode: 17
   description: Bart becomes a star basketball player at Springfield Elementary.
-  disneyplus_id:
+  disneyplus_id: 46ee771c-180a-457c-9681-7b4aa32ad4ec
   simpsonsworld_id: 1064044099732
   good: maybe
   characters:
@@ -149,7 +149,7 @@ episodes:
   episode: 18
   description: As Homer and Marge try a different parenting style on Bart, Grampa
     gives him a special watch.
-  disneyplus_id:
+  disneyplus_id: 9fd603e4-7497-4267-8d3e-1650797237ee
   simpsonsworld_id: 1064046659528
   good: maybe
   characters:
@@ -158,7 +158,7 @@ episodes:
   episode: 19
   description: Mr. Burns starts his own for-profit university and hires Homer as a
     professor.
-  disneyplus_id:
+  disneyplus_id: cc29a4a0-2c0f-4a33-a26b-942f5f56c788
   simpsonsworld_id: 1064044611790
   good: maybe
   characters:
@@ -166,7 +166,7 @@ episodes:
   season: 28
   episode: 20
   description: Bart befriends the grandmothers of Springfield.
-  disneyplus_id:
+  disneyplus_id: c1f79df3-116d-4923-859a-a1a964292108
   simpsonsworld_id: 1064046659522
   good: maybe
   characters:
@@ -174,7 +174,7 @@ episodes:
   season: 28
   episode: 21
   description: Moe helps Homer and Marge work on their marriage.
-  disneyplus_id:
+  disneyplus_id: f58f69c0-5491-493f-a4b5-46dbff81cebe
   simpsonsworld_id: 1064045635817
   good: maybe
   characters:
@@ -182,7 +182,7 @@ episodes:
   season: 28
   episode: 22
   description: The dogs of Springfield assert their dominance.
-  disneyplus_id:
+  disneyplus_id: 4a803d13-d79f-4a75-aaee-672938754207
   simpsonsworld_id: 1064045635799
   good: maybe
   characters:
@@ -192,7 +192,7 @@ episodes:
   description: Mr. Burns tries to relive his glory days, and crosses paths with a
     mysterious music mogul. After being conned by him and reduced to bankruptcy, Mr.
     Burns seeks revenge on the music producer.
-  disneyplus_id:
+  disneyplus_id: 182e12e3-8818-4bd4-9245-313f1fd2ce94
   simpsonsworld_id: 1077274179891
   good: maybe
   characters:

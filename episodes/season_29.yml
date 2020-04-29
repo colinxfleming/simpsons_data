@@ -5,7 +5,7 @@ episodes:
   episode: 1
   description: In a world of magic, Marge's mother is transformed into an Ice Walker
     and must rely on Lisa to use magic to help Homer afford the cure.
-  disneyplus_id:
+  disneyplus_id: 62eb0b5e-cc71-44d4-9179-4fc9709badc1
   simpsonsworld_id: 1075435075944
   good: maybe
   characters:
@@ -14,7 +14,7 @@ episodes:
   episode: 2
   description: Marge and Lisa decide to turns an unpleasant experience Lisa had into
     a successful graphic novel.
-  disneyplus_id:
+  disneyplus_id: df3b5ca2-828d-4685-b0a2-7fca3b905044
   simpsonsworld_id: 1080357443795
   good: maybe
   characters:
@@ -23,7 +23,7 @@ episodes:
   episode: 3
   description: Homer stumbles upon Maggie's incredible talent for whistling and decides
     to start her on the path to becoming a baby celebrity.
-  disneyplus_id:
+  disneyplus_id: f522c362-baa4-45a8-9dbb-e7c54e856648
   simpsonsworld_id: 1073411651711
   good: maybe
   characters:
@@ -33,7 +33,7 @@ episodes:
   description: Maggie's body is overwhelmed by the malice of an ancient demon; in
     an alternate dimension, Lisa stumbles upon a disturbingly perfect version of her
     family.
-  disneyplus_id:
+  disneyplus_id: c415a80c-dba0-4de1-84c8-723fa242a525
   simpsonsworld_id: 1078509635693
   good: false
   characters:
@@ -43,7 +43,7 @@ episodes:
   episode: 5
   description: Grampa Simpson is finally able to hear the various things that people
     say about him after he receives a new hearing aid.
-  disneyplus_id:
+  disneyplus_id: 85c7dab6-27a8-4532-a64a-b1e8efac6aa4
   simpsonsworld_id: 1088584771605
   good: maybe
   characters:
@@ -52,7 +52,7 @@ episodes:
   episode: 6
   description: Marge decides to enter the race to become the next mayor of Springfield
     as she grows increasingly frustrated with how the local government operates.
-  disneyplus_id:
+  disneyplus_id: 4b81e3b0-082c-4be3-8b43-8cf5304af779
   simpsonsworld_id: 1094410819778
   good: maybe
   characters:
@@ -61,7 +61,7 @@ episodes:
   episode: 7
   description: Homer and the guys try helping Moe cheer up by getting their old bowling
     team back together again, but they soon face a team of arrogant millionaires.
-  disneyplus_id:
+  disneyplus_id: 5c73167e-6f2a-4d75-a7ef-c1ee5b718a20
   simpsonsworld_id: 1099353155881
   good: maybe
   characters:
@@ -70,7 +70,7 @@ episodes:
   episode: 8
   description: In the future, Lisa works on writing her Harvard college application
     essay by reflecting on how certain disappointing birthdays made her who she is.
-  disneyplus_id:
+  disneyplus_id: 2bbb56ca-eee0-4959-b1bd-518503bacd06
   simpsonsworld_id: 1108700739531
   good: maybe
   characters:
@@ -79,7 +79,7 @@ episodes:
   episode: 9
   description: When Bart suddenly disappears, the town organizes a search party in
     the hopes of finding him.
-  disneyplus_id:
+  disneyplus_id: c1493562-a725-40ea-bc09-bb73cd2687f2
   simpsonsworld_id: 1113094211783
   good: maybe
   characters:
@@ -88,7 +88,7 @@ episodes:
   episode: 10
   description: While the Simpson family attends a STEM conference, Lisa becomes attracted
     to a pianist and Bart learns about his natural talent for chemistry.
-  disneyplus_id:
+  disneyplus_id: a8ede7e7-a35f-4b09-b6bb-331796f1344e
   simpsonsworld_id: 1131039811958
   good: maybe
   characters:
@@ -97,7 +97,7 @@ episodes:
   episode: 11
   description: When Mr. Burns begins to worry that the world is coming to an end,
     he starts testing all of the residents of to figure out who would be worth saving.
-  disneyplus_id:
+  disneyplus_id: 4ac1a815-2066-44e9-b1ae-a90028b40078
   simpsonsworld_id: 1136372803875
   good: maybe
   characters:
@@ -105,7 +105,7 @@ episodes:
   season: 29
   episode: 12
   description: Homer learns to love a piece of art.
-  disneyplus_id:
+  disneyplus_id: 94a1ceb3-ad15-42f3-adcd-92183c27caaf
   simpsonsworld_id:
   good: maybe
   characters:
@@ -113,7 +113,7 @@ episodes:
   season: 29
   episode: 13
   description: The Simpsons visit their old apartment and remember the days without their kids.
-  disneyplus_id:
+  disneyplus_id: 144bb57c-9b2d-4ec0-9815-ab6aef446b46
   simpsonsworld_id:
   good: maybe
   characters:
@@ -121,7 +121,7 @@ episodes:
   season: 29
   episode: 14
   description: Due to a general fear of clowns, Krusty can no longer do his job.
-  disneyplus_id:
+  disneyplus_id: b39ae395-33c3-482a-9583-3dcea6e42473
   simpsonsworld_id:
   good: maybe
   characters:
@@ -129,7 +129,7 @@ episodes:
   season: 29
   episode: 15
   description: Bart tries to conquer Homer with help from a book.
-  disneyplus_id:
+  disneyplus_id: 9045ffae-7815-447b-833c-b5e04fc16a06
   simpsonsworld_id:
   good: maybe
   characters:
@@ -137,7 +137,7 @@ episodes:
   season: 29
   episode: 16
   description: Moe inherits a mattress business from his father.
-  disneyplus_id:
+  disneyplus_id: 665a15a4-6cb1-4dda-842c-2b064e272fec
   simpsonsworld_id:
   good: maybe
   characters:
@@ -145,7 +145,7 @@ episodes:
   season: 29
   episode: 17
   description: The family goes to New Orleans where they try to recover from various traumas.
-  disneyplus_id:
+  disneyplus_id: aca8364d-d82c-49f3-a9ba-d7f963e04daa
   simpsonsworld_id:
   good: maybe
   characters:
@@ -153,7 +153,7 @@ episodes:
   season: 29
   episode: 18
   description: Grampa is about to die when he reveals a terrible secret.
-  disneyplus_id:
+  disneyplus_id: 37eeaacc-1476-42f5-9374-59d6bd3ebbac
   simpsonsworld_id:
   good: maybe
   characters:
@@ -161,7 +161,7 @@ episodes:
   season: 29
   episode: 19
   description: Flanders loses his business and works with Homer at the plant.
-  disneyplus_id:
+  disneyplus_id: f509e8af-0f86-4c74-87ed-81b96b3c6dac
   simpsonsworld_id:
   good: maybe
   characters:
@@ -169,7 +169,7 @@ episodes:
   season: 29
   episode: 20
   description: The Simpsons visit Denmark and everyone but Homer falls in love with the happy country.
-  disneyplus_id:
+  disneyplus_id: b86d94e2-6991-463d-a0eb-0125d1aa4e8d
   simpsonsworld_id:
   good: maybe
   characters:
@@ -177,7 +177,7 @@ episodes:
   season: 29
   episode: 21
   description: Bart is struck by lightning and has horrible dreams.
-  disneyplus_id:
+  disneyplus_id: 00e15f02-f80c-473c-b8ee-94dad1ba4a8b
   simpsonsworld_id:
   good: maybe
   characters:
