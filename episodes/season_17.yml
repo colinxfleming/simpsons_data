@@ -63,8 +63,11 @@ episodes:
     Quimby during a special mayoral recall election.
   disneyplus_id: e583a0f5-1ec6-430e-aca2-d8872a2a62a7
   simpsonsworld_id: 273512003506
-  good: maybe
+  good: false
   characters:
+    - homer
+    - lisa
+    - quimby
 - title: The Last of the Red Hat Mamas
   season: 17
   episode: 7
@@ -72,8 +75,11 @@ episodes:
     speak Italian.
   disneyplus_id: b1c183c4-3596-488d-a69f-e009a0b9a052
   simpsonsworld_id: 279770179721
-  good: maybe
+  good: false
   characters:
+    - marge
+    - lisa
+    - milhouse
 - title: The Italian Bob
   season: 17
   episode: 8
@@ -81,8 +87,10 @@ episodes:
     car... only to encounter Sideshow Bob and his murderous family.
   disneyplus_id: 33c8bd72-9107-4de1-943b-a3e9e4f02fe8
   simpsonsworld_id: 256858691577
-  good: maybe
+  good: false
   characters:
+    - simpsons
+    - sideshow_bob
 - title: Simpsons Christmas Stories
   season: 17
   episode: 9
@@ -91,8 +99,9 @@ episodes:
     featuring The Nutcracker suite.'
   disneyplus_id: 69054322-132b-4ec5-b54b-ea7f4bdcc48c
   simpsonsworld_id: 256885315702
-  good: maybe
+  good: false
   characters:
+    - vignettes
 - title: Homer's Paternity Coot
   season: 17
   episode: 10
