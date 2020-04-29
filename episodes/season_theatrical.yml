@@ -10,3 +10,13 @@ episodes:
   simpsonsworld_id: 588949571786
   good: maybe
   characters:
+- title: The Simpsons Movie
+  season: 99
+  episode: 99
+  description: After Homer accidentally pollutes the town's water supply, Springfield is
+    encased by a giant dome by the EPA and the Simpsons family are declared fugitives.
+  disneyplus_id: f1d4d070-76e9-4889-94c2-c8883b2b875a
+  simpsonsworld_id:
+  good: maybe
+  characters:
+    - simpsons
