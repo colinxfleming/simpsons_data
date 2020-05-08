@@ -4367,7 +4367,7 @@
             "good": false,
             "characters": [
                 "homer",
-                "grandpa"
+                "grandpa_simpson"
             ]
         },
         {
@@ -4446,7 +4446,7 @@
             "simpsonsworld_id": 292950083730,
             "good": false,
             "characters": [
-                "grandpa"
+                "grandpa_simpson"
             ]
         },
         {
@@ -7665,6 +7665,10 @@
         {
             "short_name": "patty",
             "name": "Patty Bouvier"
+        },
+        {
+            "short_name": "quimby",
+            "name": "Mayor Quimby"
         },
         {
             "short_name": "ralph",

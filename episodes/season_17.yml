@@ -112,7 +112,7 @@ episodes:
   good: false
   characters:
     - homer
-    - grandpa
+    - grandpa_simpson
 - title: We're on the Road to D'ohwhere
   season: 17
   episode: 11
@@ -182,7 +182,7 @@ episodes:
   simpsonsworld_id: 292950083730
   good: false
   characters:
-    - grandpa
+    - grandpa_simpson
 - title: Kiss Kiss Bang Bangalore
   season: 17
   episode: 17
