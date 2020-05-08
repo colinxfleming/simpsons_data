@@ -63,8 +63,11 @@ episodes:
     Quimby during a special mayoral recall election.
   disneyplus_id: e583a0f5-1ec6-430e-aca2-d8872a2a62a7
   simpsonsworld_id: 273512003506
-  good: maybe
+  good: false
   characters:
+    - homer
+    - lisa
+    - quimby
 - title: The Last of the Red Hat Mamas
   season: 17
   episode: 7
@@ -72,8 +75,11 @@ episodes:
     speak Italian.
   disneyplus_id: b1c183c4-3596-488d-a69f-e009a0b9a052
   simpsonsworld_id: 279770179721
-  good: maybe
+  good: false
   characters:
+    - marge
+    - lisa
+    - milhouse
 - title: The Italian Bob
   season: 17
   episode: 8
@@ -81,8 +87,10 @@ episodes:
     car... only to encounter Sideshow Bob and his murderous family.
   disneyplus_id: 33c8bd72-9107-4de1-943b-a3e9e4f02fe8
   simpsonsworld_id: 256858691577
-  good: maybe
+  good: false
   characters:
+    - simpsons
+    - sideshow_bob
 - title: Simpsons Christmas Stories
   season: 17
   episode: 9
@@ -91,8 +99,9 @@ episodes:
     featuring The Nutcracker suite.'
   disneyplus_id: 69054322-132b-4ec5-b54b-ea7f4bdcc48c
   simpsonsworld_id: 256885315702
-  good: maybe
+  good: false
   characters:
+    - vignettes
 - title: Homer's Paternity Coot
   season: 17
   episode: 10
@@ -100,8 +109,10 @@ episodes:
     believe that Grampa isn't his biological father after all.
   disneyplus_id: 5076a95f-afa6-46d1-8e57-91577a8220cf
   simpsonsworld_id: 279775811924
-  good: maybe
+  good: false
   characters:
+    - homer
+    - grandpa_simpson
 - title: We're on the Road to D'ohwhere
   season: 17
   episode: 11
@@ -110,8 +121,10 @@ episodes:
     after she sells Homer's pain medications during a yard sale.
   disneyplus_id: 97ef599a-591e-4b7b-8d45-4dee2571550e
   simpsonsworld_id: 310483523720
-  good: maybe
+  good: false
   characters:
+    - homer
+    - bart
 - title: My Fair Laddy
   season: 17
   episode: 12
@@ -120,8 +133,11 @@ episodes:
     after he rips his favorite blue pants.
   disneyplus_id: 11f3cddd-9bb1-4486-a382-448da80dc063
   simpsonsworld_id: 307171907536
-  good: maybe
+  good: false
   characters:
+    - willie
+    - lisa
+    - homer
 - title: The Seemingly Never-Ending Story
   season: 17
   episode: 13
@@ -130,8 +146,9 @@ episodes:
     and Homer.
   disneyplus_id: 34ca3fd2-198b-4dbc-a3f0-20813f98d804
   simpsonsworld_id: 277107267767
-  good: maybe
+  good: false
   characters:
+    - vignettes
 - title: Bart Has Two Mommies
   season: 17
   episode: 14
@@ -139,8 +156,12 @@ episodes:
     grabs hold of Bart.
   disneyplus_id: f0ba9823-f753-4fde-b3c3-597e098037c1
   simpsonsworld_id: 277113411511
-  good: maybe
+  good: true
   characters:
+    - rod
+    - todd
+    - marge
+    - bart
 - title: Homer Simpson, This is Your Wife
   season: 17
   episode: 15
@@ -148,8 +169,10 @@ episodes:
     on a reality television show.
   disneyplus_id: c76182bf-8018-4817-bebe-6f6e97fd95c1
   simpsonsworld_id: 277119043544
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
 - title: Million Dollar Abie
   season: 17
   episode: 16
@@ -157,8 +180,9 @@ episodes:
     to end his life, but the experience changes him, and he ends up becoming a matador.
   disneyplus_id: f06f1cc0-dad5-43ca-95f6-bd312cf3447c
   simpsonsworld_id: 292950083730
-  good: maybe
+  good: false
   characters:
+    - grandpa_simpson
 - title: Kiss Kiss Bang Bangalore
   season: 17
   episode: 17
@@ -167,8 +191,12 @@ episodes:
     Richard Dean Anderson.
   disneyplus_id: ea476b6b-104d-4b87-b600-104ce3ea2192
   simpsonsworld_id: 283757123904
-  good: maybe
+  good: false
   characters:
+    - homer
+    - mr_burns
+    - patty
+    - selma
 - title: The Wettest Stories Ever Told
   season: 17
   episode: 18
@@ -176,8 +204,9 @@ episodes:
     Mayflower, the mutiny on The Bounty, and the capsizing of a cruise ship.'
   disneyplus_id: 45d552e0-f659-47d7-a211-af7feff50ed0
   simpsonsworld_id: 310489667660
-  good: maybe
+  good: false
   characters:
+    - vignettes
 - title: Girls Just Want to Have Sums
   season: 17
   episode: 19
@@ -186,8 +215,9 @@ episodes:
     Lisa to dress up like a boy so she can attend a math class.
   disneyplus_id: 5df6d32f-2304-45cd-a197-1d90aa7e1d76
   simpsonsworld_id: 274367043639
-  good: maybe
+  good: false
   characters:
+    - lisa
 - title: Regarding Margie
   season: 17
   episode: 20
@@ -195,8 +225,9 @@ episodes:
     she decides to kick him out of the house and see other people.
   disneyplus_id: 7ebe927e-566b-41b5-9625-ba9600ceb5b5
   simpsonsworld_id: 277125187506
-  good: maybe
+  good: false
   characters:
+    - marge
 - title: The Monkey Suit
   season: 17
   episode: 21
@@ -204,8 +235,9 @@ episodes:
     be taught alongside evolution in public schools.
   disneyplus_id: 8d55f57f-97da-4a15-a0b2-57d6ce59bc29
   simpsonsworld_id: 277127235959
-  good: maybe
+  good: false
   characters:
+    - lisa
 - title: Marge and Homer Turn a Couple Play
   season: 17
   episode: 22

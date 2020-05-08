@@ -4312,7 +4312,11 @@
             "disneyplus_id": "e583a0f5-1ec6-430e-aca2-d8872a2a62a7",
             "simpsonsworld_id": 273512003506,
             "good": false,
-            "characters": []
+            "characters": [
+                "homer",
+                "lisa",
+                "quimby"
+            ]
         },
         {
             "title": "The Last of the Red Hat Mamas",
@@ -4322,7 +4326,11 @@
             "disneyplus_id": "b1c183c4-3596-488d-a69f-e009a0b9a052",
             "simpsonsworld_id": 279770179721,
             "good": false,
-            "characters": []
+            "characters": [
+                "marge",
+                "lisa",
+                "milhouse"
+            ]
         },
         {
             "title": "The Italian Bob",
@@ -4332,7 +4340,10 @@
             "disneyplus_id": "33c8bd72-9107-4de1-943b-a3e9e4f02fe8",
             "simpsonsworld_id": 256858691577,
             "good": false,
-            "characters": []
+            "characters": [
+                "simpsons",
+                "sideshow_bob"
+            ]
         },
         {
             "title": "Simpsons Christmas Stories",
@@ -4342,7 +4353,9 @@
             "disneyplus_id": "69054322-132b-4ec5-b54b-ea7f4bdcc48c",
             "simpsonsworld_id": 256885315702,
             "good": false,
-            "characters": []
+            "characters": [
+                "vignettes"
+            ]
         },
         {
             "title": "Homer's Paternity Coot",
@@ -4352,7 +4365,10 @@
             "disneyplus_id": "5076a95f-afa6-46d1-8e57-91577a8220cf",
             "simpsonsworld_id": 279775811924,
             "good": false,
-            "characters": []
+            "characters": [
+                "homer",
+                "grandpa_simpson"
+            ]
         },
         {
             "title": "We're on the Road to D'ohwhere",
@@ -4362,7 +4378,10 @@
             "disneyplus_id": "97ef599a-591e-4b7b-8d45-4dee2571550e",
             "simpsonsworld_id": 310483523720,
             "good": false,
-            "characters": []
+            "characters": [
+                "homer",
+                "bart"
+            ]
         },
         {
             "title": "My Fair Laddy",
@@ -4372,7 +4391,11 @@
             "disneyplus_id": "11f3cddd-9bb1-4486-a382-448da80dc063",
             "simpsonsworld_id": 307171907536,
             "good": false,
-            "characters": []
+            "characters": [
+                "willie",
+                "lisa",
+                "homer"
+            ]
         },
         {
             "title": "The Seemingly Never-Ending Story",
@@ -4382,7 +4405,9 @@
             "disneyplus_id": "34ca3fd2-198b-4dbc-a3f0-20813f98d804",
             "simpsonsworld_id": 277107267767,
             "good": false,
-            "characters": []
+            "characters": [
+                "vignettes"
+            ]
         },
         {
             "title": "Bart Has Two Mommies",
@@ -4391,8 +4416,13 @@
             "description": "Marge teaches Rod and Todd Flanders how to have fun; a lonely chimpanzee grabs hold of Bart.",
             "disneyplus_id": "f0ba9823-f753-4fde-b3c3-597e098037c1",
             "simpsonsworld_id": 277113411511,
-            "good": false,
-            "characters": []
+            "good": true,
+            "characters": [
+                "rod",
+                "todd",
+                "marge",
+                "bart"
+            ]
         },
         {
             "title": "Homer Simpson, This is Your Wife",
@@ -4402,7 +4432,10 @@
             "disneyplus_id": "c76182bf-8018-4817-bebe-6f6e97fd95c1",
             "simpsonsworld_id": 277119043544,
             "good": false,
-            "characters": []
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "Million Dollar Abie",
@@ -4412,7 +4445,9 @@
             "disneyplus_id": "f06f1cc0-dad5-43ca-95f6-bd312cf3447c",
             "simpsonsworld_id": 292950083730,
             "good": false,
-            "characters": []
+            "characters": [
+                "grandpa_simpson"
+            ]
         },
         {
             "title": "Kiss Kiss Bang Bangalore",
@@ -4422,7 +4457,12 @@
             "disneyplus_id": "ea476b6b-104d-4b87-b600-104ce3ea2192",
             "simpsonsworld_id": 283757123904,
             "good": false,
-            "characters": []
+            "characters": [
+                "homer",
+                "mr_burns",
+                "patty",
+                "selma"
+            ]
         },
         {
             "title": "The Wettest Stories Ever Told",
@@ -4432,7 +4472,9 @@
             "disneyplus_id": "45d552e0-f659-47d7-a211-af7feff50ed0",
             "simpsonsworld_id": 310489667660,
             "good": false,
-            "characters": []
+            "characters": [
+                "vignettes"
+            ]
         },
         {
             "title": "Girls Just Want to Have Sums",
@@ -4442,7 +4484,9 @@
             "disneyplus_id": "5df6d32f-2304-45cd-a197-1d90aa7e1d76",
             "simpsonsworld_id": 274367043639,
             "good": false,
-            "characters": []
+            "characters": [
+                "lisa"
+            ]
         },
         {
             "title": "Regarding Margie",
@@ -4452,7 +4496,9 @@
             "disneyplus_id": "7ebe927e-566b-41b5-9625-ba9600ceb5b5",
             "simpsonsworld_id": 277125187506,
             "good": false,
-            "characters": []
+            "characters": [
+                "marge"
+            ]
         },
         {
             "title": "The Monkey Suit",
@@ -4462,7 +4508,9 @@
             "disneyplus_id": "8d55f57f-97da-4a15-a0b2-57d6ce59bc29",
             "simpsonsworld_id": 277127235959,
             "good": false,
-            "characters": []
+            "characters": [
+                "lisa"
+            ]
         },
         {
             "title": "Marge and Homer Turn a Couple Play",
@@ -7619,6 +7667,10 @@
             "name": "Patty Bouvier"
         },
         {
+            "short_name": "quimby",
+            "name": "Mayor Quimby"
+        },
+        {
             "short_name": "ralph",
             "name": "Ralph Wiggum"
         },
@@ -7669,6 +7721,10 @@
         {
             "short_name": "wiggum",
             "name": "Police Chief Wiggum"
+        },
+        {
+            "short_name": "willie",
+            "name": "Groundskeeper Willie"
         },
         {
             "short_name": "wolfcastle",
