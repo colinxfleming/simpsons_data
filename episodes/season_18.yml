@@ -231,8 +231,10 @@ episodes:
     a python to replace him.
   disneyplus_id: 5915e2fd-c3d0-41ca-a505-9fe2dfbcf891
   simpsonsworld_id: 302865987860
-  good: maybe
+  good: false
   characters:
+    - bart
+    - santas_little_helper
 - title: 24 Minutes
   season: 18
   episode: 21
@@ -241,8 +243,10 @@ episodes:
     school bake sale.
   disneyplus_id: 61602bd0-a1ab-4070-8bea-865b5a694998
   simpsonsworld_id: 292963907577
-  good: maybe
+  good: false
   characters:
+    - bart
+    - bullies
 - title: You Kent Always Say What You Want
   season: 18
   episode: 22
@@ -250,5 +254,6 @@ episodes:
     leading to a heavy fine from the FCC - and costing Brockman his job.
   disneyplus_id: 74c57b86-7dfd-4d25-8008-46a91d898f3c
   simpsonsworld_id: 302859843984
-  good: maybe
+  good: false
   characters:
+    - kent

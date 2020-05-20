@@ -20,3 +20,5 @@ characters:
   name: Apu Nahasapeemapetilon
 - short_name: quimby
   name: Mayor Quimby
+- short_name: kent
+  name: Kent Brockman
