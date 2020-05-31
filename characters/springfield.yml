@@ -22,3 +22,5 @@ characters:
   name: Mayor Quimby
 - short_name: kent
   name: Kent Brockman
+- short_name: gil
+  name: Gil Gunderson
