@@ -57,8 +57,11 @@ with open('simpsons_data.json', 'r') as f:
             assert isinstance(character, str)
 
             # Every character should exist in the corresponding characters blob
-            assert next(char for char in all_characters
-                        if char['short_name'] == character)
+            present = [char for char
+                       in all_characters
+                       if char['short_name'] == character]
+            assert present, f"No {character} in character yml"
+
 
     # Season-Episode pair should be unique
     assert len(all_episodes) == len(set(f"{ep['season']}-{ep['episode']}"

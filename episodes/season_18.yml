@@ -79,8 +79,10 @@ episodes:
     her purpose in life when she makes sculptures out of popsicle sticks.
   disneyplus_id: ac78e6e7-e65b-4fdc-a5b1-ca92d60d8f7a
   simpsonsworld_id: 292941379558
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
 - title: The Haw-Hawed Couple
   season: 18
   episode: 8
@@ -88,8 +90,12 @@ episodes:
     fantasy books.
   disneyplus_id: cadd74ff-2dff-4715-983d-d725748114ec
   simpsonsworld_id: 279785027791
-  good: maybe
+  good: false
   characters:
+    - nelson
+    - bart
+    - homer
+    - lisa
 - title: Kill Gil (Parts I and II)
   season: 18
   episode: 9
@@ -97,8 +103,10 @@ episodes:
     to kick down-on-his-luck Gil out of the house.
   disneyplus_id: e23a7a91-620f-43cc-9b61-06fef0de06a9
   simpsonsworld_id: 279793731867
-  good: maybe
+  good: false
   characters:
+    - gil
+    - marge
 - title: The Wife Aquatic
   season: 18
   episode: 10
@@ -107,8 +115,10 @@ episodes:
     storm.
   disneyplus_id: 68523be0-e230-4d15-8bfa-1f00537ca5b3
   simpsonsworld_id: 283764803572
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
 - title: Revenge is a Dish Best Served Three Times
   season: 18
   episode: 11
@@ -119,6 +129,7 @@ episodes:
   simpsonsworld_id: 283790915851
   good: true
   characters:
+    - vignettes
 - title: Little Big Girl
   season: 18
   episode: 12
@@ -127,8 +138,10 @@ episodes:
     license-and ends up with a pregnant girlfriend who wants to wed.
   disneyplus_id: cfb599de-f928-47bb-a4fe-26f3675c18e0
   simpsonsworld_id: 310462531619
-  good: maybe
+  good: false
   characters:
+    - bart
+    - lisa
 - title: Springfield Up
   season: 18
   episode: 13
@@ -137,8 +150,10 @@ episodes:
     made good on his quest to become a millionaire.
   disneyplus_id: 4949be66-6329-499b-b1fc-a773ba45b1c8
   simpsonsworld_id: 302876739533
-  good: maybe
+  good: false
   characters:
+    - homer
+    - vignettes
 - title: Yokel Chords
   season: 18
   episode: 14
@@ -147,8 +162,10 @@ episodes:
     his classmates with a scary story.
   disneyplus_id: a5a3d0fa-49ea-4982-b746-9d62af1e5583
   simpsonsworld_id: 307175491532
-  good: maybe
+  good: false
   characters:
+    - lisa
+    - bart
 - title: Rome-old and Juli-eh
   season: 18
   episode: 15
@@ -181,7 +198,7 @@ episodes:
     online fantasy game; Homer referees Lisa's soccer team.
   disneyplus_id: 84482308-1ead-4b52-a111-879cf1e310f2
   simpsonsworld_id: 277036099916
-  good: maybe
+  good: true
   characters:
 - title: The Boys of Bummer
   season: 18
@@ -191,8 +208,12 @@ episodes:
     Lovejoy and his wife over possession of Homer's mattress.
   disneyplus_id: 01978e70-0f9d-4779-ad24-0021c5dfb062
   simpsonsworld_id: 279798851587
-  good: maybe
+  good: true
   characters:
+    - bart
+    - marge
+    - lisa
+    - homer
 - title: Crook and Ladder
   season: 18
   episode: 19
@@ -200,8 +221,9 @@ episodes:
     stealing from fire victims.
   disneyplus_id: 45796141-0dfc-4591-84a0-4e60e2261165
   simpsonsworld_id: 310491203943
-  good: maybe
+  good: false
   characters:
+    - homer
 - title: Stop Or My Dog Will Shoot
   season: 18
   episode: 20
@@ -209,8 +231,10 @@ episodes:
     a python to replace him.
   disneyplus_id: 5915e2fd-c3d0-41ca-a505-9fe2dfbcf891
   simpsonsworld_id: 302865987860
-  good: maybe
+  good: false
   characters:
+    - bart
+    - santas_little_helper
 - title: 24 Minutes
   season: 18
   episode: 21
@@ -219,8 +243,10 @@ episodes:
     school bake sale.
   disneyplus_id: 61602bd0-a1ab-4070-8bea-865b5a694998
   simpsonsworld_id: 292963907577
-  good: maybe
+  good: false
   characters:
+    - bart
+    - bullies
 - title: You Kent Always Say What You Want
   season: 18
   episode: 22
@@ -228,5 +254,6 @@ episodes:
     leading to a heavy fine from the FCC - and costing Brockman his job.
   disneyplus_id: 74c57b86-7dfd-4d25-8008-46a91d898f3c
   simpsonsworld_id: 302859843984
-  good: maybe
+  good: false
   characters:
+    - kent
