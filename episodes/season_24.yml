@@ -8,8 +8,10 @@ episodes:
     in Central Park.
   disneyplus_id: 15a66ce2-69d0-4f64-9d8b-dfd5d05111c0
   simpsonsworld_id: 221691971633
-  good: maybe
+  good: false
   characters:
+    - bart
+    - lisa
 - title: Treehouse of Horror XXIII
   season: 24
   episode: 2
@@ -28,8 +30,11 @@ episodes:
     is up to something mysterious and vows to find out what it is.
   disneyplus_id: 4e9dc8fc-19c1-493a-bcb5-d2cd463512ed
   simpsonsworld_id: 221688899646
-  good: maybe
+  good: false
   characters:
+    - marge
+    - bart
+    - lisa
 - title: Gone Abie Gone
   season: 24
   episode: 4
@@ -37,8 +42,10 @@ episodes:
     home; Homer invests Lisa's college fund in an online poker Web site.
   disneyplus_id: 95a59aa7-8dd8-4b37-946d-ba4b2370fe1b
   simpsonsworld_id: 221688899887
-  good: maybe
+  good: false
   characters:
+    - grandpa
+    - lisa
 - title: Penny-Wiseguys
   season: 24
   episode: 5
@@ -46,8 +53,10 @@ episodes:
     Don; an anemic Lisa eats bugs to increase her iron level.
   disneyplus_id: 2364e35d-b013-4ce2-8781-2528238ca84a
   simpsonsworld_id: 221694531617
-  good: maybe
+  good: true
   characters:
+    - fat_tony
+    - lisa
 - title: A Tree Grows in Springfield
   season: 24
   episode: 6
@@ -56,8 +65,9 @@ episodes:
     Brockman sets out to debunk the "miracle."
   disneyplus_id: 13091b84-3bf8-49b1-a289-1196270e20c5
   simpsonsworld_id: 229733443727
-  good: maybe
+  good: false
   characters:
+    - homer
 - title: The Day the Earth Stood Cool
   season: 24
   episode: 7
@@ -65,8 +75,9 @@ episodes:
     his happiness ends when he realizes he has little in common with his new neighbors.
   disneyplus_id: 9f181a16-923c-4b5f-b16c-6ed616dbd5bf
   simpsonsworld_id: 222374467937
-  good: maybe
+  good: false
   characters:
+    - homer
 - title: To Cur, With Love
   season: 24
   episode: 8
@@ -93,8 +104,10 @@ episodes:
     Homer uses a discarded parking meter to steal from unsuspecting drivers.
   disneyplus_id: 9d7c7493-3f24-4913-9982-af323ebc6a25
   simpsonsworld_id: 222388291945
-  good: maybe
+  good: true
   characters:
+    - bart
+    - homer
 - title: The Changing of the Guardian
   season: 24
   episode: 11
@@ -196,8 +209,12 @@ episodes:
     that Carl ran off with.
   disneyplus_id: 407d6ec8-d258-4dc3-827c-a81cf50c8828
   simpsonsworld_id: 257753667515
-  good: maybe
+  good: true
   characters:
+    - homer
+    - moe
+    - lenny
+    - carl
 - title: Dangers on a Train
   season: 24
   episode: 22
