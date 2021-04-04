@@ -6,40 +6,48 @@ episodes:
   description: Homer and Bart become viral sensations.
   disneyplus_id: ca497a6c-9cac-4e92-91a4-af95a82d5680
   simpsonsworld_id:
-  good: maybe
+  good: false
   characters:
+    - homer
+    - bart
 - title: Go Big or Go Homer
   season: 31
   episode: 2
   description: Homer becomes a mentor to an unstable intern who idolizes him.
   disneyplus_id: 523a90e8-f4fd-40c2-977a-9929b423319d
   simpsonsworld_id:
-  good: maybe
+  good: false
   characters:
+    - homer
 - title: The Fat Blue Line
   season: 31
   episode: 3
   description: Fat Tony is framed, and Wiggum must exonerate him.
   disneyplus_id: 78b1bbea-6468-464c-a94f-5ef375db4c7b
   simpsonsworld_id:
-  good: maybe
+  good: false
   characters:
+    - fat_tony
+    - wiggum
 - title: Treehouse of Horror XXX
   season: 31
   episode: 4
   description: This 666th episode of the Simpsons parodies spooky favorites.
   disneyplus_id: bf3b47dd-1e1d-41b2-b11b-1b6d5434d23b
   simpsonsworld_id:
-  good: maybe
+  good: false
   characters:
+    - treehouse_of_horror
 - title: Gorillas on the Mast
   season: 31
   episode: 5
   description: Homer buys a boat, and Lisa frees a whale.
   disneyplus_id: 3915e644-5757-4bbe-a9f8-02bdadc080be
   simpsonsworld_id:
-  good: maybe
+  good: false
   characters:
+    - homer
+    - lisa
 - title: Marge the Lumberjill
   season: 31
   episode: 6
