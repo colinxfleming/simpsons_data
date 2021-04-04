@@ -44,7 +44,7 @@ episodes:
   simpsonsworld_id: 221688899887
   good: false
   characters:
-    - grandpa
+    - grandpa_simpson
     - lisa
 - title: Penny-Wiseguys
   season: 24
