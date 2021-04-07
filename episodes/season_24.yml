@@ -95,8 +95,9 @@ episodes:
     a shockwave that disables all electronic devices in Springfield.
   disneyplus_id: e5ab93cc-8b25-4f41-ba33-618cd72303f1
   simpsonsworld_id: 1094312515873
-  good: maybe
+  good: false
   characters:
+    - homer
 - title: A Test Before Trying
   season: 24
   episode: 10

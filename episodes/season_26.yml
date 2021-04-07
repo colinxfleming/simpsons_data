@@ -84,8 +84,10 @@ episodes:
   description: Marge doesn't approve of Homer's Christmas spirits.
   disneyplus_id: 16914d01-b98b-4cf2-8904-36bd8f651e8f
   simpsonsworld_id: 368212547872
-  good: maybe
+  good: false
   characters:
+    - homer
+    - marge
 - title: The Man Who Came To Be Dinner
   season: 26
   episode: 10
