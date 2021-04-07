@@ -6070,7 +6070,9 @@
             "disneyplus_id": "e5ab93cc-8b25-4f41-ba33-618cd72303f1",
             "simpsonsworld_id": 1094312515873,
             "good": false,
-            "characters": []
+            "characters": [
+                "homer"
+            ]
         },
         {
             "title": "A Test Before Trying",
@@ -6549,7 +6551,10 @@
             "disneyplus_id": "16914d01-b98b-4cf2-8904-36bd8f651e8f",
             "simpsonsworld_id": 368212547872,
             "good": false,
-            "characters": []
+            "characters": [
+                "homer",
+                "marge"
+            ]
         },
         {
             "title": "The Man Who Came To Be Dinner",
