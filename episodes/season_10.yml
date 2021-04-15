@@ -8,6 +8,7 @@ episodes:
   disneyplus_id: 98ee055e-5747-4d5f-adde-c31d45942164
   simpsonsworld_id: 292933187533
   good: true
+  guest_stars:
   characters:
 - title: The Wizard of Evergreen Terrace
   season: 10
@@ -17,6 +18,7 @@ episodes:
   disneyplus_id: 986ba983-649f-4e35-83b1-2aae99e85008
   simpsonsworld_id: 473117763575
   good: true
+  guest_stars:
   characters:
 - title: Bart the Mother
   season: 10
@@ -26,6 +28,7 @@ episodes:
   disneyplus_id: 964531ad-96b6-4271-84e9-995804d0fa59
   simpsonsworld_id: 473109571557
   good: true
+  guest_stars:
   characters:
 - title: Treehouse of Horror IX
   season: 10
@@ -36,6 +39,7 @@ episodes:
   disneyplus_id: ce588fbc-5976-4c34-b1fd-9cd5ca8b1ce8
   simpsonsworld_id: 473130051681
   good: true
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: When You Dish Upon a Star
@@ -46,6 +50,7 @@ episodes:
   disneyplus_id: 06ca06ee-00ef-48af-bc90-850a35c543b4
   simpsonsworld_id: 473147459674
   good: false
+  guest_stars:
   characters:
 - title: D'oh-in' in the Wind
   season: 10
@@ -54,6 +59,7 @@ episodes:
   disneyplus_id: 87059d07-aa2b-49c2-bdc2-c0f7ff8ef5c8
   simpsonsworld_id: 473138243754
   good: false
+  guest_stars:
   characters:
 - title: Lisa Gets an 'A'
   season: 10
@@ -63,6 +69,7 @@ episodes:
   disneyplus_id: 2a9e93c8-00aa-4663-9ebc-ad960d0cfc28
   simpsonsworld_id: 473152579638
   good: true
+  guest_stars:
   characters:
 - title: 'Homer Simpson in: ''Kidney Trouble'''
   season: 10
@@ -72,6 +79,7 @@ episodes:
   disneyplus_id: 2af7dae5-26f3-4865-a72f-a2f34b2ace54
   simpsonsworld_id: 473158211896
   good: false
+  guest_stars:
   characters:
 - title: Mayored to the Mob
   season: 10
@@ -80,6 +88,7 @@ episodes:
   disneyplus_id: df6e8f4c-cc93-4613-882a-91eb8e98dc12
   simpsonsworld_id: 473163843671
   good: true
+  guest_stars:
   characters:
 - title: Viva Ned Flanders
   season: 10
@@ -88,6 +97,7 @@ episodes:
   disneyplus_id: df93d2c8-8a69-464f-a87f-05f204134039
   simpsonsworld_id: 473115203586
   good: false
+  guest_stars:
   characters:
 - title: Wild Barts Can't Be Broken
   season: 10
@@ -96,6 +106,7 @@ episodes:
   disneyplus_id: f634b3fc-2a84-48c6-9e12-fa708a661794
   simpsonsworld_id: 473155651508
   good: true
+  guest_stars:
   characters:
 - title: Sunday, Cruddy Sunday
   season: 10
@@ -105,6 +116,7 @@ episodes:
   disneyplus_id: 6e11f7db-7f5d-4f6d-bd0e-c91260701a71
   simpsonsworld_id: 473132611959
   good: false
+  guest_stars:
   characters:
 - title: Homer to the Max
   season: 10
@@ -114,6 +126,7 @@ episodes:
   disneyplus_id: 1df9a8f7-96df-41a9-a595-69f6d66fbd42
   simpsonsworld_id: 473140803870
   good: false
+  guest_stars:
   characters:
 - title: I'm with Cupid
   season: 10
@@ -123,6 +136,7 @@ episodes:
   disneyplus_id: 964c06b3-4118-4ca9-93ef-207e45c94aba
   simpsonsworld_id: 473104963819
   good: true
+  guest_stars:
   characters:
 - title: 'Marge Simpson in: ''Screaming Yellow Honkers'''
   season: 10
@@ -132,6 +146,7 @@ episodes:
   disneyplus_id: 3f660bb1-67ba-4923-b837-432790058d0f
   simpsonsworld_id: 473097795997
   good: true
+  guest_stars:
   characters:
 - title: Make Room for Lisa
   season: 10
@@ -141,6 +156,7 @@ episodes:
   disneyplus_id: d8eb73d8-2008-41d6-8213-672b088afac9
   simpsonsworld_id: 473093187636
   good: false
+  guest_stars:
   characters:
 - title: Maximum Homerdrive
   season: 10
@@ -150,6 +166,7 @@ episodes:
   disneyplus_id: 3f4e5b4d-44df-4a7f-bf29-d2a4fd9ec3c7
   simpsonsworld_id: 473095235738
   good: true
+  guest_stars:
   characters:
 - title: Simpsons Bible Stories
   season: 10
@@ -160,6 +177,7 @@ episodes:
   disneyplus_id: bd37c577-9c24-4434-96a1-4b188f2536d4
   simpsonsworld_id: 299678275566
   good: false
+  guest_stars:
   characters:
 - title: Mom and Pop Art
   season: 10
@@ -169,6 +187,7 @@ episodes:
   disneyplus_id: 01ff0cb7-1b7a-4f31-90b5-a53eb3f77a84
   simpsonsworld_id: 310457411688
   good: true
+  guest_stars:
   characters:
 - title: The Old Man and the 'C' Student
   season: 10
@@ -177,6 +196,7 @@ episodes:
   disneyplus_id: 06a3726e-ba9a-4252-9df7-5e633923ed24
   simpsonsworld_id: 279757379586
   good: true
+  guest_stars:
   characters:
 - title: Monty Can't Buy Me Love
   season: 10
@@ -186,6 +206,7 @@ episodes:
   disneyplus_id: f477542d-4817-45a3-8f4c-c595b57508d8
   simpsonsworld_id: 310427203648
   good: false
+  guest_stars:
   characters:
 - title: They Saved Lisa's Brain
   season: 10
@@ -194,6 +215,7 @@ episodes:
   disneyplus_id: 57670ba9-320b-4231-8ae1-ecdf13828b43
   simpsonsworld_id: 306868803826
   good: false
+  guest_stars:
   characters:
 - title: Thirty Minutes Over Tokyo
   season: 10
@@ -203,4 +225,5 @@ episodes:
   disneyplus_id: a0cf3a5a-f8c7-4bd9-a0f7-e1d7ce1e1d40
   simpsonsworld_id: 306901571847
   good: true
+  guest_stars:
   characters:

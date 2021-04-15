@@ -9,6 +9,7 @@ episodes:
   disneyplus_id: 50a03393-e5f7-4a07-b0a2-538ab3b16b51
   simpsonsworld_id: 299625027835
   good: true
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: You Only Move Twice
@@ -19,6 +20,7 @@ episodes:
   disneyplus_id: 4bbad88a-4a1b-4881-9c0e-b78d8c703e7d
   simpsonsworld_id: 306390595776
   good: true
+  guest_stars:
   characters:
 - title: The Homer They Fall
   season: 8
@@ -28,6 +30,7 @@ episodes:
   disneyplus_id: 13979608-127b-4a93-b1ee-1fbd178019fd
   simpsonsworld_id: 288058947803
   good: true
+  guest_stars:
   characters:
 - title: Burns, Baby Burns
   season: 8
@@ -36,6 +39,7 @@ episodes:
   disneyplus_id: f8925031-3dda-44a5-8210-d0241c05795b
   simpsonsworld_id: 299622467514
   good: false
+  guest_stars:
   characters:
 - title: Bart After Dark
   season: 8
@@ -45,6 +49,7 @@ episodes:
   disneyplus_id: 992e892f-0acd-4d25-8e40-fef5704efc7b
   simpsonsworld_id: 294789699801
   good: true
+  guest_stars:
   characters:
 - title: A Milhouse Divided
   season: 8
@@ -54,6 +59,7 @@ episodes:
   disneyplus_id: 25482c78-0e90-4a23-96b0-edfc4215514e
   simpsonsworld_id: 277025347786
   good: true
+  guest_stars:
   characters:
 - title: Lisa's Date with Density
   season: 8
@@ -63,6 +69,7 @@ episodes:
   disneyplus_id: c30d0b3b-b1df-4db7-a1e1-ef80cc750985
   simpsonsworld_id: 306394691862
   good: true
+  guest_stars:
   characters:
 - title: Hurricane Neddy
   season: 8
@@ -71,6 +78,7 @@ episodes:
   disneyplus_id: a8fca808-af99-4856-9bac-f94014e86dc5
   simpsonsworld_id: 436250179702
   good: true
+  guest_stars:
   characters:
 - title: El Viaje Misterioso de Nuestro Jomer (The Mysterious Voyage of Homer)
   season: 8
@@ -81,6 +89,7 @@ episodes:
   disneyplus_id: ce212c73-6d9c-47a6-aba1-3703759fcfd0
   simpsonsworld_id: 436252739905
   good: true
+  guest_stars:
   characters:
 - title: The Springfield Files
   season: 8
@@ -90,6 +99,7 @@ episodes:
   disneyplus_id: 15802bc3-c0e2-4f05-bf59-e5a04c8e1ea3
   simpsonsworld_id: 436259395954
   good: true
+  guest_stars:
   characters:
 - title: The Twisted World of Marge Simpson
   season: 8
@@ -99,6 +109,7 @@ episodes:
   disneyplus_id: f922ecd7-179a-497b-9fb0-dffb05aedfcf
   simpsonsworld_id: 436264515927
   good: true
+  guest_stars:
   characters:
 - title: Mountain of Madness
   season: 8
@@ -108,6 +119,7 @@ episodes:
   disneyplus_id: 37a78fcb-f5de-424b-93d9-538f05e940c3
   simpsonsworld_id: 436267075791
   good: true
+  guest_stars:
   characters:
 - title: Simpsoncalifragilisticexpiala(Annoyed Grunt)cious
   season: 8
@@ -117,6 +129,7 @@ episodes:
   disneyplus_id: 586feaa4-08b3-4847-a67b-604a7562dddc
   simpsonsworld_id: 436271683676
   good: true
+  guest_stars:
   characters:
 - title: The Itchy and Scratchy and Poochie Show
   season: 8
@@ -127,6 +140,7 @@ episodes:
   disneyplus_id: c44f10c9-3257-453f-9e5f-6394a07baf0f
   simpsonsworld_id: 436278339668
   good: true
+  guest_stars:
   characters:
 - title: Homer's Phobia
   season: 8
@@ -136,6 +150,7 @@ episodes:
   disneyplus_id: 4f464b63-f2ef-4078-9ae1-e09951dd16b5
   simpsonsworld_id: 436284995621
   good: true
+  guest_stars:
   characters:
 - title: Brother from Another Series
   season: 8
@@ -146,6 +161,7 @@ episodes:
   disneyplus_id: 5124905d-7d18-4b4e-b381-a5d4f57807c6
   simpsonsworld_id: 436296259771
   good: true
+  guest_stars:
   characters:
 - title: My Sister, My Sitter
   season: 8
@@ -154,6 +170,7 @@ episodes:
   disneyplus_id: 9409fed1-b3b3-4345-88b6-a1c309774b44
   simpsonsworld_id: 436301891875
   good: false
+  guest_stars:
   characters:
 - title: Homer vs. the Eighteenth Amendment
   season: 8
@@ -163,6 +180,7 @@ episodes:
   disneyplus_id: 17673fdc-6b4d-4bb2-8690-0065a74a84db
   simpsonsworld_id: 436402755605
   good: true
+  guest_stars:
   characters:
 - title: Grade School Confidential
   season: 8
@@ -171,6 +189,7 @@ episodes:
   disneyplus_id: c1827569-0955-47d5-9351-c38c49ba8196
   simpsonsworld_id: 436412995642
   good: true
+  guest_stars:
   characters:
 - title: The Canine Mutiny
   season: 8
@@ -180,6 +199,7 @@ episodes:
   disneyplus_id: 18d4e6f6-2c26-4c3f-ae52-c1ad04e82851
   simpsonsworld_id: 436370499586
   good: false
+  guest_stars:
   characters:
 - title: The Old Man and the Lisa
   season: 8
@@ -189,6 +209,7 @@ episodes:
   disneyplus_id: d62f4ce1-1bf2-44f2-ab83-9b6ad690873d
   simpsonsworld_id: 436383811985
   good: true
+  guest_stars:
   characters:
 - title: In Marge We Trust
   season: 8
@@ -198,6 +219,7 @@ episodes:
   disneyplus_id: 472be34f-4238-4d11-9afe-ba5abf66c895
   simpsonsworld_id: 436438595644
   good: true
+  guest_stars:
   characters:
 - title: Homer's Enemy
   season: 8
@@ -207,6 +229,7 @@ episodes:
   disneyplus_id: 49a63595-ee7e-43fb-a7ef-bd79d439beef
   simpsonsworld_id: 436466755640
   good: true
+  guest_stars:
   characters:
 - title: The Simpsons Spin-Off Showcase
   season: 8
@@ -215,6 +238,7 @@ episodes:
   disneyplus_id: 879b67c1-b784-4bec-aa11-5da4aeab587d
   simpsonsworld_id: 436481091875
   good: false
+  guest_stars:
   characters:
 - title: The Secret War of Lisa Simpson
   season: 8
@@ -224,4 +248,5 @@ episodes:
   disneyplus_id: 0344e1ff-8d98-42af-8f56-2dbf0a8ed0a8
   simpsonsworld_id: 1071844931909
   good: true
+  guest_stars:
   characters:

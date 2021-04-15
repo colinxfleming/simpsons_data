@@ -8,6 +8,7 @@ episodes:
   disneyplus_id: 88af7df7-b6fc-410e-9e07-92dda4a29a47
   simpsonsworld_id: 250297923589
   good: false
+  guest_stars:
   characters:
     - comic_book_guy
     - homer
@@ -20,6 +21,7 @@ episodes:
   disneyplus_id: 67d61bfb-23a7-4884-b587-ee93135ddc02
   simpsonsworld_id: 310517315862
   good: false
+  guest_stars:
   characters:
     - edna
     - bart
@@ -31,6 +33,7 @@ episodes:
   disneyplus_id: 2388825f-aab3-4dd2-8661-592808bf85bc
   simpsonsworld_id: 250299971833
   good: false
+  guest_stars:
   characters:
     - marge
 - title: Treehouse of Horror XX
@@ -42,6 +45,7 @@ episodes:
   disneyplus_id: f38f6b8f-47f4-4d69-aff9-ab3a3094245e
   simpsonsworld_id: 262634051998
   good: false
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: The Devil Wears Nada
@@ -52,6 +56,7 @@ episodes:
   disneyplus_id: ae2e4f38-dba6-4deb-868a-53d89aedda2d
   simpsonsworld_id: 250304067959
   good: false
+  guest_stars:
   characters:
     - homer
     - marge
@@ -64,6 +69,7 @@ episodes:
   disneyplus_id: 564a90ff-acea-4ef1-98f4-c3014b817f9f
   simpsonsworld_id: 792414787985
   good: maybe
+  guest_stars:
   characters:
 - title: Rednecks and Broomsticks
   season: 21
@@ -73,6 +79,7 @@ episodes:
   disneyplus_id: 7e3a408b-0351-4058-92fe-573098060e2a
   simpsonsworld_id: 250307139830
   good: maybe
+  guest_stars:
   characters:
 - title: O Brother, Where Bart Thou?
   season: 21
@@ -82,6 +89,7 @@ episodes:
   disneyplus_id: 82a1a502-53a6-4c94-be36-3db8a55d12a3
   simpsonsworld_id: 250311235599
   good: maybe
+  guest_stars:
   characters:
 - title: Thursdays with Abie
   season: 21
@@ -91,6 +99,7 @@ episodes:
   disneyplus_id: 5837bd57-dcbb-4658-9bee-071dcfb532db
   simpsonsworld_id: 250369603964
   good: maybe
+  guest_stars:
   characters:
 - title: Once Upon A Time in Springfield
   season: 21
@@ -100,6 +109,7 @@ episodes:
   disneyplus_id: 93d48c4e-6bcc-4da6-aa24-379f32809368
   simpsonsworld_id: 250379331672
   good: maybe
+  guest_stars:
   characters:
 - title: Million Dollar Maybe
   season: 21
@@ -109,6 +119,7 @@ episodes:
   disneyplus_id: f6b9c035-54ac-4356-9a03-c039dd95ee4c
   simpsonsworld_id: 279804995696
   good: maybe
+  guest_stars:
   characters:
 - title: Boy Meets Curl
   season: 21
@@ -118,6 +129,7 @@ episodes:
   disneyplus_id: c9b38de3-fef9-4da6-96ea-9e5b44e3e3ed
   simpsonsworld_id: 250385475646
   good: maybe
+  guest_stars:
   characters:
 - title: The Color Yellow
   season: 21
@@ -127,6 +139,7 @@ episodes:
   disneyplus_id: cb0d811d-9959-4641-8ec5-cedd2e07bbb8
   simpsonsworld_id: 255100483932
   good: maybe
+  guest_stars:
   characters:
 - title: Postcards From the Wedge
   season: 21
@@ -137,6 +150,7 @@ episodes:
   disneyplus_id: 6b41ad4a-fc4e-460f-a2e0-790773a93b7b
   simpsonsworld_id: 250390595937
   good: maybe
+  guest_stars:
   characters:
 - title: Stealing First Base
   season: 21
@@ -146,6 +160,7 @@ episodes:
   disneyplus_id: f41d6853-3d30-4749-9b15-3553be80418b
   simpsonsworld_id: 250397251688
   good: maybe
+  guest_stars:
   characters:
 - title: The Greatest Story Ever D'ohed
   season: 21
@@ -156,6 +171,7 @@ episodes:
   disneyplus_id: c700ad86-11bd-4a7b-8a66-b1871c47173b
   simpsonsworld_id: 279809091713
   good: maybe
+  guest_stars:
   characters:
 - title: American History X-cellent
   season: 21
@@ -166,6 +182,7 @@ episodes:
   disneyplus_id: 51b45e30-b646-4b83-91a4-81422d38f972
   simpsonsworld_id: 250508867924
   good: maybe
+  guest_stars:
   characters:
 - title: Chief of Hearts
   season: 21
@@ -175,6 +192,7 @@ episodes:
   disneyplus_id: 19d92204-1f6f-46b1-96fe-36118aaf1fce
   simpsonsworld_id: 250515523850
   good: maybe
+  guest_stars:
   characters:
 - title: The Squirt and the Whale
   season: 21
@@ -183,6 +201,7 @@ episodes:
   disneyplus_id: 5018ece6-0256-4692-b13a-ff3aa9b07aed
   simpsonsworld_id: 250519619700
   good: maybe
+  guest_stars:
   characters:
 - title: To Surveil With Love
   season: 21
@@ -193,6 +212,7 @@ episodes:
   disneyplus_id: f675cbf8-c051-4be9-a2d7-fbf3752afd40
   simpsonsworld_id: 250523203904
   good: maybe
+  guest_stars:
   characters:
 - title: Moe Letter Blues
   season: 21
@@ -202,6 +222,7 @@ episodes:
   disneyplus_id: 7a2a3403-6a37-4cf3-ae36-c6eb364abebd
   simpsonsworld_id: 250592323527
   good: maybe
+  guest_stars:
   characters:
 - title: The Bob Next Door
   season: 21
@@ -211,6 +232,7 @@ episodes:
   disneyplus_id: 1c755dcb-64db-43ea-9444-d03e1fecf09e
   simpsonsworld_id: 250531907855
   good: maybe
+  guest_stars:
   characters:
 - title: Judge Me Tender
   season: 21
@@ -221,4 +243,5 @@ episodes:
   disneyplus_id: 735f75cf-d156-40f7-b2d0-893a32eb59a4
   simpsonsworld_id: 255074883631
   good: maybe
+  guest_stars:
   characters:

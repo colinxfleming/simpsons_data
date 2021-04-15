@@ -8,6 +8,7 @@ episodes:
   disneyplus_id: 326e39c2-45a8-4781-9931-438ccbcc7f0a
   simpsonsworld_id: 279133251579
   good: true
+  guest_stars:
   characters:
     - bart
     - lisa
@@ -19,6 +20,7 @@ episodes:
   disneyplus_id: 0e1f575c-eb6e-46d3-8765-d786c3cbe0fc
   simpsonsworld_id: 273537603751
   good: true
+  guest_stars:
   characters:
 - title: Homer the Heretic
   season: 4
@@ -28,6 +30,7 @@ episodes:
   disneyplus_id: 1aac9cd6-a6d9-49ea-9ae3-fb1622a811fa
   simpsonsworld_id: 279137859827
   good: true
+  guest_stars:
   characters:
     - homer
 - title: Lisa the Beauty Queen
@@ -37,6 +40,7 @@ episodes:
   disneyplus_id: 2f06393f-b88c-46b7-bddb-65bdf8172d44
   simpsonsworld_id: 273537603930
   good: true
+  guest_stars:
   characters:
     - lisa
     - homer
@@ -48,6 +52,7 @@ episodes:
   disneyplus_id: 540e1a2c-051a-4f48-b5f0-585138090af5
   simpsonsworld_id: 305668675610
   good: true
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: 'Itchy and Scratchy: The Movie'
@@ -58,6 +63,7 @@ episodes:
   disneyplus_id: 8c17cbd3-960b-4157-9792-8d02f0098c59
   simpsonsworld_id: 278803011830
   good: true
+  guest_stars:
   characters:
     - homer
     - bart
@@ -69,6 +75,7 @@ episodes:
   disneyplus_id: 5d3a5020-24d8-40a9-b0b3-44fa32517226
   simpsonsworld_id: 299613763656
   good: false
+  guest_stars:
   characters:
     - marge
 - title: New Kid on the Block
@@ -79,6 +86,7 @@ episodes:
   disneyplus_id: ca3bcaa1-7de1-4a36-b493-92db5ade62a6
   simpsonsworld_id: 273542211871
   good: false
+  guest_stars:
   characters:
     - bart
     - jimbo
@@ -89,6 +97,7 @@ episodes:
   disneyplus_id: 4534ec67-6d1f-48ad-b286-43e1cc108d3c
   simpsonsworld_id: 273544259768
   good: true
+  guest_stars:
   characters:
     - homer
     - barney
@@ -100,6 +109,7 @@ episodes:
   disneyplus_id: 0cf6e0b2-0c75-4106-93a2-efc89238c60c
   simpsonsworld_id: 288026691837
   good: false
+  guest_stars:
   characters:
     - lisa
 - title: Homer's Triple Bypass
@@ -110,6 +120,7 @@ episodes:
   disneyplus_id: 2299137d-d5f0-4488-8b35-bfcd5e15dedd
   simpsonsworld_id: 273548355538
   good: true
+  guest_stars:
   characters:
     - homer
 - title: Marge vs. the Monorail
@@ -120,6 +131,7 @@ episodes:
   disneyplus_id: fc04c428-5f24-4c42-a419-1d1dda6db8dd
   simpsonsworld_id: 306386499796
   good: true
+  guest_stars:
   characters:
     - homer
     - marge
@@ -131,6 +143,7 @@ episodes:
   disneyplus_id: f2c8d63e-df66-419c-af18-5500e71f6d77
   simpsonsworld_id: 310386755912
   good: true
+  guest_stars:
   characters:
     - selma
     - bart
@@ -144,6 +157,7 @@ episodes:
   disneyplus_id: 7225aa46-1c9a-4a64-8a39-116dd909fc0a
   simpsonsworld_id: 274103363992
   good: false
+  guest_stars:
   characters:
     - homer
     - bart
@@ -156,6 +170,7 @@ episodes:
   disneyplus_id: 24614fa3-99fe-4898-9dff-80ef324eb72f
   simpsonsworld_id: 274107459686
   good: true
+  guest_stars:
   characters:
     - ralph
     - lisa
@@ -167,6 +182,7 @@ episodes:
   disneyplus_id: 3bb045c7-34fd-45cb-98c2-b72e8db1ccba
   simpsonsworld_id: 277249603926
   good: true
+  guest_stars:
   characters:
 - title: Last Exit to Springfield
   season: 4
@@ -176,6 +192,7 @@ episodes:
   disneyplus_id: e8b46e3c-2e23-42b8-aed6-136763d57c71
   simpsonsworld_id: 357630019692
   good: true
+  guest_stars:
   characters:
     - homer
     - mr_burns
@@ -187,6 +204,7 @@ episodes:
   disneyplus_id: db1dbdfe-ce8d-4bd5-8471-68c776549ac1
   simpsonsworld_id: 305670723781
   good: false
+  guest_stars:
   characters:
     - clip_show
 - title: The Front
@@ -197,6 +215,7 @@ episodes:
   disneyplus_id: a5a0f5e2-1972-4360-8ec3-7c1374319a1a
   simpsonsworld_id: 288029763650
   good: true
+  guest_stars:
   characters:
     - lisa
     - bart
@@ -209,6 +228,7 @@ episodes:
   disneyplus_id: 9ccf6860-afd1-4db1-8ea7-afe4f5dcbde9
   simpsonsworld_id: 288129091929
   good: true
+  guest_stars:
   characters:
 - title: Marge in Chains
   season: 4
@@ -218,6 +238,7 @@ episodes:
   disneyplus_id: d02ae0e2-fcf2-43c0-b34a-372808d5dfd2
   simpsonsworld_id: 299606595657
   good: false
+  guest_stars:
   characters:
 - title: Krusty Gets Kancelled
   season: 4
@@ -227,6 +248,7 @@ episodes:
   disneyplus_id: 5c868b0d-b9d4-48a7-b40a-1027f81154db
   simpsonsworld_id: 274256963874
   good: true
+  guest_stars:
   characters:
     - bart
     - lisa

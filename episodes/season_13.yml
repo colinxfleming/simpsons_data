@@ -9,6 +9,7 @@ episodes:
   disneyplus_id: 49a883f7-1af9-43fd-a5ea-21d9336cae3a
   simpsonsworld_id: 307115075729
   good: false
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: The Parent Rap
@@ -20,6 +21,7 @@ episodes:
   disneyplus_id: 27398ce7-345a-47bf-a24a-92495aefdf61
   simpsonsworld_id: 307116099877
   good: false
+  guest_stars:
   characters:
 - title: Homer the Moe
   season: 13
@@ -29,6 +31,7 @@ episodes:
   disneyplus_id: 7aa1e458-2d84-462b-944e-fdea6ba7d0c9
   simpsonsworld_id: 300917827935
   good: false
+  guest_stars:
   characters:
     - homer
     - moe
@@ -40,6 +43,7 @@ episodes:
   disneyplus_id: 615f5d50-9053-4a52-9d28-7ee007c4fd6f
   simpsonsworld_id: 301344323882
   good: false
+  guest_stars:
   characters:
     - homer
     - mr_burns
@@ -51,6 +55,7 @@ episodes:
   disneyplus_id: b3a80310-5278-48b4-bcdf-7640e6ef6d76
   simpsonsworld_id: 302898755902
   good: false
+  guest_stars:
   characters:
     - homer
 - title: She of Little Faith
@@ -61,6 +66,7 @@ episodes:
   disneyplus_id: 1e576683-d666-4616-ade0-e434176e3d27
   simpsonsworld_id: 288120899968
   good: true
+  guest_stars:
   characters:
     - lisa
 - title: Brawl in the Family
@@ -71,6 +77,7 @@ episodes:
   disneyplus_id: 6d9cec94-bed0-4dba-8171-af100d77e381
   simpsonsworld_id: 283083843778
   good: false
+  guest_stars:
   characters:
     - simpsons
     - homer
@@ -82,6 +89,7 @@ episodes:
   disneyplus_id: 065b54df-f644-47c3-a829-38392e7d5a42
   simpsonsworld_id: 302893635523
   good: false
+  guest_stars:
   characters:
     - marge
 - title: Jaws Wired Shut
@@ -92,6 +100,7 @@ episodes:
   disneyplus_id: cebdc2b8-429b-450f-ad2a-3d9f892c9a7a
   simpsonsworld_id: 310440003514
   good: true
+  guest_stars:
   characters:
     - homer
     - marge
@@ -104,6 +113,7 @@ episodes:
   disneyplus_id: cae89847-9de4-454f-9df4-8f90066e1424
   simpsonsworld_id: 301684803770
   good: false
+  guest_stars:
   characters:
     - marge
     - artie
@@ -115,6 +125,7 @@ episodes:
   disneyplus_id: ab9a7c27-a859-433d-9cae-ee11d5561f5a
   simpsonsworld_id: 307122755675
   good: false
+  guest_stars:
   characters:
     - bart
     - milhouse
@@ -126,6 +137,7 @@ episodes:
   disneyplus_id: ca10983a-ae5b-4017-86f2-8a869f1224ae
   simpsonsworld_id: 302899267542
   good: false
+  guest_stars:
   characters:
     - bart
 - title: The Old Man and the Key
@@ -137,6 +149,7 @@ episodes:
   disneyplus_id: fae2ffbc-7601-4e73-99a5-6c6309eff0e7
   simpsonsworld_id: 301659203973
   good: false
+  guest_stars:
   characters:
     - grandpa_simpson
 - title: Tales From the Public Domain
@@ -148,6 +161,7 @@ episodes:
   disneyplus_id: 257a9640-b5af-4e20-a4f7-9e1d06b89186
   simpsonsworld_id: 310411843752
   good: false
+  guest_stars:
   characters:
     - vignettes
 - title: Blame it on Lisa
@@ -158,6 +172,7 @@ episodes:
   disneyplus_id: 81943c2d-1289-4956-b555-83e291444b74
   simpsonsworld_id: 301665347899
   good: false
+  guest_stars:
   characters:
     - simpsons
 - title: Weekend at Burnsie's
@@ -169,6 +184,7 @@ episodes:
   disneyplus_id: fc64fc9f-5e54-4857-9743-ef54e7202c2e
   simpsonsworld_id: 310448195762
   good: true
+  guest_stars:
   characters:
     - homer
     - mr_burns
@@ -181,6 +197,7 @@ episodes:
   disneyplus_id: 5b59b6e8-ebf3-48ce-b68f-43760f567b85
   simpsonsworld_id: 302888515845
   good: false
+  guest_stars:
   characters:
     - clip_show
 - title: I am Furious Yellow
@@ -191,6 +208,7 @@ episodes:
   disneyplus_id: fe5e230c-1c35-4b6d-bf16-5aa29d39a7f3
   simpsonsworld_id: 302883907921
   good: true
+  guest_stars:
   characters:
     - homer
     - bart
@@ -202,6 +220,7 @@ episodes:
   disneyplus_id: a5adee2e-50dc-431a-8419-42734f3c1f74
   simpsonsworld_id: 288131139601
   good: false
+  guest_stars:
   characters:
     - apu
     - homer
@@ -213,6 +232,7 @@ episodes:
   disneyplus_id: 9d9a1112-0d2c-47c0-b92c-6fb298dd107d
   simpsonsworld_id: 310416963509
   good: false
+  guest_stars:
   characters:
     - lisa
 - title: Frying Game
@@ -223,6 +243,7 @@ episodes:
   disneyplus_id: 2ade0011-4a83-40a1-b5ff-9b47e3cbe4b3
   simpsonsworld_id: 301664323751
   good: true
+  guest_stars:
   characters:
     - homer
     - marge
@@ -234,5 +255,6 @@ episodes:
   disneyplus_id: 7d8a03ea-c828-488a-ad85-258dd82ce9ca
   simpsonsworld_id: 302880835773
   good: true
+  guest_stars:
   characters:
     - homer

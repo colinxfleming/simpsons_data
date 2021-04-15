@@ -7,6 +7,7 @@ episodes:
   disneyplus_id: 1f47b3ec-a412-4546-a073-8361d53384cf
   simpsonsworld_id: 436516931611
   good: true
+  guest_stars:
   characters:
 - title: The Principal and the Pauper
   season: 9
@@ -15,6 +16,7 @@ episodes:
   disneyplus_id: 84e0db92-6db1-435b-a2dd-b58d76dc31fc
   simpsonsworld_id: 436505155662
   good: true
+  guest_stars:
   characters:
 - title: Lisa's Sax
   season: 9
@@ -23,6 +25,7 @@ episodes:
   disneyplus_id: 53c81aff-a0d3-4989-b86f-62d92ddac2e8
   simpsonsworld_id: 279743555749
   good: false
+  guest_stars:
   characters:
 - title: Treehouse of Horror VIII
   season: 9
@@ -33,6 +36,7 @@ episodes:
   disneyplus_id: 80cee80e-5b99-4e4a-b184-d7d618b0e295
   simpsonsworld_id: 279170627965
   good: true
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: The Cartridge Family
@@ -42,6 +46,7 @@ episodes:
   disneyplus_id: aa731556-7526-4c2a-94b5-55b5c202ff95
   simpsonsworld_id: 302813251779
   good: true
+  guest_stars:
   characters:
 - title: Bart Star
   season: 9
@@ -51,6 +56,7 @@ episodes:
   disneyplus_id: 1b249ab0-7a7a-464f-afb4-748c0b961764
   simpsonsworld_id: 448293443714
   good: false
+  guest_stars:
   characters:
 - title: The Two Mrs. Nahasapeemapetilons
   season: 9
@@ -60,6 +66,7 @@ episodes:
   disneyplus_id: bbdad28f-868c-4a4a-91b8-d5e2eab7ecb0
   simpsonsworld_id: 279177283545
   good: false
+  guest_stars:
   characters:
 - title: Lisa the Skeptic
   season: 9
@@ -69,6 +76,7 @@ episodes:
   disneyplus_id: 2099bcea-1439-42de-a3ac-05beb85d364a
   simpsonsworld_id: 279180355540
   good: true
+  guest_stars:
   characters:
 - title: Realty Bites
   season: 9
@@ -78,6 +86,7 @@ episodes:
   disneyplus_id: e940d201-0f89-4f0d-ac75-b4f075887dc3
   simpsonsworld_id: 280404547525
   good: true
+  guest_stars:
   characters:
 - title: Miracle on Evergreen Terrace
   season: 9
@@ -87,6 +96,7 @@ episodes:
   disneyplus_id: e63b2ce3-d2a4-4490-874c-82a7d8ec0dc6
   simpsonsworld_id: 306881091696
   good: false
+  guest_stars:
   characters:
 - title: All Singing, All Dancing
   season: 9
@@ -95,6 +105,7 @@ episodes:
   disneyplus_id: 010cfd47-8910-4edc-9bb6-e068c9ca3429
   simpsonsworld_id: 294808131518
   good: false
+  guest_stars:
   characters:
 - title: Bart Carny
   season: 9
@@ -104,6 +115,7 @@ episodes:
   disneyplus_id: 66a225cb-1385-434a-aa31-330547596f0f
   simpsonsworld_id: 302818371931
   good: true
+  guest_stars:
   characters:
 - title: The Joy of Sect
   season: 9
@@ -113,6 +125,7 @@ episodes:
   disneyplus_id: f7bbd9ed-04b9-40a8-89b3-13b680238710
   simpsonsworld_id: 299627075941
   good: true
+  guest_stars:
   characters:
 - title: Das Bus
   season: 9
@@ -122,6 +135,7 @@ episodes:
   disneyplus_id: d0aa607e-1140-438a-ac60-932640cb8ce0
   simpsonsworld_id: 448356931860
   good: false
+  guest_stars:
   characters:
 - title: The Last Temptation of Krusty
   season: 9
@@ -131,6 +145,7 @@ episodes:
   disneyplus_id: 0697ad05-0c9e-4e51-9fd3-6784d6b1f93f
   simpsonsworld_id: 294812739638
   good: true
+  guest_stars:
   characters:
 - title: Dumbbell Indemnity
   season: 9
@@ -140,6 +155,7 @@ episodes:
   disneyplus_id: daa5afa4-7b1d-436d-a06c-16cd940e8cad
   simpsonsworld_id: 283910211639
   good: true
+  guest_stars:
   characters:
 - title: Lisa the Simpson
   season: 9
@@ -149,6 +165,7 @@ episodes:
   disneyplus_id: a8995f58-eb52-4194-986a-0dd838a8402f
   simpsonsworld_id: 299651139676
   good: true
+  guest_stars:
   characters:
 - title: This Little Wiggy
   season: 9
@@ -157,6 +174,7 @@ episodes:
   disneyplus_id: 75efdcf2-b757-41fc-97eb-e26a4f226b70
   simpsonsworld_id: 299639875678
   good: false
+  guest_stars:
   characters:
 - title: Simpson Tide
   season: 9
@@ -165,6 +183,7 @@ episodes:
   disneyplus_id: 8adf7684-75d6-411f-a29c-ccf717e3a34c
   simpsonsworld_id: 302809667837
   good: true
+  guest_stars:
   characters:
 - title: The Trouble with Trillions
   season: 9
@@ -174,6 +193,7 @@ episodes:
   disneyplus_id: 7e591366-4790-471b-aa26-33d9a164bfbd
   simpsonsworld_id: 299644483816
   good: false
+  guest_stars:
   characters:
 - title: Girly Edition
   season: 9
@@ -183,6 +203,7 @@ episodes:
   disneyplus_id: fd8b912e-c01d-4a97-aadd-1515a9409321
   simpsonsworld_id: 299672131928
   good: true
+  guest_stars:
   characters:
 - title: Trash of the Titans
   season: 9
@@ -192,6 +213,7 @@ episodes:
   disneyplus_id: 6da3fbc3-cf7f-4bff-8e00-5ce4760aceff
   simpsonsworld_id: 307101763818
   good: true
+  guest_stars:
   characters:
 - title: King of the Hill
   season: 9
@@ -201,6 +223,7 @@ episodes:
   disneyplus_id: ed68b15a-036d-4360-9d1b-023894a48cfd
   simpsonsworld_id: 467593795648
   good: false
+  guest_stars:
   characters:
 - title: Lost Our Lisa
   season: 9
@@ -210,6 +233,7 @@ episodes:
   disneyplus_id: 9263db95-a448-4113-a53b-4b797a60d35f
   simpsonsworld_id: 467595331852
   good: true
+  guest_stars:
   characters:
 - title: Natural Born Kissers
   season: 9
@@ -219,4 +243,5 @@ episodes:
   disneyplus_id: 35b270b9-47d8-4e68-af5f-3f69e2266355
   simpsonsworld_id: 467599939876
   good: false
+  guest_stars:
   characters:

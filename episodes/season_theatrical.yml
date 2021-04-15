@@ -9,6 +9,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 588949571786
   good: maybe
+  guest_stars:
   characters:
 - title: The Simpsons Movie
   season: 99
@@ -18,5 +19,6 @@ episodes:
   disneyplus_id: f1d4d070-76e9-4889-94c2-c8883b2b875a
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
     - simpsons

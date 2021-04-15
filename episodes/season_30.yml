@@ -7,6 +7,7 @@ episodes:
   disneyplus_id: 3abea375-9c5d-4b5d-8e7f-16818897c8a5
   simpsonsworld_id:
   good: false
+  guest_stars:
   characters:
     - bart
     - homer
@@ -17,6 +18,7 @@ episodes:
   disneyplus_id: 7c3f3732-8a93-4a58-ab07-f658a8b5ff65
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: My Way or the Highway to Heaven
   season: 30
@@ -25,6 +27,7 @@ episodes:
   disneyplus_id: b1053f70-abf6-4fb3-a55b-6413e7cd45f8
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Treehouse of Horror XXIX
   season: 30
@@ -33,6 +36,7 @@ episodes:
   disneyplus_id: 0b0b2d05-b113-4d25-b232-849b47bfe6cd
   simpsonsworld_id:
   good: false
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: Baby You Can't Drive My Car
@@ -42,6 +46,7 @@ episodes:
   disneyplus_id: 00a1d721-7669-4ee2-8da5-799f84ae2d90
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: From Russia Without Love
   season: 30
@@ -50,6 +55,7 @@ episodes:
   disneyplus_id: c96aa7e3-f5d8-4b8e-aee2-a7c23cee6c55
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Werking Mom
   season: 30
@@ -58,6 +64,7 @@ episodes:
   disneyplus_id: 84953856-8319-4600-8072-799c2e1e32c4
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Krusty the Clown
   season: 30
@@ -66,6 +73,7 @@ episodes:
   disneyplus_id: b5aeb3d3-3cc3-4e91-a32a-1b33b683b4f9
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Daddicus Finch
   season: 30
@@ -74,6 +82,7 @@ episodes:
   disneyplus_id: 057a8476-019d-4196-8601-38ba7aa0fcad
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: "'Tis the 30th Season"
   season: 30
@@ -82,6 +91,7 @@ episodes:
   disneyplus_id: 6676b4c4-75d0-4d1f-8384-e5da1fb4ec2c
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Mad About the Toy
   season: 30
@@ -90,6 +100,7 @@ episodes:
   disneyplus_id: 9595ca10-574c-4a98-9d06-d3a3d9cfa9ff
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: The Girl on the Bus
   season: 30
@@ -98,6 +109,7 @@ episodes:
   disneyplus_id: 381dd896-c62b-418d-8139-9901022e8c7b
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: I'm Dancing as Fat as I Can
   season: 30
@@ -106,6 +118,7 @@ episodes:
   disneyplus_id: 5e947ef5-874d-4e6d-8d7b-9c0f6418c95f
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: The Clown Stays in the Picture
   season: 30
@@ -114,6 +127,7 @@ episodes:
   disneyplus_id: d3a79e2f-0900-427d-8a99-aed99216af5c
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: 101 Mitigations
   season: 30
@@ -122,6 +136,7 @@ episodes:
   disneyplus_id: cc74c61c-b33f-487b-b9bf-c78e794aadef
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: I Want You (She's So Heavy)
   season: 30
@@ -130,6 +145,7 @@ episodes:
   disneyplus_id: 7cfaf421-8641-4f8a-bf33-b5aa8ce65e8b
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: E My Sports
   season: 30
@@ -138,6 +154,7 @@ episodes:
   disneyplus_id: 54f1162d-019a-4731-a951-9f0db6abb64d
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Bart vs. Itchy and Scratchy
   season: 30
@@ -146,6 +163,7 @@ episodes:
   disneyplus_id: 8b656b44-85db-4ecd-bae5-a3258eb8e9f6
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Girl's in the Band
   season: 30
@@ -154,6 +172,7 @@ episodes:
   disneyplus_id: df2fda5d-4585-424a-a2d5-35a4a5178067
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: I'm Just a Girl Who Can't Say D'oh
   season: 30
@@ -162,6 +181,7 @@ episodes:
   disneyplus_id: 1178d9bf-9372-4847-aee2-66e2b7aa84ad
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: D'oh Canada
   season: 30
@@ -170,6 +190,7 @@ episodes:
   disneyplus_id: 1dd944b3-cda9-4ae7-8bb9-7391e793104e
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Woo-Hoo Dunnit?
   season: 30
@@ -178,6 +199,7 @@ episodes:
   disneyplus_id: 106f5152-8b8a-497c-a823-b10e809f717e
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Crystal Blue-Haired Persuasion
   season: 30
@@ -186,4 +208,5 @@ episodes:
   disneyplus_id: 553af900-6995-420a-8230-61ae64ca9c9a
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
