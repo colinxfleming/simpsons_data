@@ -6,8 +6,10 @@ episodes:
   description: Bart's cover for his lie backfires.
   disneyplus_id: 3abea375-9c5d-4b5d-8e7f-16818897c8a5
   simpsonsworld_id:
-  good: maybe
+  good: false
   characters:
+    - bart
+    - homer
 - title: Heartbreak Hotel
   season: 30
   episode: 2
@@ -30,8 +32,9 @@ episodes:
   description: The Simpsons battle spores from space and Grampa goes to a Jurassic Park-style senior home.
   disneyplus_id: 0b0b2d05-b113-4d25-b232-849b47bfe6cd
   simpsonsworld_id:
-  good: maybe
+  good: false
   characters:
+    - treehouse_of_horror
 - title: Baby You Can't Drive My Car
   season: 30
   episode: 5
