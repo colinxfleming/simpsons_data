@@ -2,27 +2,10 @@
 
 import json
 import os
-# import sys
 
 import yaml
 
-# error_message = 'Please set an output format: yml json'
-
 basedir = os.path.dirname(os.path.realpath(__file__))
-
-output_format = 'json'  # hardsetting fornow
-# try:
-#     output_format = sys.argv[1] if len(sys.argv) > 2 else 'json'
-#     list(['yml', 'json']).index(output_format)
-#     if not output_format:
-#         print(error_message)
-#         raise
-# except ValueError as e:
-#     print(error_message)
-#     raise(e)
-# except IndexError as e:
-#     print(error_message)
-#     raise(e)
 
 all_data = {'episodes': [], 'characters': []}
 
@@ -46,17 +29,9 @@ for index, ep in enumerate(all_data['episodes']):
     if all_data['episodes'][index]['characters'] is None:
         all_data['episodes'][index]['characters'] = []
 
-if output_format == 'yml':
-    raise ValueError('not yet, sorry. just json for now')
-    # output = yaml.dump(all_data)
-elif output_format == 'json':
-    output = json.dumps(all_data, indent=4)
-else:
-    raise ValueError('????')
-
-
-output_file = 'simpsons_data.{}'.format(output_format)
+output = json.dumps(all_data, indent=4)
+output_file = 'simpsons_data.json'
 with open(os.path.join(basedir, output_file), 'w') as f:
     f.write(output)
 
-print('Compilation complete in {}'.format(output_format))
+print('Compilation complete - simpsons_data.json')
