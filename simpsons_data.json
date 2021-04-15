@@ -7364,7 +7364,10 @@
             "disneyplus_id": "3abea375-9c5d-4b5d-8e7f-16818897c8a5",
             "simpsonsworld_id": null,
             "good": false,
-            "characters": []
+            "characters": [
+                "bart",
+                "homer"
+            ]
         },
         {
             "title": "Heartbreak Hotel",
@@ -7394,7 +7397,9 @@
             "disneyplus_id": "0b0b2d05-b113-4d25-b232-849b47bfe6cd",
             "simpsonsworld_id": null,
             "good": false,
-            "characters": []
+            "characters": [
+                "treehouse_of_horror"
+            ]
         },
         {
             "title": "Baby You Can't Drive My Car",
