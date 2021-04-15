@@ -8,6 +8,7 @@ episodes:
   disneyplus_id: 62eb0b5e-cc71-44d4-9179-4fc9709badc1
   simpsonsworld_id: 1075435075944
   good: maybe
+  guest_stars:
   characters:
 - title: Springfield Splendor
   season: 29
@@ -17,6 +18,7 @@ episodes:
   disneyplus_id: df3b5ca2-828d-4685-b0a2-7fca3b905044
   simpsonsworld_id: 1080357443795
   good: maybe
+  guest_stars:
   characters:
 - title: Whistler's Father
   season: 29
@@ -26,6 +28,7 @@ episodes:
   disneyplus_id: f522c362-baa4-45a8-9dbb-e7c54e856648
   simpsonsworld_id: 1073411651711
   good: maybe
+  guest_stars:
   characters:
 - title: Treehouse of Horror XXVIII
   season: 29
@@ -36,6 +39,7 @@ episodes:
   disneyplus_id: c415a80c-dba0-4de1-84c8-723fa242a525
   simpsonsworld_id: 1078509635693
   good: false
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: Grampy Can Ya Hear Me
@@ -46,6 +50,7 @@ episodes:
   disneyplus_id: 85c7dab6-27a8-4532-a64a-b1e8efac6aa4
   simpsonsworld_id: 1088584771605
   good: maybe
+  guest_stars:
   characters:
 - title: The Old Blue Mayor She Ain't What She Used to Be
   season: 29
@@ -55,6 +60,7 @@ episodes:
   disneyplus_id: 4b81e3b0-082c-4be3-8b43-8cf5304af779
   simpsonsworld_id: 1094410819778
   good: maybe
+  guest_stars:
   characters:
 - title: Singin' in the Lane
   season: 29
@@ -64,6 +70,7 @@ episodes:
   disneyplus_id: 5c73167e-6f2a-4d75-a7ef-c1ee5b718a20
   simpsonsworld_id: 1099353155881
   good: maybe
+  guest_stars:
   characters:
 - title: Mr. Lisa's Opus
   season: 29
@@ -73,6 +80,7 @@ episodes:
   disneyplus_id: 2bbb56ca-eee0-4959-b1bd-518503bacd06
   simpsonsworld_id: 1108700739531
   good: maybe
+  guest_stars:
   characters:
 - title: Gone Boy
   season: 29
@@ -82,6 +90,7 @@ episodes:
   disneyplus_id: c1493562-a725-40ea-bc09-bb73cd2687f2
   simpsonsworld_id: 1113094211783
   good: maybe
+  guest_stars:
   characters:
 - title: Haw-Haw Land
   season: 29
@@ -91,6 +100,7 @@ episodes:
   disneyplus_id: a8ede7e7-a35f-4b09-b6bb-331796f1344e
   simpsonsworld_id: 1131039811958
   good: maybe
+  guest_stars:
   characters:
 - title: Fink Gets Testy
   season: 29
@@ -100,6 +110,7 @@ episodes:
   disneyplus_id: 4ac1a815-2066-44e9-b1ae-a90028b40078
   simpsonsworld_id: 1136372803875
   good: maybe
+  guest_stars:
   characters:
 - title: Homer Is Where the Art Isn't
   season: 29
@@ -108,6 +119,7 @@ episodes:
   disneyplus_id: 94a1ceb3-ad15-42f3-adcd-92183c27caaf
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: 3 Scenes Plus a Tag from a Marriage
   season: 29
@@ -116,6 +128,7 @@ episodes:
   disneyplus_id: 144bb57c-9b2d-4ec0-9815-ab6aef446b46
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Fears of a Clown
   season: 29
@@ -124,6 +137,7 @@ episodes:
   disneyplus_id: b39ae395-33c3-482a-9583-3dcea6e42473
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: No Good Read Goes Unpunished
   season: 29
@@ -132,6 +146,7 @@ episodes:
   disneyplus_id: 9045ffae-7815-447b-833c-b5e04fc16a06
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: King Leer
   season: 29
@@ -140,6 +155,7 @@ episodes:
   disneyplus_id: 665a15a4-6cb1-4dda-842c-2b064e272fec
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Lisa Gets the Blues
   season: 29
@@ -148,6 +164,7 @@ episodes:
   disneyplus_id: aca8364d-d82c-49f3-a9ba-d7f963e04daa
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Forgive and Regret
   season: 29
@@ -156,6 +173,7 @@ episodes:
   disneyplus_id: 37eeaacc-1476-42f5-9374-59d6bd3ebbac
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Left Behind
   season: 29
@@ -164,6 +182,7 @@ episodes:
   disneyplus_id: f509e8af-0f86-4c74-87ed-81b96b3c6dac
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Throw Grampa from the Dane
   season: 29
@@ -172,6 +191,7 @@ episodes:
   disneyplus_id: b86d94e2-6991-463d-a0eb-0125d1aa4e8d
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:
 - title: Flanders' Ladder
   season: 29
@@ -180,4 +200,5 @@ episodes:
   disneyplus_id: 00e15f02-f80c-473c-b8ee-94dad1ba4a8b
   simpsonsworld_id:
   good: maybe
+  guest_stars:
   characters:

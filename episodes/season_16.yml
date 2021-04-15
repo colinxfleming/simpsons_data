@@ -9,6 +9,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 256741955834
   good: true
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: All's Fair in Oven War
@@ -20,6 +21,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 257840195722
   good: false
+  guest_stars:
   characters:
     - marge
     - bart
@@ -32,6 +34,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 256764995911
   good: false
+  guest_stars:
   characters:
     - lisa
     - marge
@@ -46,6 +49,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 256753731544
   good: false
+  guest_stars:
   characters:
     - marge
 - title: Fat Man and Little Boy
@@ -56,6 +60,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 256759363799
   good: false
+  guest_stars:
   characters:
     - bart
     - homer
@@ -68,6 +73,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 1094235715818
   good: false
+  guest_stars:
   characters:
     - homer
     - grandpa_simpson
@@ -80,6 +86,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 256807491582
   good: false
+  guest_stars:
   characters:
     - homer
     - marge
@@ -93,6 +100,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 256813635887
   good: false
+  guest_stars:
   characters:
     - homer
     - ned
@@ -104,6 +112,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 256798275935
   good: false
+  guest_stars:
   characters:
     - bart
     - wiggum
@@ -116,6 +125,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 256822339660
   good: false
+  guest_stars:
   characters:
     - patty
     - homer
@@ -128,6 +138,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 256825923849
   good: false
+  guest_stars:
   characters:
     - bart
     - lisa
@@ -140,6 +151,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 264432707575
   good: false
+  guest_stars:
   characters:
     - simpsons
     - selma
@@ -151,6 +163,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 264432707841
   good: false
+  guest_stars:
   characters:
     - simpsons
 - title: The Seven-Beer Snitch
@@ -161,6 +174,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 260844611804
   good: true
+  guest_stars:
   characters:
     - homer
     - bart
@@ -174,6 +188,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 260841027999
   good: false
+  guest_stars:
   characters:
     - bart
 - title: Don't Fear the Roofer
@@ -185,6 +200,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 260835395771
   good: false
+  guest_stars:
   characters:
     - homer
 - title: The Heartbroke Kid
@@ -195,6 +211,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 264207427808
   good: false
+  guest_stars:
   characters:
     - bart
     - simpsons
@@ -206,6 +223,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 264212035982
   good: false
+  guest_stars:
   characters:
     - lisa
     - bart
@@ -217,6 +235,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 264217155650
   good: false
+  guest_stars:
   characters:
     - homer
 - title: The Father, The Son, and The Holy Guest Star
@@ -227,6 +246,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 264455235845
   good: false
+  guest_stars:
   characters:
     - bart
 - title: Home Away From Homer
@@ -238,6 +258,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 264560707993
   good: false
+  guest_stars:
   characters:
     - homer
     - flanders

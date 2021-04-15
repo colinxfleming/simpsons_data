@@ -9,6 +9,7 @@ episodes:
   disneyplus_id: bdffb99b-731e-4739-a599-2e6fa30e78c7
   simpsonsworld_id: 770426947744
   good: false
+  guest_stars:
   characters:
     - homer
     - marge
@@ -20,6 +21,7 @@ episodes:
   disneyplus_id: b852e4d5-f1d0-4952-b7a7-adca126e73cc
   simpsonsworld_id: 770595395906
   good: false
+  guest_stars:
   characters:
     - homer
     - bart
@@ -33,6 +35,7 @@ episodes:
   disneyplus_id: 66f45b14-fc1b-45a9-a420-a8379f61256d
   simpsonsworld_id: 772103747997
   good: maybe
+  guest_stars:
   characters:
     - patty
     - selma
@@ -46,6 +49,7 @@ episodes:
   disneyplus_id: d3c6cf35-7f8e-4040-b356-c056b02a44d1
   simpsonsworld_id: 770425923947
   good: maybe
+  guest_stars:
   characters:
 - title: Treehouse of Horror XXVI
   season: 27
@@ -56,6 +60,7 @@ episodes:
   disneyplus_id: ba22557a-4e1f-44da-a88b-08f68746071d
   simpsonsworld_id: 770433091920
   good: maybe
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: Friend with Benefit
@@ -67,6 +72,7 @@ episodes:
   disneyplus_id: 3dfbf8a3-1234-4745-b3d4-a248f2e00847
   simpsonsworld_id: 770437187884
   good: maybe
+  guest_stars:
   characters:
 - title: Lisa with an 'S'
   season: 27
@@ -76,6 +82,7 @@ episodes:
   disneyplus_id: 9d522c72-2956-45f6-b114-9f06861d3c33
   simpsonsworld_id: 770417219938
   good: maybe
+  guest_stars:
   characters:
 - title: Paths of Glory
   season: 27
@@ -85,6 +92,7 @@ episodes:
   disneyplus_id: 30657536-4a9f-4bcc-8837-f0789b3d6203
   simpsonsworld_id: 770422339536
   good: maybe
+  guest_stars:
   characters:
 - title: Barthood
   season: 27
@@ -95,6 +103,7 @@ episodes:
   disneyplus_id: 432589cf-7d5b-4a7c-871a-1ab04ce07214
   simpsonsworld_id: 1071531075851
   good: maybe
+  guest_stars:
   characters:
 - title: The Girl Code
   season: 27
@@ -105,6 +114,7 @@ episodes:
   disneyplus_id: a5caaa61-6385-4a32-9505-a0397bcab8fc
   simpsonsworld_id: 770434627559
   good: maybe
+  guest_stars:
   characters:
 - title: Teenage Mutant Milk-Caused Hurdles
   season: 27
@@ -115,6 +125,7 @@ episodes:
   disneyplus_id: 954a8498-a8ea-404a-a369-9d8e4563ae17
   simpsonsworld_id: 770430019813
   good: maybe
+  guest_stars:
   characters:
 - title: Much Apu About Something
   season: 27
@@ -125,6 +136,7 @@ episodes:
   disneyplus_id: 20393360-8218-4864-be40-bdc2720cb6a4
   simpsonsworld_id: 770449475567
   good: maybe
+  guest_stars:
   characters:
 - title: Love Is in the N2-O2-Ar-CO2-Ne-He-CH4
   season: 27
@@ -135,6 +147,7 @@ episodes:
   disneyplus_id: 4d973140-20bc-409c-b062-0d4a3bd5ba0c
   simpsonsworld_id: 770439747712
   good: maybe
+  guest_stars:
   characters:
 - title: Gal of Constant Sorrow
   season: 27
@@ -145,6 +158,7 @@ episodes:
   disneyplus_id: 2a2dd9e3-30e0-418f-963a-868b5255e2c3
   simpsonsworld_id: 770451523845
   good: maybe
+  guest_stars:
   characters:
 - title: Lisa the Veterinarian
   season: 27
@@ -155,6 +169,7 @@ episodes:
   disneyplus_id: ff2c31ca-f739-427f-bc4b-54ff06f3b743
   simpsonsworld_id: 770452547696
   good: maybe
+  guest_stars:
   characters:
 - title: The Marge-ian Chronicles
   season: 27
@@ -165,6 +180,7 @@ episodes:
   disneyplus_id: bf490d6d-519f-407c-9f6a-ae7322534a49
   simpsonsworld_id: 770891331927
   good: maybe
+  guest_stars:
   characters:
 - title: The Burns Cage
   season: 27
@@ -175,6 +191,7 @@ episodes:
   disneyplus_id: eca78e82-0bbe-4bbf-b682-60e91b5cb8a5
   simpsonsworld_id: 770893891557
   good: maybe
+  guest_stars:
   characters:
 - title: How Lisa Got Her Marge Back
   season: 27
@@ -185,6 +202,7 @@ episodes:
   disneyplus_id: 03e357d5-7658-4c29-b5ae-e3bc2739e4ff
   simpsonsworld_id: 770893891750
   good: maybe
+  guest_stars:
   characters:
 - title: Fland Canyon
   season: 27
@@ -194,6 +212,7 @@ episodes:
   disneyplus_id: b9dc9ea5-988b-4276-ae71-da9e2bdf0431
   simpsonsworld_id: 1071851075844
   good: maybe
+  guest_stars:
   characters:
 - title: To Courier with Love
   season: 27
@@ -204,6 +223,7 @@ episodes:
   disneyplus_id: 64fc4774-bf5a-42f8-a5cb-8e52423f22d8
   simpsonsworld_id: 772102211921
   good: maybe
+  guest_stars:
   characters:
 - title: Simprovised
   season: 27
@@ -214,6 +234,7 @@ episodes:
   disneyplus_id: c93809a1-f8cd-4941-a268-4b688b6bee15
   simpsonsworld_id: 770892355976
   good: maybe
+  guest_stars:
   characters:
 - title: Orange Is the New Yellow
   season: 27
@@ -223,4 +244,5 @@ episodes:
   disneyplus_id: f4578a6f-2a92-4e49-82a4-1a37789ddbfd
   simpsonsworld_id: 772111939897
   good: maybe
+  guest_stars:
   characters:

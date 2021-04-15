@@ -9,6 +9,7 @@ episodes:
   disneyplus_id: 15a66ce2-69d0-4f64-9d8b-dfd5d05111c0
   simpsonsworld_id: 221691971633
   good: false
+  guest_stars:
   characters:
     - bart
     - lisa
@@ -21,6 +22,7 @@ episodes:
   disneyplus_id: 1e683629-3099-4342-b9cd-830b67a607b2
   simpsonsworld_id: 221695555645
   good: true
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: Adventures in Baby-getting
@@ -31,6 +33,7 @@ episodes:
   disneyplus_id: 4e9dc8fc-19c1-493a-bcb5-d2cd463512ed
   simpsonsworld_id: 221688899646
   good: false
+  guest_stars:
   characters:
     - marge
     - bart
@@ -43,6 +46,7 @@ episodes:
   disneyplus_id: 95a59aa7-8dd8-4b37-946d-ba4b2370fe1b
   simpsonsworld_id: 221688899887
   good: false
+  guest_stars:
   characters:
     - grandpa_simpson
     - lisa
@@ -54,6 +58,7 @@ episodes:
   disneyplus_id: 2364e35d-b013-4ce2-8781-2528238ca84a
   simpsonsworld_id: 221694531617
   good: true
+  guest_stars:
   characters:
     - fat_tony
     - lisa
@@ -66,6 +71,7 @@ episodes:
   disneyplus_id: 13091b84-3bf8-49b1-a289-1196270e20c5
   simpsonsworld_id: 229733443727
   good: false
+  guest_stars:
   characters:
     - homer
 - title: The Day the Earth Stood Cool
@@ -76,6 +82,7 @@ episodes:
   disneyplus_id: 9f181a16-923c-4b5f-b16c-6ed616dbd5bf
   simpsonsworld_id: 222374467937
   good: false
+  guest_stars:
   characters:
     - homer
 - title: To Cur, With Love
@@ -87,6 +94,7 @@ episodes:
   disneyplus_id: 31835d74-90cf-407d-a5b4-5cfdf65364dd
   simpsonsworld_id: 222491715618
   good: maybe
+  guest_stars:
   characters:
 - title: Homer Goes to Prep School
   season: 24
@@ -96,6 +104,7 @@ episodes:
   disneyplus_id: e5ab93cc-8b25-4f41-ba33-618cd72303f1
   simpsonsworld_id: 1094312515873
   good: false
+  guest_stars:
   characters:
     - homer
 - title: A Test Before Trying
@@ -106,6 +115,7 @@ episodes:
   disneyplus_id: 9d7c7493-3f24-4913-9982-af323ebc6a25
   simpsonsworld_id: 222388291945
   good: true
+  guest_stars:
   characters:
     - bart
     - homer
@@ -117,6 +127,7 @@ episodes:
   disneyplus_id: b4979e57-2149-444f-a2ef-ffb99cad5fac
   simpsonsworld_id: 257684035668
   good: maybe
+  guest_stars:
   characters:
 - title: Love is a Many-Splintered Thing
   season: 24
@@ -126,6 +137,7 @@ episodes:
   disneyplus_id: 680107c6-aa55-49d7-aad6-6e2260625b65
   simpsonsworld_id: 257681987573
   good: maybe
+  guest_stars:
   characters:
 - title: Hardly Kirk-ing
   season: 24
@@ -135,6 +147,7 @@ episodes:
   disneyplus_id: 9b94d4eb-f41a-4c7b-af02-75b13d18fa01
   simpsonsworld_id: 257686595928
   good: maybe
+  guest_stars:
   characters:
 - title: Gorgeous Grampa
   season: 24
@@ -145,6 +158,7 @@ episodes:
   disneyplus_id: 637c1f7b-b52b-4ac1-8a2b-781cc6254fdb
   simpsonsworld_id: 257687107857
   good: maybe
+  guest_stars:
   characters:
 - title: Black-Eyed, Please
   season: 24
@@ -155,6 +169,7 @@ episodes:
   disneyplus_id: 50ca0957-7857-490c-8a02-91daa99ec26c
   simpsonsworld_id: 257689667578
   good: maybe
+  guest_stars:
   characters:
 - title: Dark Knight Court
   season: 24
@@ -165,6 +180,7 @@ episodes:
   disneyplus_id: 56b4c00a-9a1d-4e34-95ee-fb57416428e7
   simpsonsworld_id: 257714243647
   good: maybe
+  guest_stars:
   characters:
 - title: What Animated Women Want
   season: 24
@@ -174,6 +190,7 @@ episodes:
   disneyplus_id: 6b63cb85-0417-4763-badc-cfe3abcafe10
   simpsonsworld_id: 1094243907551
   good: maybe
+  guest_stars:
   characters:
 - title: Pulpit Friction
   season: 24
@@ -183,6 +200,7 @@ episodes:
   disneyplus_id: d7de92f2-f378-4328-86fd-1ba45b27e794
   simpsonsworld_id: 257728579751
   good: maybe
+  guest_stars:
   characters:
 - title: Whiskey Business
   season: 24
@@ -193,6 +211,7 @@ episodes:
   disneyplus_id: 19842aab-5cbb-4b3f-a454-f519c3927f5e
   simpsonsworld_id: 257737283653
   good: maybe
+  guest_stars:
   characters:
 - title: The Fabulous Faker Boy
   season: 24
@@ -202,6 +221,7 @@ episodes:
   disneyplus_id: 44088609-5b17-4aa8-90f3-3ccbec6a5fdb
   simpsonsworld_id: 257760323921
   good: maybe
+  guest_stars:
   characters:
 - title: The Saga of Carl
   season: 24
@@ -211,6 +231,7 @@ episodes:
   disneyplus_id: 407d6ec8-d258-4dc3-827c-a81cf50c8828
   simpsonsworld_id: 257753667515
   good: true
+  guest_stars:
   characters:
     - homer
     - moe
@@ -224,4 +245,5 @@ episodes:
   disneyplus_id: 7220ab72-469d-4ce0-a41e-d727c10e72c4
   simpsonsworld_id: 257768003795
   good: maybe
+  guest_stars:
   characters:

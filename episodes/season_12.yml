@@ -9,6 +9,7 @@ episodes:
   disneyplus_id: 8f3f2a60-3741-426f-bbc6-b303d1b0adbe
   simpsonsworld_id: 294765123660
   good: false
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: A Tale of Two Springfields
@@ -19,6 +20,7 @@ episodes:
   disneyplus_id: 973def57-0286-420b-b379-29506579cbe4
   simpsonsworld_id: 300911171880
   good: true
+  guest_stars:
   characters:
     - homer
 - title: Insane Clown Poppy
@@ -29,6 +31,7 @@ episodes:
   disneyplus_id: 3c4f7bf2-c2cc-433c-84a9-2e7b4a8b355f
   simpsonsworld_id: 306934851515
   good: false
+  guest_stars:
   characters:
     - krusty
 - title: Lisa the Treehugger
@@ -39,6 +42,7 @@ episodes:
   disneyplus_id: 8db238bc-3261-4cfa-9f84-ef56b0320417
   simpsonsworld_id: 306939971530
   good: false
+  guest_stars:
   characters:
     - lisa
 - title: Homer vs. Dignity
@@ -49,6 +53,7 @@ episodes:
   disneyplus_id: e1571405-1efa-4e78-8534-210ef3adbfc6
   simpsonsworld_id: 311670339999
   good: false
+  guest_stars:
   characters:
     - homer
     - mr_burns
@@ -60,6 +65,7 @@ episodes:
   disneyplus_id: b4a7b686-0418-41a5-94f7-b4fe410d2e5c
   simpsonsworld_id: 302843971598
   good: false
+  guest_stars:
   characters:
     - homer
 - title: The Great Money Caper
@@ -70,6 +76,7 @@ episodes:
   disneyplus_id: fc3fe593-1586-446b-82fc-a89e0d51b78f
   simpsonsworld_id: 304456259863
   good: true
+  guest_stars:
   characters:
     - homer
     - bart
@@ -82,6 +89,7 @@ episodes:
   disneyplus_id: 98ea336b-b2ac-4bcc-b11f-4ca5560b3003
   simpsonsworld_id: 307850819951
   good: false
+  guest_stars:
   characters:
     - skinner
     - bart
@@ -94,6 +102,7 @@ episodes:
   disneyplus_id: 3111dfd2-62e7-4dc5-8448-c37e5e95ef3c
   simpsonsworld_id: 306945603638
   good: true
+  guest_stars:
   characters:
     - homer
     - lisa
@@ -106,6 +115,7 @@ episodes:
   disneyplus_id: 5a0e6628-e826-4c6c-9222-a717473fba86
   simpsonsworld_id: 302844995961
   good: false
+  guest_stars:
   characters:
     - marge
     - skinner
@@ -117,6 +127,7 @@ episodes:
   disneyplus_id: 1c2d1dbd-7ad5-46ba-b759-e07400b4fc1c
   simpsonsworld_id: 310459971509
   good: true
+  guest_stars:
   characters:
     - bart
     - milhouse
@@ -129,6 +140,7 @@ episodes:
   disneyplus_id: b0c9ae03-7a23-4337-a425-bf5dd96516ef
   simpsonsworld_id: 300916291603
   good: false
+  guest_stars:
   characters:
     - marge
     - homer
@@ -141,6 +153,7 @@ episodes:
   disneyplus_id: 9c3e929b-c242-4de5-affc-5a826fe18dcd
   simpsonsworld_id: 307106883649
   good: false
+  guest_stars:
   characters:
     - sideshow_bob
     - bart
@@ -153,6 +166,7 @@ episodes:
   disneyplus_id: 89cbf06d-f2ba-463e-9644-88c129108846
   simpsonsworld_id: 310437443723
   good: true
+  guest_stars:
   characters:
     - bart
 - title: Hungry Hungry Homer
@@ -163,6 +177,7 @@ episodes:
   disneyplus_id: 238de1c0-2a47-4ffb-8e04-18dc8a038587
   simpsonsworld_id: 307850819931
   good: true
+  guest_stars:
   characters:
     - homer
 - title: Bye Bye Nerdy
@@ -173,6 +188,7 @@ episodes:
   disneyplus_id: a1c87fe2-c9a6-4eed-bc9a-bd2960eb1580
   simpsonsworld_id: 302846019892
   good: false
+  guest_stars:
   characters:
     - lisa
     - homer
@@ -184,6 +200,7 @@ episodes:
   disneyplus_id: 4e1b6c0d-3e34-47ca-97ca-1a70ec60df00
   simpsonsworld_id: 302845507908
   good: false
+  guest_stars:
   characters:
     - simpsons
 - title: Trilogy of Error
@@ -195,6 +212,7 @@ episodes:
   disneyplus_id: 0cb770ac-cb53-4d54-a068-c5c4e0375eed
   simpsonsworld_id: 302842947994
   good: false
+  guest_stars:
   characters:
     - simpsons
     - vignettes
@@ -207,6 +225,7 @@ episodes:
   disneyplus_id: 531b8ed5-1190-4ec8-8ed8-dab058e10a59
   simpsonsworld_id: 302848579632
   good: true
+  guest_stars:
   characters:
     - flanders
 - title: Children of a Lesser Clod
@@ -218,6 +237,7 @@ episodes:
   disneyplus_id: 291d7d5a-edda-40ea-a149-75bf98b7b7e6
   simpsonsworld_id: 301652547508
   good: false
+  guest_stars:
   characters:
     - homer
 - title: Simpsons Tall Tales
@@ -228,5 +248,6 @@ episodes:
   disneyplus_id: be38a176-f5fe-4e51-b91b-192b05534acc
   simpsonsworld_id: 301685315594
   good: false
+  guest_stars:
   characters:
     - vignettes

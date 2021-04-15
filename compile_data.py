@@ -29,6 +29,10 @@ for index, ep in enumerate(all_data['episodes']):
     if all_data['episodes'][index]['characters'] is None:
         all_data['episodes'][index]['characters'] = []
 
+    # Turn all empty guest star arrays to [] from nil
+    if all_data['episodes'][index]['guest_stars'] is None:
+        all_data['episodes'][index]['guest_stars'] = []
+
 output = json.dumps(all_data, indent=4)
 output_file = 'simpsons_data.json'
 with open(os.path.join(basedir, output_file), 'w') as f:

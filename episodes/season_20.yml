@@ -8,6 +8,7 @@ episodes:
   disneyplus_id: b41e3be6-a769-407d-a3fc-a277e56801f3
   simpsonsworld_id: 311088195682
   good: true
+  guest_stars:
   characters:
     - homer
     - ned
@@ -21,6 +22,7 @@ episodes:
   disneyplus_id: 342c9998-d824-4e01-9a5b-9b6db32bf258
   simpsonsworld_id: 304458307742
   good: false
+  guest_stars:
   characters:
     - bart
     - marge
@@ -32,6 +34,7 @@ episodes:
   disneyplus_id: 37918594-db18-449e-a6cc-d82abf914a4b
   simpsonsworld_id: 304460355919
   good: maybe
+  guest_stars:
   characters:
 - title: Treehouse of Horror XIX
   season: 20
@@ -42,6 +45,7 @@ episodes:
   disneyplus_id: d2d09518-7a45-4fb6-882a-a97051fe2e27
   simpsonsworld_id: 691895363987
   good: false
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: Dangerous Curves
@@ -53,6 +57,7 @@ episodes:
   disneyplus_id: 9c79d330-2b3d-48d8-adb8-ee9781e48fb4
   simpsonsworld_id: 311675459549
   good: maybe
+  guest_stars:
   characters:
 - title: Homer and Lisa Exchange Cross Words
   season: 20
@@ -62,6 +67,7 @@ episodes:
   disneyplus_id: 52d5c4bb-bc9c-4463-862a-2b241726510f
   simpsonsworld_id: 310541891517
   good: false
+  guest_stars:
   characters:
     - lisa
     - homer
@@ -73,6 +79,7 @@ episodes:
   disneyplus_id: 04436cd4-2791-45a4-b513-1e436dcec79b
   simpsonsworld_id: 310498883779
   good: maybe
+  guest_stars:
   characters:
 - title: The Burns and the Bees
   season: 20
@@ -82,6 +89,7 @@ episodes:
   disneyplus_id: eff7ae0c-3a24-4a1d-af82-ca8771821789
   simpsonsworld_id: 310506051725
   good: true
+  guest_stars:
   characters:
     - mr_burns
     - lisa
@@ -93,6 +101,7 @@ episodes:
   disneyplus_id: 68ee0aa3-11db-4692-9bca-d8f8601c3a5a
   simpsonsworld_id: 292944963870
   good: maybe
+  guest_stars:
   characters:
 - title: Take My Life, Please
   season: 20
@@ -103,6 +112,7 @@ episodes:
   disneyplus_id: 1274848a-af0a-4883-866f-4cb68b0e503d
   simpsonsworld_id: 273728067781
   good: maybe
+  guest_stars:
   characters:
 - title: How the Test Was Won
   season: 20
@@ -113,6 +123,7 @@ episodes:
   disneyplus_id: 67652d71-984c-4ae6-a681-039dc438e679
   simpsonsworld_id: 277134915702
   good: maybe
+  guest_stars:
   characters:
 - title: No Loan Again, Naturally
   season: 20
@@ -123,6 +134,7 @@ episodes:
   disneyplus_id: 7b36dd78-924e-40ee-8be2-ce89a6b40964
   simpsonsworld_id: 273029699673
   good: maybe
+  guest_stars:
   characters:
 - title: Gone Maggie Gone
   season: 20
@@ -132,6 +144,7 @@ episodes:
   disneyplus_id: 7142d0eb-2815-4108-b9d6-af8624dc2ab1
   simpsonsworld_id: 273030211958
   good: maybe
+  guest_stars:
   characters:
 - title: In the Name of the Grandfather
   season: 20
@@ -141,6 +154,7 @@ episodes:
   disneyplus_id: 788f0f9a-99a6-44a5-b575-b65feeee9152
   simpsonsworld_id: 307849283838
   good: maybe
+  guest_stars:
   characters:
 - title: Wedding for Disaster
   season: 20
@@ -151,6 +165,7 @@ episodes:
   disneyplus_id: 8de216fa-ab27-4068-abba-7b3d64888854
   simpsonsworld_id: 273024579646
   good: maybe
+  guest_stars:
   characters:
 - title: Eeny Teeny Maya Moe
   season: 20
@@ -160,6 +175,7 @@ episodes:
   disneyplus_id: 5c605010-e2c7-442f-afc8-2ef9e6845e94
   simpsonsworld_id: 273066051746
   good: maybe
+  guest_stars:
   characters:
 - title: The Good, The Sad, and The Drugly
   season: 20
@@ -170,6 +186,7 @@ episodes:
   disneyplus_id: ba710d3f-9c05-4213-9311-ea4d6ae60d7c
   simpsonsworld_id: 273057347598
   good: maybe
+  guest_stars:
   characters:
 - title: Father Knows Worst
   season: 20
@@ -180,6 +197,7 @@ episodes:
   disneyplus_id: d4a21611-7e67-480d-940d-3291933e8328
   simpsonsworld_id: 273070659848
   good: maybe
+  guest_stars:
   characters:
 - title: Waverly Hills 9-0-2-1-D'oh
   season: 20
@@ -189,6 +207,7 @@ episodes:
   disneyplus_id: 236d3723-c091-4c65-9147-fd39dd2183bb
   simpsonsworld_id: 299732035764
   good: maybe
+  guest_stars:
   characters:
 - title: Four Great Women and a Manicure
   season: 20
@@ -198,6 +217,7 @@ episodes:
   disneyplus_id: 1cf52f6d-4c3e-45d1-81d0-294bb257f1c8
   simpsonsworld_id: 273732163923
   good: maybe
+  guest_stars:
   characters:
 - title: Coming To Homerica
   season: 20
@@ -207,4 +227,5 @@ episodes:
   disneyplus_id: 527aec32-aac9-47c3-ac7e-72509b9a9fe7
   simpsonsworld_id: 729848899646
   good: maybe
+  guest_stars:
   characters:

@@ -9,6 +9,7 @@ episodes:
   disneyplus_id: 15041ad9-c690-4a1e-819c-5394d01d3896
   simpsonsworld_id: 273502275982
   good: false
+  guest_stars:
   characters:
     - homer
     - marge
@@ -20,6 +21,7 @@ episodes:
   disneyplus_id: 49f07704-d9ac-47e6-aa12-0a30eaf32f6e
   simpsonsworld_id: 277101123962
   good: false
+  guest_stars:
   characters:
     - lisa
 - title: Milhouse of Sand and Fog
@@ -31,6 +33,7 @@ episodes:
   disneyplus_id: 8c265c5a-c1d6-4d41-a16e-2947e666bdd0
   simpsonsworld_id: 273506371834
   good: false
+  guest_stars:
   characters:
     - bart
     - milhouse
@@ -43,6 +46,7 @@ episodes:
   disneyplus_id: 79526359-09da-410f-93ed-473dd8a22d91
   simpsonsworld_id: 310466627927
   good: false
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: Marge's Son Poisoning
@@ -53,6 +57,7 @@ episodes:
   disneyplus_id: 4f23394a-acfe-44da-9638-6c91de330635
   simpsonsworld_id: 279766083701
   good: false
+  guest_stars:
   characters:
     - marge
     - bart
@@ -64,6 +69,7 @@ episodes:
   disneyplus_id: e583a0f5-1ec6-430e-aca2-d8872a2a62a7
   simpsonsworld_id: 273512003506
   good: false
+  guest_stars:
   characters:
     - homer
     - lisa
@@ -76,6 +82,7 @@ episodes:
   disneyplus_id: b1c183c4-3596-488d-a69f-e009a0b9a052
   simpsonsworld_id: 279770179721
   good: false
+  guest_stars:
   characters:
     - marge
     - lisa
@@ -88,6 +95,7 @@ episodes:
   disneyplus_id: 33c8bd72-9107-4de1-943b-a3e9e4f02fe8
   simpsonsworld_id: 256858691577
   good: false
+  guest_stars:
   characters:
     - simpsons
     - sideshow_bob
@@ -100,6 +108,7 @@ episodes:
   disneyplus_id: 69054322-132b-4ec5-b54b-ea7f4bdcc48c
   simpsonsworld_id: 256885315702
   good: false
+  guest_stars:
   characters:
     - vignettes
 - title: Homer's Paternity Coot
@@ -110,6 +119,7 @@ episodes:
   disneyplus_id: 5076a95f-afa6-46d1-8e57-91577a8220cf
   simpsonsworld_id: 279775811924
   good: false
+  guest_stars:
   characters:
     - homer
     - grandpa_simpson
@@ -122,6 +132,7 @@ episodes:
   disneyplus_id: 97ef599a-591e-4b7b-8d45-4dee2571550e
   simpsonsworld_id: 310483523720
   good: false
+  guest_stars:
   characters:
     - homer
     - bart
@@ -134,6 +145,7 @@ episodes:
   disneyplus_id: 11f3cddd-9bb1-4486-a382-448da80dc063
   simpsonsworld_id: 307171907536
   good: false
+  guest_stars:
   characters:
     - willie
     - lisa
@@ -147,6 +159,7 @@ episodes:
   disneyplus_id: 34ca3fd2-198b-4dbc-a3f0-20813f98d804
   simpsonsworld_id: 277107267767
   good: false
+  guest_stars:
   characters:
     - vignettes
 - title: Bart Has Two Mommies
@@ -157,6 +170,7 @@ episodes:
   disneyplus_id: f0ba9823-f753-4fde-b3c3-597e098037c1
   simpsonsworld_id: 277113411511
   good: true
+  guest_stars:
   characters:
     - rod
     - todd
@@ -170,6 +184,7 @@ episodes:
   disneyplus_id: c76182bf-8018-4817-bebe-6f6e97fd95c1
   simpsonsworld_id: 277119043544
   good: false
+  guest_stars:
   characters:
     - homer
     - marge
@@ -181,6 +196,7 @@ episodes:
   disneyplus_id: f06f1cc0-dad5-43ca-95f6-bd312cf3447c
   simpsonsworld_id: 292950083730
   good: false
+  guest_stars:
   characters:
     - grandpa_simpson
 - title: Kiss Kiss Bang Bangalore
@@ -192,6 +208,7 @@ episodes:
   disneyplus_id: ea476b6b-104d-4b87-b600-104ce3ea2192
   simpsonsworld_id: 283757123904
   good: false
+  guest_stars:
   characters:
     - homer
     - mr_burns
@@ -205,6 +222,7 @@ episodes:
   disneyplus_id: 45d552e0-f659-47d7-a211-af7feff50ed0
   simpsonsworld_id: 310489667660
   good: false
+  guest_stars:
   characters:
     - vignettes
 - title: Girls Just Want to Have Sums
@@ -216,6 +234,7 @@ episodes:
   disneyplus_id: 5df6d32f-2304-45cd-a197-1d90aa7e1d76
   simpsonsworld_id: 274367043639
   good: false
+  guest_stars:
   characters:
     - lisa
 - title: Regarding Margie
@@ -226,6 +245,7 @@ episodes:
   disneyplus_id: 7ebe927e-566b-41b5-9625-ba9600ceb5b5
   simpsonsworld_id: 277125187506
   good: false
+  guest_stars:
   characters:
     - marge
 - title: The Monkey Suit
@@ -236,6 +256,7 @@ episodes:
   disneyplus_id: 8d55f57f-97da-4a15-a0b2-57d6ce59bc29
   simpsonsworld_id: 277127235959
   good: false
+  guest_stars:
   characters:
     - lisa
 - title: Marge and Homer Turn a Couple Play
@@ -246,6 +267,7 @@ episodes:
   disneyplus_id: 81f1ff3f-741e-4677-9c71-628b4851dbf6
   simpsonsworld_id: 292955203576
   good: false
+  guest_stars:
   characters:
     - homer
     - marge

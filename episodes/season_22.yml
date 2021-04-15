@@ -8,6 +8,7 @@ episodes:
   disneyplus_id: 38dc78b3-ee05-4b9d-9faf-324e06a3bb5c
   simpsonsworld_id: 263519811935
   good: maybe
+  guest_stars:
   characters:
 - title: Loan-A-Lisa
   season: 22
@@ -18,6 +19,7 @@ episodes:
   disneyplus_id: 02203562-d301-496c-af82-b940db82b457
   simpsonsworld_id: 263525955686
   good: maybe
+  guest_stars:
   characters:
 - title: Money Bart
   season: 22
@@ -27,6 +29,7 @@ episodes:
   disneyplus_id: 15c14d56-e9f6-4f1c-9ebd-3c9f38710b0d
   simpsonsworld_id: 263531587720
   good: maybe
+  guest_stars:
   characters:
 - title: Treehouse of Horror XXI
   season: 22
@@ -37,6 +40,7 @@ episodes:
   disneyplus_id: bb65a800-5f8d-4847-84a8-ec68a9ab9293
   simpsonsworld_id: 263577155794
   good: false
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: Lisa Simpson, This Isn't Your Life
@@ -48,6 +52,7 @@ episodes:
   disneyplus_id: 6de44acb-aec2-4b25-a004-33b218e68d95
   simpsonsworld_id: 263540291528
   good: maybe
+  guest_stars:
   characters:
 - title: The Fool Monty
   season: 22
@@ -57,6 +62,7 @@ episodes:
   disneyplus_id: a3b8ce07-2d55-4871-8fad-6329dd94e6c7
   simpsonsworld_id: 263544387571
   good: maybe
+  guest_stars:
   characters:
 - title: How Munched is that Birdie in the Window?
   season: 22
@@ -66,6 +72,7 @@ episodes:
   disneyplus_id: 356e17bb-0256-4ed9-a099-2440629b232a
   simpsonsworld_id: 263545923923
   good: maybe
+  guest_stars:
   characters:
 - title: The Fight Before Christmas
   season: 22
@@ -76,6 +83,7 @@ episodes:
   disneyplus_id: 3f4c7660-b103-4f5e-8f3c-1f0294d6b8b0
   simpsonsworld_id: 263551043814
   good: maybe
+  guest_stars:
   characters:
 - title: Donnie Fatso
   season: 22
@@ -85,6 +93,7 @@ episodes:
   disneyplus_id: e10fee5e-a7af-44b5-abd3-4b77d384d0e7
   simpsonsworld_id: 263572035826
   good: maybe
+  guest_stars:
   characters:
 - title: Moms I'd Like To Forget
   season: 22
@@ -94,6 +103,7 @@ episodes:
   disneyplus_id: b74dda16-c0a0-470f-a1e4-bdbf60934c52
   simpsonsworld_id: 256848451515
   good: maybe
+  guest_stars:
   characters:
 - title: Flaming Moe
   season: 22
@@ -103,6 +113,7 @@ episodes:
   disneyplus_id: 05b20286-fb1c-4d57-864b-d1ec3bfeb7cf
   simpsonsworld_id: 263579715535
   good: maybe
+  guest_stars:
   characters:
 - title: Homer the Father
   season: 22
@@ -113,6 +124,7 @@ episodes:
   disneyplus_id: de9cd73b-cd99-4706-b804-ef09beb797d5
   simpsonsworld_id: 256851523744
   good: maybe
+  guest_stars:
   characters:
 - title: The Blue and the Gray
   season: 22
@@ -123,6 +135,7 @@ episodes:
   disneyplus_id: de739c9a-880f-4e00-9ceb-515061e1c6cd
   simpsonsworld_id: 254809667917
   good: maybe
+  guest_stars:
   characters:
 - title: 'Angry Dad: The Movie'
   season: 22
@@ -132,6 +145,7 @@ episodes:
   disneyplus_id: d9470465-3363-4914-bc9b-ebf02c34d164
   simpsonsworld_id: 254814275630
   good: maybe
+  guest_stars:
   characters:
 - title: The Scorpion's Tale
   season: 22
@@ -142,6 +156,7 @@ episodes:
   disneyplus_id: 592c231b-e6c6-4e46-8028-867b2d3c84e1
   simpsonsworld_id: 254817859928
   good: maybe
+  guest_stars:
   characters:
 - title: A Midsummer's Nice Dreams
   season: 22
@@ -152,6 +167,7 @@ episodes:
   disneyplus_id: 83e09f86-0bd5-4557-9e96-88abbc3c4b3b
   simpsonsworld_id: 254821955889
   good: maybe
+  guest_stars:
   characters:
 - title: Love is a Many Strangled Thing
   season: 22
@@ -161,6 +177,7 @@ episodes:
   disneyplus_id: 2b4b1626-7659-41bc-86cb-c3e54dacb1f1
   simpsonsworld_id: 254830659539
   good: maybe
+  guest_stars:
   characters:
 - title: The Great Simpsina
   season: 22
@@ -170,6 +187,7 @@ episodes:
   disneyplus_id: 31ed1ffb-7ab7-4e62-894f-0a1e6fbd2470
   simpsonsworld_id: 254866499808
   good: maybe
+  guest_stars:
   characters:
 - title: The Housewives of Fat Tony
   season: 22
@@ -179,6 +197,7 @@ episodes:
   disneyplus_id: c185dd7e-51d1-42df-83a9-cac70fd2db64
   simpsonsworld_id: 254870083832
   good: maybe
+  guest_stars:
   characters:
 - title: Homer Scissorhands
   season: 22
@@ -188,6 +207,7 @@ episodes:
   disneyplus_id: 93b63c51-2897-4453-8f3f-3c66a807e05d
   simpsonsworld_id: 254876227684
   good: maybe
+  guest_stars:
   characters:
 - title: 500 Keys
   season: 22
@@ -198,6 +218,7 @@ episodes:
   disneyplus_id: db312e88-f40c-4220-94b3-0342669e204f
   simpsonsworld_id: 254880835816
   good: maybe
+  guest_stars:
   characters:
 - title: The Ned-liest Catch
   season: 22
@@ -207,4 +228,5 @@ episodes:
   disneyplus_id: db312e88-f40c-4220-94b3-0342669e204f
   simpsonsworld_id: 255101507699
   good: maybe
+  guest_stars:
   characters:

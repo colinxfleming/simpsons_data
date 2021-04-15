@@ -8,6 +8,7 @@ episodes:
   disneyplus_id: e0db43b4-b127-4792-9ba6-caf3fdba9189
   simpsonsworld_id: 300925507538
   good: true
+  guest_stars:
   characters:
     - bart
     - lisa
@@ -21,6 +22,7 @@ episodes:
   disneyplus_id: 3c568ad6-485c-4d21-b020-38c786694561
   simpsonsworld_id: 278809667691
   good: false
+  guest_stars:
   characters:
     - lisa
     - homer
@@ -32,6 +34,7 @@ episodes:
   disneyplus_id: feda9375-d929-429a-9435-b1cd5d101222
   simpsonsworld_id: 300928067775
   good: false
+  guest_stars:
   characters:
     - clip_show
 - title: Itchy and Scratchy Land
@@ -42,6 +45,7 @@ episodes:
   disneyplus_id: 916ceda9-c787-4d02-9b7f-dc39a0840d5d
   simpsonsworld_id: 283752003577
   good: true
+  guest_stars:
   characters:
     - simpsons
 - title: Sideshow Bob Roberts
@@ -52,6 +56,7 @@ episodes:
   disneyplus_id: 40520eb0-dffb-4f80-bb22-2ddb42f54b0c
   simpsonsworld_id: 275729987504
   good: true
+  guest_stars:
   characters:
     - bart
     - sideshow_bob
@@ -62,6 +67,7 @@ episodes:
   disneyplus_id: 956d5f58-9674-4f76-88de-b113d2318202
   simpsonsworld_id: 299597891663
   good: true
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: Bart's Girlfriend
@@ -72,6 +78,7 @@ episodes:
   disneyplus_id: 62d263db-6b8c-4654-beda-040484e7235e
   simpsonsworld_id: 275744323759
   good: true
+  guest_stars:
   characters:
     - bart
 - title: Lisa on Ice
@@ -82,6 +89,7 @@ episodes:
   disneyplus_id: e45f5161-1e73-455f-82ac-48e3d03a7e12
   simpsonsworld_id: 275746371575
   good: true
+  guest_stars:
   characters:
     - bart
     - lisa
@@ -92,6 +100,7 @@ episodes:
   disneyplus_id: 48565484-149b-48f2-a05e-ebcd9b121782
   simpsonsworld_id: 275746883653
   good: true
+  guest_stars:
   characters:
     - homer
 - title: Grampa vs. Sexual Inadequacy
@@ -102,6 +111,7 @@ episodes:
   disneyplus_id: 7b7cd73e-4de3-40e8-bcbd-f7cee25bfa6f
   simpsonsworld_id: 274264643876
   good: true
+  guest_stars:
   characters:
     - homer
     - grandpa_simpson
@@ -113,6 +123,7 @@ episodes:
   disneyplus_id: 8575c33f-e73d-40a8-8fa2-c91b65a9710f
   simpsonsworld_id: 305684547546
   good: false
+  guest_stars:
   characters:
     - marge
 - title: Homer the Great
@@ -123,6 +134,7 @@ episodes:
   disneyplus_id: d02227b3-65fd-4fa1-ad78-3a4d72fe1254
   simpsonsworld_id: 275745859881
   good: true
+  guest_stars:
   characters:
     - homer
 - title: And Maggie Makes Three
@@ -132,6 +144,7 @@ episodes:
   disneyplus_id: beb15b6c-0732-45f6-9455-ee8336f45f1d
   simpsonsworld_id: 278796867754
   good: false
+  guest_stars:
   characters:
 - title: Bart's Comet
   season: 6
@@ -140,6 +153,7 @@ episodes:
   disneyplus_id: ab06e7e0-8658-45f0-9e61-49e2a2a3f6cd
   simpsonsworld_id: 275746883888
   good: true
+  guest_stars:
   characters:
     - bart
 - title: Homie the Clown
@@ -149,6 +163,7 @@ episodes:
   disneyplus_id: 30a62635-7272-43d6-887a-d323236b492a
   simpsonsworld_id: 279723587611
   good: true
+  guest_stars:
   characters:
     - homer
     - krusty
@@ -160,6 +175,7 @@ episodes:
   disneyplus_id: 646ad7b7-2623-459e-9544-ded1ccaf6094
   simpsonsworld_id: 275748931680
   good: true
+  guest_stars:
   characters:
     - bart
 - title: Homer vs. Patty and Selma
@@ -170,6 +186,7 @@ episodes:
   disneyplus_id: 2fa7626b-eabb-46b0-81e5-b9cb333b56f3
   simpsonsworld_id: 305686083529
   good: true
+  guest_stars:
   characters:
     - homer
     - patty
@@ -182,6 +199,7 @@ episodes:
   disneyplus_id: 4f4aaa93-bfde-443c-9024-9cd1f217fced
   simpsonsworld_id: 283753539580
   good: true
+  guest_stars:
   characters:
     - marge
     - homer
@@ -193,6 +211,7 @@ episodes:
   disneyplus_id: 9708a302-1343-4bbb-ba23-5a96255d8289
   simpsonsworld_id: 275751491511
   good: false
+  guest_stars:
   characters:
     - lisa
 - title: Two Dozen and One Greyhounds
@@ -203,6 +222,7 @@ episodes:
   disneyplus_id: b598df88-303d-4588-8cdc-08a6a1f1692d
   simpsonsworld_id: 278807107855
   good: true
+  guest_stars:
   characters:
     - bart
     - lisa
@@ -215,6 +235,7 @@ episodes:
   disneyplus_id: c00d65d6-2343-4870-bd41-3cbd2660273a
   simpsonsworld_id: 294780995610
   good: true
+  guest_stars:
   characters:
     - bart
     - marge
@@ -226,6 +247,7 @@ episodes:
   disneyplus_id: a1d3d5ef-5c31-422e-8e6e-23f0c8d7dbea
   simpsonsworld_id: 275755587777
   good: true
+  guest_stars:
   characters:
     - lisa
     - bart
@@ -237,6 +259,7 @@ episodes:
   disneyplus_id: 055a8934-53ff-46e0-bd72-709db2c17b5a
   simpsonsworld_id: 305689155572
   good: true
+  guest_stars:
   characters:
     - marge
     - wiggum
@@ -248,6 +271,7 @@ episodes:
   disneyplus_id: 02037b88-c8d8-4512-9ca3-08cfe7eba3c6
   simpsonsworld_id: 274269763684
   good: true
+  guest_stars:
   characters:
     - bart
     - homer
@@ -260,6 +284,7 @@ episodes:
   disneyplus_id: d4c01d16-1512-424e-bb7a-36c11398972f
   simpsonsworld_id: 294781507859
   good: true
+  guest_stars:
   characters:
     - mr_burns
     - ensemble

@@ -9,6 +9,7 @@ episodes:
   disneyplus_id: 52c632a3-fbc8-4d17-b46a-f5522ff30aaa
   simpsonsworld_id: 307191875741
   good: maybe
+  guest_stars:
   characters:
 - title: Treehouse of Horror XXIV
   season: 25
@@ -19,6 +20,7 @@ episodes:
   disneyplus_id: 3ae51e62-c577-40cc-83fc-147cc4feccbf
   simpsonsworld_id: 310259779794
   good: maybe
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: Four Regrettings and a Funeral
@@ -30,6 +32,7 @@ episodes:
   disneyplus_id: 166cebad-4ef0-404a-93ef-50166b7b847f
   simpsonsworld_id: 311688259548
   good: maybe
+  guest_stars:
   characters:
 - title: YOLO
   season: 25
@@ -40,6 +43,7 @@ episodes:
   disneyplus_id: 6b167486-d4b7-46c5-8246-2b24415d880a
   simpsonsworld_id: 304473155645
   good: maybe
+  guest_stars:
   characters:
 - title: Labor Pains
   season: 25
@@ -50,6 +54,7 @@ episodes:
   disneyplus_id: 3ddd2387-3e2b-45d5-8003-075420c52ca9
   simpsonsworld_id: 311105091548
   good: maybe
+  guest_stars:
   characters:
 - title: The Kid Is All Right
   season: 25
@@ -59,6 +64,7 @@ episodes:
   disneyplus_id: 4b47c46b-cbda-4ecd-8715-94935ca69273
   simpsonsworld_id: 310523971648
   good: maybe
+  guest_stars:
   characters:
 - title: Yellow Subterfuge
   season: 25
@@ -69,6 +75,7 @@ episodes:
   disneyplus_id: febd486b-544e-4063-9f74-2925554c20a4
   simpsonsworld_id: 304476739664
   good: maybe
+  guest_stars:
   characters:
 - title: White Christmas Blues
   season: 25
@@ -79,6 +86,7 @@ episodes:
   disneyplus_id: 90d36b9f-c9da-4f5b-9c99-03f63a2742aa
   simpsonsworld_id: 307199043880
   good: maybe
+  guest_stars:
   characters:
 - title: Steal This Episode
   season: 25
@@ -88,6 +96,7 @@ episodes:
   disneyplus_id: 0c9550cd-8044-4efe-8eed-aece092047f6
   simpsonsworld_id: 310523459925
   good: maybe
+  guest_stars:
   characters:
 - title: Married to the Blob
   season: 25
@@ -97,6 +106,7 @@ episodes:
   disneyplus_id: c26f25f7-d8d3-4ea0-a62a-bcaaa8688b3f
   simpsonsworld_id: 310541379637
   good: maybe
+  guest_stars:
   characters:
 - title: Specs and the City
   season: 25
@@ -106,6 +116,7 @@ episodes:
   disneyplus_id: 0c4e2f05-97c8-46fd-9699-6f44940717b7
   simpsonsworld_id: 307204163997
   good: maybe
+  guest_stars:
   characters:
 - title: The Man Who Grew Too Much
   season: 25
@@ -115,6 +126,7 @@ episodes:
   disneyplus_id: 3afb3c6d-f176-4867-a1d1-c59758d9352b
   simpsonsworld_id: 307207235909
   good: maybe
+  guest_stars:
   characters:
 - title: Diggs
   season: 25
@@ -124,6 +136,7 @@ episodes:
   disneyplus_id: 9afafaa3-fa10-489b-9b30-8e95371eb8ac
   simpsonsworld_id: 310529091639
   good: maybe
+  guest_stars:
   characters:
 - title: The Winter of His Content
   season: 25
@@ -134,6 +147,7 @@ episodes:
   disneyplus_id: bb32c897-8d50-495c-bce2-a9e91c4cc25b
   simpsonsworld_id: 307209283970
   good: maybe
+  guest_stars:
   characters:
 - title: The War of Art
   season: 25
@@ -144,6 +158,7 @@ episodes:
   disneyplus_id: d589791f-8d39-40bc-a438-ef791f0fe4a8
   simpsonsworld_id: 311117891947
   good: maybe
+  guest_stars:
   characters:
 - title: You Don't Have to Live Like a Referee
   season: 25
@@ -153,6 +168,7 @@ episodes:
   disneyplus_id: 7c3c7706-d070-4262-b4d6-21ce7e22899b
   simpsonsworld_id: 304489539783
   good: maybe
+  guest_stars:
   characters:
 - title: Luca$
   season: 25
@@ -162,6 +178,7 @@ episodes:
   disneyplus_id: 6d255409-bf57-40b6-bbc1-307bebde5538
   simpsonsworld_id: 304500803520
   good: maybe
+  guest_stars:
   characters:
 - title: Days of Future Future
   season: 25
@@ -172,6 +189,7 @@ episodes:
   disneyplus_id: 9089df85-7fd5-4fad-9e1b-5f4e8c2a7822
   simpsonsworld_id: 310257731892
   good: maybe
+  guest_stars:
   characters:
 - title: What to Expect When Bart's Expecting
   season: 25
@@ -182,6 +200,7 @@ episodes:
   disneyplus_id: 1042e57d-5c33-44a5-a3bf-03ed298ea748
   simpsonsworld_id: 307214403888
   good: maybe
+  guest_stars:
   characters:
 - title: Brick Like Me
   season: 25
@@ -191,6 +210,7 @@ episodes:
   disneyplus_id: 44ece42c-b05f-4368-91c4-ad72a5d23f61
   simpsonsworld_id: 311243331763
   good: maybe
+  guest_stars:
   characters:
 - title: Pay Pal
   season: 25
@@ -201,6 +221,7 @@ episodes:
   disneyplus_id: c4b37972-da8c-4268-b348-668474719dc3
   simpsonsworld_id: 304502851923
   good: maybe
+  guest_stars:
   characters:
 - title: Yellow Badge of Cowardge
   season: 25
@@ -211,4 +232,5 @@ episodes:
   disneyplus_id: ad75b189-ba84-41a8-af62-098025711897
   simpsonsworld_id: 307219523604
   good: maybe
+  guest_stars:
   characters:

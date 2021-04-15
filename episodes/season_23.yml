@@ -8,6 +8,7 @@ episodes:
   disneyplus_id: 71b4298a-1375-487d-9f31-bdaa8cbcbc2e
   simpsonsworld_id: 273517123847
   good: false
+  guest_stars:
   characters:
     - homer
 - title: Bart Stops to Smell the Roosevelts
@@ -19,6 +20,7 @@ episodes:
   disneyplus_id: 59a04eed-8b31-4baf-8a35-bab47d03659d
   simpsonsworld_id: 273518659843
   good: true
+  guest_stars:
   characters:
     - bart
     - chalmers
@@ -31,6 +33,7 @@ episodes:
   disneyplus_id: e3246047-78cf-422e-8a4e-255937be23a4
   simpsonsworld_id: 230493251807
   good: false
+  guest_stars:
   characters:
     - treehouse_of_horror
 - title: Replaceable You
@@ -42,6 +45,7 @@ episodes:
   disneyplus_id: 29f3160e-8e9e-4a6f-b561-6e7eda6121ed
   simpsonsworld_id: 273736771817
   good: false
+  guest_stars:
   characters:
     - homer
     - bart
@@ -54,6 +58,7 @@ episodes:
   disneyplus_id: 4fe22703-23f3-4634-a071-1a604032e7b8
   simpsonsworld_id: 233194563539
   good: false
+  guest_stars:
   characters:
     - marge
 - title: The Book Job
@@ -65,6 +70,7 @@ episodes:
   disneyplus_id: b7ca559b-b06a-43d4-bd61-ec1e0e22aa45
   simpsonsworld_id: 264559171655
   good: false
+  guest_stars:
   characters:
     - lisa
     - homer
@@ -76,6 +82,7 @@ episodes:
   disneyplus_id: cb8c182c-b6f1-4bac-b637-de92eda72767
   simpsonsworld_id: 1071533123906
   good: false
+  guest_stars:
   characters:
     - homer
 - title: The Ten-Per-Cent Solution
@@ -86,6 +93,7 @@ episodes:
   disneyplus_id: bc909c20-4bc6-47bf-a1b5-96c8ba44acb1
   simpsonsworld_id: 230516291714
   good: false
+  guest_stars:
   characters:
     - krusty
 - title: Holidays Of Future Passed
@@ -97,6 +105,7 @@ episodes:
   disneyplus_id: 8613b781-eede-4d74-9b1a-23ce1164c0dc
   simpsonsworld_id: 230516803889
   good: false
+  guest_stars:
   characters:
     - bart
     - lisa
@@ -109,6 +118,7 @@ episodes:
   disneyplus_id: 0a2e7bf0-e93b-4f48-9c9a-1c77795dfff3
   simpsonsworld_id: 230549059731
   good: false
+  guest_stars:
   characters:
     - homer
 - title: The D'oh-cial Network
@@ -119,6 +129,7 @@ episodes:
   disneyplus_id: 70286e61-f44d-44d7-b054-22bc39a9c42a
   simpsonsworld_id: 230552131592
   good: false
+  guest_stars:
   characters:
     - lisa
 - title: Moe Goes From Rags To Riches
@@ -129,6 +140,7 @@ episodes:
   disneyplus_id: 167bafe2-53a2-4f75-a425-11c8f6843e5f
   simpsonsworld_id: 230553667901
   good: maybe
+  guest_stars:
   characters:
 - title: The Daughter Also Rises
   season: 23
@@ -139,6 +151,7 @@ episodes:
   disneyplus_id: c5e4fe9d-f086-46bf-92c7-fc75c2ef2826
   simpsonsworld_id: 230562371905
   good: maybe
+  guest_stars:
   characters:
 - title: At Long Last Leave
   season: 23
@@ -148,6 +161,7 @@ episodes:
   disneyplus_id: 30f5a709-b305-4c61-9483-515ce22d9493
   simpsonsworld_id: 230541891832
   good: maybe
+  guest_stars:
   characters:
 - title: Exit Through The Kwik-E-Mart
   season: 23
@@ -158,6 +172,7 @@ episodes:
   disneyplus_id: 64c36a14-f4ee-4574-8591-25198574be40
   simpsonsworld_id: 304468035701
   good: maybe
+  guest_stars:
   characters:
 - title: How I Wet Your Mother
   season: 23
@@ -167,6 +182,7 @@ episodes:
   disneyplus_id: fa2585ca-1fe7-4706-80fe-acf1cf3559eb
   simpsonsworld_id: 230597187582
   good: maybe
+  guest_stars:
   characters:
 - title: Them, Robot
   season: 23
@@ -176,6 +192,7 @@ episodes:
   disneyplus_id: 63c15301-5e59-4015-82cb-44d1990674fb
   simpsonsworld_id: 230592067926
   good: maybe
+  guest_stars:
   characters:
 - title: Beware My Cheating Bart
   season: 23
@@ -185,6 +202,7 @@ episodes:
   disneyplus_id: 6e6fd589-61de-4524-b1c6-dfec86a79ca0
   simpsonsworld_id: 311189571768
   good: maybe
+  guest_stars:
   characters:
 - title: A Totally Fun Thing Bart Will Never Do Again
   season: 23
@@ -194,6 +212,7 @@ episodes:
   disneyplus_id: 1cf3d987-255c-4e8a-8a7b-ff9b69efc674
   simpsonsworld_id: 273522243657
   good: maybe
+  guest_stars:
   characters:
 - title: The Spy Who Learned Me
   season: 23
@@ -204,6 +223,7 @@ episodes:
   disneyplus_id: a9b57d21-527b-4e1b-b9fb-579a0d8e0829
   simpsonsworld_id: 230588995967
   good: maybe
+  guest_stars:
   characters:
 - title: Ned 'n Edna's Blend Agenda
   season: 23
@@ -213,6 +233,7 @@ episodes:
   disneyplus_id: c1b07def-9637-4b21-ba0b-445110bbb94b
   simpsonsworld_id: 277098051530
   good: maybe
+  guest_stars:
   characters:
 - title: Lisa Goes Gaga
   season: 23
@@ -222,4 +243,5 @@ episodes:
   disneyplus_id: e922e60a-ed9e-4bf7-9d0b-48e54c01622d
   simpsonsworld_id: 233190467851
   good: maybe
+  guest_stars:
   characters:
