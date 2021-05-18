@@ -90,18 +90,20 @@ episodes:
   description: The Simpsons try to spend a relaxing Florida Christmas.
   disneyplus_id: 6676b4c4-75d0-4d1f-8384-e5da1fb4ec2c
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
   characters:
+    - simpsons
 - title: Mad About the Toy
   season: 30
   episode: 11
   description: Grampa learns a startling secret from his past. It takes him to Texas to find a long-lost life.
   disneyplus_id: 9595ca10-574c-4a98-9d06-d3a3d9cfa9ff
   simpsonsworld_id:
-  good: maybe
+  good: true
   guest_stars:
   characters:
+    - grandpa
 - title: The Girl on the Bus
   season: 30
   episode: 12
