@@ -22,7 +22,9 @@ episodes:
 - title: The Simpsons in Plusaversary
   season: 99
   episode: 2
-  description: The Simpsons host a Disney+ Day party and everyone is on the list... except Homer. With friends from across the service and music fit for a Disney princess, Plusaversary is Springfield’s event of the year.
+  description: The Simpsons host a Disney+ Day party and everyone is on the list... except
+    Homer. With friends from across the service and music fit for a Disney princess,
+    Plusaversary is Springfield’s event of the year.
   disneyplus_id: d19da874-da2d-4dcd-978b-efb00befce1b
   simpsonsworld_id:
   good: maybe
@@ -30,7 +32,8 @@ episodes:
 - title: Maggie Simpson in Playdate with Destiny
   season: 99
   episode: 3
-  description: When Maggie Simpson is rescued by a cute young baby from playground peril, it’s girl meets boy, girl loses boy, guess what happens next?
+  description: When Maggie Simpson is rescued by a cute young baby from playground peril, it's
+    girl meets boy, girl loses boy, guess what happens next?
   disneyplus_id: f02f6d69-5f8d-4087-a8a8-e94bdc4015ec
   simpsonsworld_id:
   good: maybe
@@ -38,7 +41,10 @@ episodes:
 - title: The Good, the Bart, and the Loki
   season: 99
   episode: 4
-  description: Banished from Asgard once again, Loki must face his toughest opponents yet: the Simpsons and Springfield’s mightiest heroes. The God of Mischief teams up with Bart Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe of Super Heroes and villains.
+  description: "Banished from Asgard once again, Loki must face his toughest opponents yet:
+    the Simpsons and Springfield's mightiest heroes. The God of Mischief teams up with Bart
+    Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe
+    of Super Heroes and villains."
   disneyplus_id: 3b9fa824-8d1c-48f5-af02-3b7b8c9d910d
   simpsonsworld_id:
   good: maybe
@@ -46,7 +52,10 @@ episodes:
 - title: Maggie Simpson in The Force Awakens from Its Nap
   season: 99
   episode: 5
-  description: In a daycare far, far away… but still in Springfield, Maggie is on an epic quest for her stolen pacifier. Her adventure brings her face-to-face with young Padawans, Sith Lords, familiar droids, Rebel scum, and an ultimate battle against the Dark Side, in this original short celebrating the Star Wars galaxy.
+  description: In a daycare far, far away... but still in Springfield, Maggie is on an epic
+    quest for her stolen pacifier. Her adventure brings her face-to-face with young Padawans,
+    Sith Lords, familiar droids, Rebel scum, and an ultimate battle against the Dark Side,
+    in this original short celebrating the Star Wars galaxy.
   disneyplus_id: d2343d55-e0e3-436f-acbd-fc0003406eca
   simpsonsworld_id:
   good: maybe
