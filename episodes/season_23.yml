@@ -9,8 +9,6 @@ episodes:
   simpsonsworld_id: 273517123847
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: Bart Stops to Smell the Roosevelts
   season: 23
   episode: 2
@@ -21,9 +19,6 @@ episodes:
   simpsonsworld_id: 273518659843
   good: true
   guest_stars:
-  characters:
-    - bart
-    - chalmers
 - title: Treehouse of Horror XXII
   season: 23
   episode: 3
@@ -34,8 +29,6 @@ episodes:
   simpsonsworld_id: 230493251807
   good: false
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: Replaceable You
   season: 23
   episode: 4
@@ -46,9 +39,6 @@ episodes:
   simpsonsworld_id: 273736771817
   good: false
   guest_stars:
-  characters:
-    - homer
-    - bart
 - title: The Food Wife
   season: 23
   episode: 5
@@ -59,8 +49,6 @@ episodes:
   simpsonsworld_id: 233194563539
   good: false
   guest_stars:
-  characters:
-    - marge
 - title: The Book Job
   season: 23
   episode: 6
@@ -71,9 +59,6 @@ episodes:
   simpsonsworld_id: 264559171655
   good: false
   guest_stars:
-  characters:
-    - lisa
-    - homer
 - title: The Man in the Blue Flannel Pants
   season: 23
   episode: 7
@@ -83,8 +68,6 @@ episodes:
   simpsonsworld_id: 1071533123906
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: The Ten-Per-Cent Solution
   season: 23
   episode: 8
@@ -94,8 +77,6 @@ episodes:
   simpsonsworld_id: 230516291714
   good: false
   guest_stars:
-  characters:
-    - krusty
 - title: Holidays Of Future Passed
   season: 23
   episode: 9
@@ -106,9 +87,6 @@ episodes:
   simpsonsworld_id: 230516803889
   good: false
   guest_stars:
-  characters:
-    - bart
-    - lisa
 - title: Politically Inept, With Homer Simpson
   season: 23
   episode: 10
@@ -119,8 +97,6 @@ episodes:
   simpsonsworld_id: 230549059731
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: The D'oh-cial Network
   season: 23
   episode: 11
@@ -130,8 +106,6 @@ episodes:
   simpsonsworld_id: 230552131592
   good: false
   guest_stars:
-  characters:
-    - lisa
 - title: Moe Goes From Rags To Riches
   season: 23
   episode: 12
@@ -141,7 +115,6 @@ episodes:
   simpsonsworld_id: 230553667901
   good: maybe
   guest_stars:
-  characters:
 - title: The Daughter Also Rises
   season: 23
   episode: 13
@@ -152,7 +125,6 @@ episodes:
   simpsonsworld_id: 230562371905
   good: maybe
   guest_stars:
-  characters:
 - title: At Long Last Leave
   season: 23
   episode: 14
@@ -162,7 +134,6 @@ episodes:
   simpsonsworld_id: 230541891832
   good: maybe
   guest_stars:
-  characters:
 - title: Exit Through The Kwik-E-Mart
   season: 23
   episode: 15
@@ -173,7 +144,6 @@ episodes:
   simpsonsworld_id: 304468035701
   good: maybe
   guest_stars:
-  characters:
 - title: How I Wet Your Mother
   season: 23
   episode: 16
@@ -183,7 +153,6 @@ episodes:
   simpsonsworld_id: 230597187582
   good: maybe
   guest_stars:
-  characters:
 - title: Them, Robot
   season: 23
   episode: 17
@@ -193,7 +162,6 @@ episodes:
   simpsonsworld_id: 230592067926
   good: maybe
   guest_stars:
-  characters:
 - title: Beware My Cheating Bart
   season: 23
   episode: 18
@@ -203,7 +171,6 @@ episodes:
   simpsonsworld_id: 311189571768
   good: maybe
   guest_stars:
-  characters:
 - title: A Totally Fun Thing Bart Will Never Do Again
   season: 23
   episode: 19
@@ -213,7 +180,6 @@ episodes:
   simpsonsworld_id: 273522243657
   good: maybe
   guest_stars:
-  characters:
 - title: The Spy Who Learned Me
   season: 23
   episode: 20
@@ -224,7 +190,6 @@ episodes:
   simpsonsworld_id: 230588995967
   good: maybe
   guest_stars:
-  characters:
 - title: Ned 'n Edna's Blend Agenda
   season: 23
   episode: 21
@@ -234,7 +199,6 @@ episodes:
   simpsonsworld_id: 277098051530
   good: maybe
   guest_stars:
-  characters:
 - title: Lisa Goes Gaga
   season: 23
   episode: 22
@@ -244,4 +208,3 @@ episodes:
   simpsonsworld_id: 233190467851
   good: maybe
   guest_stars:
-  characters:

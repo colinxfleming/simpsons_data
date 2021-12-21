@@ -10,9 +10,6 @@ episodes:
   simpsonsworld_id: 770426947744
   good: false
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: Cue Detective
   season: 27
   episode: 2
@@ -22,10 +19,6 @@ episodes:
   simpsonsworld_id: 770595395906
   good: false
   guest_stars:
-  characters:
-    - homer
-    - bart
-    - lisa
 - title: Puffless
   season: 27
   episode: 3
@@ -36,10 +29,6 @@ episodes:
   simpsonsworld_id: 772103747997
   good: maybe
   guest_stars:
-  characters:
-    - patty
-    - selma
-    - maggie
 - title: Halloween of Horror
   season: 27
   episode: 4
@@ -50,7 +39,6 @@ episodes:
   simpsonsworld_id: 770425923947
   good: maybe
   guest_stars:
-  characters:
 - title: Treehouse of Horror XXVI
   season: 27
   episode: 5
@@ -61,8 +49,6 @@ episodes:
   simpsonsworld_id: 770433091920
   good: maybe
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: Friend with Benefit
   season: 27
   episode: 6
@@ -73,7 +59,6 @@ episodes:
   simpsonsworld_id: 770437187884
   good: maybe
   guest_stars:
-  characters:
 - title: Lisa with an 'S'
   season: 27
   episode: 7
@@ -83,7 +68,6 @@ episodes:
   simpsonsworld_id: 770417219938
   good: maybe
   guest_stars:
-  characters:
 - title: Paths of Glory
   season: 27
   episode: 8
@@ -93,7 +77,6 @@ episodes:
   simpsonsworld_id: 770422339536
   good: maybe
   guest_stars:
-  characters:
 - title: Barthood
   season: 27
   episode: 9
@@ -104,7 +87,6 @@ episodes:
   simpsonsworld_id: 1071531075851
   good: maybe
   guest_stars:
-  characters:
 - title: The Girl Code
   season: 27
   episode: 10
@@ -115,7 +97,6 @@ episodes:
   simpsonsworld_id: 770434627559
   good: maybe
   guest_stars:
-  characters:
 - title: Teenage Mutant Milk-Caused Hurdles
   season: 27
   episode: 11
@@ -126,7 +107,6 @@ episodes:
   simpsonsworld_id: 770430019813
   good: maybe
   guest_stars:
-  characters:
 - title: Much Apu About Something
   season: 27
   episode: 12
@@ -137,7 +117,6 @@ episodes:
   simpsonsworld_id: 770449475567
   good: maybe
   guest_stars:
-  characters:
 - title: Love Is in the N2-O2-Ar-CO2-Ne-He-CH4
   season: 27
   episode: 13
@@ -148,7 +127,6 @@ episodes:
   simpsonsworld_id: 770439747712
   good: maybe
   guest_stars:
-  characters:
 - title: Gal of Constant Sorrow
   season: 27
   episode: 14
@@ -159,7 +137,6 @@ episodes:
   simpsonsworld_id: 770451523845
   good: maybe
   guest_stars:
-  characters:
 - title: Lisa the Veterinarian
   season: 27
   episode: 15
@@ -170,7 +147,6 @@ episodes:
   simpsonsworld_id: 770452547696
   good: maybe
   guest_stars:
-  characters:
 - title: The Marge-ian Chronicles
   season: 27
   episode: 16
@@ -181,7 +157,6 @@ episodes:
   simpsonsworld_id: 770891331927
   good: maybe
   guest_stars:
-  characters:
 - title: The Burns Cage
   season: 27
   episode: 17
@@ -192,7 +167,6 @@ episodes:
   simpsonsworld_id: 770893891557
   good: maybe
   guest_stars:
-  characters:
 - title: How Lisa Got Her Marge Back
   season: 27
   episode: 18
@@ -203,7 +177,6 @@ episodes:
   simpsonsworld_id: 770893891750
   good: maybe
   guest_stars:
-  characters:
 - title: Fland Canyon
   season: 27
   episode: 19
@@ -213,7 +186,6 @@ episodes:
   simpsonsworld_id: 1071851075844
   good: maybe
   guest_stars:
-  characters:
 - title: To Courier with Love
   season: 27
   episode: 20
@@ -224,7 +196,6 @@ episodes:
   simpsonsworld_id: 772102211921
   good: maybe
   guest_stars:
-  characters:
 - title: Simprovised
   season: 27
   episode: 21
@@ -235,7 +206,6 @@ episodes:
   simpsonsworld_id: 770892355976
   good: maybe
   guest_stars:
-  characters:
 - title: Orange Is the New Yellow
   season: 27
   episode: 22
@@ -245,4 +215,3 @@ episodes:
   simpsonsworld_id: 772111939897
   good: maybe
   guest_stars:
-  characters:

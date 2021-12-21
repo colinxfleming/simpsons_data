@@ -10,9 +10,6 @@ episodes:
   simpsonsworld_id: 273502275982
   good: false
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: The Girl Who Slept Too Little
   season: 17
   episode: 2
@@ -22,8 +19,6 @@ episodes:
   simpsonsworld_id: 277101123962
   good: false
   guest_stars:
-  characters:
-    - lisa
 - title: Milhouse of Sand and Fog
   season: 17
   episode: 3
@@ -34,9 +29,6 @@ episodes:
   simpsonsworld_id: 273506371834
   good: false
   guest_stars:
-  characters:
-    - bart
-    - milhouse
 - title: Treehouse of Horror XVI
   season: 17
   episode: 4
@@ -47,8 +39,6 @@ episodes:
   simpsonsworld_id: 310466627927
   good: false
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: Marge's Son Poisoning
   season: 17
   episode: 5
@@ -58,9 +48,6 @@ episodes:
   simpsonsworld_id: 279766083701
   good: false
   guest_stars:
-  characters:
-    - marge
-    - bart
 - title: See Homer Run
   season: 17
   episode: 6
@@ -70,10 +57,6 @@ episodes:
   simpsonsworld_id: 273512003506
   good: false
   guest_stars:
-  characters:
-    - homer
-    - lisa
-    - quimby
 - title: The Last of the Red Hat Mamas
   season: 17
   episode: 7
@@ -83,10 +66,6 @@ episodes:
   simpsonsworld_id: 279770179721
   good: false
   guest_stars:
-  characters:
-    - marge
-    - lisa
-    - milhouse
 - title: The Italian Bob
   season: 17
   episode: 8
@@ -96,9 +75,6 @@ episodes:
   simpsonsworld_id: 256858691577
   good: false
   guest_stars:
-  characters:
-    - simpsons
-    - sideshow_bob
 - title: Simpsons Christmas Stories
   season: 17
   episode: 9
@@ -109,8 +85,6 @@ episodes:
   simpsonsworld_id: 256885315702
   good: false
   guest_stars:
-  characters:
-    - vignettes
 - title: Homer's Paternity Coot
   season: 17
   episode: 10
@@ -120,9 +94,6 @@ episodes:
   simpsonsworld_id: 279775811924
   good: false
   guest_stars:
-  characters:
-    - homer
-    - grandpa_simpson
 - title: We're on the Road to D'ohwhere
   season: 17
   episode: 11
@@ -133,9 +104,6 @@ episodes:
   simpsonsworld_id: 310483523720
   good: false
   guest_stars:
-  characters:
-    - homer
-    - bart
 - title: My Fair Laddy
   season: 17
   episode: 12
@@ -146,10 +114,6 @@ episodes:
   simpsonsworld_id: 307171907536
   good: false
   guest_stars:
-  characters:
-    - willie
-    - lisa
-    - homer
 - title: The Seemingly Never-Ending Story
   season: 17
   episode: 13
@@ -160,8 +124,6 @@ episodes:
   simpsonsworld_id: 277107267767
   good: false
   guest_stars:
-  characters:
-    - vignettes
 - title: Bart Has Two Mommies
   season: 17
   episode: 14
@@ -171,11 +133,6 @@ episodes:
   simpsonsworld_id: 277113411511
   good: true
   guest_stars:
-  characters:
-    - rod
-    - todd
-    - marge
-    - bart
 - title: Homer Simpson, This is Your Wife
   season: 17
   episode: 15
@@ -185,9 +142,6 @@ episodes:
   simpsonsworld_id: 277119043544
   good: false
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: Million Dollar Abie
   season: 17
   episode: 16
@@ -197,8 +151,6 @@ episodes:
   simpsonsworld_id: 292950083730
   good: false
   guest_stars:
-  characters:
-    - grandpa_simpson
 - title: Kiss Kiss Bang Bangalore
   season: 17
   episode: 17
@@ -209,11 +161,6 @@ episodes:
   simpsonsworld_id: 283757123904
   good: false
   guest_stars:
-  characters:
-    - homer
-    - mr_burns
-    - patty
-    - selma
 - title: The Wettest Stories Ever Told
   season: 17
   episode: 18
@@ -223,8 +170,6 @@ episodes:
   simpsonsworld_id: 310489667660
   good: false
   guest_stars:
-  characters:
-    - vignettes
 - title: Girls Just Want to Have Sums
   season: 17
   episode: 19
@@ -235,8 +180,6 @@ episodes:
   simpsonsworld_id: 274367043639
   good: false
   guest_stars:
-  characters:
-    - lisa
 - title: Regarding Margie
   season: 17
   episode: 20
@@ -246,8 +189,6 @@ episodes:
   simpsonsworld_id: 277125187506
   good: false
   guest_stars:
-  characters:
-    - marge
 - title: The Monkey Suit
   season: 17
   episode: 21
@@ -257,8 +198,6 @@ episodes:
   simpsonsworld_id: 277127235959
   good: false
   guest_stars:
-  characters:
-    - lisa
 - title: Marge and Homer Turn a Couple Play
   season: 17
   episode: 22
@@ -268,6 +207,3 @@ episodes:
   simpsonsworld_id: 292955203576
   good: false
   guest_stars:
-  characters:
-    - homer
-    - marge

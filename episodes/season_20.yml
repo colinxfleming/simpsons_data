@@ -9,10 +9,6 @@ episodes:
   simpsonsworld_id: 311088195682
   good: true
   guest_stars:
-  characters:
-    - homer
-    - ned
-    - marge
 - title: Lost Verizon
   season: 20
   episode: 2
@@ -23,9 +19,6 @@ episodes:
   simpsonsworld_id: 304458307742
   good: false
   guest_stars:
-  characters:
-    - bart
-    - marge
 - title: Double, Double, Boy in Trouble
   season: 20
   episode: 3
@@ -35,7 +28,6 @@ episodes:
   simpsonsworld_id: 304460355919
   good: maybe
   guest_stars:
-  characters:
 - title: Treehouse of Horror XIX
   season: 20
   episode: 4
@@ -46,8 +38,6 @@ episodes:
   simpsonsworld_id: 691895363987
   good: false
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: Dangerous Curves
   season: 20
   episode: 5
@@ -58,7 +48,6 @@ episodes:
   simpsonsworld_id: 311675459549
   good: maybe
   guest_stars:
-  characters:
 - title: Homer and Lisa Exchange Cross Words
   season: 20
   episode: 6
@@ -68,9 +57,6 @@ episodes:
   simpsonsworld_id: 310541891517
   good: false
   guest_stars:
-  characters:
-    - lisa
-    - homer
 - title: Mypods and Boomsticks
   season: 20
   episode: 7
@@ -80,7 +66,6 @@ episodes:
   simpsonsworld_id: 310498883779
   good: maybe
   guest_stars:
-  characters:
 - title: The Burns and the Bees
   season: 20
   episode: 8
@@ -90,9 +75,6 @@ episodes:
   simpsonsworld_id: 310506051725
   good: true
   guest_stars:
-  characters:
-    - mr_burns
-    - lisa
 - title: Lisa the Drama Queen
   season: 20
   episode: 9
@@ -102,7 +84,6 @@ episodes:
   simpsonsworld_id: 292944963870
   good: maybe
   guest_stars:
-  characters:
 - title: Take My Life, Please
   season: 20
   episode: 10
@@ -113,7 +94,6 @@ episodes:
   simpsonsworld_id: 273728067781
   good: maybe
   guest_stars:
-  characters:
 - title: How the Test Was Won
   season: 20
   episode: 11
@@ -124,7 +104,6 @@ episodes:
   simpsonsworld_id: 277134915702
   good: maybe
   guest_stars:
-  characters:
 - title: No Loan Again, Naturally
   season: 20
   episode: 12
@@ -135,7 +114,6 @@ episodes:
   simpsonsworld_id: 273029699673
   good: maybe
   guest_stars:
-  characters:
 - title: Gone Maggie Gone
   season: 20
   episode: 13
@@ -145,7 +123,6 @@ episodes:
   simpsonsworld_id: 273030211958
   good: maybe
   guest_stars:
-  characters:
 - title: In the Name of the Grandfather
   season: 20
   episode: 14
@@ -155,7 +132,6 @@ episodes:
   simpsonsworld_id: 307849283838
   good: maybe
   guest_stars:
-  characters:
 - title: Wedding for Disaster
   season: 20
   episode: 15
@@ -166,7 +142,6 @@ episodes:
   simpsonsworld_id: 273024579646
   good: maybe
   guest_stars:
-  characters:
 - title: Eeny Teeny Maya Moe
   season: 20
   episode: 16
@@ -176,7 +151,6 @@ episodes:
   simpsonsworld_id: 273066051746
   good: maybe
   guest_stars:
-  characters:
 - title: The Good, The Sad, and The Drugly
   season: 20
   episode: 17
@@ -187,7 +161,6 @@ episodes:
   simpsonsworld_id: 273057347598
   good: maybe
   guest_stars:
-  characters:
 - title: Father Knows Worst
   season: 20
   episode: 18
@@ -198,7 +171,6 @@ episodes:
   simpsonsworld_id: 273070659848
   good: maybe
   guest_stars:
-  characters:
 - title: Waverly Hills 9-0-2-1-D'oh
   season: 20
   episode: 19
@@ -208,7 +180,6 @@ episodes:
   simpsonsworld_id: 299732035764
   good: maybe
   guest_stars:
-  characters:
 - title: Four Great Women and a Manicure
   season: 20
   episode: 20
@@ -218,7 +189,6 @@ episodes:
   simpsonsworld_id: 273732163923
   good: maybe
   guest_stars:
-  characters:
 - title: Coming To Homerica
   season: 20
   episode: 21
@@ -228,4 +198,3 @@ episodes:
   simpsonsworld_id: 729848899646
   good: maybe
   guest_stars:
-  characters:

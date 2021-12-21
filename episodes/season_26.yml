@@ -8,8 +8,6 @@ episodes:
   simpsonsworld_id: 334920771636
   good: false
   guest_stars:
-  characters:
-    - krusty
 - title: The Wreck of the Relationship
   season: 26
   episode: 2
@@ -18,9 +16,6 @@ episodes:
   simpsonsworld_id: 346737219924
   good: false
   guest_stars:
-  characters:
-    - bart
-    - homer
 - title: Super Franchise Me
   season: 26
   episode: 3
@@ -29,8 +24,6 @@ episodes:
   simpsonsworld_id: 340536899599
   good: false
   guest_stars:
-  characters:
-    - marge
 - title: Treehouse of Horror XXV
   season: 26
   episode: 4
@@ -40,8 +33,6 @@ episodes:
   simpsonsworld_id: 344255555880
   good: false
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: Opposites-A-Frack
   season: 26
   episode: 5
@@ -51,9 +42,6 @@ episodes:
   simpsonsworld_id: 351437379941
   good: false
   guest_stars:
-  characters:
-    - mr_burns
-    - homer
 - title: Simpsorama
   season: 26
   episode: 6
@@ -62,8 +50,6 @@ episodes:
   simpsonsworld_id: 355593283530
   good: false
   guest_stars:
-  characters:
-    - simpsons
 - title: Blazed and Confused
   season: 26
   episode: 7
@@ -73,8 +59,6 @@ episodes:
   simpsonsworld_id: 359228483622
   good: false
   guest_stars:
-  characters:
-    - bart
 - title: Covercraft
   season: 26
   episode: 8
@@ -83,9 +67,6 @@ episodes:
   simpsonsworld_id: 362239555757
   good: false
   guest_stars:
-  characters:
-    - homer
-    - apu
 - title: I Won't Be Home For Christmas
   season: 26
   episode: 9
@@ -94,9 +75,6 @@ episodes:
   simpsonsworld_id: 368212547872
   good: false
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: The Man Who Came To Be Dinner
   season: 26
   episode: 10
@@ -105,7 +83,6 @@ episodes:
   simpsonsworld_id: 379818563729
   good: maybe
   guest_stars:
-  characters:
 - title: Bart's New Friend
   season: 26
   episode: 11
@@ -114,7 +91,6 @@ episodes:
   simpsonsworld_id: 383002179865
   good: maybe
   guest_stars:
-  characters:
 - title: The Musk Who Fell to Earth
   season: 26
   episode: 12
@@ -123,7 +99,6 @@ episodes:
   simpsonsworld_id: 388773443652
   good: maybe
   guest_stars:
-  characters:
 - title: Walking Big and Tall
   season: 26
   episode: 13
@@ -132,7 +107,6 @@ episodes:
   simpsonsworld_id: 395694659511
   good: maybe
   guest_stars:
-  characters:
 - title: My Fare Lady
   season: 26
   episode: 14
@@ -141,7 +115,6 @@ episodes:
   simpsonsworld_id: 399385667625
   good: maybe
   guest_stars:
-  characters:
 - title: The Princess Guide
   season: 26
   episode: 15
@@ -150,7 +123,6 @@ episodes:
   simpsonsworld_id: 406163011894
   good: maybe
   guest_stars:
-  characters:
 - title: Sky Police
   season: 26
   episode: 16
@@ -159,7 +131,6 @@ episodes:
   simpsonsworld_id: 410018371522
   good: maybe
   guest_stars:
-  characters:
 - title: Waiting for Duffman
   season: 26
   episode: 17
@@ -169,7 +140,6 @@ episodes:
   simpsonsworld_id: 420981315819
   good: maybe
   guest_stars:
-  characters:
 - title: Peeping Mom
   season: 26
   episode: 18
@@ -179,7 +149,6 @@ episodes:
   simpsonsworld_id: 430426691868
   good: maybe
   guest_stars:
-  characters:
 - title: The Kids Are All Fight
   season: 26
   episode: 19
@@ -190,7 +159,6 @@ episodes:
   simpsonsworld_id: 434682947703
   good: maybe
   guest_stars:
-  characters:
 - title: Let's Go Fly A Coot
   season: 26
   episode: 20
@@ -200,9 +168,6 @@ episodes:
   simpsonsworld_id: 438408259807
   good: false
   guest_stars:
-  characters:
-    - grandpa_simpson
-    - bart
 - title: Bull-E
   season: 26
   episode: 21
@@ -212,7 +177,6 @@ episodes:
   simpsonsworld_id: 442879555692
   good: maybe
   guest_stars:
-  characters:
 - title: Mathlete's Feat
   season: 26
   episode: 22
@@ -222,4 +186,3 @@ episodes:
   simpsonsworld_id: 446649411760
   good: maybe
   guest_stars:
-  characters:

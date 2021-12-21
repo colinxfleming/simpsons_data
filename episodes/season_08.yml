@@ -10,8 +10,6 @@ episodes:
   simpsonsworld_id: 299625027835
   good: true
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: You Only Move Twice
   season: 8
   episode: 2
@@ -21,7 +19,6 @@ episodes:
   simpsonsworld_id: 306390595776
   good: true
   guest_stars:
-  characters:
 - title: The Homer They Fall
   season: 8
   episode: 3
@@ -31,7 +28,6 @@ episodes:
   simpsonsworld_id: 288058947803
   good: true
   guest_stars:
-  characters:
 - title: Burns, Baby Burns
   season: 8
   episode: 4
@@ -40,7 +36,6 @@ episodes:
   simpsonsworld_id: 299622467514
   good: false
   guest_stars:
-  characters:
 - title: Bart After Dark
   season: 8
   episode: 5
@@ -50,7 +45,6 @@ episodes:
   simpsonsworld_id: 294789699801
   good: true
   guest_stars:
-  characters:
 - title: A Milhouse Divided
   season: 8
   episode: 6
@@ -60,7 +54,6 @@ episodes:
   simpsonsworld_id: 277025347786
   good: true
   guest_stars:
-  characters:
 - title: Lisa's Date with Density
   season: 8
   episode: 7
@@ -70,7 +63,6 @@ episodes:
   simpsonsworld_id: 306394691862
   good: true
   guest_stars:
-  characters:
 - title: Hurricane Neddy
   season: 8
   episode: 8
@@ -79,7 +71,6 @@ episodes:
   simpsonsworld_id: 436250179702
   good: true
   guest_stars:
-  characters:
 - title: El Viaje Misterioso de Nuestro Jomer (The Mysterious Voyage of Homer)
   season: 8
   episode: 9
@@ -90,7 +81,6 @@ episodes:
   simpsonsworld_id: 436252739905
   good: true
   guest_stars:
-  characters:
 - title: The Springfield Files
   season: 8
   episode: 10
@@ -100,7 +90,6 @@ episodes:
   simpsonsworld_id: 436259395954
   good: true
   guest_stars:
-  characters:
 - title: The Twisted World of Marge Simpson
   season: 8
   episode: 11
@@ -110,7 +99,6 @@ episodes:
   simpsonsworld_id: 436264515927
   good: true
   guest_stars:
-  characters:
 - title: Mountain of Madness
   season: 8
   episode: 12
@@ -120,7 +108,6 @@ episodes:
   simpsonsworld_id: 436267075791
   good: true
   guest_stars:
-  characters:
 - title: Simpsoncalifragilisticexpiala(Annoyed Grunt)cious
   season: 8
   episode: 13
@@ -130,7 +117,6 @@ episodes:
   simpsonsworld_id: 436271683676
   good: true
   guest_stars:
-  characters:
 - title: The Itchy and Scratchy and Poochie Show
   season: 8
   episode: 14
@@ -141,7 +127,6 @@ episodes:
   simpsonsworld_id: 436278339668
   good: true
   guest_stars:
-  characters:
 - title: Homer's Phobia
   season: 8
   episode: 15
@@ -151,7 +136,6 @@ episodes:
   simpsonsworld_id: 436284995621
   good: true
   guest_stars:
-  characters:
 - title: Brother from Another Series
   season: 8
   episode: 16
@@ -162,7 +146,6 @@ episodes:
   simpsonsworld_id: 436296259771
   good: true
   guest_stars:
-  characters:
 - title: My Sister, My Sitter
   season: 8
   episode: 17
@@ -171,7 +154,6 @@ episodes:
   simpsonsworld_id: 436301891875
   good: false
   guest_stars:
-  characters:
 - title: Homer vs. the Eighteenth Amendment
   season: 8
   episode: 18
@@ -181,7 +163,6 @@ episodes:
   simpsonsworld_id: 436402755605
   good: true
   guest_stars:
-  characters:
 - title: Grade School Confidential
   season: 8
   episode: 19
@@ -190,7 +171,6 @@ episodes:
   simpsonsworld_id: 436412995642
   good: true
   guest_stars:
-  characters:
 - title: The Canine Mutiny
   season: 8
   episode: 20
@@ -200,7 +180,6 @@ episodes:
   simpsonsworld_id: 436370499586
   good: false
   guest_stars:
-  characters:
 - title: The Old Man and the Lisa
   season: 8
   episode: 21
@@ -210,7 +189,6 @@ episodes:
   simpsonsworld_id: 436383811985
   good: true
   guest_stars:
-  characters:
 - title: In Marge We Trust
   season: 8
   episode: 22
@@ -220,7 +198,6 @@ episodes:
   simpsonsworld_id: 436438595644
   good: true
   guest_stars:
-  characters:
 - title: Homer's Enemy
   season: 8
   episode: 23
@@ -230,7 +207,6 @@ episodes:
   simpsonsworld_id: 436466755640
   good: true
   guest_stars:
-  characters:
 - title: The Simpsons Spin-Off Showcase
   season: 8
   episode: 24
@@ -239,7 +215,6 @@ episodes:
   simpsonsworld_id: 436481091875
   good: false
   guest_stars:
-  characters:
 - title: The Secret War of Lisa Simpson
   season: 8
   episode: 25
@@ -249,4 +224,3 @@ episodes:
   simpsonsworld_id: 1071844931909
   good: true
   guest_stars:
-  characters:
