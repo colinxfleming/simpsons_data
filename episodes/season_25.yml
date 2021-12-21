@@ -3,6 +3,7 @@ episodes:
 - title: Homerland
   season: 25
   episode: 1
+  release_date:
   description: When Homer returns from a Nuclear Workers Convention and begins behaving
     strangely, Lisa worries that her father has been brainwashed and is now part of
     a terrorist plot to blow up the power plant.
@@ -13,6 +14,7 @@ episodes:
 - title: Treehouse of Horror XXIV
   season: 25
   episode: 2
+  release_date:
   description: In three terrifying Halloween tales, Bart, Lisa and Maggie receive
     a visit from The Fat in the Hat; when Bart is decapitated, his head is sewn onto
     Lisa's body; Homer plots to kill Moe at a circus freak show.
@@ -23,6 +25,7 @@ episodes:
 - title: Four Regrettings and a Funeral
   season: 25
   episode: 3
+  release_date:
   description: A Springfield funeral prompts Marge, Kent Brockman, Homer and Mr. Burns
     to reexamine a crucial decision in their lives one that has brought them the most
     regret.
@@ -33,6 +36,7 @@ episodes:
 - title: YOLO
   season: 25
   episode: 4
+  release_date:
   description: After experiencing a midlife crisis, Homer reaches out to an old pen
     pal; when a cheating scandal rocks Springfield Elementary, Lisa establishes an
     honor code.
@@ -43,6 +47,7 @@ episodes:
 - title: Labor Pains
   season: 25
   episode: 5
+  release_date:
   description: Homer gets trapped in an elevator with a pregnant woman and helps deliver
     her baby; Lisa helps underpaid cheerleaders organize so they can demand a salary
     increase from a greedy football team owner.
@@ -53,6 +58,7 @@ episodes:
 - title: The Kid Is All Right
   season: 25
   episode: 6
+  release_date:
   description: Lisa is elated to befriend Isabel, a smart new student at school, only
     to realize that she and Isabel are on opposite sides of the political spectrum.
   disneyplus_id: 4b47c46b-cbda-4ecd-8715-94935ca69273
@@ -62,6 +68,7 @@ episodes:
 - title: Yellow Subterfuge
   season: 25
   episode: 7
+  release_date:
   description: Bart seeks revenge after Skinner prevents him from attending a school
     field trip aboard a submarine; Lisa suggests to the financially-strapped Krusty
     that he sell the foreign rights to his television show.
@@ -72,6 +79,7 @@ episodes:
 - title: White Christmas Blues
   season: 25
   episode: 8
+  release_date:
   description: As Christmas approaches, Marge transforms the house into a bed and
     breakfast after Springfield becomes the only town in America to receive snowfall;
     Lisa vows to give her loved ones modest gifts that come from the heart.
@@ -82,6 +90,7 @@ episodes:
 - title: Steal This Episode
   season: 25
   episode: 9
+  release_date:
   description: Homer is put on trial after the FBI catches him illegally downloading
     movies from the Internet.
   disneyplus_id: 0c9550cd-8044-4efe-8eed-aece092047f6
@@ -91,6 +100,7 @@ episodes:
 - title: Married to the Blob
   season: 25
   episode: 10
+  release_date:
   description: The Comic Book Guy marries a Japanese woman, only to discover that
     the woman's father disapproves of the union.
   disneyplus_id: c26f25f7-d8d3-4ea0-a62a-bcaaa8688b3f
@@ -100,6 +110,7 @@ episodes:
 - title: Specs and the City
   season: 25
   episode: 11
+  release_date:
   description: Homer uses augmented reality glasses to spy on Marge; Nelson demands
     a Valentine's Day card from Bart.
   disneyplus_id: 0c4e2f05-97c8-46fd-9699-6f44940717b7
@@ -109,6 +120,7 @@ episodes:
 - title: The Man Who Grew Too Much
   season: 25
   episode: 12
+  release_date:
   description: Sideshow Bob genetically alters his DNA, giving him superhuman strength;
     Marge volunteers as a teen abstinence counselor.
   disneyplus_id: 3afb3c6d-f176-4867-a1d1-c59758d9352b
@@ -118,6 +130,7 @@ episodes:
 - title: Diggs
   season: 25
   episode: 13
+  release_date:
   description: Bart befriends a fellow student and falconry expert, only to discover
     that the boy suffers from mental illness.
   disneyplus_id: 9afafaa3-fa10-489b-9b30-8e95371eb8ac
@@ -127,6 +140,7 @@ episodes:
 - title: The Winter of His Content
   season: 25
   episode: 14
+  release_date:
   description: When the Simpsons allow members of the retirement community to move
     in with them, Marge worries that Homer is picking up their habits and is turning
     into an old man; a gang of bullies accepts Bart as one of their own.
@@ -137,6 +151,7 @@ episodes:
 - title: The War of Art
   season: 25
   episode: 15
+  release_date:
   description: Homer convinces Marge to sell a painting that was purchased from Milhouse's
     parents at a yard sale, a painting that turns out to be worth a great deal of
     money.
@@ -147,6 +162,7 @@ episodes:
 - title: You Don't Have to Live Like a Referee
   season: 25
   episode: 16
+  release_date:
   description: After Lisa delivers a school report on why her father is her hero,
     Homer is tapped to referee World Cup soccer in Brazil.
   disneyplus_id: 7c3c7706-d070-4262-b4d6-21ce7e22899b
@@ -156,6 +172,7 @@ episodes:
 - title: Luca$
   season: 25
   episode: 17
+  release_date:
   description: Lisa falls for a competitive eater who subconsciously reminds her of
     Homer; after Bart hides Jailbird from the police, he begins receiving stolen gifts.
   disneyplus_id: 6d255409-bf57-40b6-bbc1-307bebde5538
@@ -165,6 +182,7 @@ episodes:
 - title: Days of Future Future
   season: 25
   episode: 18
+  release_date:
   description: Thirty years in the future, Bart tries to reestablish his relationship
     with his estranged wife, Jenda; Lisa thinks Milhouse is far more interesting after
     he's bitten by a zombie.
@@ -175,6 +193,7 @@ episodes:
 - title: What to Expect When Bart's Expecting
   season: 25
   episode: 19
+  release_date:
   description: Bart uses voodoo in an attempt to get rid of an art teacher, but when
     the teacher ends up getting pregnant, word spreads that Bart can help couples
     conceive.
@@ -185,6 +204,7 @@ episodes:
 - title: Brick Like Me
   season: 25
   episode: 20
+  release_date:
   description: After Homer bonds with Lisa, Homer's imagination creates a world in
     which everything is made of Lego toys.
   disneyplus_id: 44ece42c-b05f-4368-91c4-ad72a5d23f61
@@ -194,6 +214,7 @@ episodes:
 - title: Pay Pal
   season: 25
   episode: 21
+  release_date:
   description: As Mother's Day approaches, after Homer and Marge's attempt to befriend
     other couples fails miserably, Lisa discovers a shocking secret about her new
     best friend.
@@ -204,6 +225,7 @@ episodes:
 - title: Yellow Badge of Cowardge
   season: 25
   episode: 22
+  release_date:
   description: Bart is overcome with guilt after an act of cowardice leads to his
     winning a school race; Homer vows to hold his own Fourth of July fireworks display
     after Springfield's holiday celebration is canceled.

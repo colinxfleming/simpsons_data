@@ -3,6 +3,7 @@ episodes:
 - title: Sex, Pies and Idiot Scrapes
   season: 20
   episode: 1
+  release_date:
   description: Homer and Flanders team-up as bounty hunters; Marge makes confections
     for an erotic bakery.
   disneyplus_id: b41e3be6-a769-407d-a3fc-a277e56801f3
@@ -12,6 +13,7 @@ episodes:
 - title: Lost Verizon
   season: 20
   episode: 2
+  release_date:
   description: When Bart steals actor Denis Leary's cell phone, Marge uses its built-in
     GPS signal to track her son... leading the family to the ancient ruins of Machu
     Picchu.
@@ -22,6 +24,7 @@ episodes:
 - title: Double, Double, Boy in Trouble
   season: 20
   episode: 3
+  release_date:
   description: Bart swaps places with his exact double-unaware that the double's wealthy
     siblings are plotting murder.
   disneyplus_id: 37918594-db18-449e-a6cc-d82abf914a4b
@@ -31,6 +34,7 @@ episodes:
 - title: Treehouse of Horror XIX
   season: 20
   episode: 4
+  release_date:
   description: On Halloween... Transformer-like robots duke it out in Springfield;
     Homer kills off celebrities so their likenesses can be exploited; the Simpsons
     appear in a spoof of a 'Peanuts' Halloween special.
@@ -41,6 +45,7 @@ episodes:
 - title: Dangerous Curves
   season: 20
   episode: 5
+  release_date:
   description: In a series of flashbacks... Homer and Marge end up in a cabin in the
     woods with newlyweds Flanders and Maude; Homer and Marge's marriage is nearly
     ruined when they meet exciting new people during a party.
@@ -51,6 +56,7 @@ episodes:
 - title: Homer and Lisa Exchange Cross Words
   season: 20
   episode: 6
+  release_date:
   description: When Lisa discovers a talent for solving crossword puzzles, she enters
     a crossword tournament-unaware that Homer bet against her.
   disneyplus_id: 52d5c4bb-bc9c-4463-862a-2b241726510f
@@ -60,6 +66,7 @@ episodes:
 - title: Mypods and Boomsticks
   season: 20
   episode: 7
+  release_date:
   description: Homer thinks Bart's new Muslim friend belongs to a family of terrorists;
     Lisa acquires her first iPod-like device.
   disneyplus_id: 04436cd4-2791-45a4-b513-1e436dcec79b
@@ -69,6 +76,7 @@ episodes:
 - title: The Burns and the Bees
   season: 20
   episode: 8
+  release_date:
   description: As Lisa tries to find a habitat for endangered bees, Mr. Burns builds
     a state-of-the-art sports arena-which happens to look like a giant hive.
   disneyplus_id: eff7ae0c-3a24-4a1d-af82-ca8771821789
@@ -78,6 +86,7 @@ episodes:
 - title: Lisa the Drama Queen
   season: 20
   episode: 9
+  release_date:
   description: Lisa's new best friend creates a fantasy world so real it threatens
     to drive them apart.
   disneyplus_id: 68ee0aa3-11db-4692-9bca-d8f8601c3a5a
@@ -87,6 +96,7 @@ episodes:
 - title: Take My Life, Please
   season: 20
   episode: 10
+  release_date:
   description: When Homer discovers that he was almost elected class president in
     high school, an old Italian cook uses a magic pot of tomato sauce to show him
     an alternate version of his life.
@@ -97,6 +107,7 @@ episodes:
 - title: How the Test Was Won
   season: 20
   episode: 11
+  release_date:
   description: Lisa freezes during a federal school assessment test; Homer tries to
     prevent accidents from happening after he forgets to pay an insurance bill; Skinner
     accompanies Bart and other underachievers on a trip to Capital City.
@@ -107,6 +118,7 @@ episodes:
 - title: No Loan Again, Naturally
   season: 20
   episode: 12
+  release_date:
   description: When Homer and Marge's adjustable mortgage rate skyrockets, they're
     forced to move out of the house... until Flanders purchases the property and becomes
     their landlord.
@@ -117,6 +129,7 @@ episodes:
 - title: Gone Maggie Gone
   season: 20
   episode: 13
+  release_date:
   description: In this 'National Treasure'-like story... when Maggie disappears at
     a convent, Lisa goes undercover as a nun to solve a mystery involving a rare jewel.
   disneyplus_id: 7142d0eb-2815-4108-b9d6-af8624dc2ab1
@@ -126,6 +139,7 @@ episodes:
 - title: In the Name of the Grandfather
   season: 20
   episode: 14
+  release_date:
   description: The Simpsons travel to Ireland, where Homer and Grampa purchase an
     old pub that's fallen on hard times.
   disneyplus_id: 788f0f9a-99a6-44a5-b575-b65feeee9152
@@ -135,6 +149,7 @@ episodes:
 - title: Wedding for Disaster
   season: 20
   episode: 15
+  release_date:
   description: When their marriage license turns out to be invalid, Homer asks Marge
     to marry him in style.  But when Homer mysteriously disappears just before the
     wedding, Bart and Lisa search for answers.
@@ -145,6 +160,7 @@ episodes:
 - title: Eeny Teeny Maya Moe
   season: 20
   episode: 16
+  release_date:
   description: Moe meets a beautiful woman in an Internet chat room who turns out
     to be three feet tall; Homer tries to spend more time with Maggie.
   disneyplus_id: 5c605010-e2c7-442f-afc8-2ef9e6845e94
@@ -154,6 +170,7 @@ episodes:
 - title: The Good, The Sad, and The Drugly
   season: 20
   episode: 17
+  release_date:
   description: Bart dumps Milhouse in favor of a cute girl who volunteers her time
     at the retirement home; Lisa is prescribed antidepressants after she reads predictions
     about what Springfield will look like in 50 years.
@@ -164,6 +181,7 @@ episodes:
 - title: Father Knows Worst
   season: 20
   episode: 18
+  release_date:
   description: As a result of Homer's "helicopter parenting," Lisa employs a trendy
     technique for boosting her popularity, while Bart enters a balsa-wood model-building
     contest; Marge discovers a sauna in the basement.
@@ -174,6 +192,7 @@ episodes:
 - title: Waverly Hills 9-0-2-1-D'oh
   season: 20
   episode: 19
+  release_date:
   description: Homer and Marge rent an apartment in tony Waverly Hills so Bart and
     Lisa can attend a better elementary school.
   disneyplus_id: 236d3723-c091-4c65-9147-fd39dd2183bb
@@ -183,6 +202,7 @@ episodes:
 - title: Four Great Women and a Manicure
   season: 20
   episode: 20
+  release_date:
   description: 'As Marge and Lisa have their nails done, they spin four tales involving
     famous women: Queen Elizabeth, Snow White, Lady Macbeth and Ayn Rand.'
   disneyplus_id: 1cf52f6d-4c3e-45d1-81d0-294bb257f1c8
@@ -192,6 +212,7 @@ episodes:
 - title: Coming To Homerica
   season: 20
   episode: 21
+  release_date:
   description: Springfield grapples with an immigration problem when the economy of
     nearby Ogdenville collapses.
   disneyplus_id: 527aec32-aac9-47c3-ac7e-72509b9a9fe7

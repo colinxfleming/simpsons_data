@@ -3,6 +3,7 @@ episodes:
 - title: Homer the Whopper
   season: 21
   episode: 1
+  release_date:
   description: Homer ends up with a superhero's physique after he's chosen to appear
     in a film based on a character created by The Comic Book Guy.
   disneyplus_id: 88af7df7-b6fc-410e-9e07-92dda4a29a47
@@ -12,6 +13,7 @@ episodes:
 - title: Bart Gets A 'Z'
   season: 21
   episode: 2
+  release_date:
   description: Principal Skinner fires Mrs. Krabappel after she makes a drunken fool
     of herself at the elementary school - but what Skinner doesn't know is that Bart
     spiked her coffee with alcohol.
@@ -22,6 +24,7 @@ episodes:
 - title: The Great Wife Hope
   season: 21
   episode: 3
+  release_date:
   description: Marge vows to drive mixed martial arts from Springfield by defeating
     a fight promoter in the ring.
   disneyplus_id: 2388825f-aab3-4dd2-8661-592808bf85bc
@@ -31,6 +34,7 @@ episodes:
 - title: Treehouse of Horror XX
   season: 21
   episode: 4
+  release_date:
   description: Classic movie monsters are attacked by their spouses; Lisa and Bart
     exchange murders in a Hitchcock spoof; Bart is the key to saving Springfield from
     zombies; Moe's microbrewery mixes beer with Homer's blood.
@@ -41,6 +45,7 @@ episodes:
 - title: The Devil Wears Nada
   season: 21
   episode: 5
+  release_date:
   description: Homer's life turns into nonstop misery when he becomes Carl's assistant;
     Marge poses for a sexy calendar.
   disneyplus_id: ae2e4f38-dba6-4deb-868a-53d89aedda2d
@@ -50,6 +55,7 @@ episodes:
 - title: Pranks and Greens
   season: 21
   episode: 6
+  release_date:
   description: Skinner tells Bart about a former Springfield Elementary student who
     was the best prankster ever; Marge begins shopping at a natural foods store.
   disneyplus_id: 564a90ff-acea-4ef1-98f4-c3014b817f9f
@@ -59,6 +65,7 @@ episodes:
 - title: Rednecks and Broomsticks
   season: 21
   episode: 7
+  release_date:
   description: Lisa befriends a group of Wiccans who are accused of blinding the people
     of Springfield with a spell.
   disneyplus_id: 7e3a408b-0351-4058-92fe-573098060e2a
@@ -68,6 +75,7 @@ episodes:
 - title: O Brother, Where Bart Thou?
   season: 21
   episode: 8
+  release_date:
   description: Bart attempts to get Homer and Marge pregnant so he can have a brother
     to hang out with.
   disneyplus_id: 82a1a502-53a6-4c94-be36-3db8a55d12a3
@@ -77,6 +85,7 @@ episodes:
 - title: Thursdays with Abie
   season: 21
   episode: 9
+  release_date:
   description: Homer becomes jealous when a reporter takes an interest in Grampa's
     life; Lisa loses a stuffed lamb that Bart brought home from school.
   disneyplus_id: 5837bd57-dcbb-4658-9bee-071dcfb532db
@@ -86,6 +95,7 @@ episodes:
 - title: Once Upon A Time in Springfield
   season: 21
   episode: 10
+  release_date:
   description: Krusty ends up playing second fiddle to Princess Penelope, a new character
     on his show... only to end up falling in love with the actress who plays her.
   disneyplus_id: 93d48c4e-6bcc-4da6-aa24-379f32809368
@@ -95,6 +105,7 @@ episodes:
 - title: Million Dollar Maybe
   season: 21
   episode: 11
+  release_date:
   description: Homer wins a million-dollar lottery but doesn't tell his family the
     news; Lisa stimulates nursing home patients with an interactive Wii-like device.
   disneyplus_id: f6b9c035-54ac-4356-9a03-c039dd95ee4c
@@ -104,6 +115,7 @@ episodes:
 - title: Boy Meets Curl
   season: 21
   episode: 12
+  release_date:
   description: The Simpsons head to the Winter Olympics in Canada after Marge and
     Homer join a curling team; Lisa becomes addicted to collecting Olympic pins.
   disneyplus_id: c9b38de3-fef9-4da6-96ea-9e5b44e3e3ed
@@ -113,6 +125,7 @@ episodes:
 - title: The Color Yellow
   season: 21
   episode: 13
+  release_date:
   description: Lisa discovers that her Southern ancestors helped a slave escape to
     freedom.
   disneyplus_id: cb0d811d-9959-4641-8ec5-cedd2e07bbb8
@@ -122,6 +135,7 @@ episodes:
 - title: Postcards From the Wedge
   season: 21
   episode: 14
+  release_date:
   description: Bart creates friction between Marge and Homer so he can get out of
     doing homework.  But when the plot fails, Bart tries to destroy the elementary
     school by reactivating an old Springfield subway line.
@@ -132,6 +146,7 @@ episodes:
 - title: Stealing First Base
   season: 21
   episode: 15
+  release_date:
   description: Bart stirs up trouble when he kisses a girl at school; Lisa's popularity
     soars when she receives a failing grade on a test.
   disneyplus_id: f41d6853-3d30-4749-9b15-3553be80418b
@@ -141,6 +156,7 @@ episodes:
 - title: The Greatest Story Ever D'ohed
   season: 21
   episode: 16
+  release_date:
   description: Flanders attempts to redeem Homer during a Bible study trip to Israel;
     Homer becomes delusional after getting lost in the desert and ends up believing
     he's the Chosen One.
@@ -151,6 +167,7 @@ episodes:
 - title: American History X-cellent
   season: 21
   episode: 17
+  release_date:
   description: When Mr. Burns is sent to prison for possessing stolen art, he places
     Smithers in charge of running the nuclear power plant; Bart helps Lisa maintain
     an ant farm.
@@ -161,6 +178,7 @@ episodes:
 - title: Chief of Hearts
   season: 21
   episode: 18
+  release_date:
   description: After he's sentenced to perform community service, Homer befriends
     Chief Wiggum; Marge mistakes Bart's love for a Japanese card game for a drug addiction.
   disneyplus_id: 19d92204-1f6f-46b1-96fe-36118aaf1fce
@@ -170,6 +188,7 @@ episodes:
 - title: The Squirt and the Whale
   season: 21
   episode: 19
+  release_date:
   description: Lisa comes to the aid of a whale that washes up on Springfield Beach.
   disneyplus_id: 5018ece6-0256-4692-b13a-ff3aa9b07aed
   simpsonsworld_id: 250519619700
@@ -178,6 +197,7 @@ episodes:
 - title: To Surveil With Love
   season: 21
   episode: 20
+  release_date:
   description: After a bomb squad mistakenly blows up Homer's unattended gym bag,
     releasing radiation into the city, Springfield equips itself with surveillance
     cameras to deter terrorism, allowing Flanders to impose his views on others.
@@ -188,6 +208,7 @@ episodes:
 - title: Moe Letter Blues
   season: 21
   episode: 21
+  release_date:
   description: As Mother's Day approaches, Homer, Apu and Reverend Lovejoy receive
     a letter from Moe warning that he's going to run away with one of their wives.
   disneyplus_id: 7a2a3403-6a37-4cf3-ae36-c6eb364abebd
@@ -197,6 +218,7 @@ episodes:
 - title: The Bob Next Door
   season: 21
   episode: 22
+  release_date:
   description: Bart is convinced that his new neighbor is Sideshow Bob - even though
     the man looks nothing like his arch enemy.
   disneyplus_id: 1c755dcb-64db-43ea-9444-d03e1fecf09e
@@ -206,6 +228,7 @@ episodes:
 - title: Judge Me Tender
   season: 21
   episode: 23
+  release_date:
   description: Moe discovers a talent for judging contests, leading to an appearance
     on the television series 'American Idol;' Homer drives Marge crazy when he begins
     hanging around the house.

@@ -2,11 +2,13 @@
 
 """A series of asserts to verify data quality."""
 import json
+import re
 
 expected_ep_keys = [
     "title",
     "season",
     "episode",
+    "release_date",
     "description",
     "disneyplus_id",
     "simpsonsworld_id",
@@ -46,6 +48,11 @@ with open("simpsons_data.json", "r") as f:
 
         # Description should be a string
         assert isinstance(episode["description"], str)
+
+        # Release date should be a YYYY-MM-DD string if set
+        if episode["release_date"]:
+            assert isinstance(episode["release_date"], str)
+            assert re.match(r"\d{4}-\d{2}-\d{2}", episode["release_date"])
 
         # Simpsonsworld ID should be a str if set
         if episode["disneyplus_id"]:

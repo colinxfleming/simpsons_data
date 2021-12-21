@@ -3,6 +3,7 @@ episodes:
 - title: He Loves To Fly And He D'ohs
   season: 19
   episode: 1
+  release_date:
   description: Marge hires a life coach to turn Homer around after he becomes convinced
     he's nothing but a loser.
   disneyplus_id: cfb4a65d-9894-49a4-a3cd-8a69d5d2e27e
@@ -12,6 +13,7 @@ episodes:
 - title: Homer of Seville
   season: 19
   episode: 2
+  release_date:
   description: Homer becomes an opera star, only to find himself the target of an
     obsessed fan.
   disneyplus_id: 29d746b8-c00f-4017-a385-e7439147f115
@@ -21,6 +23,7 @@ episodes:
 - title: Midnight Towboy
   season: 19
   episode: 3
+  release_date:
   description: Homer makes enemies when he starts his own tow truck business; Marge
     hires outside help to make Maggie more independent.
   disneyplus_id: 3aabd561-93f2-4cab-acdf-c2e8f4adc3f8
@@ -30,6 +33,7 @@ episodes:
 - title: I Don't Wanna Know Why the Caged Bird Sings
   season: 19
   episode: 4
+  release_date:
   description: Marge fears for her safety after breaking a promise to a bank robber
     about visiting him in jail.
   disneyplus_id: f5ba0aac-38a1-41f2-a749-87292f0f6ec8
@@ -39,6 +43,7 @@ episodes:
 - title: Treehouse of Horror XVIII
   season: 19
   episode: 5
+  release_date:
   description: 'In three tales of Halloween terror: Homer and Marge attempt to eliminate
     one another after discovering their secret identities; Bart and Lisa aid Kodos
     the space alien; Flanders uses the seven deadly sins to punish Bart.'
@@ -49,6 +54,7 @@ episodes:
 - title: Little Orphan Millie
   season: 19
   episode: 6
+  release_date:
   description: When his parents are lost at sea and presumed dead, Milhouse becomes
     cooler than Bart; Homer finds himself in hot water when he can't remember the
     color of Marge's eyes.
@@ -59,6 +65,7 @@ episodes:
 - title: Husbands and Knives
   season: 19
   episode: 7
+  release_date:
   description: After Marge launches a gym for 'regular women' and becomes a successful
     businessperson, Homer decides to have his stomach stapled so she'll find him more
     attractive.
@@ -69,6 +76,7 @@ episodes:
 - title: Funeral for a Fiend
   season: 19
   episode: 8
+  release_date:
   description: After another of his attempts to kill the Simpsons is foiled, Sideshow
     Bob is put on trial.  During the proceedings, Bart accidentally kills his old
     nemesis.
@@ -79,6 +87,7 @@ episodes:
 - title: Eternal Moonshine of the Simpson Mind
   season: 19
   episode: 9
+  release_date:
   description: Homer wakes up from a blackout only to discover that Marge and the
     kids have left him.  Using a variety of methods, he probes his memory to unravel
     the mystery.
@@ -89,6 +98,7 @@ episodes:
 - title: E. Pluribus Wiggum
   season: 19
   episode: 10
+  release_date:
   description: 'When Springfield becomes the first city in the nation to hold a presidential
     primary, voters to turn the one person they can trust: Ralph Wiggum.'
   disneyplus_id: 04b3942a-b531-45e1-820c-c8b1447affd9
@@ -98,6 +108,7 @@ episodes:
 - title: That 90's Show
   season: 19
   episode: 11
+  release_date:
   description: Marge and Homer recount how Marge almost fell in love with a college
     professor during the 1990s.
   disneyplus_id: 496a92e0-6d0f-4b93-874a-6466ceb46185
@@ -107,6 +118,7 @@ episodes:
 - title: Love, Springfieldian Style
   season: 19
   episode: 12
+  release_date:
   description: 'When Homer and Marge become trapped in a tunnel of love, three Valentine''s
     Day stories unfold: Bonnie and Clyde steal each other''s hearts; a take-off on
     ''Lady and the Tramp''; punk rockers Lisa and Nelson are hooked on sweets.'
@@ -117,6 +129,7 @@ episodes:
 - title: The Debarted
   season: 19
   episode: 13
+  release_date:
   description: Bart befriends a new kid at school, unaware that he's a snitch; after
     his car is damaged in an accident, Homer ends up with a fancy loaner.
   disneyplus_id: 6ec0564f-066c-4db8-9c0b-525fb045760c
@@ -126,6 +139,7 @@ episodes:
 - title: Dial 'N' for Nerder
   season: 19
   episode: 14
+  release_date:
   description: Bart and Lisa think they killed Martin Prince; Marge enlists the help
     of a reality TV show after Homer cheats on his diet.
   disneyplus_id: acde483e-f4e3-45f8-b751-cb9096b35221
@@ -135,6 +149,7 @@ episodes:
 - title: Smoke on the Daughter
   season: 19
   episode: 15
+  release_date:
   description: Lisa becomes addicted to secondhand smoke when she joins a ballet academy;
     Homer befriends raccoons who stole his beef jerky.
   disneyplus_id: 811e0263-04e6-439d-b44d-b5e8ed1b40bd
@@ -144,6 +159,7 @@ episodes:
 - title: Papa Don't Leech
   season: 19
   episode: 16
+  release_date:
   description: Marge and Homer aid country singer Lurleen Lumpkin by reuniting her
     with her deadbeat father.
   disneyplus_id: 59529fea-4dd3-40fb-82ba-f6fac7ae816a
@@ -153,6 +169,7 @@ episodes:
 - title: Apocalypse Cow
   season: 19
   episode: 17
+  release_date:
   description: Bart is overjoyed when the calf he's raising is judged Best in Show
     - until he realizes the animal is going to be slaughtered.
   disneyplus_id: 1a63a3b9-4b72-4e3f-80d8-bf00d962ab72
@@ -162,6 +179,7 @@ episodes:
 - title: Any Given Sundance
   season: 19
   episode: 18
+  release_date:
   description: Lisa's documentary about life with the Simpsons is accepted into Sundance,
     but Lisa's initial elation turns to horror when festival-goers begin humiliating
     her dysfunctional family.
@@ -172,6 +190,7 @@ episodes:
 - title: Mona Leaves-a
   season: 19
   episode: 19
+  release_date:
   description: When Homer's mother returns to Springfield, she asks Homer for his
     forgiveness.
   disneyplus_id: 6b46ca89-e6d0-43d8-8e18-cab6a8c392b4
@@ -181,6 +200,7 @@ episodes:
 - title: All About Lisa
   season: 19
   episode: 20
+  release_date:
   description: Krusty hires Lisa to be his intern, but she's so good at the job, she
     ends up replacing him as host of his show; Bart and Homer discover the world of
     coin collecting.

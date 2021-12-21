@@ -3,6 +3,7 @@ episodes:
 - title: The Longest Daycare
   season: 25
   episode: 25
+  release_date:
   description: 'A theatrical short that premiered July 13, 2012, attached to the theatrical
     release of Ice Age: Continental Drift.  It was nominated for an Academy Award
     for Best Animated Short.'
@@ -13,6 +14,7 @@ episodes:
 - title: The Simpsons Movie
   season: 99
   episode: 1
+  release_date:
   description: After Homer accidentally pollutes the town's water supply, Springfield is
     encased by a giant dome by the EPA and the Simpsons family are declared fugitives.
   disneyplus_id: f1d4d070-76e9-4889-94c2-c8883b2b875a
@@ -22,6 +24,7 @@ episodes:
 - title: The Simpsons in Plusaversary
   season: 99
   episode: 2
+  release_date:
   description: The Simpsons host a Disney+ Day party and everyone is on the list... except
     Homer. With friends from across the service and music fit for a Disney princess,
     Plusaversary is Springfield’s event of the year.
@@ -32,6 +35,7 @@ episodes:
 - title: Maggie Simpson in Playdate with Destiny
   season: 99
   episode: 3
+  release_date:
   description: When Maggie Simpson is rescued by a cute young baby from playground peril, it's
     girl meets boy, girl loses boy, guess what happens next?
   disneyplus_id: f02f6d69-5f8d-4087-a8a8-e94bdc4015ec
@@ -41,6 +45,7 @@ episodes:
 - title: The Good, the Bart, and the Loki
   season: 99
   episode: 4
+  release_date:
   description: "Banished from Asgard once again, Loki must face his toughest opponents yet:
     the Simpsons and Springfield's mightiest heroes. The God of Mischief teams up with Bart
     Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe
@@ -52,6 +57,7 @@ episodes:
 - title: Maggie Simpson in The Force Awakens from Its Nap
   season: 99
   episode: 5
+  release_date:
   description: In a daycare far, far away... but still in Springfield, Maggie is on an epic
     quest for her stolen pacifier. Her adventure brings her face-to-face with young Padawans,
     Sith Lords, familiar droids, Rebel scum, and an ultimate battle against the Dark Side,

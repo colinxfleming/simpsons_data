@@ -3,6 +3,7 @@ episodes:
 - title: Treehouse of Horror XIV
   season: 15
   episode: 1
+  release_date:
   description: On Halloween, Homer takes over for the Grim Reaper and discovers Marge's
     name on his list; Professor Frink reanimates his father's corpse; Bart and Milhouse
     play pranks with a watch that can stop time.
@@ -13,6 +14,7 @@ episodes:
 - title: My Mother the Carjacker
   season: 15
   episode: 2
+  release_date:
   description: Mother Simpson is captured by police and placed on trial for sabotaging
     Mr. Burns' germ warfare plant in the 1960s.  Homer's heartfelt testimony helps
     win her release... but Mr. Burns concocts a plot to get revenge.
@@ -23,6 +25,7 @@ episodes:
 - title: The President Wore Pearls
   season: 15
   episode: 3
+  release_date:
   description: When Lisa is elected student body president, she vows to make the school
     a better place to learn.  But Skinner tricks her into cutting well-liked programs...
     prompting Lisa to call a general student strike.
@@ -33,6 +36,7 @@ episodes:
 - title: The Regina Monologues
   season: 15
   episode: 4
+  release_date:
   description: The Simpsons travel to England, where Homer is imprisoned in the Tower
     of London after he smashes a car into the Queen's royal coach.
   disneyplus_id: c0e74b7a-439f-4a6a-97c4-2fa2b8a77468
@@ -42,6 +46,7 @@ episodes:
 - title: The Fat and the Furriest
   season: 15
   episode: 5
+  release_date:
   description: Homer becomes the laughing stock of the town when a wild bear humiliates
     him.  But when he seeks a rematch, Homer bonds with the animal and tries to save
     its life.
@@ -52,6 +57,7 @@ episodes:
 - title: Today I am a Clown
   season: 15
   episode: 6
+  release_date:
   description: When Krusty takes the Sabbath off so he can study for his bar mitzvah,
     he chooses Homer as temporary guest host.  But when Homer's career unexpectedly
     takes off, Krusty finds himself out of a job.
@@ -62,6 +68,7 @@ episodes:
 - title: "'Tis the Fifteenth Season"
   season: 15
   episode: 7
+  release_date:
   description: As Christmas approaches, Homer discovers the true meaning of the season
     after watching an animated version of A Christmas Carol on television.  But Flanders
     find it impossible to live as the second-nicest-guy in town.
@@ -72,6 +79,7 @@ episodes:
 - title: Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays
   season: 15
   episode: 8
+  release_date:
   description: Marge opposes a political group made up of childless people who've
     grown fed-up with accommodating people with families.
   disneyplus_id: 2eee17ee-617a-4353-8ea8-d8a462a05664
@@ -81,6 +89,7 @@ episodes:
 - title: I, (Annoyed Grunt)-Bot
   season: 15
   episode: 9
+  release_date:
   description: Homer builds a fighting robot for Bart, but finds he must hide inside
     the device to make it work; Lisa searches for a replacement for Snowball II when
     the cat is run over by a car.
@@ -91,6 +100,7 @@ episodes:
 - title: Diatribe of a Mad Housewife
   season: 15
   episode: 10
+  release_date:
   description: Homer buys an ambulance and starts responding to medical emergencies;
     Marge authors her own romance novel.
   disneyplus_id: 80fa3f3a-1fa9-46a3-922d-06e3f1cdfc55
@@ -100,6 +110,7 @@ episodes:
 - title: Margical History Tour
   season: 15
   episode: 11
+  release_date:
   description: 'Marge tells the children three historical tales: the story of King
     Henry the Eighth and his quest for a son; Sacagawea''s journey with Lewis and
     Clark; and the rivalry between Mozart and Salieri.'
@@ -110,6 +121,7 @@ episodes:
 - title: Milhouse Doesn't Live Here Anymore
   season: 15
   episode: 12
+  release_date:
   description: When Milhouse and his mother relocate to Capital City, Bart strikes
     up a friendship with Lisa; Homer makes money by pretending to be a transient.
   disneyplus_id: 7528e5f7-8bf0-4c91-bedb-2305c37a868a
@@ -119,6 +131,7 @@ episodes:
 - title: Smart and Smarter
   season: 15
   episode: 13
+  release_date:
   description: Lisa searches for a new identity when baby Maggie turns out to be smarter
     than her.
   disneyplus_id: 1139d006-99a7-48f6-9f52-fdebfaac820d
@@ -128,6 +141,7 @@ episodes:
 - title: The Ziff Who Came to Dinner
   season: 15
   episode: 14
+  release_date:
   description: Homer becomes the majority shareholder of Artie Ziff's troubled Internet
     company-and ends up being arrested by the Securities and Exchange Commission.
   disneyplus_id: 82113640-5626-4a70-822c-f8f608aa869d
@@ -137,6 +151,7 @@ episodes:
 - title: Co-Dependent's Day
   season: 15
   episode: 15
+  release_date:
   description: When a drunken Homer loses control of his car, he places an unconscious
     Marge in the driver's seat so she'll be blamed for the accident; Lisa and Bart
     complain to the creator of the Cosmic Wars saga about his latest films.
@@ -147,6 +162,7 @@ episodes:
 - title: The Wandering Juvie
   season: 15
   episode: 16
+  release_date:
   description: Bart's latest prank lands him in juvenile prison, where a tough girl
     forces him to go on the lam.
   disneyplus_id: 6fc62065-18ae-4751-a441-f8f1fe016693
@@ -156,6 +172,7 @@ episodes:
 - title: My Big Fat Geek Wedding
   season: 15
   episode: 17
+  release_date:
   description: Mrs. Krabappel dumps Principal Skinner at the altar and has a passionate
     affair with the Comic Book Guy.
   disneyplus_id: 6a0af6db-2725-4782-bf06-813dbfe5cbfa
@@ -165,6 +182,7 @@ episodes:
 - title: Catch 'Em If You Can
   season: 15
   episode: 18
+  release_date:
   description: Bart and Lisa pursue Homer and Marge after they sneak away on a second
     honeymoon; Grampa catches the eye of a dashing Cuban man.
   disneyplus_id: 91fa3c12-3d04-473c-9641-d371e41d0bc7
@@ -174,6 +192,7 @@ episodes:
 - title: Simple Simpson
   season: 15
   episode: 19
+  release_date:
   description: Homer confronts evildoers in the form of his crime-fighting alter ego,
     the Pie Man-until Mr. Burns blackmails him into throwing a pie at the Dalai Lama.
   disneyplus_id: d4bd306d-4700-4d5d-bfa6-9987b68ec982
@@ -183,6 +202,7 @@ episodes:
 - title: The Way We Weren't
   season: 15
   episode: 20
+  release_date:
   description: Homer reveals that Marge wasn't the first girl he ever kissed, but
     as he and Marge recount their versions of time spent at a summer camp, Homer realizes
     he caused Marge thirty years of heartbreak.
@@ -193,6 +213,7 @@ episodes:
 - title: Bart-Mangled Banner
   season: 15
   episode: 21
+  release_date:
   description: The Simpsons are thrown in prison after Bart accidentally moons the
     American flag.
   disneyplus_id: 88247ea9-a5dd-4a76-9b27-57c807db9116
@@ -202,6 +223,7 @@ episodes:
 - title: Fraudcast News
   season: 15
   episode: 22
+  release_date:
   description: Mr. Burns buys up all the media outlets in Springfield in an effort
     to polish his image, but soon finds himself at odds with Lisa, who started publishing
     her own newspaper.
