@@ -26,6 +26,7 @@ with open("simpsons_data.json", "r") as f:
 
     for episode in all_episodes:
         # Should have expected keys
+        # Debug print
         # print(f"#{episode['season']} - #{episode['episode']}")
         for key in expected_ep_keys:
             assert key in episode
