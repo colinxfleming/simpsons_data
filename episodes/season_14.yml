@@ -3,6 +3,7 @@ episodes:
 - title: Treehouse of Horror XIII
   season: 14
   episode: 1
+  release_date:
   description: On Halloween, Homer's evil hammock produces an army of Homer clones;
     zombie cowboys threaten to destroy Springfield after Lisa outlaws guns; the Simpsons
     travel to an island inhabited by 'manimals.'
@@ -13,6 +14,7 @@ episodes:
 - title: How I Spent My Strummer Vacation
   season: 14
   episode: 2
+  release_date:
   description: When a hidden camera tapes Homer lamenting that having a family meant
     kissing goodbye his dreams of becoming a rock 'n' roll star, Marge enrolls him
     a fantasy rock star camp run by The Rolling Stones.
@@ -23,6 +25,7 @@ episodes:
 - title: Bart vs. Lisa vs. 3rd Grade
   season: 14
   episode: 3
+  release_date:
   description: Bart and Lisa are horrified when they both end up in the same 3rd grade
     class.
   disneyplus_id: 87d21214-5742-4f77-89b8-d14d38e73772
@@ -32,6 +35,7 @@ episodes:
 - title: Large Marge
   season: 14
   episode: 4
+  release_date:
   description: Marge's life changes dramatically when her attempt to lose weight via
     surgery resulting in larger breasts; Bart and Milhouse get into mischief that
     leads to a public relations nightmare for Krusty.
@@ -42,6 +46,7 @@ episodes:
 - title: Helter Shelter
   season: 14
   episode: 5
+  release_date:
   description: When the Simpson house undergoes fumigation, the family is forced to
     seek shelter elsewhere... and ends up participating in a reality TV program set
     in a house from the 1800s.
@@ -52,6 +57,7 @@ episodes:
 - title: The Great Louse Detective
   season: 14
   episode: 6
+  release_date:
   description: When someone attempts to murder Homer, Sideshow Bob is released from
     prison to help identify the culprit before he strikes again.
   disneyplus_id: ae9e9d58-b373-4c0d-857a-42fb7a84a316
@@ -61,6 +67,7 @@ episodes:
 - title: Special Edna
   season: 14
   episode: 7
+  release_date:
   description: When Bart gets Mrs. Krabappel nominated for Teacher of the Year, the
     family heads for Orlando to attend the ceremony.  But Skinner fears he may lose
     Krabappel forever... and asks Bart to sabotage the affair.
@@ -71,6 +78,7 @@ episodes:
 - title: The Dad Who Knew Too Little
   season: 14
   episode: 8
+  release_date:
   description: Homer hires a shady private investigator to spy on Lisa when he realizes
     he doesn't know very much about his daughter.
   disneyplus_id: 3b28d928-7acf-4429-a0c8-a3b791ff21bc
@@ -80,6 +88,7 @@ episodes:
 - title: The Strong Arms of The Ma
   season: 14
   episode: 9
+  release_date:
   description: When Marge is mugged at the Kwik-E-Mart, she develops agoraphobia and
     ends up living in the basement... until she turns into a fearless bodybuilder.
   disneyplus_id: 06fad58a-25d7-40c0-a83d-adcbddc60bce
@@ -89,6 +98,7 @@ episodes:
 - title: Pray Anything
   season: 14
   episode: 10
+  release_date:
   description: Inspired by Ned Flanders, Homer turns to prayer in hopes of changing
     his lot in life.  But when he injures himself coming out of church, Homer sues
     for damages... and is awarded the church itself.
@@ -99,6 +109,7 @@ episodes:
 - title: Barting Over
   season: 14
   episode: 11
+  release_date:
   description: When Bart discovers the existence of an embarrassing TV commercial
     he appeared in as a baby-and that Homer spent the money he earned-he sues for
     emancipation and moves out of the house.
@@ -109,6 +120,7 @@ episodes:
 - title: I'm Spelling as Fast as I Can
   season: 14
   episode: 12
+  release_date:
   description: When Lisa becomes a finalist in a spelling bee, she's offered a college
     scholarship in exchange for losing; Homer falls hopelessly in love with Krustyburger's
     limited-time-only rib sandwich.
@@ -119,6 +131,7 @@ episodes:
 - title: A Star is Born-Again
   season: 14
   episode: 13
+  release_date:
   description: A Hollywood movie star takes a romantic interest in Ned Flanders, and
     when the relationship blossoms, Ned's faith is put to the test when the star wants
     to have premarital sex.
@@ -129,6 +142,7 @@ episodes:
 - title: Mr. Spritz Goes To Washington
   season: 14
   episode: 14
+  release_date:
   description: When Springfield Airport changes the flight paths of airplanes, sending
     them over the Simpson's house, the family convinces Krusty to run for congress
     so he can change the law.
@@ -139,6 +153,7 @@ episodes:
 - title: C.E.D'oh
   season: 14
   episode: 15
+  release_date:
   description: On Valentine's Day, Homer attends a college course on how to succeed
     in the corporate world, he becomes the owner of the power plant and fires Mr.
     Burns... only to realize that running the plant means being away from family.
@@ -149,6 +164,7 @@ episodes:
 - title: "'Scuse Me While I Miss The Sky"
   season: 14
   episode: 16
+  release_date:
   description: As a British filmmaker makes a documentary about Springfield Elementary,
     Lisa tires to save the nighttime sky from light pollution, while Bart attempts
     to restore his coolness by obtaining a hood ornament from Fat Tony's car.
@@ -159,6 +175,7 @@ episodes:
 - title: Three Gays of the Condo
   season: 14
   episode: 17
+  release_date:
   description: Homer moves in with a gay couple after discovering a letter Marge wrote
     years earlier that implies she resents him.
   disneyplus_id: 35fdd041-58b4-4a6c-a6a1-a1aa12d2ee9c
@@ -168,6 +185,7 @@ episodes:
 - title: Dude, Where's My Ranch?
   season: 14
   episode: 18
+  release_date:
   description: While vacationing at a dude ranch, Lisa falls for a cute 13-year-old
     cowboy; Homer vows to stop beavers who've dammed a river and kept Native Americans
     from their land.
@@ -178,6 +196,7 @@ episodes:
 - title: Old Yeller-Belly
   season: 14
   episode: 19
+  release_date:
   description: When Santa's Little Helper becomes Duff Beer's new, highly-paid mascot,
     his original owner comes out of the woodwork and claims the dog belongs to him.
   disneyplus_id: d05adc7d-5679-4d0b-bf54-98ade578f1bd
@@ -187,6 +206,7 @@ episodes:
 - title: Brake My Wife, Please
   season: 14
   episode: 20
+  release_date:
   description: When Homer loses his driver's license, he embraces walking.  But Marge
     begins to suffer from stress when the pressure of being the only full-time driver
     in the house takes its toll-and ends up running Homer over in her car.
@@ -197,6 +217,7 @@ episodes:
 - title: The Bart of War
   season: 14
   episode: 21
+  release_date:
   description: After police discover Bart and Milhouse ransacking Flanders' Beatles
     memorabilia, Marge decides to place her son in a supervised activity, the Pre-Teen
     Braves.
@@ -207,6 +228,7 @@ episodes:
 - title: Moe Baby Blues
   season: 14
   episode: 22
+  release_date:
   description: When Moe saves baby Maggie's life, a close bond forms.  But when Maggie
     wanders off with some gangsters, Homer and Marge mistakenly believe that Moe is
     responsible for the baby's disappearance.

@@ -3,6 +3,7 @@ episodes:
 - title: Elementary School Musical
   season: 22
   episode: 1
+  release_date:
   description: Lisa attends a performing arts camp; Krusty stands trial in The Hague
     after being tricked into believing he won the Nobel Prize.
   disneyplus_id: 38dc78b3-ee05-4b9d-9faf-324e06a3bb5c
@@ -12,6 +13,7 @@ episodes:
 - title: Loan-A-Lisa
   season: 22
   episode: 2
+  release_date:
   description: Lisa donates money to a microfinance bank to help Nelson's custom bicycle
     company; Homer games the system by purchasing expensive items from stores and,
     after using them for a period of time, returns them for a refund.
@@ -22,6 +24,7 @@ episodes:
 - title: Money Bart
   season: 22
   episode: 3
+  release_date:
   description: Lisa becomes the coach of Bart's Little League team... and ends up
     firing Bart after he ignores her instructions.
   disneyplus_id: 15c14d56-e9f6-4f1c-9ebd-3c9f38710b0d
@@ -31,6 +34,7 @@ episodes:
 - title: Treehouse of Horror XXI
   season: 22
   episode: 4
+  release_date:
   description: Bart and Milhouse use their videogame skills to save Springfield; in
     a 'Dead Calm' spoof a vacationing Homer and Marge rescue a stranger who may be
     a murderer; Lisa falls for a hunky vampire in a spoof of 'Twilight'.
@@ -41,6 +45,7 @@ episodes:
 - title: Lisa Simpson, This Isn't Your Life
   season: 22
   episode: 5
+  release_date:
   description: Lisa decides she doesn't want to end up like Marge; Bart becomes the
     new school bully after Nelson is humiliated by a series of mishaps; Maggie becomes
     obsessed with owning a collectible elf figure.
@@ -51,6 +56,7 @@ episodes:
 - title: The Fool Monty
   season: 22
   episode: 6
+  release_date:
   description: When a dying Mr. Burns loses his memory, the residents of Springfield
     exact revenge on the abusive billionaire by using him as their plaything.
   disneyplus_id: a3b8ce07-2d55-4871-8fad-6329dd94e6c7
@@ -60,6 +66,7 @@ episodes:
 - title: How Munched is that Birdie in the Window?
   season: 22
   episode: 7
+  release_date:
   description: The Simpsons decide to give away Santa's Little Helper after the dog
     swallows Bart's beloved carrier pigeon.
   disneyplus_id: 356e17bb-0256-4ed9-a099-2440629b232a
@@ -69,6 +76,7 @@ episodes:
 - title: The Fight Before Christmas
   season: 22
   episode: 8
+  release_date:
   description: Four Christmas tales... Bart takes a 'Polar Express' ride to ask Santa
     for a dirt bike; Lisa worries after Marge is drafted to fight Nazis; Martha Stewart
     helps spruce-up the house; the family celebrates a Muppet Christmas.
@@ -79,6 +87,7 @@ episodes:
 - title: Donnie Fatso
   season: 22
   episode: 9
+  release_date:
   description: Acting as an undercover informant, Homer sets out to win the trust
     of mobster Fat Tony as part of the FBI's efforts to break up his crime syndicate.
   disneyplus_id: e10fee5e-a7af-44b5-abd3-4b77d384d0e7
@@ -88,6 +97,7 @@ episodes:
 - title: Moms I'd Like To Forget
   season: 22
   episode: 10
+  release_date:
   description: As Bart tries to determine the origin of a scar on his hand, Marge
     reacquaints herself with three old friends.
   disneyplus_id: b74dda16-c0a0-470f-a1e4-bdbf60934c52
@@ -97,6 +107,7 @@ episodes:
 - title: Flaming Moe
   season: 22
   episode: 11
+  release_date:
   description: Smithers convinces Moe to turn his tavern into a gay bar; with Bart's
     help, Skinner romances the elementary school's new music teacher.
   disneyplus_id: 05b20286-fb1c-4d57-864b-d1ec3bfeb7cf
@@ -106,6 +117,7 @@ episodes:
 - title: Homer the Father
   season: 22
   episode: 12
+  release_date:
   description: Homer uses plotlines from a 1980's sitcom to deal with Bart when the
     boy grows obsessed with obtaining a cool mini-bike; Bart attempts to trade nuclear
     secrets to the Chinese government.
@@ -116,6 +128,7 @@ episodes:
 - title: The Blue and the Gray
   season: 22
   episode: 13
+  release_date:
   description: Unable to get a date for Valentine's Day, Moe asks Homer to act as
     his 'wingman' and help him attract women; Marge has her entire head of hair dyed
     gray after she discovers her first gray hair.
@@ -126,6 +139,7 @@ episodes:
 - title: 'Angry Dad: The Movie'
   season: 22
   episode: 14
+  release_date:
   description: When the 'Angry Dad' character is turned into an award-winning animated
     short film, Homer hogs the spotlight... much to Bart's dismay.
   disneyplus_id: d9470465-3363-4914-bc9b-ebf02c34d164
@@ -135,6 +149,7 @@ episodes:
 - title: The Scorpion's Tale
   season: 22
   episode: 15
+  release_date:
   description: When Lisa discovers a wildflower that turns scorpions into blissful
     creatures, Homer secretly spikes Grampa's coffee with juice from the plant, turning
     him into a docile old man.
@@ -145,6 +160,7 @@ episodes:
 - title: A Midsummer's Nice Dreams
   season: 22
   episode: 16
+  release_date:
   description: When legendary comics Cheech and Chong split up, Cheech asks Homer
     to replace his old partner; Marge helps the Cat Lady empty her house of junk...
     only to become a hoarder herself.
@@ -155,6 +171,7 @@ episodes:
 - title: Love is a Many Strangled Thing
   season: 22
   episode: 17
+  release_date:
   description: Homer enrolls in a fathering enrichment class, where he undergoes treatment
     to stop the urge to strangle Bart.
   disneyplus_id: 2b4b1626-7659-41bc-86cb-c3e54dacb1f1
@@ -164,6 +181,7 @@ episodes:
 - title: The Great Simpsina
   season: 22
   episode: 18
+  release_date:
   description: Lisa befriends an old magician who shows her how to perform one of
     Houdini's greatest tricks.
   disneyplus_id: 31ed1ffb-7ab7-4e62-894f-0a1e6fbd2470
@@ -173,6 +191,7 @@ episodes:
 - title: The Housewives of Fat Tony
   season: 22
   episode: 19
+  release_date:
   description: Fat Tony asks for Selma's hand in marriage; Bart discovers a talent
     for sniffing out truffles.
   disneyplus_id: c185dd7e-51d1-42df-83a9-cac70fd2db64
@@ -182,6 +201,7 @@ episodes:
 - title: Homer Scissorhands
   season: 22
   episode: 20
+  release_date:
   description: Homer discovers a talent for cutting women's hair; Lisa becomes puzzled
     when a pretty girl at school shows an interest in Milhouse.
   disneyplus_id: 93b63c51-2897-4453-8f3f-3c66a807e05d
@@ -191,6 +211,7 @@ episodes:
 - title: 500 Keys
   season: 22
   episode: 21
+  release_date:
   description: 'A drawer full of old keys sparks several adventures: Homer steals
     the Duff blimp; Bart discovers he can do no wrong; Lisa discovers a strange room
     beneath Springfield Elementary; Marge and Maggie chase a toy train.'
@@ -201,6 +222,7 @@ episodes:
 - title: The Ned-liest Catch
   season: 22
   episode: 22
+  release_date:
   description: Ned Flanders falls for Bart's teacher, Edna Krabappel... but will Krabappel's
     reputation for dating every guy in town spell the end of the relationship?
   disneyplus_id: db312e88-f40c-4220-94b3-0342669e204f

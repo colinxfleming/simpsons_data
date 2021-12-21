@@ -3,6 +3,7 @@ episodes:
 - title: Treehouse of Horror XII
   season: 13
   episode: 1
+  release_date:
   description: On Halloween, the Simpsons are menaced by a computer controlling an
     automated house; a gypsy curses Homer; Lisa and Bart find themselves in a Harry
     Potter-like adventure.
@@ -13,6 +14,7 @@ episodes:
 - title: The Parent Rap
   season: 13
   episode: 2
+  release_date:
   description: A stern judge rules that Homer and Bart are to be tethered together,
     and later, Homer and Marge are declared bad parents and placed in old-fashioned
     wooden stocks.
@@ -23,6 +25,7 @@ episodes:
 - title: Homer the Moe
   season: 13
   episode: 3
+  release_date:
   description: Moe turns the bar into a pretentious hang-out for Springfield's 'beautiful
     people,' forcing Homer to start a bar of his own inside his garage.
   disneyplus_id: 7aa1e458-2d84-462b-944e-fdea6ba7d0c9
@@ -32,6 +35,7 @@ episodes:
 - title: Hunka Hunka Burns in Love
   season: 13
   episode: 4
+  release_date:
   description: When Mr. Burns falls for an attractive traffic cop many years his junior,
     he enlists Homer's help in romancing her.
   disneyplus_id: 615f5d50-9053-4a52-9d28-7ee007c4fd6f
@@ -41,6 +45,7 @@ episodes:
 - title: The Blunder Years
   season: 13
   episode: 5
+  release_date:
   description: When placed under hypnosis, Homer struggles with a repressed memory-which
     leads to a shocking discovery.
   disneyplus_id: b3a80310-5278-48b4-bcdf-7640e6ef6d76
@@ -50,6 +55,7 @@ episodes:
 - title: She of Little Faith
   season: 13
   episode: 6
+  release_date:
   description: As Christmas approaches... Lisa searches for a new religion after Mr.
     Burns takes over her church and runs it like a corporation.
   disneyplus_id: 1e576683-d666-4616-ade0-e434176e3d27
@@ -59,6 +65,7 @@ episodes:
 - title: Brawl in the Family
   season: 13
   episode: 7
+  release_date:
   description: A social worker attempts to transform the family into a functional,
     cooperative unit... until Homer's other wife shows up unexpectedly.
   disneyplus_id: 6d9cec94-bed0-4dba-8171-af100d77e381
@@ -68,6 +75,7 @@ episodes:
 - title: Sweets and Sour Marge
   season: 13
   episode: 8
+  release_date:
   description: After Springfield wins the title of World's Fattest Town, Marge launches
     an anti-sugar crusade, and sugar is banned from the city.
   disneyplus_id: 065b54df-f644-47c3-a829-38392e7d5a42
@@ -77,6 +85,7 @@ episodes:
 - title: Jaws Wired Shut
   season: 13
   episode: 9
+  release_date:
   description: When Homer has to have his jaw wired shut, he discovers the joys of
     listening, but Marge finds that a well-behaved Homer isn't what she really wanted.
   disneyplus_id: cebdc2b8-429b-450f-ad2a-3d9f892c9a7a
@@ -86,6 +95,7 @@ episodes:
 - title: Half-Decent Proposal
   season: 13
   episode: 10
+  release_date:
   description: Marge's ex-boyfriend, now one of the world's richest men, offers Homer
     a million dollars in exchange for a weekend with her, to see what 'might have
     been.'
@@ -96,6 +106,7 @@ episodes:
 - title: The Bart Wants What It Wants
   season: 13
   episode: 11
+  release_date:
   description: Bart travels to Canada to win back the heart of Rainier Wolfcastle's
     daughter after she runs off with Milhouse.
   disneyplus_id: ab9a7c27-a859-433d-9cae-ee11d5561f5a
@@ -105,6 +116,7 @@ episodes:
 - title: The Lastest Gun in the West
   season: 13
   episode: 12
+  release_date:
   description: Bart befriends an aging movie cowboy who begins drinking heavily when
     asked to appear on Krusty's television show.
   disneyplus_id: ca10983a-ae5b-4017-86f2-8a869f1224ae
@@ -114,6 +126,7 @@ episodes:
 - title: The Old Man and the Key
   season: 13
   episode: 13
+  release_date:
   description: In an effort to win a date with a beautiful new resident at the nursing
     home, Grampa gets his driver's license back... and gives chase when the object
     of his affection leaves for Branson, Missouri.
@@ -124,6 +137,7 @@ episodes:
 - title: Tales From the Public Domain
   season: 13
   episode: 14
+  release_date:
   description: 'The Simpsons appear as characters in three classic tales: Homer as
     Odysseus leads the Greek army; Bart as Hamlet attempts to avenge the death of
     his father; Lisa as Joan of Arc pits the French against the English.'
@@ -134,6 +148,7 @@ episodes:
 - title: Blame it on Lisa
   season: 13
   episode: 15
+  release_date:
   description: When the Simpsons fly to Brazil to locate a missing orphan that Lisa
     has been sponsoring, Homer ends up getting kidnapped.
   disneyplus_id: 81943c2d-1289-4956-b555-83e291444b74
@@ -143,6 +158,7 @@ episodes:
 - title: Weekend at Burnsie's
   season: 13
   episode: 16
+  release_date:
   description: When Homer is attacked by crows, he's prescribed medical marijuana
     to help relieve the pain... leading Burns to promote his happy employee to executive
     vice president of the power plant.
@@ -153,6 +169,7 @@ episodes:
 - title: Gump Roast
   season: 13
   episode: 17
+  release_date:
   description: Homer is roasted at the Springfield Friar's Club, leading to recollections
     from the past.  But the fate of the Earth hangs in the balance when aliens Kang
     and Kodos make an unexpected appearance.
@@ -163,6 +180,7 @@ episodes:
 - title: I am Furious Yellow
   season: 13
   episode: 18
+  release_date:
   description: Bart launches a comic book with an angry Homer as the main character,
     and when it proves a huge success, Homer vows to give up getting angry for Lent.
   disneyplus_id: fe5e230c-1c35-4b6d-bf16-5aa29d39a7f3
@@ -172,6 +190,7 @@ episodes:
 - title: The Sweetest Apu
   season: 13
   episode: 19
+  release_date:
   description: When Manjula kicks Apu out of the house for cheating on her, Homer
     and Marge search for a way to reunite the couple.
   disneyplus_id: a5adee2e-50dc-431a-8419-42734f3c1f74
@@ -181,6 +200,7 @@ episodes:
 - title: Little Girl in the Big Ten
   season: 13
   episode: 20
+  release_date:
   description: Lisa is overjoyed when she befriends some college students; Bart becomes
     a boy-in-a-plastic-bubble after he's bitten by a Chinese mosquito.
   disneyplus_id: 9d9a1112-0d2c-47c0-b92c-6fb298dd107d
@@ -190,6 +210,7 @@ episodes:
 - title: Frying Game
   season: 13
   episode: 21
+  release_date:
   description: Homer and Marge become murder suspects after an elderly shut-in the
     couple befriended is found dead.
   disneyplus_id: 2ade0011-4a83-40a1-b5ff-9b47e3cbe4b3
@@ -199,6 +220,7 @@ episodes:
 - title: Papa's Got a Brand New Badge
   season: 13
   episode: 22
+  release_date:
   description: When Wiggum and his men prove ineffective in controlling a citywide
     riot, townspeople begin to feel unsafe... until Homer forms his own police force.
   disneyplus_id: 7d8a03ea-c828-488a-ad85-258dd82ce9ca

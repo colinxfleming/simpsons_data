@@ -3,6 +3,7 @@ episodes:
 - title: Undercover Burns
   season: 32
   episode: 1
+  release_date:
   description: Mr. Burns goes undercover to see what the employees really think of him.
   disneyplus_id: 4b843d21-679a-4430-bf4c-039d10c31543
   simpsonsworld_id:
@@ -11,6 +12,7 @@ episodes:
 - title: I, Carumbus
   season: 32
   episode: 2
+  release_date:
   description: The Simpson family goes to Ancient Rome.
   disneyplus_id: 62c69f41-41d2-46e2-a69a-434217fdd5e3
   simpsonsworld_id:
@@ -19,6 +21,7 @@ episodes:
 - title: Now Museum, Now You Don't
   season: 32
   episode: 3
+  release_date:
   description: Lisa stays home from school to explore the wonders of western art.
   disneyplus_id: 5272f7e8-a4a8-4f47-a894-08849f51e8f4
   simpsonsworld_id:
@@ -27,6 +30,7 @@ episodes:
 - title: Treehouse Of Horror XXXI
   season: 32
   episode: 4
+  release_date:
   description: The annual Simpsons terror-themed trilogy.
   disneyplus_id: 42262a30-b359-4417-87bc-af4f9ca99a5e
   simpsonsworld_id:
@@ -35,6 +39,7 @@ episodes:
 - title: The 7 Beer Itch
   season: 32
   episode: 5
+  release_date:
   description: When Marge and the kids take a seaside vacation, Homer is unwittingly tempted by a femme fatale.
   disneyplus_id: ed49959a-03c6-4e14-8506-5f2b8400bd21
   simpsonsworld_id:
@@ -43,6 +48,7 @@ episodes:
 - title: Podcast News
   season: 32
   episode: 6
+  release_date:
   description: Grampa is accused of a crime in this return to the Simpsons.
   disneyplus_id: b4c0c3b8-c02e-4069-b96f-2b73eb1b00a1
   simpsonsworld_id:
@@ -51,6 +57,7 @@ episodes:
 - title: Three Dreams Denied
   season: 32
   episode: 7
+  release_date:
   description: Bart becomes a voice over actor. Comic Book Guy is humiliated at Comic-Con.
   disneyplus_id: 068ac0b5-a3ef-4a47-adbe-c576d14ba55f
   simpsonsworld_id:
@@ -59,6 +66,7 @@ episodes:
 - title: The Road To Cincinnati
   season: 32
   episode: 8
+  release_date:
   description: Principal Skinner and Superintendent Chalmers take a road trip.
   disneyplus_id: 119c3f83-0141-4ba4-9041-39280a5ab7d7
   simpsonsworld_id:
@@ -67,6 +75,7 @@ episodes:
 - title: Sorry Not Sorry
   season: 32
   episode: 9
+  release_date:
   description: Lisa calls her teacher a hack and refuses to apologize.
   disneyplus_id: f975f650-7700-4935-b396-621a6bb8e3ca
   simpsonsworld_id:
@@ -75,6 +84,7 @@ episodes:
 - title: A Springfield Summer Christmas for Christmas
   season: 32
   episode: 10
+  release_date:
   description: A Christmas movie comes to Springfield.
   disneyplus_id: ea02692e-8b29-4d56-992f-426bfc6b5d3a
   simpsonsworld_id:
@@ -83,6 +93,7 @@ episodes:
 - title: The Dad-Feelings Limited
   season: 32
   episode: 11
+  release_date:
   description: Comic book guy and his wife Kumiko debate having a baby.
   disneyplus_id: 76c886a1-1c77-434a-9559-f1bc84cba049
   simpsonsworld_id:
@@ -91,6 +102,7 @@ episodes:
 - title: Diary Queen
   season: 32
   episode: 12
+  release_date:
   description: Bart finds his old teacher’s diary and learns a surprising secret.
   disneyplus_id: ddba70c9-8a76-42c4-b49d-514fd2dbec8d
   simpsonsworld_id:
@@ -99,6 +111,7 @@ episodes:
 - title: Wad Goals
   season: 32
   episode: 13
+  release_date:
   description: Bart becomes a successful caddy.
   disneyplus_id: 18b45aa7-7537-44fe-aa3e-6efe67f12150
   simpsonsworld_id:
@@ -107,6 +120,7 @@ episodes:
 - title: Yokel Hero
   season: 32
   episode: 14
+  release_date:
   description: Cletus becomes a singing sensation.
   disneyplus_id: 47aea404-484a-4f83-abd4-18a24da8c558
   simpsonsworld_id:
@@ -115,6 +129,7 @@ episodes:
 - title: Do Pizza Bots Dream Of Electric Guitars
   season: 32
   episode: 15
+  release_date:
   description: Homer tries to get his favorite band to reunite.
   disneyplus_id: cd17413f-6dfe-4d2b-a92c-c859d3ed16a8
   simpsonsworld_id:
@@ -123,6 +138,7 @@ episodes:
 - title: Manger Things
   season: 32
   episode: 16
+  release_date:
   description: We learn a secret of Flanders’ past.
   disneyplus_id: ad667e50-7fb6-4b0c-89a0-181834df92c4
   simpsonsworld_id:
@@ -131,6 +147,7 @@ episodes:
 - title: Uncut Femmes
   season: 32
   episode: 17
+  release_date:
   description: We learn that Chief Wiggum’s wife is more than she seems.
   disneyplus_id: b90eca2d-285e-4d52-996f-d57d65c2a1d3
   simpsonsworld_id:
@@ -139,6 +156,7 @@ episodes:
 - title: Burger Kings
   season: 32
   episode: 18
+  release_date:
   description: Mr. Burns gets into the plant-based burger business.
   disneyplus_id: b7bdfed4-8fef-4225-80b1-02e490f43947
   simpsonsworld_id:
@@ -147,6 +165,7 @@ episodes:
 - title: Panic on the Streets of Springfield
   season: 32
   episode: 19
+  release_date:
   description: Lisa gets an imaginary friend who makes her feel much better about herself.
   disneyplus_id: 852d8315-80ba-414e-b67b-e80a5476e053
   simpsonsworld_id:
@@ -155,6 +174,7 @@ episodes:
 - title: Mother and Child Reunion
   season: 32
   episode: 20
+  release_date:
   description: Lisa makes a shocking college decision, wounding Marge. It leads to a very surprising place.
   disneyplus_id: b49da137-f3d0-4d84-bd7f-4a6d304812c6
   simpsonsworld_id:
@@ -163,6 +183,7 @@ episodes:
 - title: The Man From G.R.A.M.P.A.
   season: 32
   episode: 21
+  release_date:
   description: A British secret agent comes to Springfield in search of a Russian spy.
   disneyplus_id: ced76366-e9b2-4ad5-9783-e0fdb25975b6
   simpsonsworld_id:
@@ -171,6 +192,7 @@ episodes:
 - title: The Last Barfighter
   season: 32
   episode: 22
+  release_date:
   description: Moe breaks a sacred bartender rule.
   disneyplus_id: 8425cef2-91ae-4d92-ba05-174dd5aa2fa8
   simpsonsworld_id:

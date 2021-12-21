@@ -3,6 +3,7 @@ episodes:
 - title: Who Shot Mr. Burns? (Part Two)
   season: 7
   episode: 1
+  release_date:
   description: Lisa aids police with the investigation of the Burns shooting.
   disneyplus_id: af6bd0ea-9f03-4291-9224-de834958b1a1
   simpsonsworld_id: 305689667892
@@ -11,6 +12,7 @@ episodes:
 - title: Radioactive Man
   season: 7
   episode: 2
+  release_date:
   description: Hollywood producers cast Milhouse in a motion picture based on the
     popular "Radioactive Man" comic books.
   disneyplus_id: 2895e8ae-b98c-43e8-8da0-8015832768f6
@@ -20,6 +22,7 @@ episodes:
 - title: Home Sweet Homediddly-Dum-Doodily
   season: 7
   episode: 3
+  release_date:
   description: The Flanders gain custody of the Simpson children after welfare workers
     accuse Homer and Marge of being negligent parents.
   disneyplus_id: 85ae1888-ba11-43e6-a617-badff0685aad
@@ -29,6 +32,7 @@ episodes:
 - title: Bart Sells His Soul
   season: 7
   episode: 4
+  release_date:
   description: Bart sells his soul to Milhouse for five dollars.  Moe transforms his
     bar into a family restaurant.
   disneyplus_id: 9168c65f-2ea7-46de-aef9-14c518a5f597
@@ -38,6 +42,7 @@ episodes:
 - title: Lisa the Vegetarian
   season: 7
   episode: 5
+  release_date:
   description: Lisa turns vegetarian after her family visits a petting zoo.
   disneyplus_id: 18076697-c44b-4d5d-a4cd-e12fe07b924e
   simpsonsworld_id: 276980291592
@@ -46,6 +51,7 @@ episodes:
 - title: Treehouse of Horror VI
   season: 7
   episode: 6
+  release_date:
   description: The Simpsons appear in three horrifying Halloween tales.
   disneyplus_id: 384c7808-cd8f-4908-a095-c3fedf955d37
   simpsonsworld_id: 310404163601
@@ -54,6 +60,7 @@ episodes:
 - title: King-Size Homer
   season: 7
   episode: 7
+  release_date:
   description: Homer intentionally gains weight so he can qualify for disability and
     work at home.
   disneyplus_id: 3da929b8-51d7-483b-8007-540faa742efa
@@ -63,6 +70,7 @@ episodes:
 - title: Mother Simpson
   season: 7
   episode: 8
+  release_date:
   description: After Homer fakes his own death, his long-thought-deceased mother arrives
     in Springfield to pay her last respects.
   disneyplus_id: 79177d82-52a3-42e0-9f1a-74bebdb70a3b
@@ -72,6 +80,7 @@ episodes:
 - title: Sideshow Bob's Last Gleaming
   season: 7
   episode: 9
+  release_date:
   description: Sideshow Bob threatens to detonate a nuclear bomb unless television
     is abolished.
   disneyplus_id: dd578c4e-b966-4039-9154-c49ebfc3fcc7
@@ -81,6 +90,7 @@ episodes:
 - title: The Simpsons 138th Episode Spectacular
   season: 7
   episode: 10
+  release_date:
   description: Troy McClure hosts this special 138th episode, which includes the first-ever
     cartoon shorts, trivia questions, and never-before-seen footage.
   disneyplus_id: bf91c3f9-c130-4b40-9c0a-d106bee437da
@@ -90,6 +100,7 @@ episodes:
 - title: Marge Be Not Proud
   season: 7
   episode: 11
+  release_date:
   description: As Christmas approaches, Marge treats Bart like an adult after he is
     caught shoplifting.
   disneyplus_id: c75d20a0-48e3-4e3f-b420-51b13527decf
@@ -99,6 +110,7 @@ episodes:
 - title: Team Homer
   season: 7
   episode: 12
+  release_date:
   description: Homer reluctantly accepts Mr. Burns into his new bowling league.  Bart
     causes a student riot by wearing a Mad magazine iron-on prompting Skinner to implement
     a school dress code.
@@ -109,6 +121,7 @@ episodes:
 - title: Two Bad Neighbors
   season: 7
   episode: 13
+  release_date:
   description: Former President George Bush and his wife Barbara buy a house across
     the street from the Simpsons.
   disneyplus_id: 6d3f90dd-4441-4a21-873b-2b856aae503c
@@ -118,6 +131,7 @@ episodes:
 - title: Scenes from the Class Struggle in Springfield
   season: 7
   episode: 14
+  release_date:
   description: The Simpsons apply for membership at a posh country club.
   disneyplus_id: 69f3b82f-c910-4c58-a378-cc18fe23587a
   simpsonsworld_id: 305694276001
@@ -126,6 +140,7 @@ episodes:
 - title: Bart the Fink
   season: 7
   episode: 15
+  release_date:
   description: Krusty is arrested for massive tax fraud after Bart inadvertently exposes
     his hero's illegal bank account.
   disneyplus_id: 22adc89c-f2e8-4380-9d96-bd10defc0ddd
@@ -135,6 +150,7 @@ episodes:
 - title: Lisa the Iconoclast
   season: 7
   episode: 16
+  release_date:
   description: Lisa discovers that Jebediah Springfield was a vicious pirate. Homer
     wins the coveted role of town crier in an upcoming parade.
   disneyplus_id: 3c98cfc8-ba9f-4dd9-8fdf-9bc0f5f63b8f
@@ -144,6 +160,7 @@ episodes:
 - title: Homer the Smithers
   season: 7
   episode: 17
+  release_date:
   description: Homer acts as Mr. Burns' assistant while Smithers is away on vacation.
   disneyplus_id: c2fc5c37-1407-47bc-a71a-a6fa30688127
   simpsonsworld_id: 277248579634
@@ -152,6 +169,7 @@ episodes:
 - title: The Day the Violence Died
   season: 7
   episode: 18
+  release_date:
   description: Bart and Lisa come to the aid of a down-and-out man who claims to have
     invented the concept of cartoon violence.
   disneyplus_id: cdf89f39-7954-4823-bd0f-e59a508cfd84
@@ -161,6 +179,7 @@ episodes:
 - title: A Fish Called Selma
   season: 7
   episode: 19
+  release_date:
   description: Troy McClure stages a Hollywood comeback when he begins dating Selma.
   disneyplus_id: d479707a-067a-49c9-a707-1360c0e001e1
   simpsonsworld_id: 300935235544
@@ -169,6 +188,7 @@ episodes:
 - title: Bart on the Road
   season: 7
   episode: 20
+  release_date:
   description: Using a fake driver's license, Bart rents a car and embarks on a Spring
     Break road trip with his friends.  A special bond develops between Lisa and Homer
     after Skinner invents Go To Work With Your Parents Day.
@@ -179,6 +199,7 @@ episodes:
 - title: 22 Short Films About Springfield
   season: 7
   episode: 21
+  release_date:
   description: The lives of Springfield residents are highlighted in a series of interconnecting
     vignettes.
   disneyplus_id: 7a4eea69-f6f0-4361-a043-0282f15c365a
@@ -189,6 +210,7 @@ episodes:
     Hellfish'
   season: 7
   episode: 22
+  release_date:
   description: Grampa and Mr. Burns, the last surviving members of a World War II
     army unit, vie for a priceless collection of rare art hidden in a secret location.
   disneyplus_id: 83a53166-960e-4b09-808c-93e6556722bd
@@ -198,6 +220,7 @@ episodes:
 - title: Much Apu About Nothing
   season: 7
   episode: 23
+  release_date:
   description: Apu faces deportation when a referendum on illegal immigrants is placed
     on the Springfield ballot.
   disneyplus_id: 1195725c-d1c9-4ff1-bd37-0c652fda5309
@@ -207,6 +230,7 @@ episodes:
 - title: Homerpalooza
   season: 7
   episode: 24
+  release_date:
   description: Homer is hired to perform in a rock festival.
   disneyplus_id: 75b8b572-9e2d-40b5-8424-5b943d15fd75
   simpsonsworld_id: 277008451637
@@ -215,6 +239,7 @@ episodes:
 - title: Summer of 4 Ft. 2
   season: 7
   episode: 25
+  release_date:
   description: While on summer vacation with her family, Lisa sheds her nerdy image
     in an effort to make new friends.
   disneyplus_id: 964b876c-efaa-483f-bf8b-047187608d95

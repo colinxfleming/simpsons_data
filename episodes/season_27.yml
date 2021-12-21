@@ -3,6 +3,7 @@ episodes:
 - title: Every Man's Dream
   season: 27
   episode: 1
+  release_date:
   description: Marge decides it's finally time to separate from Homer, and quickly
     moves on with her life. Homer is initially devastated, but soon stumbles into
     a romance with a younger woman.
@@ -13,6 +14,7 @@ episodes:
 - title: Cue Detective
   season: 27
   episode: 2
+  release_date:
   description: A celebrity television chef challenges Homer to a barbecue cook-off.
     But before the competition, Homer's new, prized barbecue grill is stolen.
   disneyplus_id: b852e4d5-f1d0-4952-b7a7-adca126e73cc
@@ -22,6 +24,7 @@ episodes:
 - title: Puffless
   season: 27
   episode: 3
+  release_date:
   description: Patty and Selma try to quit smoking, but Patty moves in with the Simpsons
     when Selma takes it up again. Meanwhile, Maggie goes on an adventure with some
     local creatures.
@@ -32,6 +35,7 @@ episodes:
 - title: Halloween of Horror
   season: 27
   episode: 4
+  release_date:
   description: The Simpsons are proud to be the most festively decorated house on
     the block. But when Lisa is traumatized at Krustyland Horror Night, she feels
     she cannot handle Halloween anymore.
@@ -42,6 +46,7 @@ episodes:
 - title: Treehouse of Horror XXVI
   season: 27
   episode: 5
+  release_date:
   description: After killing Bart, Sideshow Bob doesn't know what to do with himself;
     Homer wakes up with short-term memory loss; Because of radiation, Lisa, Bart and
     Milhouse gain super-powers.
@@ -52,6 +57,7 @@ episodes:
 - title: Friend with Benefit
   season: 27
   episode: 6
+  release_date:
   description: Lisa makes a new friend at school - Harper, who happens to be super-rich,
     while Homer makes friends with Harper's dad and sets out to continue living the
     good life when Lisa decides to end the friendship.
@@ -62,6 +68,7 @@ episodes:
 - title: Lisa with an 'S'
   season: 27
   episode: 7
+  release_date:
   description: Broadway legend Laney Fontaine transforms Lisa into a show-biz kid
     after Homer loses her chance at band camp.
   disneyplus_id: 9d522c72-2956-45f6-b114-9f06861d3c33
@@ -71,6 +78,7 @@ episodes:
 - title: Paths of Glory
   season: 27
   episode: 8
+  release_date:
   description: Lisa tries to restore the reputation of a forgotten Springfield female
     inventor, while Bart takes full advantage of a diagnosis that he is a sociopath.
   disneyplus_id: 30657536-4a9f-4bcc-8837-f0789b3d6203
@@ -80,6 +88,7 @@ episodes:
 - title: Barthood
   season: 27
   episode: 9
+  release_date:
   description: A tale of Bart's journey from youth to adulthood, where he is constantly
     in search of approval from his father and in the shadow of his more-successful
     younger sister.
@@ -90,6 +99,7 @@ episodes:
 - title: The Girl Code
   season: 27
   episode: 10
+  release_date:
   description: When Homer loses his job due to Marge's social media post, he begins
     working as a dishwasher at a Greek restaurant. Meanwhile, Lisa creates an app
     that can predict the effect any post on social media will have.
@@ -100,6 +110,7 @@ episodes:
 - title: Teenage Mutant Milk-Caused Hurdles
   season: 27
   episode: 11
+  release_date:
   description: Bart and Principal Skinner battle over the affection of Bart's new
     teacher, and a new milk-based product that Homer buys from the Kwik-E-Mart causes
     big changes in Bart and Lisa.
@@ -110,6 +121,7 @@ episodes:
 - title: Much Apu About Something
   season: 27
   episode: 12
+  release_date:
   description: Apu's nephew makes big changes when he takes over the Kwik-E-Mart business,
     and Bart decides that he's through with being bad after his latest prank spirals
     out of control.
@@ -120,6 +132,7 @@ episodes:
 - title: Love Is in the N2-O2-Ar-CO2-Ne-He-CH4
   season: 27
   episode: 13
+  release_date:
   description: Professor Frink's new invention turns him into a ladies' man, while
     a new pill at the Springfield Retirement Castle causes Grandpa to hallucinate
     back to his happiest moments.
@@ -130,6 +143,7 @@ episodes:
 - title: Gal of Constant Sorrow
   season: 27
   episode: 14
+  release_date:
   description: Lisa tries to launch the career of a homeless Appalachian folk singer,
     but Bart warns her that she will just let her down. Meanwhile, Homer tries to
     rescue the cat, who is trapped in the walls of the house.
@@ -140,6 +154,7 @@ episodes:
 - title: Lisa the Veterinarian
   season: 27
   episode: 15
+  release_date:
   description: Lisa takes a job as veterinarian's assistant, but soon lets the responsibilities
     of the job get to her head. Meanwhile, Marge decides to take a job as a crime
     scene cleaner.
@@ -150,6 +165,7 @@ episodes:
 - title: The Marge-ian Chronicles
   season: 27
   episode: 16
+  release_date:
   description: Lisa signs up for an opportunity to be part of a mission to colonize
     Mars in ten years, and Homer's strategy to use reverse psychology to talk her
     out of it backfires.
@@ -160,6 +176,7 @@ episodes:
 - title: The Burns Cage
   season: 27
   episode: 17
+  release_date:
   description: Homer tries to raise Smithers' spirits by finding him a man, and Lisa
     gets the lead in the school production of "Casablanca" alongside a new male student,
     sparking Millhouse's jealousy.
@@ -170,6 +187,7 @@ episodes:
 - title: How Lisa Got Her Marge Back
   season: 27
   episode: 18
+  release_date:
   description: After Lisa overhears Marge say that she doesn't like Lisa's jazz music,
     Marge takes Lisa on a trip to Capitol City to regain her friendship. Meanwhile,
     Bart uses Maggie as his new partner in crime for his practical jokes.
@@ -180,6 +198,7 @@ episodes:
 - title: Fland Canyon
   season: 27
   episode: 19
+  release_date:
   description: Maggie will not go to sleep, so Homer tells her a bedtime story about
     when the Simpsons and the Flanders went together to the Grand Canyon.
   disneyplus_id: b9dc9ea5-988b-4276-ae71-da9e2bdf0431
@@ -189,6 +208,7 @@ episodes:
 - title: To Courier with Love
   season: 27
   episode: 20
+  release_date:
   description: After promising Marge the trip of a lifetime, Homer makes a deal with
     a travel agent to be a courier of a top-secret briefcase in exchange for a discounted
     family vacation to Paris.
@@ -199,6 +219,7 @@ episodes:
 - title: Simprovised
   season: 27
   episode: 21
+  release_date:
   description: While trying to overcome a fear of public speaking, Homer creates an
     improv comedy troupe. Meanwhile, Marge rebuilds Bart's treehouse, but gets no
     thanks from him. Homer later appears live to answer phoned in questions.
@@ -209,6 +230,7 @@ episodes:
 - title: Orange Is the New Yellow
   season: 27
   episode: 22
+  release_date:
   description: Marge lets Bart go to the park alone because he's too irritating, then
     she ends up getting arrested for leaving him unsupervised.
   disneyplus_id: f4578a6f-2a92-4e49-82a4-1a37789ddbfd

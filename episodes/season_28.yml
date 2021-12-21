@@ -3,6 +3,7 @@ episodes:
 - title: Monty Burns' Fleeing Circus
   season: 28
   episode: 1
+  release_date:
   description: Mr. Burns puts on a variety show at the Springfield Bowl.
   disneyplus_id: 27983e4e-5a9b-49a6-ad4d-773b53d6dbc5
   simpsonsworld_id: 1066704963871
@@ -11,6 +12,7 @@ episodes:
 - title: Friends and Family
   season: 28
   episode: 2
+  release_date:
   description: Homer finds a new friend in a woman who acts just like him when Mr.
     Burns hires the other Simpsons as his live-in virtual reality family.
   disneyplus_id: c5ae8a57-bdea-435b-b4c7-4febd43dfc33
@@ -20,6 +22,7 @@ episodes:
 - title: The Town
   season: 28
   episode: 3
+  release_date:
   description: Homer takes the family on a "hate-cation" to Boston after he catches
     Bart rooting for a rival football team.
   disneyplus_id: c7350a7a-9a33-48db-a40f-3b8b7893b677
@@ -29,6 +32,7 @@ episodes:
 - title: Treehouse of Horror XXVII
   season: 28
   episode: 4
+  release_date:
   description: The children of Springfield fight to the death, Hunger Games style;
     Lisa's imaginary friend kills her real friends; Moe recruits Bart into his group
     of covert barfly agents.
@@ -39,6 +43,7 @@ episodes:
 - title: Trust but Clarify
   season: 28
   episode: 5
+  release_date:
   description: Bart and Lisa investigate Krusty's new candy; Marge helps Homer dress
     for a promotion; Kent Brockman struggles with the changing media world.
   disneyplus_id: 8633fa65-033e-4548-8c55-f65d0f1c633e
@@ -48,6 +53,7 @@ episodes:
 - title: There Will Be Buds
   season: 28
   episode: 6
+  release_date:
   description: Homer coaches the kids' lacrosse team with Kirk Van Houten, who disappears
     before the championship game, after Homer rants about him being a loser.
   disneyplus_id: 21ac2b78-d86b-49cf-8def-e73e7d3feb7d
@@ -57,6 +63,7 @@ episodes:
 - title: Havana Wild Weekend
   season: 28
   episode: 7
+  release_date:
   description: The Simpsons go to Cuba to get Grampa cheap medical care when the Retirement
     Castle and V.A. hospital are unable to solve his health problems.
   disneyplus_id: 86be2b24-f4ea-48ac-af2d-e03665f8c542
@@ -66,6 +73,7 @@ episodes:
 - title: Dad Behavior
   season: 28
   episode: 8
+  release_date:
   description: Homer discovers an app that makes his life easier, while Grampa learns
     that he'll be a father again.
   disneyplus_id: 6122d981-dab6-448a-b5e2-8e045d49a1cb
@@ -75,6 +83,7 @@ episodes:
 - title: The Last Traction Hero
   season: 28
   episode: 9
+  release_date:
   description: Homer is placed in a cast following a workplace accident, leading Marge
     to receive romance from an unexpected source; Lisa attempts to keep the peace
     as bus monitor.
@@ -85,6 +94,7 @@ episodes:
 - title: The Nightmare After Krustmas
   season: 28
   episode: 10
+  release_date:
   description: Krusty and his daughter spend Christmas with the Simpsons; Reverend
     Lovejoy seeks converts to boost attendance at church; A Christmas toy scares Maggie.
   disneyplus_id: 596be041-df7a-4f32-9209-f8734a20bf70
@@ -94,6 +104,7 @@ episodes:
 - title: Pork and Burns
   season: 28
   episode: 11
+  release_date:
   description: A Japanese book on minimalism inspires Marge to adapt to a new way
     of living, so the Simpsons have to part with items that no longer bring them joy.
   disneyplus_id: e599bf8f-3846-4fc7-9ab9-a526ecd27ca6
@@ -103,6 +114,7 @@ episodes:
 - title: Fatzcarraldo
   season: 28
   episode: 14
+  release_date:
   description: When all the fast food restaurants in Springfield become healthy, Homer
     turns to the last bastion of greasy food for comfort; Lisa must find a good news
     story when her school radio station is in jeopardy.
@@ -113,6 +125,7 @@ episodes:
 - title: The Cad and the Hat
   season: 28
   episode: 15
+  release_date:
   description: Bart deals with his guilt of betraying Lisa; Homer is revealed to be
     a master chess player.
   disneyplus_id: 5f3df5ed-6614-4cb8-9db6-355f12fade31
@@ -122,6 +135,7 @@ episodes:
 - title: Kamp Krustier
   season: 28
   episode: 16
+  release_date:
   description: Bart and Lisa return home following a traumatic incident at Kamp Krusty,
     putting an end to Homer and Marge's sexual encounters.
   disneyplus_id: d455a9c4-d285-4430-b651-90c922210560
@@ -131,6 +145,7 @@ episodes:
 - title: 22 for 30
   season: 28
   episode: 17
+  release_date:
   description: Bart becomes a star basketball player at Springfield Elementary.
   disneyplus_id: 46ee771c-180a-457c-9681-7b4aa32ad4ec
   simpsonsworld_id: 1064044099732
@@ -139,6 +154,7 @@ episodes:
 - title: A Father's Watch
   season: 28
   episode: 18
+  release_date:
   description: As Homer and Marge try a different parenting style on Bart, Grampa
     gives him a special watch.
   disneyplus_id: 9fd603e4-7497-4267-8d3e-1650797237ee
@@ -148,6 +164,7 @@ episodes:
 - title: The Caper Chase
   season: 28
   episode: 19
+  release_date:
   description: Mr. Burns starts his own for-profit university and hires Homer as a
     professor.
   disneyplus_id: cc29a4a0-2c0f-4a33-a26b-942f5f56c788
@@ -157,6 +174,7 @@ episodes:
 - title: Looking for Mr. Goodbart
   season: 28
   episode: 20
+  release_date:
   description: Bart befriends the grandmothers of Springfield.
   disneyplus_id: c1f79df3-116d-4923-859a-a1a964292108
   simpsonsworld_id: 1064046659522
@@ -165,6 +183,7 @@ episodes:
 - title: Moho House
   season: 28
   episode: 21
+  release_date:
   description: Moe helps Homer and Marge work on their marriage.
   disneyplus_id: f58f69c0-5491-493f-a4b5-46dbff81cebe
   simpsonsworld_id: 1064045635817
@@ -173,6 +192,7 @@ episodes:
 - title: Dogtown
   season: 28
   episode: 22
+  release_date:
   description: The dogs of Springfield assert their dominance.
   disneyplus_id: 4a803d13-d79f-4a75-aaee-672938754207
   simpsonsworld_id: 1064045635799
@@ -181,6 +201,7 @@ episodes:
 - title: The Great Phatsby Parts 1 & 2
   season: 28
   episode: 1213
+  release_date:
   description: Mr. Burns tries to relive his glory days, and crosses paths with a
     mysterious music mogul. After being conned by him and reduced to bankruptcy, Mr.
     Burns seeks revenge on the music producer.
