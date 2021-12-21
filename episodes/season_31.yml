@@ -8,9 +8,6 @@ episodes:
   simpsonsworld_id:
   good: false
   guest_stars:
-  characters:
-    - homer
-    - bart
 - title: Go Big or Go Homer
   season: 31
   episode: 2
@@ -19,8 +16,6 @@ episodes:
   simpsonsworld_id:
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: The Fat Blue Line
   season: 31
   episode: 3
@@ -29,9 +24,6 @@ episodes:
   simpsonsworld_id:
   good: false
   guest_stars:
-  characters:
-    - fat_tony
-    - wiggum
 - title: Treehouse of Horror XXX
   season: 31
   episode: 4
@@ -40,8 +32,6 @@ episodes:
   simpsonsworld_id:
   good: false
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: Gorillas on the Mast
   season: 31
   episode: 5
@@ -50,9 +40,6 @@ episodes:
   simpsonsworld_id:
   good: false
   guest_stars:
-  characters:
-    - homer
-    - lisa
 - title: Marge the Lumberjill
   season: 31
   episode: 6
@@ -61,7 +48,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: "Livin' la Pura Vida"
   season: 31
   episode: 7
@@ -70,7 +56,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Thanksgiving of Horror
   season: 31
   episode: 8
@@ -79,7 +64,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Todd, Todd, Why Hast Thou Forsaken Me?
   season: 31
   episode: 9
@@ -88,7 +72,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Bobby, It's Cold Outside
   season: 31
   episode: 10
@@ -97,7 +80,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Hail to the Teeth
   season: 31
   episode: 11
@@ -106,7 +88,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: The Miseducation of Lisa Simpson
   season: 31
   episode: 12
@@ -115,7 +96,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Frinkcoin
   season: 31
   episode: 13
@@ -124,7 +104,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Bart the Bad Guy
   season: 31
   episode: 14
@@ -133,7 +112,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Screenless
   season: 31
   episode: 15
@@ -142,7 +120,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Better Off Ned
   season: 31
   episode: 16
@@ -151,7 +128,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Highway to Well
   season: 31
   episode: 17
@@ -160,7 +136,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: The Incredible Lightness of Being a Baby
   season: 31
   episode: 18
@@ -169,7 +144,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: "Warrin' Priests"
   season: 31
   episode: 19
@@ -178,7 +152,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: "Warrin' Priests Part Two"
   season: 31
   episode: 20
@@ -187,7 +160,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: The Hateful Eight-Year-Olds
   season: 31
   episode: 21
@@ -196,7 +168,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: The Way of the Dog
   season: 31
   episode: 22
@@ -205,4 +176,3 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:

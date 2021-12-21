@@ -10,7 +10,6 @@ episodes:
   simpsonsworld_id: 588949571786
   good: maybe
   guest_stars:
-  characters:
 - title: The Simpsons Movie
   season: 99
   episode: 99
@@ -20,5 +19,3 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
-    - simpsons

@@ -9,7 +9,6 @@ episodes:
   simpsonsworld_id: 292933187533
   good: true
   guest_stars:
-  characters:
 - title: The Wizard of Evergreen Terrace
   season: 10
   episode: 2
@@ -19,7 +18,6 @@ episodes:
   simpsonsworld_id: 473117763575
   good: true
   guest_stars:
-  characters:
 - title: Bart the Mother
   season: 10
   episode: 3
@@ -29,7 +27,6 @@ episodes:
   simpsonsworld_id: 473109571557
   good: true
   guest_stars:
-  characters:
 - title: Treehouse of Horror IX
   season: 10
   episode: 4
@@ -40,8 +37,6 @@ episodes:
   simpsonsworld_id: 473130051681
   good: true
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: When You Dish Upon a Star
   season: 10
   episode: 5
@@ -51,7 +46,6 @@ episodes:
   simpsonsworld_id: 473147459674
   good: false
   guest_stars:
-  characters:
 - title: D'oh-in' in the Wind
   season: 10
   episode: 6
@@ -60,7 +54,6 @@ episodes:
   simpsonsworld_id: 473138243754
   good: false
   guest_stars:
-  characters:
 - title: Lisa Gets an 'A'
   season: 10
   episode: 7
@@ -70,7 +63,6 @@ episodes:
   simpsonsworld_id: 473152579638
   good: true
   guest_stars:
-  characters:
 - title: 'Homer Simpson in: ''Kidney Trouble'''
   season: 10
   episode: 8
@@ -80,7 +72,6 @@ episodes:
   simpsonsworld_id: 473158211896
   good: false
   guest_stars:
-  characters:
 - title: Mayored to the Mob
   season: 10
   episode: 9
@@ -89,7 +80,6 @@ episodes:
   simpsonsworld_id: 473163843671
   good: true
   guest_stars:
-  characters:
 - title: Viva Ned Flanders
   season: 10
   episode: 10
@@ -98,7 +88,6 @@ episodes:
   simpsonsworld_id: 473115203586
   good: false
   guest_stars:
-  characters:
 - title: Wild Barts Can't Be Broken
   season: 10
   episode: 11
@@ -107,7 +96,6 @@ episodes:
   simpsonsworld_id: 473155651508
   good: true
   guest_stars:
-  characters:
 - title: Sunday, Cruddy Sunday
   season: 10
   episode: 12
@@ -117,7 +105,6 @@ episodes:
   simpsonsworld_id: 473132611959
   good: false
   guest_stars:
-  characters:
 - title: Homer to the Max
   season: 10
   episode: 13
@@ -127,7 +114,6 @@ episodes:
   simpsonsworld_id: 473140803870
   good: false
   guest_stars:
-  characters:
 - title: I'm with Cupid
   season: 10
   episode: 14
@@ -137,7 +123,6 @@ episodes:
   simpsonsworld_id: 473104963819
   good: true
   guest_stars:
-  characters:
 - title: 'Marge Simpson in: ''Screaming Yellow Honkers'''
   season: 10
   episode: 15
@@ -147,7 +132,6 @@ episodes:
   simpsonsworld_id: 473097795997
   good: true
   guest_stars:
-  characters:
 - title: Make Room for Lisa
   season: 10
   episode: 16
@@ -157,7 +141,6 @@ episodes:
   simpsonsworld_id: 473093187636
   good: false
   guest_stars:
-  characters:
 - title: Maximum Homerdrive
   season: 10
   episode: 17
@@ -167,7 +150,6 @@ episodes:
   simpsonsworld_id: 473095235738
   good: true
   guest_stars:
-  characters:
 - title: Simpsons Bible Stories
   season: 10
   episode: 18
@@ -178,7 +160,6 @@ episodes:
   simpsonsworld_id: 299678275566
   good: false
   guest_stars:
-  characters:
 - title: Mom and Pop Art
   season: 10
   episode: 19
@@ -188,7 +169,6 @@ episodes:
   simpsonsworld_id: 310457411688
   good: true
   guest_stars:
-  characters:
 - title: The Old Man and the 'C' Student
   season: 10
   episode: 20
@@ -197,7 +177,6 @@ episodes:
   simpsonsworld_id: 279757379586
   good: true
   guest_stars:
-  characters:
 - title: Monty Can't Buy Me Love
   season: 10
   episode: 21
@@ -207,7 +186,6 @@ episodes:
   simpsonsworld_id: 310427203648
   good: false
   guest_stars:
-  characters:
 - title: They Saved Lisa's Brain
   season: 10
   episode: 22
@@ -216,7 +194,6 @@ episodes:
   simpsonsworld_id: 306868803826
   good: false
   guest_stars:
-  characters:
 - title: Thirty Minutes Over Tokyo
   season: 10
   episode: 23
@@ -226,4 +203,3 @@ episodes:
   simpsonsworld_id: 306901571847
   good: true
   guest_stars:
-  characters:

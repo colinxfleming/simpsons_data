@@ -9,11 +9,6 @@ episodes:
   simpsonsworld_id: 305674307809
   good: false
   guest_stars:
-  characters:
-    - homer
-    - barney
-    - skinner
-    - apu
 - title: Cape Feare
   season: 5
   episode: 2
@@ -22,9 +17,6 @@ episodes:
   simpsonsworld_id: 305674819788
   good: true
   guest_stars:
-  characters:
-    - bart
-    - sideshow_bob
 - title: Homer Goes to College
   season: 5
   episode: 3
@@ -34,8 +26,6 @@ episodes:
   simpsonsworld_id: 280399427649
   good: true
   guest_stars:
-  characters:
-    - homer
 - title: Rosebud
   season: 5
   episode: 4
@@ -44,9 +34,6 @@ episodes:
   simpsonsworld_id: 279714371653
   good: true
   guest_stars:
-  characters:
-    - mr_burns
-    - homer
 - title: Treehouse of Horror IV
   season: 5
   episode: 5
@@ -56,8 +43,6 @@ episodes:
   simpsonsworld_id: 275206211805
   good: true
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: Marge on the Lam
   season: 5
   episode: 6
@@ -67,7 +52,6 @@ episodes:
   simpsonsworld_id: 294777411510
   good: true
   guest_stars:
-  characters:
     - marge
 - title: Bart's Inner Child
   season: 5
@@ -78,8 +62,6 @@ episodes:
   simpsonsworld_id: 275202627817
   good: true
   guest_stars:
-  characters:
-    - bart
 - title: Boy-Scoutz 'N the Hood
   season: 5
   episode: 8
@@ -89,10 +71,6 @@ episodes:
   simpsonsworld_id: 288056387698
   good: true
   guest_stars:
-  characters:
-    - bart
-    - homer
-    - ned
 - title: The Last Temptation of Homer
   season: 5
   episode: 9
@@ -102,7 +80,6 @@ episodes:
   simpsonsworld_id: 275201091952
   good: true
   guest_stars:
-  characters:
     - homer
 - title: "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)"
   season: 5
@@ -113,9 +90,6 @@ episodes:
   simpsonsworld_id: 305659459565
   good: true
   guest_stars:
-  characters:
-    - marge
-    - homer
 - title: Homer the Vigilante
   season: 5
   episode: 11
@@ -125,8 +99,6 @@ episodes:
   simpsonsworld_id: 305677891810
   good: true
   guest_stars:
-  characters:
-    - homer
 - title: Bart Gets Famous
   season: 5
   episode: 12
@@ -136,9 +108,6 @@ episodes:
   simpsonsworld_id: 302789187885
   good: true
   guest_stars:
-  characters:
-    - bart
-    - krusty
 - title: Homer and Apu
   season: 5
   episode: 13
@@ -148,9 +117,6 @@ episodes:
   simpsonsworld_id: 279716931614
   good: false
   guest_stars:
-  characters:
-    - homer
-    - apu
 - title: Lisa vs. Malibu Stacy
   season: 5
   episode: 14
@@ -159,8 +125,6 @@ episodes:
   simpsonsworld_id: 274260035625
   good: true
   guest_stars:
-  characters:
-    - lisa
 - title: Deep Space Homer
   season: 5
   episode: 15
@@ -170,9 +134,6 @@ episodes:
   simpsonsworld_id: 275720259883
   good: true
   guest_stars:
-  characters:
-    - homer
-    - barney
 - title: Homer Loves Flanders
   season: 5
   episode: 16
@@ -181,9 +142,6 @@ episodes:
   simpsonsworld_id: 310398019629
   good: true
   guest_stars:
-  characters:
-    - homer
-    - ned
 - title: Bart Gets an Elephant
   season: 5
   episode: 17
@@ -192,8 +150,6 @@ episodes:
   simpsonsworld_id: 275726403611
   good: true
   guest_stars:
-  characters:
-    - bart
 - title: Burns' Heir
   season: 5
   episode: 18
@@ -202,7 +158,6 @@ episodes:
   simpsonsworld_id: 283747395787
   good: false
   guest_stars:
-  characters:
 - title: Sweet Seymour Skinner's Baadasssss Song
   season: 5
   episode: 19
@@ -212,9 +167,6 @@ episodes:
   simpsonsworld_id: 274260035741
   good: true
   guest_stars:
-  characters:
-    - bart
-    - skinner
 - title: The Boy Who Knew Too Much
   season: 5
   episode: 20
@@ -225,9 +177,6 @@ episodes:
   simpsonsworld_id: 278796355962
   good: true
   guest_stars:
-  characters:
-    - bart
-    - skinner
 - title: Lady Bouvier's Lover
   season: 5
   episode: 21
@@ -237,10 +186,6 @@ episodes:
   simpsonsworld_id: 305681987583
   good: true
   guest_stars:
-  characters:
-    - grandpa_simpson
-    - mr_burns
-    - bart
 - title: Secrets of a Successful Marriage
   season: 5
   episode: 22
@@ -250,6 +195,3 @@ episodes:
   simpsonsworld_id: 279720003973
   good: true
   guest_stars:
-  characters:
-    - homer
-    - marge

@@ -10,8 +10,6 @@ episodes:
   simpsonsworld_id: 294765123660
   good: false
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: A Tale of Two Springfields
   season: 12
   episode: 2
@@ -21,8 +19,6 @@ episodes:
   simpsonsworld_id: 300911171880
   good: true
   guest_stars:
-  characters:
-    - homer
 - title: Insane Clown Poppy
   season: 12
   episode: 3
@@ -32,8 +28,6 @@ episodes:
   simpsonsworld_id: 306934851515
   good: false
   guest_stars:
-  characters:
-    - krusty
 - title: Lisa the Treehugger
   season: 12
   episode: 4
@@ -43,8 +37,6 @@ episodes:
   simpsonsworld_id: 306939971530
   good: false
   guest_stars:
-  characters:
-    - lisa
 - title: Homer vs. Dignity
   season: 12
   episode: 5
@@ -54,9 +46,6 @@ episodes:
   simpsonsworld_id: 311670339999
   good: false
   guest_stars:
-  characters:
-    - homer
-    - mr_burns
 - title: The Computer Wore Menace Shoes
   season: 12
   episode: 6
@@ -66,8 +55,6 @@ episodes:
   simpsonsworld_id: 302843971598
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: The Great Money Caper
   season: 12
   episode: 7
@@ -77,9 +64,6 @@ episodes:
   simpsonsworld_id: 304456259863
   good: true
   guest_stars:
-  characters:
-    - homer
-    - bart
 - title: Skinner's Sense of Snow
   season: 12
   episode: 8
@@ -90,10 +74,6 @@ episodes:
   simpsonsworld_id: 307850819951
   good: false
   guest_stars:
-  characters:
-    - skinner
-    - bart
-    - lisa
 - title: HOMR
   season: 12
   episode: 9
@@ -103,9 +83,6 @@ episodes:
   simpsonsworld_id: 306945603638
   good: true
   guest_stars:
-  characters:
-    - homer
-    - lisa
 - title: Pokey Mom
   season: 12
   episode: 10
@@ -116,9 +93,6 @@ episodes:
   simpsonsworld_id: 302844995961
   good: false
   guest_stars:
-  characters:
-    - marge
-    - skinner
 - title: Worst Episode Ever
   season: 12
   episode: 11
@@ -128,10 +102,6 @@ episodes:
   simpsonsworld_id: 310459971509
   good: true
   guest_stars:
-  characters:
-    - bart
-    - milhouse
-    - comic_book_guy
 - title: Tennis the Menace
   season: 12
   episode: 12
@@ -141,10 +111,6 @@ episodes:
   simpsonsworld_id: 300916291603
   good: false
   guest_stars:
-  characters:
-    - marge
-    - homer
-    - bart
 - title: Day of the Jackanapes
   season: 12
   episode: 13
@@ -154,10 +120,6 @@ episodes:
   simpsonsworld_id: 307106883649
   good: false
   guest_stars:
-  characters:
-    - sideshow_bob
-    - bart
-    - krusty
 - title: New Kids on the Blecch
   season: 12
   episode: 14
@@ -167,8 +129,6 @@ episodes:
   simpsonsworld_id: 310437443723
   good: true
   guest_stars:
-  characters:
-    - bart
 - title: Hungry Hungry Homer
   season: 12
   episode: 15
@@ -178,8 +138,6 @@ episodes:
   simpsonsworld_id: 307850819931
   good: true
   guest_stars:
-  characters:
-    - homer
 - title: Bye Bye Nerdy
   season: 12
   episode: 16
@@ -189,9 +147,6 @@ episodes:
   simpsonsworld_id: 302846019892
   good: false
   guest_stars:
-  characters:
-    - lisa
-    - homer
 - title: Simpson Safari
   season: 12
   episode: 17
@@ -201,8 +156,6 @@ episodes:
   simpsonsworld_id: 302845507908
   good: false
   guest_stars:
-  characters:
-    - simpsons
 - title: Trilogy of Error
   season: 12
   episode: 18
@@ -213,9 +166,6 @@ episodes:
   simpsonsworld_id: 302842947994
   good: false
   guest_stars:
-  characters:
-    - simpsons
-    - vignettes
 - title: I'm Goin' to Praise Land
   season: 12
   episode: 19
@@ -226,8 +176,6 @@ episodes:
   simpsonsworld_id: 302848579632
   good: true
   guest_stars:
-  characters:
-    - flanders
 - title: Children of a Lesser Clod
   season: 12
   episode: 20
@@ -238,8 +186,6 @@ episodes:
   simpsonsworld_id: 301652547508
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: Simpsons Tall Tales
   season: 12
   episode: 21
@@ -249,5 +195,3 @@ episodes:
   simpsonsworld_id: 301685315594
   good: false
   guest_stars:
-  characters:
-    - vignettes

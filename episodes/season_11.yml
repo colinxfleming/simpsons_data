@@ -9,8 +9,6 @@ episodes:
   simpsonsworld_id: 306906179700
   good: true
   guest_stars:
-  characters:
-    - homer
 - title: Brother's Little Helper
   season: 11
   episode: 2
@@ -20,8 +18,6 @@ episodes:
   simpsonsworld_id: 302833219678
   good: false
   guest_stars:
-  characters:
-    - bart
 - title: Guess Who's Coming to Criticize Dinner
   season: 11
   episode: 3
@@ -31,8 +27,6 @@ episodes:
   simpsonsworld_id: 306911811691
   good: true
   guest_stars:
-  characters:
-    - homer
 - title: Treehouse of Horror X
   season: 11
   episode: 4
@@ -43,8 +37,6 @@ episodes:
   simpsonsworld_id: 307851843709
   good: true
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: E-I-E-I-(Annoyed Grunt)
   season: 11
   episode: 5
@@ -54,7 +46,6 @@ episodes:
   simpsonsworld_id: 302847555697
   good: true
   guest_stars:
-  characters:
 - title: Hello Gutter, Hello Fadder
   season: 11
   episode: 6
@@ -64,9 +55,6 @@ episodes:
   simpsonsworld_id: 294762563857
   good: true
   guest_stars:
-  characters:
-    - homer
-    - maggie
 - title: Eight Misbehavin'
   season: 11
   episode: 7
@@ -75,8 +63,6 @@ episodes:
   simpsonsworld_id: 306920003903
   good: false
   guest_stars:
-  characters:
-    - apu
 - title: Take My Wife, Sleaze
   season: 11
   episode: 8
@@ -86,9 +72,6 @@ episodes:
   simpsonsworld_id: 301643843522
   good: true
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: Grift of the Magi
   season: 11
   episode: 9
@@ -99,9 +82,6 @@ episodes:
   simpsonsworld_id: 848995395938
   good: false
   guest_stars:
-  characters:
-    - lisa
-    - bart
 - title: Little Big Mom
   season: 11
   episode: 10
@@ -111,7 +91,6 @@ episodes:
   simpsonsworld_id: 300903491898
   good: true
   guest_stars:
-  characters:
 - title: Faith Off
   season: 11
   episode: 11
@@ -120,7 +99,6 @@ episodes:
   simpsonsworld_id: 300909123775
   good: false
   guest_stars:
-  characters:
 - title: The Mansion Family
   season: 11
   episode: 12
@@ -130,9 +108,6 @@ episodes:
   simpsonsworld_id: 279747651734
   good: true
   guest_stars:
-  characters:
-    - simpsons
-    - mr_burns
 - title: Saddlesore Galactica
   season: 11
   episode: 13
@@ -142,9 +117,6 @@ episodes:
   simpsonsworld_id: 306926659533
   good: false
   guest_stars:
-  characters:
-    - homer
-    - bart
 - title: Alone Again Natura-Diddily
   season: 11
   episode: 14
@@ -153,9 +125,6 @@ episodes:
   simpsonsworld_id: 288077891629
   good: false
   guest_stars:
-  characters:
-    - homer
-    - ned
 - title: Missionary Impossible
   season: 11
   episode: 15
@@ -165,8 +134,6 @@ episodes:
   simpsonsworld_id: 310458435665
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: Pygmoelian
   season: 11
   episode: 16
@@ -175,8 +142,6 @@ episodes:
   simpsonsworld_id: 294758467783
   good: false
   guest_stars:
-  characters:
-    - moe
 - title: Bart to the Future
   season: 11
   episode: 17
@@ -187,9 +152,6 @@ episodes:
   simpsonsworld_id: 302835267686
   good: true
   guest_stars:
-  characters:
-    - bart
-    - lisa
 - title: Days of Wine and D'Ohses
   season: 11
   episode: 18
@@ -200,9 +162,6 @@ episodes:
   simpsonsworld_id: 306930755636
   good: false
   guest_stars:
-  characters:
-    - barney
-    - homer
 - title: Kill the Alligator and Run
   season: 11
   episode: 19
@@ -212,8 +171,6 @@ episodes:
   simpsonsworld_id: 292935747924
   good: false
   guest_stars:
-  characters:
-    - simpsons
 - title: Last Tap Dance in Springfield
   season: 11
   episode: 20
@@ -224,10 +181,6 @@ episodes:
   simpsonsworld_id: 302849091512
   good: true
   guest_stars:
-  characters:
-    - lisa
-    - bart
-    - milhouse
 - title: It's a Mad, Mad, Mad, Mad Marge
   season: 11
   episode: 21
@@ -237,8 +190,6 @@ episodes:
   simpsonsworld_id: 301683779737
   good: true
   guest_stars:
-  characters:
-    - marge
 - title: Behind the Laughter
   season: 11
   episode: 22
@@ -248,5 +199,3 @@ episodes:
   simpsonsworld_id: 279751747780
   good: true
   guest_stars:
-  characters:
-    - simpsons

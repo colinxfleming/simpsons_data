@@ -9,7 +9,6 @@ episodes:
   simpsonsworld_id: 263519811935
   good: maybe
   guest_stars:
-  characters:
 - title: Loan-A-Lisa
   season: 22
   episode: 2
@@ -20,7 +19,6 @@ episodes:
   simpsonsworld_id: 263525955686
   good: maybe
   guest_stars:
-  characters:
 - title: Money Bart
   season: 22
   episode: 3
@@ -30,7 +28,6 @@ episodes:
   simpsonsworld_id: 263531587720
   good: maybe
   guest_stars:
-  characters:
 - title: Treehouse of Horror XXI
   season: 22
   episode: 4
@@ -41,8 +38,6 @@ episodes:
   simpsonsworld_id: 263577155794
   good: false
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: Lisa Simpson, This Isn't Your Life
   season: 22
   episode: 5
@@ -53,7 +48,6 @@ episodes:
   simpsonsworld_id: 263540291528
   good: maybe
   guest_stars:
-  characters:
 - title: The Fool Monty
   season: 22
   episode: 6
@@ -63,7 +57,6 @@ episodes:
   simpsonsworld_id: 263544387571
   good: maybe
   guest_stars:
-  characters:
 - title: How Munched is that Birdie in the Window?
   season: 22
   episode: 7
@@ -73,7 +66,6 @@ episodes:
   simpsonsworld_id: 263545923923
   good: maybe
   guest_stars:
-  characters:
 - title: The Fight Before Christmas
   season: 22
   episode: 8
@@ -84,7 +76,6 @@ episodes:
   simpsonsworld_id: 263551043814
   good: maybe
   guest_stars:
-  characters:
 - title: Donnie Fatso
   season: 22
   episode: 9
@@ -94,7 +85,6 @@ episodes:
   simpsonsworld_id: 263572035826
   good: maybe
   guest_stars:
-  characters:
 - title: Moms I'd Like To Forget
   season: 22
   episode: 10
@@ -104,7 +94,6 @@ episodes:
   simpsonsworld_id: 256848451515
   good: maybe
   guest_stars:
-  characters:
 - title: Flaming Moe
   season: 22
   episode: 11
@@ -114,7 +103,6 @@ episodes:
   simpsonsworld_id: 263579715535
   good: maybe
   guest_stars:
-  characters:
 - title: Homer the Father
   season: 22
   episode: 12
@@ -125,7 +113,6 @@ episodes:
   simpsonsworld_id: 256851523744
   good: maybe
   guest_stars:
-  characters:
 - title: The Blue and the Gray
   season: 22
   episode: 13
@@ -136,7 +123,6 @@ episodes:
   simpsonsworld_id: 254809667917
   good: maybe
   guest_stars:
-  characters:
 - title: 'Angry Dad: The Movie'
   season: 22
   episode: 14
@@ -146,7 +132,6 @@ episodes:
   simpsonsworld_id: 254814275630
   good: maybe
   guest_stars:
-  characters:
 - title: The Scorpion's Tale
   season: 22
   episode: 15
@@ -157,7 +142,6 @@ episodes:
   simpsonsworld_id: 254817859928
   good: maybe
   guest_stars:
-  characters:
 - title: A Midsummer's Nice Dreams
   season: 22
   episode: 16
@@ -168,7 +152,6 @@ episodes:
   simpsonsworld_id: 254821955889
   good: maybe
   guest_stars:
-  characters:
 - title: Love is a Many Strangled Thing
   season: 22
   episode: 17
@@ -178,7 +161,6 @@ episodes:
   simpsonsworld_id: 254830659539
   good: maybe
   guest_stars:
-  characters:
 - title: The Great Simpsina
   season: 22
   episode: 18
@@ -188,7 +170,6 @@ episodes:
   simpsonsworld_id: 254866499808
   good: maybe
   guest_stars:
-  characters:
 - title: The Housewives of Fat Tony
   season: 22
   episode: 19
@@ -198,7 +179,6 @@ episodes:
   simpsonsworld_id: 254870083832
   good: maybe
   guest_stars:
-  characters:
 - title: Homer Scissorhands
   season: 22
   episode: 20
@@ -208,7 +188,6 @@ episodes:
   simpsonsworld_id: 254876227684
   good: maybe
   guest_stars:
-  characters:
 - title: 500 Keys
   season: 22
   episode: 21
@@ -219,7 +198,6 @@ episodes:
   simpsonsworld_id: 254880835816
   good: maybe
   guest_stars:
-  characters:
 - title: The Ned-liest Catch
   season: 22
   episode: 22
@@ -229,4 +207,3 @@ episodes:
   simpsonsworld_id: 255101507699
   good: maybe
   guest_stars:
-  characters:

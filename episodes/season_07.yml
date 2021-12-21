@@ -8,7 +8,6 @@ episodes:
   simpsonsworld_id: 305689667892
   good: true
   guest_stars:
-  characters:
 - title: Radioactive Man
   season: 7
   episode: 2
@@ -18,7 +17,6 @@ episodes:
   simpsonsworld_id: 305693251940
   good: true
   guest_stars:
-  characters:
 - title: Home Sweet Homediddly-Dum-Doodily
   season: 7
   episode: 3
@@ -28,7 +26,6 @@ episodes:
   simpsonsworld_id: 306174019869
   good: true
   guest_stars:
-  characters:
 - title: Bart Sells His Soul
   season: 7
   episode: 4
@@ -38,7 +35,6 @@ episodes:
   simpsonsworld_id: 276972099995
   good: true
   guest_stars:
-  characters:
 - title: Lisa the Vegetarian
   season: 7
   episode: 5
@@ -47,7 +43,6 @@ episodes:
   simpsonsworld_id: 276980291592
   good: true
   guest_stars:
-  characters:
 - title: Treehouse of Horror VI
   season: 7
   episode: 6
@@ -56,8 +51,6 @@ episodes:
   simpsonsworld_id: 310404163601
   good: true
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: King-Size Homer
   season: 7
   episode: 7
@@ -67,7 +60,6 @@ episodes:
   simpsonsworld_id: 294786627843
   good: true
   guest_stars:
-  characters:
 - title: Mother Simpson
   season: 7
   episode: 8
@@ -77,7 +69,6 @@ episodes:
   simpsonsworld_id: 276983875726
   good: true
   guest_stars:
-  characters:
 - title: Sideshow Bob's Last Gleaming
   season: 7
   episode: 9
@@ -87,7 +78,6 @@ episodes:
   simpsonsworld_id: 302792771516
   good: true
   guest_stars:
-  characters:
 - title: The Simpsons 138th Episode Spectacular
   season: 7
   episode: 10
@@ -97,7 +87,6 @@ episodes:
   simpsonsworld_id: 324451395934
   good: true
   guest_stars:
-  characters:
 - title: Marge Be Not Proud
   season: 7
   episode: 11
@@ -107,7 +96,6 @@ episodes:
   simpsonsworld_id: 305669699710
   good: true
   guest_stars:
-  characters:
 - title: Team Homer
   season: 7
   episode: 12
@@ -118,7 +106,6 @@ episodes:
   simpsonsworld_id: 302792771967
   good: true
   guest_stars:
-  characters:
 - title: Two Bad Neighbors
   season: 7
   episode: 13
@@ -128,7 +115,6 @@ episodes:
   simpsonsworld_id: 276994115834
   good: true
   guest_stars:
-  characters:
 - title: Scenes from the Class Struggle in Springfield
   season: 7
   episode: 14
@@ -137,7 +123,6 @@ episodes:
   simpsonsworld_id: 305694276001
   good: true
   guest_stars:
-  characters:
 - title: Bart the Fink
   season: 7
   episode: 15
@@ -147,7 +132,6 @@ episodes:
   simpsonsworld_id: 301346371709
   good: true
   guest_stars:
-  characters:
 - title: Lisa the Iconoclast
   season: 7
   episode: 16
@@ -157,7 +141,6 @@ episodes:
   simpsonsworld_id: 302796355658
   good: true
   guest_stars:
-  characters:
 - title: Homer the Smithers
   season: 7
   episode: 17
@@ -166,7 +149,6 @@ episodes:
   simpsonsworld_id: 277248579634
   good: true
   guest_stars:
-  characters:
 - title: The Day the Violence Died
   season: 7
   episode: 18
@@ -176,7 +158,6 @@ episodes:
   simpsonsworld_id: 301668931982
   good: true
   guest_stars:
-  characters:
 - title: A Fish Called Selma
   season: 7
   episode: 19
@@ -185,7 +166,6 @@ episodes:
   simpsonsworld_id: 300935235544
   good: true
   guest_stars:
-  characters:
 - title: Bart on the Road
   season: 7
   episode: 20
@@ -196,7 +176,6 @@ episodes:
   simpsonsworld_id: 277000259951
   good: true
   guest_stars:
-  characters:
 - title: 22 Short Films About Springfield
   season: 7
   episode: 21
@@ -206,7 +185,6 @@ episodes:
   simpsonsworld_id: 299588163608
   good: true
   guest_stars:
-  characters:
 - title: Raging Abe Simpson and His Grumbling Grandson in 'The Curse of the Flying
     Hellfish'
   season: 7
@@ -217,7 +195,6 @@ episodes:
   simpsonsworld_id: 279728707597
   good: true
   guest_stars:
-  characters:
 - title: Much Apu About Nothing
   season: 7
   episode: 23
@@ -227,7 +204,6 @@ episodes:
   simpsonsworld_id: 310404675978
   good: true
   guest_stars:
-  characters:
 - title: Homerpalooza
   season: 7
   episode: 24
@@ -236,7 +212,6 @@ episodes:
   simpsonsworld_id: 277008451637
   good: true
   guest_stars:
-  characters:
 - title: Summer of 4 Ft. 2
   season: 7
   episode: 25
@@ -246,4 +221,3 @@ episodes:
   simpsonsworld_id: 277013571573
   good: true
   guest_stars:
-  characters:

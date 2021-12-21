@@ -10,8 +10,6 @@ episodes:
   simpsonsworld_id: 256741955834
   good: true
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: All's Fair in Oven War
   season: 16
   episode: 2
@@ -22,9 +20,6 @@ episodes:
   simpsonsworld_id: 257840195722
   good: false
   guest_stars:
-  characters:
-    - marge
-    - bart
 - title: Sleeping with the Enemy
   season: 16
   episode: 3
@@ -35,11 +30,6 @@ episodes:
   simpsonsworld_id: 256764995911
   good: false
   guest_stars:
-  characters:
-    - lisa
-    - marge
-    - nelson
-    - bart
 - title: She Used to Be My Girl
   season: 16
   episode: 4
@@ -50,8 +40,6 @@ episodes:
   simpsonsworld_id: 256753731544
   good: false
   guest_stars:
-  characters:
-    - marge
 - title: Fat Man and Little Boy
   season: 16
   episode: 5
@@ -61,10 +49,6 @@ episodes:
   simpsonsworld_id: 256759363799
   good: false
   guest_stars:
-  characters:
-    - bart
-    - homer
-    - lisa
 - title: Midnight Rx
   season: 16
   episode: 6
@@ -74,9 +58,6 @@ episodes:
   simpsonsworld_id: 1094235715818
   good: false
   guest_stars:
-  characters:
-    - homer
-    - grandpa_simpson
 - title: Mommie Beerest
   season: 16
   episode: 7
@@ -87,10 +68,6 @@ episodes:
   simpsonsworld_id: 256807491582
   good: false
   guest_stars:
-  characters:
-    - homer
-    - marge
-    - moe
 - title: Homer and Ned's Hail Mary Pass
   season: 16
   episode: 8
@@ -101,9 +78,6 @@ episodes:
   simpsonsworld_id: 256813635887
   good: false
   guest_stars:
-  characters:
-    - homer
-    - ned
 - title: Pranksta Rap
   season: 16
   episode: 9
@@ -113,9 +87,6 @@ episodes:
   simpsonsworld_id: 256798275935
   good: false
   guest_stars:
-  characters:
-    - bart
-    - wiggum
 - title: There's Something About Marrying
   season: 16
   episode: 10
@@ -126,10 +97,6 @@ episodes:
   simpsonsworld_id: 256822339660
   good: false
   guest_stars:
-  characters:
-    - patty
-    - homer
-    - marge
 - title: On a Clear Day I Can't See My Sister
   season: 16
   episode: 11
@@ -139,10 +106,6 @@ episodes:
   simpsonsworld_id: 256825923849
   good: false
   guest_stars:
-  characters:
-    - bart
-    - lisa
-    - homer
 - title: Goo Goo Gai Pan
   season: 16
   episode: 12
@@ -152,9 +115,6 @@ episodes:
   simpsonsworld_id: 264432707575
   good: false
   guest_stars:
-  characters:
-    - simpsons
-    - selma
 - title: Mobile Homer
   season: 16
   episode: 13
@@ -164,8 +124,6 @@ episodes:
   simpsonsworld_id: 264432707841
   good: false
   guest_stars:
-  characters:
-    - simpsons
 - title: The Seven-Beer Snitch
   season: 16
   episode: 14
@@ -175,10 +133,6 @@ episodes:
   simpsonsworld_id: 260844611804
   good: true
   guest_stars:
-  characters:
-    - homer
-    - bart
-    - lisa
 - title: Future-Drama
   season: 16
   episode: 15
@@ -189,8 +143,6 @@ episodes:
   simpsonsworld_id: 260841027999
   good: false
   guest_stars:
-  characters:
-    - bart
 - title: Don't Fear the Roofer
   season: 16
   episode: 16
@@ -201,8 +153,6 @@ episodes:
   simpsonsworld_id: 260835395771
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: The Heartbroke Kid
   season: 16
   episode: 17
@@ -212,9 +162,6 @@ episodes:
   simpsonsworld_id: 264207427808
   good: false
   guest_stars:
-  characters:
-    - bart
-    - simpsons
 - title: A Star is Torn
   season: 16
   episode: 18
@@ -224,9 +171,6 @@ episodes:
   simpsonsworld_id: 264212035982
   good: false
   guest_stars:
-  characters:
-    - lisa
-    - bart
 - title: Thank God It's Doomsday
   season: 16
   episode: 19
@@ -236,8 +180,6 @@ episodes:
   simpsonsworld_id: 264217155650
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: The Father, The Son, and The Holy Guest Star
   season: 16
   episode: 20
@@ -247,8 +189,6 @@ episodes:
   simpsonsworld_id: 264455235845
   good: false
   guest_stars:
-  characters:
-    - bart
 - title: Home Away From Homer
   season: 16
   episode: 21
@@ -259,6 +199,3 @@ episodes:
   simpsonsworld_id: 264560707993
   good: false
   guest_stars:
-  characters:
-    - homer
-    - flanders

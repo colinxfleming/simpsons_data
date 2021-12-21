@@ -10,9 +10,6 @@ episodes:
   simpsonsworld_id: 272234051980
   good: false
   guest_stars:
-  characters:
-    - homer
-    - bart
 - title: Mr. Lisa Goes to Washington
   season: 3
   episode: 2
@@ -22,8 +19,6 @@ episodes:
   simpsonsworld_id: 275196995796
   good: true
   guest_stars:
-  characters:
-    - lisa
 - title: When Flanders Failed
   season: 3
   episode: 3
@@ -33,9 +28,6 @@ episodes:
   simpsonsworld_id: 272051267562
   good: true
   guest_stars:
-  characters:
-    - homer
-    - flanders
 - title: Bart the Murderer
   season: 3
   episode: 4
@@ -45,9 +37,6 @@ episodes:
   simpsonsworld_id: 288015427922
   good: true
   guest_stars:
-  characters:
-    - bart
-    - fat_tony
 - title: Homer Defined
   season: 3
   episode: 5
@@ -57,8 +46,6 @@ episodes:
   simpsonsworld_id: 256843843704
   good: true
   guest_stars:
-  characters:
-    - homer
 - title: Like Father, Like Clown
   season: 3
   episode: 6
@@ -68,10 +55,6 @@ episodes:
   simpsonsworld_id: 256874051703
   good: true
   guest_stars:
-  characters:
-    - bart
-    - lisa
-    - krusty
 - title: Treehouse of Horror II
   season: 3
   episode: 7
@@ -81,8 +64,6 @@ episodes:
   simpsonsworld_id: 272054339616
   good: true
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: Lisa's Pony
   season: 3
   episode: 8
@@ -92,9 +73,6 @@ episodes:
   simpsonsworld_id: 310374467809
   good: false
   guest_stars:
-  characters:
-    - homer
-    - lisa
 - title: Saturdays of Thunder
   season: 3
   episode: 9
@@ -104,9 +82,6 @@ episodes:
   simpsonsworld_id: 256898115598
   good: true
   guest_stars:
-  characters:
-    - bart
-    - homer
 - title: Flaming Moe's
   season: 3
   episode: 10
@@ -116,9 +91,6 @@ episodes:
   simpsonsworld_id: 305663555961
   good: true
   guest_stars:
-  characters:
-    - homer
-    - moe
 - title: Burns Verkaufen der Kraftwerk
   season: 3
   episode: 11
@@ -128,8 +100,6 @@ episodes:
   simpsonsworld_id: 310380099512
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: I Married Marge
   season: 3
   episode: 12
@@ -139,9 +109,6 @@ episodes:
   simpsonsworld_id: 299618371603
   good: false
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: Radio Bart
   season: 3
   episode: 13
@@ -152,8 +119,6 @@ episodes:
   simpsonsworld_id: 272052803895
   good: true
   guest_stars:
-  characters:
-    - bart
 - title: Lisa the Greek
   season: 3
   episode: 14
@@ -163,9 +128,6 @@ episodes:
   simpsonsworld_id: 273404483565
   good: true
   guest_stars:
-  characters:
-    - homer
-    - lisa
 - title: Homer Alone
   season: 3
   episode: 15
@@ -175,9 +137,6 @@ episodes:
   simpsonsworld_id: 272224835795
   good: false
   guest_stars:
-  characters:
-    - marge
-    - simpsons
 - title: Bart the Lover
   season: 3
   episode: 16
@@ -187,9 +146,6 @@ episodes:
   simpsonsworld_id: 272228931984
   good: true
   guest_stars:
-  characters:
-    - bart
-    - edna
 - title: Homer at the Bat
   season: 3
   episode: 17
@@ -200,9 +156,6 @@ episodes:
   simpsonsworld_id: 310380099768
   good: true
   guest_stars:
-  characters:
-    - homer
-    - mr_burns
 - title: Separate Vocations
   season: 3
   episode: 18
@@ -212,9 +165,6 @@ episodes:
   simpsonsworld_id: 263513155607
   good: true
   guest_stars:
-  characters:
-    - bart
-    - lisa
 - title: Dog of Death
   season: 3
   episode: 19
@@ -224,9 +174,6 @@ episodes:
   simpsonsworld_id: 274404419620
   good: true
   guest_stars:
-  characters:
-    - simpsons
-    - santas_little_helper
 - title: Colonel Homer
   season: 3
   episode: 20
@@ -235,8 +182,6 @@ episodes:
   simpsonsworld_id: 272215619762
   good: true
   guest_stars:
-  characters:
-    - homer
 - title: Black Widower
   season: 3
   episode: 21
@@ -246,9 +191,6 @@ episodes:
   simpsonsworld_id: 272221251812
   good: true
   guest_stars:
-  characters:
-    - selma
-    - sideshow_bob
 - title: The Otto Show
   season: 3
   episode: 22
@@ -258,9 +200,6 @@ episodes:
   simpsonsworld_id: 279103043694
   good: true
   guest_stars:
-  characters:
-    - otto
-    - bart
 - title: Bart's Friend Falls in Love
   season: 3
   episode: 23
@@ -270,9 +209,6 @@ episodes:
   simpsonsworld_id: 280393283967
   good: true
   guest_stars:
-  characters:
-    - bart
-    - milhouse
 - title: Brother, Can You Spare Two Dimes?
   season: 3
   episode: 24
@@ -282,6 +218,3 @@ episodes:
   simpsonsworld_id: 279098435798
   good: false
   guest_stars:
-  characters:
-    - homer
-    - maggie

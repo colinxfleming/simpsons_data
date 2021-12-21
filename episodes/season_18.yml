@@ -10,11 +10,6 @@ episodes:
   simpsonsworld_id: 292959299559
   good: false
   guest_stars:
-  characters:
-    - lisa
-    - fat_tony
-    - homer
-    - bart
 - title: Jazzy and the Pussycats
   season: 18
   episode: 2
@@ -24,9 +19,6 @@ episodes:
   simpsonsworld_id: 283202115995
   good: false
   guest_stars:
-  characters:
-    - bart
-    - lisa
 - title: Please Homer, Don't Hammer 'em
   season: 18
   episode: 3
@@ -37,11 +29,6 @@ episodes:
   simpsonsworld_id: 283760707876
   good: false
   guest_stars:
-  characters:
-    - homer
-    - marge
-    - bart
-    - skinner
 - title: Treehouse of Horror XVII
   season: 18
   episode: 4
@@ -52,8 +39,6 @@ episodes:
   simpsonsworld_id: 302871107984
   good: false
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: G.I. (Annoyed Grunt)
   season: 18
   episode: 5
@@ -64,8 +49,6 @@ episodes:
   simpsonsworld_id: 283080259896
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: Moe 'N' a Lisa
   season: 18
   episode: 6
@@ -75,9 +58,6 @@ episodes:
   simpsonsworld_id: 307167299594
   good: false
   guest_stars:
-  characters:
-    - lisa
-    - moe
 - title: Ice Cream of Margie (With the Light Blue Hair)
   season: 18
   episode: 7
@@ -87,9 +67,6 @@ episodes:
   simpsonsworld_id: 292941379558
   good: false
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: The Haw-Hawed Couple
   season: 18
   episode: 8
@@ -99,11 +76,6 @@ episodes:
   simpsonsworld_id: 279785027791
   good: false
   guest_stars:
-  characters:
-    - nelson
-    - bart
-    - homer
-    - lisa
 - title: Kill Gil (Parts I and II)
   season: 18
   episode: 9
@@ -113,9 +85,6 @@ episodes:
   simpsonsworld_id: 279793731867
   good: false
   guest_stars:
-  characters:
-    - gil
-    - marge
 - title: The Wife Aquatic
   season: 18
   episode: 10
@@ -126,9 +95,6 @@ episodes:
   simpsonsworld_id: 283764803572
   good: false
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: Revenge is a Dish Best Served Three Times
   season: 18
   episode: 11
@@ -139,8 +105,6 @@ episodes:
   simpsonsworld_id: 283790915851
   good: true
   guest_stars:
-  characters:
-    - vignettes
 - title: Little Big Girl
   season: 18
   episode: 12
@@ -151,9 +115,6 @@ episodes:
   simpsonsworld_id: 310462531619
   good: false
   guest_stars:
-  characters:
-    - bart
-    - lisa
 - title: Springfield Up
   season: 18
   episode: 13
@@ -164,9 +125,6 @@ episodes:
   simpsonsworld_id: 302876739533
   good: false
   guest_stars:
-  characters:
-    - homer
-    - vignettes
 - title: Yokel Chords
   season: 18
   episode: 14
@@ -177,9 +135,6 @@ episodes:
   simpsonsworld_id: 307175491532
   good: false
   guest_stars:
-  characters:
-    - lisa
-    - bart
 - title: Rome-old and Juli-eh
   season: 18
   episode: 15
@@ -189,12 +144,6 @@ episodes:
   simpsonsworld_id: 302868035943
   good: false
   guest_stars:
-  characters:
-    - homer
-    - grandpa_simpson
-    - selma
-    - bart
-    - lisa
 - title: Homerazzi
   season: 18
   episode: 16
@@ -204,9 +153,6 @@ episodes:
   simpsonsworld_id: 292962371807
   good: false
   guest_stars:
-  characters:
-    - homer
-    - wolfcastle
 - title: Marge Gamer
   season: 18
   episode: 17
@@ -216,7 +162,6 @@ episodes:
   simpsonsworld_id: 277036099916
   good: true
   guest_stars:
-  characters:
 - title: The Boys of Bummer
   season: 18
   episode: 18
@@ -227,11 +172,6 @@ episodes:
   simpsonsworld_id: 279798851587
   good: true
   guest_stars:
-  characters:
-    - bart
-    - marge
-    - lisa
-    - homer
 - title: Crook and Ladder
   season: 18
   episode: 19
@@ -241,8 +181,6 @@ episodes:
   simpsonsworld_id: 310491203943
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: Stop Or My Dog Will Shoot
   season: 18
   episode: 20
@@ -252,9 +190,6 @@ episodes:
   simpsonsworld_id: 302865987860
   good: false
   guest_stars:
-  characters:
-    - bart
-    - santas_little_helper
 - title: 24 Minutes
   season: 18
   episode: 21
@@ -265,9 +200,6 @@ episodes:
   simpsonsworld_id: 292963907577
   good: false
   guest_stars:
-  characters:
-    - bart
-    - bullies
 - title: You Kent Always Say What You Want
   season: 18
   episode: 22
@@ -277,5 +209,3 @@ episodes:
   simpsonsworld_id: 302859843984
   good: false
   guest_stars:
-  characters:
-    - kent
