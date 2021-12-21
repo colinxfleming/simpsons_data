@@ -9,9 +9,6 @@ episodes:
   simpsonsworld_id: 250297923589
   good: false
   guest_stars:
-  characters:
-    - comic_book_guy
-    - homer
 - title: Bart Gets A 'Z'
   season: 21
   episode: 2
@@ -22,9 +19,6 @@ episodes:
   simpsonsworld_id: 310517315862
   good: false
   guest_stars:
-  characters:
-    - edna
-    - bart
 - title: The Great Wife Hope
   season: 21
   episode: 3
@@ -34,8 +28,6 @@ episodes:
   simpsonsworld_id: 250299971833
   good: false
   guest_stars:
-  characters:
-    - marge
 - title: Treehouse of Horror XX
   season: 21
   episode: 4
@@ -46,8 +38,6 @@ episodes:
   simpsonsworld_id: 262634051998
   good: false
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: The Devil Wears Nada
   season: 21
   episode: 5
@@ -57,10 +47,6 @@ episodes:
   simpsonsworld_id: 250304067959
   good: false
   guest_stars:
-  characters:
-    - homer
-    - marge
-    - carl
 - title: Pranks and Greens
   season: 21
   episode: 6
@@ -70,7 +56,6 @@ episodes:
   simpsonsworld_id: 792414787985
   good: maybe
   guest_stars:
-  characters:
 - title: Rednecks and Broomsticks
   season: 21
   episode: 7
@@ -80,7 +65,6 @@ episodes:
   simpsonsworld_id: 250307139830
   good: maybe
   guest_stars:
-  characters:
 - title: O Brother, Where Bart Thou?
   season: 21
   episode: 8
@@ -90,7 +74,6 @@ episodes:
   simpsonsworld_id: 250311235599
   good: maybe
   guest_stars:
-  characters:
 - title: Thursdays with Abie
   season: 21
   episode: 9
@@ -100,7 +83,6 @@ episodes:
   simpsonsworld_id: 250369603964
   good: maybe
   guest_stars:
-  characters:
 - title: Once Upon A Time in Springfield
   season: 21
   episode: 10
@@ -110,7 +92,6 @@ episodes:
   simpsonsworld_id: 250379331672
   good: maybe
   guest_stars:
-  characters:
 - title: Million Dollar Maybe
   season: 21
   episode: 11
@@ -120,7 +101,6 @@ episodes:
   simpsonsworld_id: 279804995696
   good: maybe
   guest_stars:
-  characters:
 - title: Boy Meets Curl
   season: 21
   episode: 12
@@ -130,7 +110,6 @@ episodes:
   simpsonsworld_id: 250385475646
   good: maybe
   guest_stars:
-  characters:
 - title: The Color Yellow
   season: 21
   episode: 13
@@ -140,7 +119,6 @@ episodes:
   simpsonsworld_id: 255100483932
   good: maybe
   guest_stars:
-  characters:
 - title: Postcards From the Wedge
   season: 21
   episode: 14
@@ -151,7 +129,6 @@ episodes:
   simpsonsworld_id: 250390595937
   good: maybe
   guest_stars:
-  characters:
 - title: Stealing First Base
   season: 21
   episode: 15
@@ -161,7 +138,6 @@ episodes:
   simpsonsworld_id: 250397251688
   good: maybe
   guest_stars:
-  characters:
 - title: The Greatest Story Ever D'ohed
   season: 21
   episode: 16
@@ -172,7 +148,6 @@ episodes:
   simpsonsworld_id: 279809091713
   good: maybe
   guest_stars:
-  characters:
 - title: American History X-cellent
   season: 21
   episode: 17
@@ -183,7 +158,6 @@ episodes:
   simpsonsworld_id: 250508867924
   good: maybe
   guest_stars:
-  characters:
 - title: Chief of Hearts
   season: 21
   episode: 18
@@ -193,7 +167,6 @@ episodes:
   simpsonsworld_id: 250515523850
   good: maybe
   guest_stars:
-  characters:
 - title: The Squirt and the Whale
   season: 21
   episode: 19
@@ -202,7 +175,6 @@ episodes:
   simpsonsworld_id: 250519619700
   good: maybe
   guest_stars:
-  characters:
 - title: To Surveil With Love
   season: 21
   episode: 20
@@ -213,7 +185,6 @@ episodes:
   simpsonsworld_id: 250523203904
   good: maybe
   guest_stars:
-  characters:
 - title: Moe Letter Blues
   season: 21
   episode: 21
@@ -223,7 +194,6 @@ episodes:
   simpsonsworld_id: 250592323527
   good: maybe
   guest_stars:
-  characters:
 - title: The Bob Next Door
   season: 21
   episode: 22
@@ -233,7 +203,6 @@ episodes:
   simpsonsworld_id: 250531907855
   good: maybe
   guest_stars:
-  characters:
 - title: Judge Me Tender
   season: 21
   episode: 23
@@ -244,4 +213,3 @@ episodes:
   simpsonsworld_id: 255074883631
   good: maybe
   guest_stars:
-  characters:

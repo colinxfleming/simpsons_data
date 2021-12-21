@@ -10,8 +10,6 @@ episodes:
   simpsonsworld_id: 307115075729
   good: false
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: The Parent Rap
   season: 13
   episode: 2
@@ -22,7 +20,6 @@ episodes:
   simpsonsworld_id: 307116099877
   good: false
   guest_stars:
-  characters:
 - title: Homer the Moe
   season: 13
   episode: 3
@@ -32,9 +29,6 @@ episodes:
   simpsonsworld_id: 300917827935
   good: false
   guest_stars:
-  characters:
-    - homer
-    - moe
 - title: Hunka Hunka Burns in Love
   season: 13
   episode: 4
@@ -44,9 +38,6 @@ episodes:
   simpsonsworld_id: 301344323882
   good: false
   guest_stars:
-  characters:
-    - homer
-    - mr_burns
 - title: The Blunder Years
   season: 13
   episode: 5
@@ -56,8 +47,6 @@ episodes:
   simpsonsworld_id: 302898755902
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: She of Little Faith
   season: 13
   episode: 6
@@ -67,8 +56,6 @@ episodes:
   simpsonsworld_id: 288120899968
   good: true
   guest_stars:
-  characters:
-    - lisa
 - title: Brawl in the Family
   season: 13
   episode: 7
@@ -78,9 +65,6 @@ episodes:
   simpsonsworld_id: 283083843778
   good: false
   guest_stars:
-  characters:
-    - simpsons
-    - homer
 - title: Sweets and Sour Marge
   season: 13
   episode: 8
@@ -90,8 +74,6 @@ episodes:
   simpsonsworld_id: 302893635523
   good: false
   guest_stars:
-  characters:
-    - marge
 - title: Jaws Wired Shut
   season: 13
   episode: 9
@@ -101,9 +83,6 @@ episodes:
   simpsonsworld_id: 310440003514
   good: true
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: Half-Decent Proposal
   season: 13
   episode: 10
@@ -114,9 +93,6 @@ episodes:
   simpsonsworld_id: 301684803770
   good: false
   guest_stars:
-  characters:
-    - marge
-    - artie
 - title: The Bart Wants What It Wants
   season: 13
   episode: 11
@@ -126,9 +102,6 @@ episodes:
   simpsonsworld_id: 307122755675
   good: false
   guest_stars:
-  characters:
-    - bart
-    - milhouse
 - title: The Lastest Gun in the West
   season: 13
   episode: 12
@@ -138,8 +111,6 @@ episodes:
   simpsonsworld_id: 302899267542
   good: false
   guest_stars:
-  characters:
-    - bart
 - title: The Old Man and the Key
   season: 13
   episode: 13
@@ -150,8 +121,6 @@ episodes:
   simpsonsworld_id: 301659203973
   good: false
   guest_stars:
-  characters:
-    - grandpa_simpson
 - title: Tales From the Public Domain
   season: 13
   episode: 14
@@ -162,8 +131,6 @@ episodes:
   simpsonsworld_id: 310411843752
   good: false
   guest_stars:
-  characters:
-    - vignettes
 - title: Blame it on Lisa
   season: 13
   episode: 15
@@ -173,8 +140,6 @@ episodes:
   simpsonsworld_id: 301665347899
   good: false
   guest_stars:
-  characters:
-    - simpsons
 - title: Weekend at Burnsie's
   season: 13
   episode: 16
@@ -185,9 +150,6 @@ episodes:
   simpsonsworld_id: 310448195762
   good: true
   guest_stars:
-  characters:
-    - homer
-    - mr_burns
 - title: Gump Roast
   season: 13
   episode: 17
@@ -198,8 +160,6 @@ episodes:
   simpsonsworld_id: 302888515845
   good: false
   guest_stars:
-  characters:
-    - clip_show
 - title: I am Furious Yellow
   season: 13
   episode: 18
@@ -209,9 +169,6 @@ episodes:
   simpsonsworld_id: 302883907921
   good: true
   guest_stars:
-  characters:
-    - homer
-    - bart
 - title: The Sweetest Apu
   season: 13
   episode: 19
@@ -221,9 +178,6 @@ episodes:
   simpsonsworld_id: 288131139601
   good: false
   guest_stars:
-  characters:
-    - apu
-    - homer
 - title: Little Girl in the Big Ten
   season: 13
   episode: 20
@@ -233,8 +187,6 @@ episodes:
   simpsonsworld_id: 310416963509
   good: false
   guest_stars:
-  characters:
-    - lisa
 - title: Frying Game
   season: 13
   episode: 21
@@ -244,9 +196,6 @@ episodes:
   simpsonsworld_id: 301664323751
   good: true
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: Papa's Got a Brand New Badge
   season: 13
   episode: 22
@@ -256,5 +205,3 @@ episodes:
   simpsonsworld_id: 302880835773
   good: true
   guest_stars:
-  characters:
-    - homer

@@ -9,9 +9,6 @@ episodes:
   simpsonsworld_id: 279133251579
   good: true
   guest_stars:
-  characters:
-    - bart
-    - lisa
 - title: A Streetcar Named Marge
   season: 4
   episode: 2
@@ -21,7 +18,6 @@ episodes:
   simpsonsworld_id: 273537603751
   good: true
   guest_stars:
-  characters:
 - title: Homer the Heretic
   season: 4
   episode: 3
@@ -31,8 +27,6 @@ episodes:
   simpsonsworld_id: 279137859827
   good: true
   guest_stars:
-  characters:
-    - homer
 - title: Lisa the Beauty Queen
   season: 4
   episode: 4
@@ -41,9 +35,6 @@ episodes:
   simpsonsworld_id: 273537603930
   good: true
   guest_stars:
-  characters:
-    - lisa
-    - homer
 - title: Treehouse of Horror III
   season: 4
   episode: 5
@@ -53,8 +44,6 @@ episodes:
   simpsonsworld_id: 305668675610
   good: true
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: 'Itchy and Scratchy: The Movie'
   season: 4
   episode: 6
@@ -64,9 +53,6 @@ episodes:
   simpsonsworld_id: 278803011830
   good: true
   guest_stars:
-  characters:
-    - homer
-    - bart
 - title: Marge Gets a Job
   season: 4
   episode: 7
@@ -76,8 +62,6 @@ episodes:
   simpsonsworld_id: 299613763656
   good: false
   guest_stars:
-  characters:
-    - marge
 - title: New Kid on the Block
   season: 4
   episode: 8
@@ -87,9 +71,6 @@ episodes:
   simpsonsworld_id: 273542211871
   good: false
   guest_stars:
-  characters:
-    - bart
-    - jimbo
 - title: Mr. Plow
   season: 4
   episode: 9
@@ -98,9 +79,6 @@ episodes:
   simpsonsworld_id: 273544259768
   good: true
   guest_stars:
-  characters:
-    - homer
-    - barney
 - title: Lisa's First Word
   season: 4
   episode: 10
@@ -110,8 +88,6 @@ episodes:
   simpsonsworld_id: 288026691837
   good: false
   guest_stars:
-  characters:
-    - lisa
 - title: Homer's Triple Bypass
   season: 4
   episode: 11
@@ -121,8 +97,6 @@ episodes:
   simpsonsworld_id: 273548355538
   good: true
   guest_stars:
-  characters:
-    - homer
 - title: Marge vs. the Monorail
   season: 4
   episode: 12
@@ -132,9 +106,6 @@ episodes:
   simpsonsworld_id: 306386499796
   good: true
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: Selma's Choice
   season: 4
   episode: 13
@@ -144,10 +115,6 @@ episodes:
   simpsonsworld_id: 310386755912
   good: true
   guest_stars:
-  characters:
-    - selma
-    - bart
-    - lisa
 - title: Brother from the Same Planet
   season: 4
   episode: 14
@@ -158,10 +125,6 @@ episodes:
   simpsonsworld_id: 274103363992
   good: false
   guest_stars:
-  characters:
-    - homer
-    - bart
-    - lisa
 - title: I Love Lisa
   season: 4
   episode: 15
@@ -171,9 +134,6 @@ episodes:
   simpsonsworld_id: 274107459686
   good: true
   guest_stars:
-  characters:
-    - ralph
-    - lisa
 - title: Duffless
   season: 4
   episode: 16
@@ -183,7 +143,6 @@ episodes:
   simpsonsworld_id: 277249603926
   good: true
   guest_stars:
-  characters:
 - title: Last Exit to Springfield
   season: 4
   episode: 17
@@ -193,9 +152,6 @@ episodes:
   simpsonsworld_id: 357630019692
   good: true
   guest_stars:
-  characters:
-    - homer
-    - mr_burns
 - title: 'So It''s Come to This: A Simpsons Clip Show'
   season: 4
   episode: 18
@@ -205,8 +161,6 @@ episodes:
   simpsonsworld_id: 305670723781
   good: false
   guest_stars:
-  characters:
-    - clip_show
 - title: The Front
   season: 4
   episode: 19
@@ -216,10 +170,6 @@ episodes:
   simpsonsworld_id: 288029763650
   good: true
   guest_stars:
-  characters:
-    - lisa
-    - bart
-    - grandpa_simpson
 - title: Whacking Day
   season: 4
   episode: 20
@@ -229,7 +179,6 @@ episodes:
   simpsonsworld_id: 288129091929
   good: true
   guest_stars:
-  characters:
 - title: Marge in Chains
   season: 4
   episode: 21
@@ -239,7 +188,6 @@ episodes:
   simpsonsworld_id: 299606595657
   good: false
   guest_stars:
-  characters:
 - title: Krusty Gets Kancelled
   season: 4
   episode: 22
@@ -249,7 +197,3 @@ episodes:
   simpsonsworld_id: 274256963874
   good: true
   guest_stars:
-  characters:
-    - bart
-    - lisa
-    - krusty

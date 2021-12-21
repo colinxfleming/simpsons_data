@@ -10,8 +10,6 @@ episodes:
   simpsonsworld_id: 227335747784
   good: true
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: My Mother the Carjacker
   season: 15
   episode: 2
@@ -22,10 +20,6 @@ episodes:
   simpsonsworld_id: 227339843917
   good: true
   guest_stars:
-  characters:
-    - grandma_simpson
-    - homer
-    - mr_burns
 - title: The President Wore Pearls
   season: 15
   episode: 3
@@ -36,9 +30,6 @@ episodes:
   simpsonsworld_id: 227348035643
   good: false
   guest_stars:
-  characters:
-    - lisa
-    - skinner
 - title: The Regina Monologues
   season: 15
   episode: 4
@@ -48,8 +39,6 @@ episodes:
   simpsonsworld_id: 227349059824
   good: false
   guest_stars:
-  characters:
-    - simpsons
 - title: The Fat and the Furriest
   season: 15
   episode: 5
@@ -60,8 +49,6 @@ episodes:
   simpsonsworld_id: 227355715580
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: Today I am a Clown
   season: 15
   episode: 6
@@ -72,9 +59,6 @@ episodes:
   simpsonsworld_id: 227360323557
   good: false
   guest_stars:
-  characters:
-    - krusty
-    - homer
 - title: "'Tis the Fifteenth Season"
   season: 15
   episode: 7
@@ -85,9 +69,6 @@ episodes:
   simpsonsworld_id: 227364931670
   good: false
   guest_stars:
-  characters:
-    - homer
-    - ned
 - title: Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays
   season: 15
   episode: 8
@@ -97,8 +78,6 @@ episodes:
   simpsonsworld_id: 227369027832
   good: false
   guest_stars:
-  characters:
-    - marge
 - title: I, (Annoyed Grunt)-Bot
   season: 15
   episode: 9
@@ -109,10 +88,6 @@ episodes:
   simpsonsworld_id: 227376707538
   good: false
   guest_stars:
-  characters:
-    - homer
-    - bart
-    - lisa
 - title: Diatribe of a Mad Housewife
   season: 15
   episode: 10
@@ -122,9 +97,6 @@ episodes:
   simpsonsworld_id: 227378755925
   good: true
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: Margical History Tour
   season: 15
   episode: 11
@@ -135,8 +107,6 @@ episodes:
   simpsonsworld_id: 227386947567
   good: false
   guest_stars:
-  characters:
-    - vignettes
 - title: Milhouse Doesn't Live Here Anymore
   season: 15
   episode: 12
@@ -146,7 +116,6 @@ episodes:
   simpsonsworld_id: 227392067706
   good: true
   guest_stars:
-  characters:
 - title: Smart and Smarter
   season: 15
   episode: 13
@@ -156,8 +125,6 @@ episodes:
   simpsonsworld_id: 229331523584
   good: true
   guest_stars:
-  characters:
-    - lisa
 - title: The Ziff Who Came to Dinner
   season: 15
   episode: 14
@@ -167,9 +134,6 @@ episodes:
   simpsonsworld_id: 227426371786
   good: true
   guest_stars:
-  characters:
-    - homer
-    - artie
 - title: Co-Dependent's Day
   season: 15
   episode: 15
@@ -180,9 +144,6 @@ episodes:
   simpsonsworld_id: 227399235673
   good: false
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: The Wandering Juvie
   season: 15
   episode: 16
@@ -192,8 +153,6 @@ episodes:
   simpsonsworld_id: 227402307606
   good: true
   guest_stars:
-  characters:
-    - bart
 - title: My Big Fat Geek Wedding
   season: 15
   episode: 17
@@ -203,10 +162,6 @@ episodes:
   simpsonsworld_id: 227423299561
   good: false
   guest_stars:
-  characters:
-    - skinner
-    - edna
-    - comic_book_guy
 - title: Catch 'Em If You Can
   season: 15
   episode: 18
@@ -216,8 +171,6 @@ episodes:
   simpsonsworld_id: 227415619717
   good: false
   guest_stars:
-  characters:
-    - simpsons
 - title: Simple Simpson
   season: 15
   episode: 19
@@ -227,9 +180,6 @@ episodes:
   simpsonsworld_id: 227327555884
   good: false
   guest_stars:
-  characters:
-    - homer
-    - mr_burns
 - title: The Way We Weren't
   season: 15
   episode: 20
@@ -240,9 +190,6 @@ episodes:
   simpsonsworld_id: 227330115859
   good: false
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: Bart-Mangled Banner
   season: 15
   episode: 21
@@ -252,8 +199,6 @@ episodes:
   simpsonsworld_id: 227410499679
   good: false
   guest_stars:
-  characters:
-    - simpsons
 - title: Fraudcast News
   season: 15
   episode: 22
@@ -264,6 +209,3 @@ episodes:
   simpsonsworld_id: 227405379707
   good: true
   guest_stars:
-  characters:
-    - lisa
-    - mr_burns

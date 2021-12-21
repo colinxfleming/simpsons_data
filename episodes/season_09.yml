@@ -8,7 +8,6 @@ episodes:
   simpsonsworld_id: 436516931611
   good: true
   guest_stars:
-  characters:
 - title: The Principal and the Pauper
   season: 9
   episode: 2
@@ -17,7 +16,6 @@ episodes:
   simpsonsworld_id: 436505155662
   good: true
   guest_stars:
-  characters:
 - title: Lisa's Sax
   season: 9
   episode: 3
@@ -26,7 +24,6 @@ episodes:
   simpsonsworld_id: 279743555749
   good: false
   guest_stars:
-  characters:
 - title: Treehouse of Horror VIII
   season: 9
   episode: 4
@@ -37,8 +34,6 @@ episodes:
   simpsonsworld_id: 279170627965
   good: true
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: The Cartridge Family
   season: 9
   episode: 5
@@ -47,7 +42,6 @@ episodes:
   simpsonsworld_id: 302813251779
   good: true
   guest_stars:
-  characters:
 - title: Bart Star
   season: 9
   episode: 6
@@ -57,7 +51,6 @@ episodes:
   simpsonsworld_id: 448293443714
   good: false
   guest_stars:
-  characters:
 - title: The Two Mrs. Nahasapeemapetilons
   season: 9
   episode: 7
@@ -67,7 +60,6 @@ episodes:
   simpsonsworld_id: 279177283545
   good: false
   guest_stars:
-  characters:
 - title: Lisa the Skeptic
   season: 9
   episode: 8
@@ -77,7 +69,6 @@ episodes:
   simpsonsworld_id: 279180355540
   good: true
   guest_stars:
-  characters:
 - title: Realty Bites
   season: 9
   episode: 9
@@ -87,7 +78,6 @@ episodes:
   simpsonsworld_id: 280404547525
   good: true
   guest_stars:
-  characters:
 - title: Miracle on Evergreen Terrace
   season: 9
   episode: 10
@@ -97,7 +87,6 @@ episodes:
   simpsonsworld_id: 306881091696
   good: false
   guest_stars:
-  characters:
 - title: All Singing, All Dancing
   season: 9
   episode: 11
@@ -106,7 +95,6 @@ episodes:
   simpsonsworld_id: 294808131518
   good: false
   guest_stars:
-  characters:
 - title: Bart Carny
   season: 9
   episode: 12
@@ -116,7 +104,6 @@ episodes:
   simpsonsworld_id: 302818371931
   good: true
   guest_stars:
-  characters:
 - title: The Joy of Sect
   season: 9
   episode: 13
@@ -126,7 +113,6 @@ episodes:
   simpsonsworld_id: 299627075941
   good: true
   guest_stars:
-  characters:
 - title: Das Bus
   season: 9
   episode: 14
@@ -136,7 +122,6 @@ episodes:
   simpsonsworld_id: 448356931860
   good: false
   guest_stars:
-  characters:
 - title: The Last Temptation of Krusty
   season: 9
   episode: 15
@@ -146,7 +131,6 @@ episodes:
   simpsonsworld_id: 294812739638
   good: true
   guest_stars:
-  characters:
 - title: Dumbbell Indemnity
   season: 9
   episode: 16
@@ -156,7 +140,6 @@ episodes:
   simpsonsworld_id: 283910211639
   good: true
   guest_stars:
-  characters:
 - title: Lisa the Simpson
   season: 9
   episode: 17
@@ -166,7 +149,6 @@ episodes:
   simpsonsworld_id: 299651139676
   good: true
   guest_stars:
-  characters:
 - title: This Little Wiggy
   season: 9
   episode: 18
@@ -175,7 +157,6 @@ episodes:
   simpsonsworld_id: 299639875678
   good: false
   guest_stars:
-  characters:
 - title: Simpson Tide
   season: 9
   episode: 19
@@ -184,7 +165,6 @@ episodes:
   simpsonsworld_id: 302809667837
   good: true
   guest_stars:
-  characters:
 - title: The Trouble with Trillions
   season: 9
   episode: 20
@@ -194,7 +174,6 @@ episodes:
   simpsonsworld_id: 299644483816
   good: false
   guest_stars:
-  characters:
 - title: Girly Edition
   season: 9
   episode: 21
@@ -204,7 +183,6 @@ episodes:
   simpsonsworld_id: 299672131928
   good: true
   guest_stars:
-  characters:
 - title: Trash of the Titans
   season: 9
   episode: 22
@@ -214,7 +192,6 @@ episodes:
   simpsonsworld_id: 307101763818
   good: true
   guest_stars:
-  characters:
 - title: King of the Hill
   season: 9
   episode: 23
@@ -224,7 +201,6 @@ episodes:
   simpsonsworld_id: 467593795648
   good: false
   guest_stars:
-  characters:
 - title: Lost Our Lisa
   season: 9
   episode: 24
@@ -234,7 +210,6 @@ episodes:
   simpsonsworld_id: 467595331852
   good: true
   guest_stars:
-  characters:
 - title: Natural Born Kissers
   season: 9
   episode: 25
@@ -244,4 +219,3 @@ episodes:
   simpsonsworld_id: 467599939876
   good: false
   guest_stars:
-  characters:
