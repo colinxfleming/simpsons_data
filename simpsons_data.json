@@ -868,9 +868,7 @@
             "disneyplus_id": "fd7b6365-b333-487e-8057-66544129d162",
             "simpsonsworld_id": 294777411510,
             "good": true,
-            "guest_stars": [
-                "marge"
-            ]
+            "guest_stars": []
         },
         {
             "title": "Bart's Inner Child",
@@ -900,9 +898,7 @@
             "disneyplus_id": "53840a89-3296-4b9d-bbbd-cb80eba9af3f",
             "simpsonsworld_id": 275201091952,
             "good": true,
-            "guest_stars": [
-                "homer"
-            ]
+            "guest_stars": []
         },
         {
             "title": "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)",
@@ -6403,11 +6399,7 @@
             "disneyplus_id": "3abea375-9c5d-4b5d-8e7f-16818897c8a5",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": [
-                "bart",
-                "homer"
-            ]
+            "guest_stars": []
         },
         {
             "title": "Heartbreak Hotel",
@@ -6417,8 +6409,7 @@
             "disneyplus_id": "7c3f3732-8a93-4a58-ab07-f658a8b5ff65",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "My Way or the Highway to Heaven",
@@ -6428,8 +6419,7 @@
             "disneyplus_id": "b1053f70-abf6-4fb3-a55b-6413e7cd45f8",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "Treehouse of Horror XXIX",
@@ -6439,10 +6429,7 @@
             "disneyplus_id": "0b0b2d05-b113-4d25-b232-849b47bfe6cd",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": [
-                "treehouse_of_horror"
-            ]
+            "guest_stars": []
         },
         {
             "title": "Baby You Can't Drive My Car",
@@ -6452,8 +6439,7 @@
             "disneyplus_id": "00a1d721-7669-4ee2-8da5-799f84ae2d90",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "From Russia Without Love",
@@ -6463,8 +6449,7 @@
             "disneyplus_id": "c96aa7e3-f5d8-4b8e-aee2-a7c23cee6c55",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "Werking Mom",
@@ -6474,8 +6459,7 @@
             "disneyplus_id": "84953856-8319-4600-8072-799c2e1e32c4",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "Krusty the Clown",
@@ -6485,8 +6469,7 @@
             "disneyplus_id": "b5aeb3d3-3cc3-4e91-a32a-1b33b683b4f9",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "Daddicus Finch",
@@ -6496,8 +6479,7 @@
             "disneyplus_id": "057a8476-019d-4196-8601-38ba7aa0fcad",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "'Tis the 30th Season",
@@ -6507,10 +6489,7 @@
             "disneyplus_id": "6676b4c4-75d0-4d1f-8384-e5da1fb4ec2c",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": [
-                "simpsons"
-            ]
+            "guest_stars": []
         },
         {
             "title": "Mad About the Toy",
@@ -6520,10 +6499,7 @@
             "disneyplus_id": "9595ca10-574c-4a98-9d06-d3a3d9cfa9ff",
             "simpsonsworld_id": null,
             "good": true,
-            "guest_stars": [],
-            "characters": [
-                "grandpa"
-            ]
+            "guest_stars": []
         },
         {
             "title": "The Girl on the Bus",
@@ -6533,8 +6509,7 @@
             "disneyplus_id": "381dd896-c62b-418d-8139-9901022e8c7b",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "I'm Dancing as Fat as I Can",
@@ -6544,8 +6519,7 @@
             "disneyplus_id": "5e947ef5-874d-4e6d-8d7b-9c0f6418c95f",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "The Clown Stays in the Picture",
@@ -6555,8 +6529,7 @@
             "disneyplus_id": "d3a79e2f-0900-427d-8a99-aed99216af5c",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "101 Mitigations",
@@ -6566,8 +6539,7 @@
             "disneyplus_id": "cc74c61c-b33f-487b-b9bf-c78e794aadef",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "I Want You (She's So Heavy)",
@@ -6577,8 +6549,7 @@
             "disneyplus_id": "7cfaf421-8641-4f8a-bf33-b5aa8ce65e8b",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "E My Sports",
@@ -6588,8 +6559,7 @@
             "disneyplus_id": "54f1162d-019a-4731-a951-9f0db6abb64d",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "Bart vs. Itchy and Scratchy",
@@ -6599,8 +6569,7 @@
             "disneyplus_id": "8b656b44-85db-4ecd-bae5-a3258eb8e9f6",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "Girl's in the Band",
@@ -6610,8 +6579,7 @@
             "disneyplus_id": "df2fda5d-4585-424a-a2d5-35a4a5178067",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "I'm Just a Girl Who Can't Say D'oh",
@@ -6621,8 +6589,7 @@
             "disneyplus_id": "1178d9bf-9372-4847-aee2-66e2b7aa84ad",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "D'oh Canada",
@@ -6632,8 +6599,7 @@
             "disneyplus_id": "1dd944b3-cda9-4ae7-8bb9-7391e793104e",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "Woo-Hoo Dunnit?",
@@ -6643,8 +6609,7 @@
             "disneyplus_id": "106f5152-8b8a-497c-a823-b10e809f717e",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "Crystal Blue-Haired Persuasion",
@@ -6654,8 +6619,7 @@
             "disneyplus_id": "553af900-6995-420a-8230-61ae64ca9c9a",
             "simpsonsworld_id": null,
             "good": false,
-            "guest_stars": [],
-            "characters": null
+            "guest_stars": []
         },
         {
             "title": "The Winter of Our Monetized Content",
