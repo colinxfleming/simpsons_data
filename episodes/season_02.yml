@@ -8,8 +8,6 @@ episodes:
   simpsonsworld_id: 260539459671
   good: false
   guest_stars:
-  characters:
-    - bart
 - title: Simpson and Delilah
   season: 2
   episode: 2
@@ -19,8 +17,6 @@ episodes:
   simpsonsworld_id: 260539971564
   good: true
   guest_stars:
-  characters:
-    - homer
 - title: Treehouse of Horror
   season: 2
   episode: 3
@@ -30,8 +26,6 @@ episodes:
   simpsonsworld_id: 260538435884
   good: true
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: Two Cars in Every Garage and Three Eyes on Every Fish
   season: 2
   episode: 4
@@ -41,10 +35,6 @@ episodes:
   simpsonsworld_id: 260537411822
   good: true
   guest_stars:
-  characters:
-    - homer
-    - marge
-    - mr_burns
 - title: Dancin' Homer
   season: 2
   episode: 5
@@ -53,8 +43,6 @@ episodes:
   simpsonsworld_id: 260538435888
   good: true
   guest_stars:
-  characters:
-    - homer
 - title: Dead Putting Society
   season: 2
   episode: 6
@@ -64,10 +52,6 @@ episodes:
   simpsonsworld_id: 260539459670
   good: true
   guest_stars:
-  characters:
-    - bart
-    - homer
-    - ned
 - title: Bart vs. Thanksgiving
   season: 2
   episode: 7
@@ -77,9 +61,6 @@ episodes:
   simpsonsworld_id: 260539459701
   good: false
   guest_stars:
-  characters:
-    - bart
-    - lisa
 - title: Bart the Daredevil
   season: 2
   episode: 8
@@ -89,8 +70,6 @@ episodes:
   simpsonsworld_id: 260539459702
   good: true
   guest_stars:
-  characters:
-    - bart
 - title: Itchy and Scratchy and Marge
   season: 2
   episode: 9
@@ -100,8 +79,6 @@ episodes:
   simpsonsworld_id: 1094123075920
   good: true
   guest_stars:
-  characters:
-    - marge
 - title: Bart Gets Hit by a Car
   season: 2
   episode: 10
@@ -111,10 +88,6 @@ episodes:
   simpsonsworld_id: 260550723760
   good: true
   guest_stars:
-  characters:
-    - bart
-    - homer
-    - mr_burns
 - title: One Fish, Two Fish, Blowfish, Blue Fish
   season: 2
   episode: 11
@@ -124,8 +97,6 @@ episodes:
   simpsonsworld_id: 260548675839
   good: true
   guest_stars:
-  characters:
-    - homer
 - title: The Way We Was
   season: 2
   episode: 12
@@ -135,9 +106,6 @@ episodes:
   simpsonsworld_id: 260549187876
   good: false
   guest_stars:
-  characters:
-    - homer
-    - marge
 - title: Homer vs. Lisa and the 8th Commandment
   season: 2
   episode: 13
@@ -147,9 +115,6 @@ episodes:
   simpsonsworld_id: 260820547692
   good: true
   guest_stars:
-  characters:
-    - homer
-    - lisa
 - title: Principal Charming
   season: 2
   episode: 14
@@ -159,10 +124,6 @@ episodes:
   simpsonsworld_id: 263496771968
   good: true
   guest_stars:
-  characters:
-    - homer
-    - skinner
-    - selma
 - title: Oh Brother, Where Art Thou?
   season: 2
   episode: 15
@@ -172,8 +133,6 @@ episodes:
   simpsonsworld_id: 1094123587812
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: Bart's Dog Gets an F
   season: 2
   episode: 16
@@ -183,9 +142,6 @@ episodes:
   simpsonsworld_id: 272034883946
   good: true
   guest_stars:
-  characters:
-    - bart
-    - santas_little_helper
 - title: Old Money
   season: 2
   episode: 17
@@ -194,8 +150,6 @@ episodes:
   simpsonsworld_id: 263504963955
   good: false
   guest_stars:
-  characters:
-    - grandpa_simpson
 - title: Brush with Greatness
   season: 2
   episode: 18
@@ -206,9 +160,6 @@ episodes:
   simpsonsworld_id: 1094212163883
   good: true
   guest_stars:
-  characters:
-    - marge
-    - mr_burns
 - title: Lisa's Substitute
   season: 2
   episode: 19
@@ -218,8 +169,6 @@ episodes:
   simpsonsworld_id: 288011331912
   good: true
   guest_stars:
-  characters:
-    - lisa
 - title: The War of the Simpsons
   season: 2
   episode: 20
@@ -230,9 +179,6 @@ episodes:
   simpsonsworld_id: 272040003661
   good: true
   guest_stars:
-  characters:
-    - marge
-    - homer
 - title: Three Men and a Comic Book
   season: 2
   episode: 21
@@ -242,10 +188,6 @@ episodes:
   simpsonsworld_id: 310368835964
   good: true
   guest_stars:
-  characters:
-    - bart
-    - milhouse
-    - martin
 - title: Blood Feud
   season: 2
   episode: 22
@@ -255,6 +197,3 @@ episodes:
   simpsonsworld_id: 272041539932
   good: true
   guest_stars:
-  characters:
-    - homer
-    - mr_burns

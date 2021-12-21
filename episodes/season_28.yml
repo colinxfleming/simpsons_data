@@ -8,10 +8,6 @@ episodes:
   simpsonsworld_id: 1066704963871
   good: false
   guest_stars:
-  characters:
-    - mr_burns
-    - lisa
-    - homer
 - title: Friends and Family
   season: 28
   episode: 2
@@ -21,10 +17,6 @@ episodes:
   simpsonsworld_id: 1064038980002
   good: false
   guest_stars:
-  characters:
-    - homer
-    - mr_burns
-    - simpsons
 - title: The Town
   season: 28
   episode: 3
@@ -34,8 +26,6 @@ episodes:
   simpsonsworld_id: 1064043075512
   good: false
   guest_stars:
-  characters:
-    - simpsons
 - title: Treehouse of Horror XXVII
   season: 28
   episode: 4
@@ -46,8 +36,6 @@ episodes:
   simpsonsworld_id: 1063870531930
   good: false
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: Trust but Clarify
   season: 28
   episode: 5
@@ -57,7 +45,6 @@ episodes:
   simpsonsworld_id: 1064042051872
   good: maybe
   guest_stars:
-  characters:
 - title: There Will Be Buds
   season: 28
   episode: 6
@@ -67,7 +54,6 @@ episodes:
   simpsonsworld_id: 1064041539874
   good: maybe
   guest_stars:
-  characters:
 - title: Havana Wild Weekend
   season: 28
   episode: 7
@@ -77,7 +63,6 @@ episodes:
   simpsonsworld_id: 1064044099513
   good: maybe
   guest_stars:
-  characters:
 - title: Dad Behavior
   season: 28
   episode: 8
@@ -87,7 +72,6 @@ episodes:
   simpsonsworld_id: 1064046147533
   good: maybe
   guest_stars:
-  characters:
 - title: The Last Traction Hero
   season: 28
   episode: 9
@@ -98,7 +82,6 @@ episodes:
   simpsonsworld_id: 1064046147517
   good: maybe
   guest_stars:
-  characters:
 - title: The Nightmare After Krustmas
   season: 28
   episode: 10
@@ -108,7 +91,6 @@ episodes:
   simpsonsworld_id: 1064045635565
   good: maybe
   guest_stars:
-  characters:
 - title: Pork and Burns
   season: 28
   episode: 11
@@ -118,7 +100,6 @@ episodes:
   simpsonsworld_id: 1070436931706
   good: maybe
   guest_stars:
-  characters:
 - title: Fatzcarraldo
   season: 28
   episode: 14
@@ -129,7 +110,6 @@ episodes:
   simpsonsworld_id: 1064044611770
   good: maybe
   guest_stars:
-  characters:
 - title: The Cad and the Hat
   season: 28
   episode: 15
@@ -139,7 +119,6 @@ episodes:
   simpsonsworld_id: 1064044611752
   good: maybe
   guest_stars:
-  characters:
 - title: Kamp Krustier
   season: 28
   episode: 16
@@ -149,7 +128,6 @@ episodes:
   simpsonsworld_id: 1064043587996
   good: maybe
   guest_stars:
-  characters:
 - title: 22 for 30
   season: 28
   episode: 17
@@ -158,7 +136,6 @@ episodes:
   simpsonsworld_id: 1064044099732
   good: maybe
   guest_stars:
-  characters:
 - title: A Father's Watch
   season: 28
   episode: 18
@@ -168,7 +145,6 @@ episodes:
   simpsonsworld_id: 1064046659528
   good: maybe
   guest_stars:
-  characters:
 - title: The Caper Chase
   season: 28
   episode: 19
@@ -187,7 +163,6 @@ episodes:
   simpsonsworld_id: 1064046659522
   good: maybe
   guest_stars:
-  characters:
 - title: Moho House
   season: 28
   episode: 21
@@ -196,7 +171,6 @@ episodes:
   simpsonsworld_id: 1064045635817
   good: maybe
   guest_stars:
-  characters:
 - title: Dogtown
   season: 28
   episode: 22
@@ -205,7 +179,6 @@ episodes:
   simpsonsworld_id: 1064045635799
   good: maybe
   guest_stars:
-  characters:
 - title: The Great Phatsby Parts 1 & 2
   season: 28
   episode: 1213
@@ -216,4 +189,3 @@ episodes:
   simpsonsworld_id: 1077274179891
   good: maybe
   guest_stars:
-  characters:

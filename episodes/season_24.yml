@@ -10,9 +10,6 @@ episodes:
   simpsonsworld_id: 221691971633
   good: false
   guest_stars:
-  characters:
-    - bart
-    - lisa
 - title: Treehouse of Horror XXIII
   season: 24
   episode: 2
@@ -23,8 +20,6 @@ episodes:
   simpsonsworld_id: 221695555645
   good: true
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: Adventures in Baby-getting
   season: 24
   episode: 3
@@ -34,10 +29,6 @@ episodes:
   simpsonsworld_id: 221688899646
   good: false
   guest_stars:
-  characters:
-    - marge
-    - bart
-    - lisa
 - title: Gone Abie Gone
   season: 24
   episode: 4
@@ -47,9 +38,6 @@ episodes:
   simpsonsworld_id: 221688899887
   good: false
   guest_stars:
-  characters:
-    - grandpa_simpson
-    - lisa
 - title: Penny-Wiseguys
   season: 24
   episode: 5
@@ -59,9 +47,6 @@ episodes:
   simpsonsworld_id: 221694531617
   good: true
   guest_stars:
-  characters:
-    - fat_tony
-    - lisa
 - title: A Tree Grows in Springfield
   season: 24
   episode: 6
@@ -72,8 +57,6 @@ episodes:
   simpsonsworld_id: 229733443727
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: The Day the Earth Stood Cool
   season: 24
   episode: 7
@@ -83,8 +66,6 @@ episodes:
   simpsonsworld_id: 222374467937
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: To Cur, With Love
   season: 24
   episode: 8
@@ -95,7 +76,6 @@ episodes:
   simpsonsworld_id: 222491715618
   good: maybe
   guest_stars:
-  characters:
 - title: Homer Goes to Prep School
   season: 24
   episode: 9
@@ -105,8 +85,6 @@ episodes:
   simpsonsworld_id: 1094312515873
   good: false
   guest_stars:
-  characters:
-    - homer
 - title: A Test Before Trying
   season: 24
   episode: 10
@@ -116,9 +94,6 @@ episodes:
   simpsonsworld_id: 222388291945
   good: true
   guest_stars:
-  characters:
-    - bart
-    - homer
 - title: The Changing of the Guardian
   season: 24
   episode: 11
@@ -128,7 +103,6 @@ episodes:
   simpsonsworld_id: 257684035668
   good: maybe
   guest_stars:
-  characters:
 - title: Love is a Many-Splintered Thing
   season: 24
   episode: 12
@@ -138,7 +112,6 @@ episodes:
   simpsonsworld_id: 257681987573
   good: maybe
   guest_stars:
-  characters:
 - title: Hardly Kirk-ing
   season: 24
   episode: 13
@@ -148,7 +121,6 @@ episodes:
   simpsonsworld_id: 257686595928
   good: maybe
   guest_stars:
-  characters:
 - title: Gorgeous Grampa
   season: 24
   episode: 14
@@ -159,7 +131,6 @@ episodes:
   simpsonsworld_id: 257687107857
   good: maybe
   guest_stars:
-  characters:
 - title: Black-Eyed, Please
   season: 24
   episode: 15
@@ -170,7 +141,6 @@ episodes:
   simpsonsworld_id: 257689667578
   good: maybe
   guest_stars:
-  characters:
 - title: Dark Knight Court
   season: 24
   episode: 16
@@ -181,7 +151,6 @@ episodes:
   simpsonsworld_id: 257714243647
   good: maybe
   guest_stars:
-  characters:
 - title: What Animated Women Want
   season: 24
   episode: 17
@@ -191,7 +160,6 @@ episodes:
   simpsonsworld_id: 1094243907551
   good: maybe
   guest_stars:
-  characters:
 - title: Pulpit Friction
   season: 24
   episode: 18
@@ -201,7 +169,6 @@ episodes:
   simpsonsworld_id: 257728579751
   good: maybe
   guest_stars:
-  characters:
 - title: Whiskey Business
   season: 24
   episode: 19
@@ -212,7 +179,6 @@ episodes:
   simpsonsworld_id: 257737283653
   good: maybe
   guest_stars:
-  characters:
 - title: The Fabulous Faker Boy
   season: 24
   episode: 20
@@ -222,7 +188,6 @@ episodes:
   simpsonsworld_id: 257760323921
   good: maybe
   guest_stars:
-  characters:
 - title: The Saga of Carl
   season: 24
   episode: 21
@@ -232,11 +197,6 @@ episodes:
   simpsonsworld_id: 257753667515
   good: true
   guest_stars:
-  characters:
-    - homer
-    - moe
-    - lenny
-    - carl
 - title: Dangers on a Train
   season: 24
   episode: 22
@@ -246,4 +206,3 @@ episodes:
   simpsonsworld_id: 257768003795
   good: maybe
   guest_stars:
-  characters:

@@ -10,7 +10,6 @@ episodes:
   simpsonsworld_id: 307191875741
   good: maybe
   guest_stars:
-  characters:
 - title: Treehouse of Horror XXIV
   season: 25
   episode: 2
@@ -21,8 +20,6 @@ episodes:
   simpsonsworld_id: 310259779794
   good: maybe
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: Four Regrettings and a Funeral
   season: 25
   episode: 3
@@ -33,7 +30,6 @@ episodes:
   simpsonsworld_id: 311688259548
   good: maybe
   guest_stars:
-  characters:
 - title: YOLO
   season: 25
   episode: 4
@@ -44,7 +40,6 @@ episodes:
   simpsonsworld_id: 304473155645
   good: maybe
   guest_stars:
-  characters:
 - title: Labor Pains
   season: 25
   episode: 5
@@ -55,7 +50,6 @@ episodes:
   simpsonsworld_id: 311105091548
   good: maybe
   guest_stars:
-  characters:
 - title: The Kid Is All Right
   season: 25
   episode: 6
@@ -65,7 +59,6 @@ episodes:
   simpsonsworld_id: 310523971648
   good: maybe
   guest_stars:
-  characters:
 - title: Yellow Subterfuge
   season: 25
   episode: 7
@@ -76,7 +69,6 @@ episodes:
   simpsonsworld_id: 304476739664
   good: maybe
   guest_stars:
-  characters:
 - title: White Christmas Blues
   season: 25
   episode: 8
@@ -87,7 +79,6 @@ episodes:
   simpsonsworld_id: 307199043880
   good: maybe
   guest_stars:
-  characters:
 - title: Steal This Episode
   season: 25
   episode: 9
@@ -97,7 +88,6 @@ episodes:
   simpsonsworld_id: 310523459925
   good: maybe
   guest_stars:
-  characters:
 - title: Married to the Blob
   season: 25
   episode: 10
@@ -107,7 +97,6 @@ episodes:
   simpsonsworld_id: 310541379637
   good: maybe
   guest_stars:
-  characters:
 - title: Specs and the City
   season: 25
   episode: 11
@@ -117,7 +106,6 @@ episodes:
   simpsonsworld_id: 307204163997
   good: maybe
   guest_stars:
-  characters:
 - title: The Man Who Grew Too Much
   season: 25
   episode: 12
@@ -127,7 +115,6 @@ episodes:
   simpsonsworld_id: 307207235909
   good: maybe
   guest_stars:
-  characters:
 - title: Diggs
   season: 25
   episode: 13
@@ -137,7 +124,6 @@ episodes:
   simpsonsworld_id: 310529091639
   good: maybe
   guest_stars:
-  characters:
 - title: The Winter of His Content
   season: 25
   episode: 14
@@ -148,7 +134,6 @@ episodes:
   simpsonsworld_id: 307209283970
   good: maybe
   guest_stars:
-  characters:
 - title: The War of Art
   season: 25
   episode: 15
@@ -159,7 +144,6 @@ episodes:
   simpsonsworld_id: 311117891947
   good: maybe
   guest_stars:
-  characters:
 - title: You Don't Have to Live Like a Referee
   season: 25
   episode: 16
@@ -169,7 +153,6 @@ episodes:
   simpsonsworld_id: 304489539783
   good: maybe
   guest_stars:
-  characters:
 - title: Luca$
   season: 25
   episode: 17
@@ -179,7 +162,6 @@ episodes:
   simpsonsworld_id: 304500803520
   good: maybe
   guest_stars:
-  characters:
 - title: Days of Future Future
   season: 25
   episode: 18
@@ -190,7 +172,6 @@ episodes:
   simpsonsworld_id: 310257731892
   good: maybe
   guest_stars:
-  characters:
 - title: What to Expect When Bart's Expecting
   season: 25
   episode: 19
@@ -201,7 +182,6 @@ episodes:
   simpsonsworld_id: 307214403888
   good: maybe
   guest_stars:
-  characters:
 - title: Brick Like Me
   season: 25
   episode: 20
@@ -211,7 +191,6 @@ episodes:
   simpsonsworld_id: 311243331763
   good: maybe
   guest_stars:
-  characters:
 - title: Pay Pal
   season: 25
   episode: 21
@@ -222,7 +201,6 @@ episodes:
   simpsonsworld_id: 304502851923
   good: maybe
   guest_stars:
-  characters:
 - title: Yellow Badge of Cowardge
   season: 25
   episode: 22
@@ -233,4 +211,3 @@ episodes:
   simpsonsworld_id: 307219523604
   good: maybe
   guest_stars:
-  characters:
