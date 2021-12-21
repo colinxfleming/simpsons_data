@@ -8,9 +8,6 @@ episodes:
   simpsonsworld_id:
   good: false
   guest_stars:
-  characters:
-    - bart
-    - homer
 - title: Heartbreak Hotel
   season: 30
   episode: 2
@@ -19,7 +16,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: My Way or the Highway to Heaven
   season: 30
   episode: 3
@@ -28,7 +24,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Treehouse of Horror XXIX
   season: 30
   episode: 4
@@ -37,8 +32,6 @@ episodes:
   simpsonsworld_id:
   good: false
   guest_stars:
-  characters:
-    - treehouse_of_horror
 - title: Baby You Can't Drive My Car
   season: 30
   episode: 5
@@ -47,7 +40,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: From Russia Without Love
   season: 30
   episode: 6
@@ -56,7 +48,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Werking Mom
   season: 30
   episode: 7
@@ -65,7 +56,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Krusty the Clown
   season: 30
   episode: 8
@@ -74,7 +64,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Daddicus Finch
   season: 30
   episode: 9
@@ -83,7 +72,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: "'Tis the 30th Season"
   season: 30
   episode: 10
@@ -92,8 +80,6 @@ episodes:
   simpsonsworld_id:
   good: false
   guest_stars:
-  characters:
-    - simpsons
 - title: Mad About the Toy
   season: 30
   episode: 11
@@ -102,8 +88,6 @@ episodes:
   simpsonsworld_id:
   good: true
   guest_stars:
-  characters:
-    - grandpa
 - title: The Girl on the Bus
   season: 30
   episode: 12
@@ -112,7 +96,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: I'm Dancing as Fat as I Can
   season: 30
   episode: 13
@@ -121,7 +104,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: The Clown Stays in the Picture
   season: 30
   episode: 14
@@ -130,7 +112,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: 101 Mitigations
   season: 30
   episode: 15
@@ -139,7 +120,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: I Want You (She's So Heavy)
   season: 30
   episode: 16
@@ -148,7 +128,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: E My Sports
   season: 30
   episode: 17
@@ -157,7 +136,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Bart vs. Itchy and Scratchy
   season: 30
   episode: 18
@@ -166,7 +144,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Girl's in the Band
   season: 30
   episode: 19
@@ -175,7 +152,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: I'm Just a Girl Who Can't Say D'oh
   season: 30
   episode: 20
@@ -184,7 +160,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: D'oh Canada
   season: 30
   episode: 21
@@ -193,7 +168,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Woo-Hoo Dunnit?
   season: 30
   episode: 22
@@ -202,7 +176,6 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:
 - title: Crystal Blue-Haired Persuasion
   season: 30
   episode: 23
@@ -211,4 +184,3 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-  characters:

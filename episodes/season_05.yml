@@ -52,7 +52,6 @@ episodes:
   simpsonsworld_id: 294777411510
   good: true
   guest_stars:
-    - marge
 - title: Bart's Inner Child
   season: 5
   episode: 7
@@ -80,7 +79,6 @@ episodes:
   simpsonsworld_id: 275201091952
   good: true
   guest_stars:
-    - homer
 - title: "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)"
   season: 5
   episode: 10
