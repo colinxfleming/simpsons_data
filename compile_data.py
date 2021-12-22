@@ -27,6 +27,13 @@ for index, ep in enumerate(all_data["episodes"]):
     if all_data["episodes"][index]["guest_stars"] is None:
         all_data["episodes"][index]["guest_stars"] = []
 
+    # Cast dates to strings.
+    if all_data["episodes"][index]["release_date"]:
+        all_data["episodes"][index]["release_date"] = str(
+            all_data["episodes"][index]["release_date"]
+        )
+
+
 output = json.dumps(all_data, indent=4)
 output_file = "simpsons_data.json"
 with open(os.path.join(basedir, output_file), "w") as f:

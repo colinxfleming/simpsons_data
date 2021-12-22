@@ -3,7 +3,7 @@ episodes:
 - title: Simpsons Roasting on an Open Fire
   season: 1
   episode: 1
-  release_date:
+  release_date: 1989-12-17
   description: Homer decides to gamble on a "hunch" at the dog track when his annual
     Christmas bonus is canceled.
   disneyplus_id: 79529cd0-f1cf-4eec-8b1d-ea1e1b76043b
@@ -13,7 +13,7 @@ episodes:
 - title: Bart The Genius
   season: 1
   episode: 2
-  release_date:
+  release_date: 1990-01-14
   description: Bart is believed to be a genius after he switches I.Q. tests with brainy
     Martin Prince.
   disneyplus_id: 250ca502-751e-4b37-a465-f8b518d76ced
@@ -23,7 +23,7 @@ episodes:
 - title: Homer's Odyssey
   season: 1
   episode: 3
-  release_date:
+  release_date: 1990-01-21
   description: Fired from his job at the Nuclear Power Plant, Homer decides to embark
     on a campaign to make all of Springfield safer.
   disneyplus_id: 0e8e7f27-0ab2-495f-8254-d99d3c53ce4f
@@ -33,7 +33,7 @@ episodes:
 - title: There's No Disgrace Like Home
   season: 1
   episode: 4
-  release_date:
+  release_date: 1990-01-28
   description: After attending the annual company picnic, Homer becomes jealous of
     fellow employees with 'normal' families.  He decides to enlist the aid of psychologist
     Marvin Monroe to treat his wife and children.
@@ -44,7 +44,7 @@ episodes:
 - title: Bart the General
   season: 1
   episode: 5
-  release_date:
+  release_date: 1990-02-04
   description: Grandpa Simpson aids Bart in his war against a school bully and his
     gang.
   disneyplus_id: 051c32fc-0d9a-4bee-a960-9c6ab85eccdb
@@ -54,7 +54,7 @@ episodes:
 - title: Moaning Lisa
   season: 1
   episode: 6
-  release_date:
+  release_date: 1990-02-11
   description: Lisa befriends a saxophone player when she develops a case of the blues.
   disneyplus_id: d7502c3a-a254-451a-bdc0-b57e67b1ace4
   simpsonsworld_id: 273391683535
@@ -63,7 +63,7 @@ episodes:
 - title: The Call of the Simpsons
   season: 1
   episode: 7
-  release_date:
+  release_date: 1990-02-18
   description: Homer is mistaken for Bigfoot when he takes his family on a trip into
     the wilderness in their new camper.
   disneyplus_id: 8d4aad23-2222-4980-af9b-729bc8159898
@@ -73,7 +73,7 @@ episodes:
 - title: The Telltale Head
   season: 1
   episode: 8
-  release_date:
+  release_date: 1990-02-25
   description: Bart attempts to impress his new friends by vandalizing a statue of
     the town's founding father, Jebediah Springfield.
   disneyplus_id: 8868eddb-224d-4df4-93c2-145abd60270d
@@ -83,7 +83,7 @@ episodes:
 - title: Life on the Fast Lane
   season: 1
   episode: 9
-  release_date:
+  release_date: 1990-03-18
   description: Marge contemplates having an affair with a local womanizer after Homer
     selfishly buys her a bowling ball for her birthday.
   disneyplus_id: 6303b4c8-5e65-46a0-bd51-6460bba86e8e
@@ -93,7 +93,7 @@ episodes:
 - title: Homer's Night Out
   season: 1
   episode: 10
-  release_date:
+  release_date: 1990-03-25
   description: Bart photographs Homer with belly-dancer Princess Kashmir.  Marge will
     only forgive her husband when he proves to Bart that all women are not merely
     sexual objects.
@@ -104,7 +104,7 @@ episodes:
 - title: The Crepes of Wrath
   season: 1
   episode: 11
-  release_date:
+  release_date: 1990-04-15
   description: To Homer's delight, Bart is sent to France for the summer as part of
     a student exchange program.
   disneyplus_id: 01937c40-fe95-4e8f-aa0d-3933ee3ba378
@@ -114,7 +114,7 @@ episodes:
 - title: Krusty Gets Busted
   season: 1
   episode: 12
-  release_date:
+  release_date: 1990-04-29
   description: When Homer positively identifies Krusty the Clown as an armed robber,
     Bart attempts to clear his idol's name.
   disneyplus_id: 829bc530-f7b3-459d-bac1-dc92672c9138
@@ -124,7 +124,7 @@ episodes:
 - title: Some Enchanted Evening
   season: 1
   episode: 13
-  release_date:
+  release_date: 1990-05-13
   description: Marge and Homer unwittingly leave their children in the care of a villainous
     babysitter when they attempt to rekindle their marriage.
   disneyplus_id: 332f91c5-2de7-40d2-ac02-9de76820f4f6
