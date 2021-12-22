@@ -3,7 +3,7 @@ episodes:
 - title: Homer's Barbershop Quartet
   season: 5
   episode: 1
-  release_date:
+  release_date: 1993-09-30
   description: Homer recounts his phenomenal rise to superstardom as a member of the
     barbershop quartet, The Be Sharps.
   disneyplus_id: 39346307-4dbb-45e8-a765-4ed555bb1e03
@@ -13,7 +13,7 @@ episodes:
 - title: Cape Feare
   season: 5
   episode: 2
-  release_date:
+  release_date: 1993-10-07
   description: Sideshow Bob terrorizes Bart after he is paroled from prison.
   disneyplus_id: 1640880f-154b-4c5e-94fe-cb86bb7e6970
   simpsonsworld_id: 305674819788
@@ -22,7 +22,7 @@ episodes:
 - title: Homer Goes to College
   season: 5
   episode: 3
-  release_date:
+  release_date: 1993-10-14
   description: Homer enrolls in a nuclear physics class at Springfield University
     and convinces three nerdy classmates to help him pull off a prank.
   disneyplus_id: 166f1ff9-be98-453d-a3cd-6d80943efff3
@@ -32,7 +32,7 @@ episodes:
 - title: Rosebud
   season: 5
   episode: 4
-  release_date:
+  release_date: 1993-10-21
   description: The Simpsons find Mr. Burns' long-lost childhood teddy bear.
   disneyplus_id: 39559a2c-6bec-48fc-b080-be4a7c3e4045
   simpsonsworld_id: 279714371653
@@ -41,7 +41,7 @@ episodes:
 - title: Treehouse of Horror IV
   season: 5
   episode: 5
-  release_date:
+  release_date: 1993-10-28
   description: In a ghoulish gallery, Bart hosts three bloodcurdling tales of Halloween
     horror.
   disneyplus_id: 33dfa7a1-fe6f-4466-a87d-9bf43a8be7cd
@@ -51,7 +51,7 @@ episodes:
 - title: Marge on the Lam
   season: 5
   episode: 6
-  release_date:
+  release_date: 1993-11-04
   description: Marge joins divorcee Ruth Powers for a wild night on the town, only
     to discover that her friend is driving a stolen vehicle.
   disneyplus_id: fd7b6365-b333-487e-8057-66544129d162
@@ -61,7 +61,7 @@ episodes:
 - title: Bart's Inner Child
   season: 5
   episode: 7
-  release_date:
+  release_date: 1993-11-11
   description: The host of a self-help workshop convinces the people of Springfield
     they should emulate Bart's uninhibited personality.
   disneyplus_id: eed49f33-ea03-401f-9afa-abc8591c290d
@@ -71,7 +71,7 @@ episodes:
 - title: Boy-Scoutz 'N the Hood
   season: 5
   episode: 8
-  release_date:
+  release_date: 1993-11-18
   description: Bart inadvertently joins the Junior Campers, and during a rafting trip,
     he becomes lost at sea with Homer and Ned Flanders.
   disneyplus_id: 01cec0e3-c895-478a-ac26-e90a34cf7c32
@@ -81,7 +81,7 @@ episodes:
 - title: The Last Temptation of Homer
   season: 5
   episode: 9
-  release_date:
+  release_date: 1993-12-09
   description: Homer is attracted to a sexy co-worker with a personality identical
     to his own.
   disneyplus_id: 53840a89-3296-4b9d-bbbd-cb80eba9af3f
@@ -91,7 +91,7 @@ episodes:
 - title: "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)"
   season: 5
   episode: 10
-  release_date:
+  release_date: 1993-12-16
   description: Marge becomes addicted to playing slot machines after the town of Springfield
     legalizes gambling.
   disneyplus_id: 129fb45a-e1f4-4f42-9abb-cd1e62a91eda
@@ -101,7 +101,7 @@ episodes:
 - title: Homer the Vigilante
   season: 5
   episode: 11
-  release_date:
+  release_date: 1994-01-06
   description: Homer takes the law into his own hands after Springfield is victimized
     by a cat burglar.
   disneyplus_id: 3f69d304-f5b4-4b72-aca9-cbc0395a0ee6
@@ -111,7 +111,7 @@ episodes:
 - title: Bart Gets Famous
   season: 5
   episode: 12
-  release_date:
+  release_date: 1994-02-03
   description: Bart becomes an instant celebrity after he ad-libs a line during a
     sketch on the "Krusty the Klown Show."
   disneyplus_id: 639a5d21-7c16-43fb-87ce-7df70e57177e
@@ -121,7 +121,7 @@ episodes:
 - title: Homer and Apu
   season: 5
   episode: 13
-  release_date:
+  release_date: 1994-02-10
   description: Apu offers the Simpsons his services as valet after he is fired from
     the Kwik-E-Mart for selling rancid meat.
   disneyplus_id: ae3d982a-e7ec-43fe-93dd-0884be9d751a
@@ -131,7 +131,7 @@ episodes:
 - title: Lisa vs. Malibu Stacy
   season: 5
   episode: 14
-  release_date:
+  release_date: 1994-02-17
   description: Lisa manufactures her own talking doll for little girls.
   disneyplus_id: a4153020-a361-466d-8c1e-dfdc32f43501
   simpsonsworld_id: 274260035625
@@ -140,7 +140,7 @@ episodes:
 - title: Deep Space Homer
   season: 5
   episode: 15
-  release_date:
+  release_date: 1994-02-24
   description: NASA scientists train Homer to become the first average American in
     space, with near disastrous results.
   disneyplus_id: 0743fa0a-ddd3-4591-96f1-1a419e19b30e
@@ -150,7 +150,7 @@ episodes:
 - title: Homer Loves Flanders
   season: 5
   episode: 16
-  release_date:
+  release_date: 1994-03-17
   description: Flanders is horrified to discover he has become Homer's best friend.
   disneyplus_id: a7f65f67-17f0-483c-bd70-a15d4050d877
   simpsonsworld_id: 310398019629
@@ -159,7 +159,7 @@ episodes:
 - title: Bart Gets an Elephant
   season: 5
   episode: 17
-  release_date:
+  release_date: 1994-03-31
   description: Bart wins a full grown African elephant as part of a radio contest.
   disneyplus_id: 980ff0ba-e78c-41cf-8e83-5b7a91f4d3c9
   simpsonsworld_id: 275726403611
@@ -168,7 +168,7 @@ episodes:
 - title: Burns' Heir
   season: 5
   episode: 18
-  release_date:
+  release_date: 1994-04-14
   description: Mr. Burns chooses Bart as the heir to his vast fortune.
   disneyplus_id: c4e4a495-db5f-4fee-9314-0866330c664b
   simpsonsworld_id: 283747395787
@@ -177,7 +177,7 @@ episodes:
 - title: Sweet Seymour Skinner's Baadasssss Song
   season: 5
   episode: 19
-  release_date:
+  release_date: 1994-04-28
   description: Bart suffers enormous guilt after Skinner is fired from his job as
     school principal.
   disneyplus_id: bedacca5-03b3-4b55-8fa6-7f542cd53e3a
@@ -187,7 +187,7 @@ episodes:
 - title: The Boy Who Knew Too Much
   season: 5
   episode: 20
-  release_date:
+  release_date: 1994-05-05
   description: Only Bart can clear Mayor Quimby's nephew of an assault charge, but
     he fears that identifying himself as a witness will mean expulsion for skipping
     class.
@@ -198,7 +198,7 @@ episodes:
 - title: Lady Bouvier's Lover
   season: 5
   episode: 21
-  release_date:
+  release_date: 1994-05-12
   description: Grampa and Mr. Burns vie for Mrs. Bouvier's hand in marriage.  Bart
     purchases a worthless Itchy and Scratchy animation cell.
   disneyplus_id: e38cf670-0fdc-4ca8-9095-51296ffc7a16
@@ -208,7 +208,7 @@ episodes:
 - title: Secrets of a Successful Marriage
   season: 5
   episode: 22
-  release_date:
+  release_date: 1994-05-19
   description: Marge kicks Homer out of the house after she discovers that he revealed
     her personal secrets to an adult education class.
   disneyplus_id: e38cf670-0fdc-4ca8-9095-51296ffc7a16
