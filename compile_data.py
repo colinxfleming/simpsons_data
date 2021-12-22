@@ -28,9 +28,10 @@ for index, ep in enumerate(all_data["episodes"]):
         all_data["episodes"][index]["guest_stars"] = []
 
     # Cast dates to strings.
-    all_data["episodes"][index]["release_date"] = str(
-        all_data["episodes"][index]["release_date"]
-    )
+    if all_data["episodes"][index]["release_date"]:
+        all_data["episodes"][index]["release_date"] = str(
+            all_data["episodes"][index]["release_date"]
+        )
 
 
 output = json.dumps(all_data, indent=4)

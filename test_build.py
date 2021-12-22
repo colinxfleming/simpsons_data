@@ -50,7 +50,8 @@ with open("simpsons_data.json", "r") as f:
         assert isinstance(episode["description"], str)
 
         # Release date should be a YYYY-MM-DD string if set
-        if episode["release_date"]:
+        print(episode["release_date"])
+        if episode["release_date"] is not None:
             assert isinstance(episode["release_date"], str)
             assert re.match(r"\d{4}-\d{2}-\d{2}", episode["release_date"])
 
