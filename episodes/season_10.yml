@@ -4,6 +4,8 @@ episodes:
   season: 10
   episode: 1
   release_date:
+  directors:
+  writers:
   description: Homer thinks he can net a fortune by recycling grease.  Lisa helps
     organize a school dance.
   disneyplus_id: 98ee055e-5747-4d5f-adde-c31d45942164
@@ -14,6 +16,8 @@ episodes:
   season: 10
   episode: 2
   release_date:
+  directors:
+  writers:
   description: After realizing half his life is over, Homer decides to become the
     next Thomas Edison.
   disneyplus_id: 986ba983-649f-4e35-83b1-2aae99e85008
@@ -24,6 +28,8 @@ episodes:
   season: 10
   episode: 3
   release_date:
+  directors:
+  writers:
   description: Bart tends to a nest filled with eggs after he inadvertently kills
     a bird with a BB gun.
   disneyplus_id: 964531ad-96b6-4271-84e9-995804d0fa59
@@ -34,6 +40,8 @@ episodes:
   season: 10
   episode: 4
   release_date:
+  directors:
+  writers:
   description: An evil toupee possesses Homer; Bart and Lisa find themselves trapped
     inside an Itchy & Scratchy cartoon; baby Maggie turns out to be the daughter of
     a space alien.
@@ -45,6 +53,8 @@ episodes:
   season: 10
   episode: 5
   release_date:
+  directors:
+  writers:
   description: Homer befriends a group of Hollywood celebrities vacationing in a remote
     part of town and promises to keep their whereabouts a secret.
   disneyplus_id: 06ca06ee-00ef-48af-bc90-850a35c543b4
@@ -55,6 +65,8 @@ episodes:
   season: 10
   episode: 6
   release_date:
+  directors:
+  writers:
   description: Homer embraces his newly discovered hippie heritage.
   disneyplus_id: 87059d07-aa2b-49c2-bdc2-c0f7ff8ef5c8
   simpsonsworld_id: 473138243754
@@ -64,6 +76,8 @@ episodes:
   season: 10
   episode: 7
   release_date:
+  directors:
+  writers:
   description: Lisa suffers a guilty conscience after she cheats on an exam.  Homer
     believes he will save a fortune by raising his own lobster.
   disneyplus_id: 2a9e93c8-00aa-4663-9ebc-ad960d0cfc28
@@ -74,6 +88,8 @@ episodes:
   season: 10
   episode: 8
   release_date:
+  directors:
+  writers:
   description: Homer offers to donate one of his kidneys to Grampa until he realizes
     the surgery will place his own life in jeopardy.
   disneyplus_id: 2af7dae5-26f3-4865-a72f-a2f34b2ace54
@@ -84,6 +100,8 @@ episodes:
   season: 10
   episode: 9
   release_date:
+  directors:
+  writers:
   description: Homer takes on the mob when he acts as Mayor Quimby's bodyguard.
   disneyplus_id: df6e8f4c-cc93-4613-882a-91eb8e98dc12
   simpsonsworld_id: 473163843671
@@ -93,6 +111,8 @@ episodes:
   season: 10
   episode: 10
   release_date:
+  directors:
+  writers:
   description: Homer shows Flanders how to enjoy life by taking him to Las Vegas.
   disneyplus_id: df93d2c8-8a69-464f-a87f-05f204134039
   simpsonsworld_id: 473115203586
@@ -102,6 +122,8 @@ episodes:
   season: 10
   episode: 11
   release_date:
+  directors:
+  writers:
   description: The children of Springfield rebel after Wiggum enforces a curfew.
   disneyplus_id: f634b3fc-2a84-48c6-9e12-fa708a661794
   simpsonsworld_id: 473155651508
@@ -111,6 +133,8 @@ episodes:
   season: 10
   episode: 12
   release_date:
+  directors:
+  writers:
   description: Homer and his friends eagerly anticipate attending the Super Bowl until
     a ticketing snafu threatens to keep them from seeing the game.
   disneyplus_id: 6e11f7db-7f5d-4f6d-bd0e-c91260701a71
@@ -121,6 +145,8 @@ episodes:
   season: 10
   episode: 13
   release_date:
+  directors:
+  writers:
   description: Homer changes his name when a dimwitted television show character named
     "Homer Simpson" becomes an overnight sensation.
   disneyplus_id: 1df9a8f7-96df-41a9-a595-69f6d66fbd42
@@ -131,6 +157,8 @@ episodes:
   season: 10
   episode: 14
   release_date:
+  directors:
+  writers:
   description: Apu showers his wife with Valentine's Day surprises making men throughout
     Springfield look like cheapskates.
   disneyplus_id: 964c06b3-4118-4ca9-93ef-207e45c94aba
@@ -141,6 +169,8 @@ episodes:
   season: 10
   episode: 15
   release_date:
+  directors:
+  writers:
   description: Marge discovers the pleasures of driving a sport utility vehicle until
     aggressive highway habits cost her.
   disneyplus_id: 3f660bb1-67ba-4923-b837-432790058d0f
@@ -151,6 +181,8 @@ episodes:
   season: 10
   episode: 16
   release_date:
+  directors:
+  writers:
   description: Lisa exhibits signs of stress when she is forced into sharing her brother's
     bedroom.  Marge becomes addicted to eavesdropping on cellular phone conversations.
   disneyplus_id: d8eb73d8-2008-41d6-8213-672b088afac9
@@ -161,6 +193,8 @@ episodes:
   season: 10
   episode: 17
   release_date:
+  directors:
+  writers:
   description: Homer and Bart attempt to deliver a dead trucker's cargo on schedule.  Meanwhile,
     Marge decides to have an adventure of her own and purchases a new doorbell.
   disneyplus_id: 3f4e5b4d-44df-4a7f-bf29-d2a4fd9ec3c7
@@ -171,6 +205,8 @@ episodes:
   season: 10
   episode: 18
   release_date:
+  directors:
+  writers:
   description: While listening to one of Reverend Lovejoy's sermons on a sweltering
     Easter Sunday morning, the Simpsons fall asleep and envision themselves as characters
     from the Bible.
@@ -182,6 +218,8 @@ episodes:
   season: 10
   episode: 19
   release_date:
+  directors:
+  writers:
   description: Homer pursues a career as an artist when his misshapen barbecue pit
     attracts the attention of a gallery.
   disneyplus_id: 01ff0cb7-1b7a-4f31-90b5-a53eb3f77a84
@@ -192,6 +230,8 @@ episodes:
   season: 10
   episode: 20
   release_date:
+  directors:
+  writers:
   description: Bart must perform community service at Grampa's retirement home.
   disneyplus_id: 06a3726e-ba9a-4252-9df7-5e633923ed24
   simpsonsworld_id: 279757379586
@@ -201,6 +241,8 @@ episodes:
   season: 10
   episode: 21
   release_date:
+  directors:
+  writers:
   description: Mr. Burns attempts to win adoration by transporting the Loch Ness monster
     to Springfield.
   disneyplus_id: f477542d-4817-45a3-8f4c-c595b57508d8
@@ -211,6 +253,8 @@ episodes:
   season: 10
   episode: 22
   release_date:
+  directors:
+  writers:
   description: Lisa is invited to join Mensa; Homer receives a free erotic photo session.
   disneyplus_id: 57670ba9-320b-4231-8ae1-ecdf13828b43
   simpsonsworld_id: 306868803826
@@ -220,6 +264,8 @@ episodes:
   season: 10
   episode: 23
   release_date:
+  directors:
+  writers:
   description: The Simpsons board a mega-saver flight for Tokyo, only to find themselves
     trapped overseas when they run out of money.
   disneyplus_id: a0cf3a5a-f8c7-4bd9-a0f7-e1d7ce1e1d40

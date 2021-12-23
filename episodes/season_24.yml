@@ -4,6 +4,8 @@ episodes:
   season: 24
   episode: 1
   release_date:
+  directors:
+  writers:
   description: Bart seeks out Cletus's daughter, who has started a new life in New
     York City, Lisa wants to take in a Broadway play but ends up performing Shakespeare
     in Central Park.
@@ -15,6 +17,8 @@ episodes:
   season: 24
   episode: 2
   release_date:
+  directors:
+  writers:
   description: In these three Halloween tales... a black hole threatens to destroy
     Springfield; the Simpsons are terrorized by the unknown in a spoof of 'Paranormal
     Activity'; Bart time travels in a spoof of 'Back to the Future.'
@@ -26,6 +30,8 @@ episodes:
   season: 24
   episode: 3
   release_date:
+  directors:
+  writers:
   description: Marge decides she wants to conceive another child; Bart realizes Lisa
     is up to something mysterious and vows to find out what it is.
   disneyplus_id: 4e9dc8fc-19c1-493a-bcb5-d2cd463512ed
@@ -36,6 +42,8 @@ episodes:
   season: 24
   episode: 4
   release_date:
+  directors:
+  writers:
   description: Homer and Marge search for Grampa after he disappears from the retirement
     home; Homer invests Lisa's college fund in an online poker Web site.
   disneyplus_id: 95a59aa7-8dd8-4b37-946d-ba4b2370fe1b
@@ -46,6 +54,8 @@ episodes:
   season: 24
   episode: 5
   release_date:
+  directors:
+  writers:
   description: While serving jury duty, Fat Tony appoints an accountant as his temporary
     Don; an anemic Lisa eats bugs to increase her iron level.
   disneyplus_id: 2364e35d-b013-4ce2-8781-2528238ca84a
@@ -56,6 +66,8 @@ episodes:
   season: 24
   episode: 6
   release_date:
+  directors:
+  writers:
   description: After his beloved new tablet "MyPad" computer is destroyed, a despondent
     Homer finds solace in a message seemingly written by God - until newsman Kent
     Brockman sets out to debunk the "miracle."
@@ -67,6 +79,8 @@ episodes:
   season: 24
   episode: 7
   release_date:
+  directors:
+  writers:
   description: Homer is elated when a cool dad and his family move next door, but
     his happiness ends when he realizes he has little in common with his new neighbors.
   disneyplus_id: 9f181a16-923c-4b5f-b16c-6ed616dbd5bf
@@ -77,6 +91,8 @@ episodes:
   season: 24
   episode: 8
   release_date:
+  directors:
+  writers:
   description: When Bart accuses Homer of not liking Santa's Little Helper, Grampa
     recounts the story of how Homer's heart broke after he was forced to give away
     his childhood dog.
@@ -88,6 +104,8 @@ episodes:
   season: 24
   episode: 9
   release_date:
+  directors:
+  writers:
   description: The Simpsons anticipate the apocalypse after Homer inadvertently triggers
     a shockwave that disables all electronic devices in Springfield.
   disneyplus_id: e5ab93cc-8b25-4f41-ba33-618cd72303f1
@@ -98,6 +116,8 @@ episodes:
   season: 24
   episode: 10
   release_date:
+  directors:
+  writers:
   description: Bart must pass a district-wide test to save Springfield Elementary;
     Homer uses a discarded parking meter to steal from unsuspecting drivers.
   disneyplus_id: 9d7c7493-3f24-4913-9982-af323ebc6a25
@@ -108,6 +128,8 @@ episodes:
   season: 24
   episode: 11
   release_date:
+  directors:
+  writers:
   description: After narrowly surviving a tornado, Marge and Homer embark on a search
     for a couple who'll serve as Bart, Lisa and Maggie's legal guardians.
   disneyplus_id: b4979e57-2149-444f-a2ef-ffb99cad5fac
@@ -118,6 +140,8 @@ episodes:
   season: 24
   episode: 12
   release_date:
+  directors:
+  writers:
   description: Bart attempts to patch things up with his old sweetheart, Mary Spuckler,
     and despite Lisa's input, still manages to sabotage his chances of finding love.
   disneyplus_id: 680107c6-aa55-49d7-aad6-6e2260625b65
@@ -128,6 +152,8 @@ episodes:
   season: 24
   episode: 13
   release_date:
+  directors:
+  writers:
   description: With Bart's help, Milhouse transforms into his father; Homer discovers
     a talent for finding things in hidden-picture books.
   disneyplus_id: 9b94d4eb-f41a-4c7b-af02-75b13d18fa01
@@ -138,6 +164,8 @@ episodes:
   season: 24
   episode: 14
   release_date:
+  directors:
+  writers:
   description: With encouragement from Mr. Burns, Grampa revives a famous wrestling
     character from his past whom audiences love to hate, and despite Homer and Marge's
     objections, incorporates Bart into the act.
@@ -149,6 +177,8 @@ episodes:
   season: 24
   episode: 15
   release_date:
+  directors:
+  writers:
   description: When Flanders gives Homer a black eye, he turns to the Bible for answers;
     Lisa is shocked and puzzled when she discovers that a substitute teacher hates
     her.
@@ -160,6 +190,8 @@ episodes:
   season: 24
   episode: 16
   release_date:
+  directors:
+  writers:
   description: Bart stands trial in youth court after he's accused of pulling an Easter
     prank; after buying a comic book collection, Mr. Burns transforms into a 'Batman'-like
     superhero.
@@ -171,6 +203,8 @@ episodes:
   season: 24
   episode: 17
   release_date:
+  directors:
+  writers:
   description: In an episode that focuses on the choices people make and their outcomes...
     Homer attempts to save his marriage; Milhouse woos Lisa.
   disneyplus_id: 6b63cb85-0417-4763-badc-cfe3abcafe10
@@ -181,6 +215,8 @@ episodes:
   season: 24
   episode: 18
   release_date:
+  directors:
+  writers:
   description: Lovejoy quits the church after the Parson appoints a charismatic reverend
     to reinvigorate the parish; Marge tracks down her old wedding dress.
   disneyplus_id: d7de92f2-f378-4328-86fd-1ba45b27e794
@@ -191,6 +227,8 @@ episodes:
   season: 24
   episode: 19
   release_date:
+  directors:
+  writers:
   description: Moe's new suit catches the attention of venture capitalists, leading
     to the distribution of Moe's own brand of whiskey; Bart cares for Grampa; Lisa
     realizes that her favorite musicians have been turned into holograms.
@@ -202,6 +240,8 @@ episodes:
   season: 24
   episode: 20
   release_date:
+  directors:
+  writers:
   description: Bart takes piano lessons in hopes of impressing his beautiful young
     teacher; Homer goes completely bald; Marge teaches a Russian man how to drive.
   disneyplus_id: 44088609-5b17-4aa8-90f3-3ccbec6a5fdb
@@ -212,6 +252,8 @@ episodes:
   season: 24
   episode: 21
   release_date:
+  directors:
+  writers:
   description: Homer, Moe and Lenny travel to Iceland to retrieve lottery winnings
     that Carl ran off with.
   disneyplus_id: 407d6ec8-d258-4dc3-827c-a81cf50c8828
@@ -222,6 +264,8 @@ episodes:
   season: 24
   episode: 22
   release_date:
+  directors:
+  writers:
   description: Homer secretly reconstructs a kiddy train as Marge's anniversary present;
     Marge attracts the attention of a potential paramour online.
   disneyplus_id: 7220ab72-469d-4ce0-a41e-d727c10e72c4
