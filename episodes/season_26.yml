@@ -4,6 +4,8 @@ episodes:
   season: 26
   episode: 1
   release_date:
+  directors:
+  writers:
   description: 'The unthinkable happens: a Springfield resident dies.'
   disneyplus_id: 254b91ea-02ed-4b16-aa4e-03b594b89288
   simpsonsworld_id: 334920771636
@@ -13,6 +15,8 @@ episodes:
   season: 26
   episode: 2
   release_date:
+  directors:
+  writers:
   description: Homer and Bart set sail on the relation ship.
   disneyplus_id: 6a793d21-929a-410a-8615-3f4444970e19
   simpsonsworld_id: 346737219924
@@ -22,6 +26,8 @@ episodes:
   season: 26
   episode: 3
   release_date:
+  directors:
+  writers:
   description: Marge opens a sandwich shop.
   disneyplus_id: c8a58eb9-dbab-471a-86b3-a04bc34c2cff
   simpsonsworld_id: 340536899599
@@ -31,6 +37,8 @@ episodes:
   season: 26
   episode: 4
   release_date:
+  directors:
+  writers:
   description: Don't miss the all-new, spooktacular Halloween special, "Treehouse
     of Horror XXV."
   disneyplus_id: 54d99d91-e952-4ff5-baf8-9eef1a054885
@@ -41,6 +49,8 @@ episodes:
   season: 26
   episode: 5
   release_date:
+  directors:
+  writers:
   description: An all-new episode featuring guest voice Jane Fonda, whose character
     falls for Mr. Burns.
   disneyplus_id: 0d02c072-ec15-4e51-b0eb-b0a8c683abd7
@@ -51,6 +61,8 @@ episodes:
   season: 26
   episode: 6
   release_date:
+  directors:
+  writers:
   description: The Simpsons travel to the 31st century.
   disneyplus_id: 4374e696-9cb9-4e95-b906-e623ad31593a
   simpsonsworld_id: 355593283530
@@ -60,6 +72,8 @@ episodes:
   season: 26
   episode: 7
   release_date:
+  directors:
+  writers:
   description: Bart faces a tough test at school when he gets a new teacher, Mr. Lassen,
     who vows to crush his spirit.
   disneyplus_id: 34716532-5c16-4b0a-97fd-d71a2807f87a
@@ -70,6 +84,8 @@ episodes:
   season: 26
   episode: 8
   release_date:
+  directors:
+  writers:
   description: Homer forms a cover band with some of the other dads in town.
   disneyplus_id: a1ed36d5-3086-49b8-b83e-2d20e72fa12b
   simpsonsworld_id: 362239555757
@@ -79,6 +95,8 @@ episodes:
   season: 26
   episode: 9
   release_date:
+  directors:
+  writers:
   description: Marge doesn't approve of Homer's Christmas spirits.
   disneyplus_id: 16914d01-b98b-4cf2-8904-36bd8f651e8f
   simpsonsworld_id: 368212547872
@@ -88,6 +106,8 @@ episodes:
   season: 26
   episode: 10
   release_date:
+  directors:
+  writers:
   description: An amusement park ride lands the Simpsons in outer space..
   disneyplus_id: ea171ef8-0dab-48f9-bec1-491775080bc4
   simpsonsworld_id: 379818563729
@@ -97,6 +117,8 @@ episodes:
   season: 26
   episode: 11
   release_date:
+  directors:
+  writers:
   description: Bart and Homer become BFF's.
   disneyplus_id: b30df722-986c-46ba-8e51-be92095b6e17
   simpsonsworld_id: 383002179865
@@ -106,6 +128,8 @@ episodes:
   season: 26
   episode: 12
   release_date:
+  directors:
+  writers:
   description: Homer becomes muse to Elon Musk.
   disneyplus_id: 2ee937da-4304-4ca5-868d-472e189d942d
   simpsonsworld_id: 388773443652
@@ -115,6 +139,8 @@ episodes:
   season: 26
   episode: 13
   release_date:
+  directors:
+  writers:
   description: Springfield gets a new town anthem.
   disneyplus_id: 645c035f-4f8f-4422-884e-333889eae9f4
   simpsonsworld_id: 395694659511
@@ -124,6 +150,8 @@ episodes:
   season: 26
   episode: 14
   release_date:
+  directors:
+  writers:
   description: Marge trades in her mom-chauffeur hat for a real one.
   disneyplus_id: ff549ddd-2534-4769-9c8e-940e46363649
   simpsonsworld_id: 399385667625
@@ -133,6 +161,8 @@ episodes:
   season: 26
   episode: 15
   release_date:
+  directors:
+  writers:
   description: Moe plots revenge over Nigerian e-mail scam.
   disneyplus_id: 77a22172-c5a9-4c80-b5ff-3d8fe21ecc3b
   simpsonsworld_id: 406163011894
@@ -142,6 +172,8 @@ episodes:
   season: 26
   episode: 16
   release_date:
+  directors:
+  writers:
   description: The Springfield congregation turns to gambling to repair the church.
   disneyplus_id: 7571103b-40e7-4456-80b6-4d1856bc73b0
   simpsonsworld_id: 410018371522
@@ -151,6 +183,8 @@ episodes:
   season: 26
   episode: 17
   release_date:
+  directors:
+  writers:
   description: When Duffman undergoes hip replacement surgery and retires, the company
     sets up a reality show competition to find his replacement.
   disneyplus_id: 8a3b1f5a-338d-4a7c-afcf-e3bb3933d0bb
@@ -161,6 +195,8 @@ episodes:
   season: 26
   episode: 18
   release_date:
+  directors:
+  writers:
   description: Bart lies about being involved in a bulldozer crash, so Marge decides
     to follow him everywhere until he confesses.
   disneyplus_id: 7570ff99-2fd0-47a3-b275-404c5b96cc10
@@ -171,6 +207,8 @@ episodes:
   season: 26
   episode: 19
   release_date:
+  directors:
+  writers:
   description: When Homer gets an old film roll developed, the family takes a trip
     down memory lane to see the origins of how Bart and Lisa first started fighting
     with each other.
@@ -182,6 +220,8 @@ episodes:
   season: 26
   episode: 20
   release_date:
+  directors:
+  writers:
   description: The Simpsons learn about Grampa's days in the Air Force, and Bart takes
     up smoking to impress Milhouse's Dutch cousin.
   disneyplus_id: 6398510e-4e51-4a48-a538-5781de70918b
@@ -192,6 +232,8 @@ episodes:
   season: 26
   episode: 21
   release_date:
+  directors:
+  writers:
   description: After Bart gets bullied at the school dance, Marge convinces the town
     to pass anti-bullying legislation.
   disneyplus_id: 677ab214-4cde-4a05-8767-369f7a59be8c
@@ -202,6 +244,8 @@ episodes:
   season: 26
   episode: 22
   release_date:
+  directors:
+  writers:
   description: When a modernized Springfield Elementary has a technical meltdown,
     Lisa transforms it into a Waldorf school.
   disneyplus_id: ee46a17f-b96f-4db1-b8bf-0e25d09f9a59

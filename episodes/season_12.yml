@@ -4,6 +4,8 @@ episodes:
   season: 12
   episode: 1
   release_date:
+  directors:
+  writers:
   description: On Halloween... a deceased Homer must perform one good deed to get
     into heaven; angry dolphins launch an attack against the people of Springfield;
     Bart and Lisa encounter characters from fairy tales.
@@ -15,6 +17,8 @@ episodes:
   season: 12
   episode: 2
   release_date:
+  directors:
+  writers:
   description: The townspeople of Springfield divide into two communities when the
     telephone company institutes a new area code system.
   disneyplus_id: 973def57-0286-420b-b379-29506579cbe4
@@ -25,6 +29,8 @@ episodes:
   season: 12
   episode: 3
   release_date:
+  directors:
+  writers:
   description: Krusty discovers that he fathered a child during the Gulf War... only
     to gamble away his daughter's precious violin during a poker game with Fat Tony.
   disneyplus_id: 3c4f7bf2-c2cc-433c-84a9-2e7b4a8b355f
@@ -35,6 +41,8 @@ episodes:
   season: 12
   episode: 4
   release_date:
+  directors:
+  writers:
   description: Lisa joins a group of eco-radicals in her attempt to save the city's
     oldest redwood tree.
   disneyplus_id: 8db238bc-3261-4cfa-9f84-ef56b0320417
@@ -45,6 +53,8 @@ episodes:
   season: 12
   episode: 5
   release_date:
+  directors:
+  writers:
   description: As the Thanksgiving holiday approaches, Mr. Burns hires Homer to be
     his 'prank monkey.'
   disneyplus_id: e1571405-1efa-4e78-8534-210ef3adbfc6
@@ -55,6 +65,8 @@ episodes:
   season: 12
   episode: 6
   release_date:
+  directors:
+  writers:
   description: Homer uses his new computer to spread gossip on the Internet... and
     eventually finds himself stranded on a mysterious island.
   disneyplus_id: b4a7b686-0418-41a5-94f7-b4fe410d2e5c
@@ -65,6 +77,8 @@ episodes:
   season: 12
   episode: 7
   release_date:
+  directors:
+  writers:
   description: Homer and Bart become scam artists when the family is faced with the
     cost of a sudden car repair.
   disneyplus_id: fc3fe593-1586-446b-82fc-a89e0d51b78f
@@ -75,6 +89,8 @@ episodes:
   season: 12
   episode: 8
   release_date:
+  directors:
+  writers:
   description: As Christmas approaches, a winter snowstorm traps Bart, Lisa and their
     fellow students inside Springfield Elementary, where Principal Skinner attempts
     to keep chaos from erupting.
@@ -86,6 +102,8 @@ episodes:
   season: 12
   episode: 9
   release_date:
+  directors:
+  writers:
   description: Homer experiences a dramatic increase in intelligence when researchers
     remove a crayon lodged in his brain.
   disneyplus_id: 3111dfd2-62e7-4dc5-8448-c37e5e95ef3c
@@ -96,6 +114,8 @@ episodes:
   season: 12
   episode: 10
   release_date:
+  directors:
+  writers:
   description: With Marge's help, an inmate with artistic ability is paroled from
     prison.  But when the ex-con gets a job painting a mural at the elementary school,
     he clashes with Skinner.
@@ -107,6 +127,8 @@ episodes:
   season: 12
   episode: 11
   release_date:
+  directors:
+  writers:
   description: When the Comic Book Guy suffers a heart attack, Bart and Milhouse take
     over his store.
   disneyplus_id: 1c2d1dbd-7ad5-46ba-b759-e07400b4fc1c
@@ -117,6 +139,8 @@ episodes:
   season: 12
   episode: 12
   release_date:
+  directors:
+  writers:
   description: When the Simpsons construct a tennis court in the backyard, Bart pairs
     up with Marge and becomes a tennis whiz... much to Homer's disappointment.
   disneyplus_id: b0c9ae03-7a23-4337-a425-bf5dd96516ef
@@ -127,6 +151,8 @@ episodes:
   season: 12
   episode: 13
   release_date:
+  directors:
+  writers:
   description: Sideshow Bob wins release from prison and hypnotizes Bart to kill Krusty
     the Clown.
   disneyplus_id: 9c3e929b-c242-4de5-affc-5a826fe18dcd
@@ -137,6 +163,8 @@ episodes:
   season: 12
   episode: 14
   release_date:
+  directors:
+  writers:
   description: After casting Bart and his friends as singers in an all-boy band, a
     crazed record producer launches an attack on the offices of MAD magazine.
   disneyplus_id: 89cbf06d-f2ba-463e-9644-88c129108846
@@ -147,6 +175,8 @@ episodes:
   season: 12
   episode: 15
   release_date:
+  directors:
+  writers:
   description: Homer goes on a hunger strike after learning that the owner of the
     Springfield Isotopes plans on moving the team to Albuquerque.
   disneyplus_id: 238de1c0-2a47-4ffb-8e04-18dc8a038587
@@ -157,6 +187,8 @@ episodes:
   season: 12
   episode: 16
   release_date:
+  directors:
+  writers:
   description: Lisa searches for answers when a new student at school bullies her;
     Homer starts his own baby-proofing business.
   disneyplus_id: a1c87fe2-c9a6-4eed-bc9a-bd2960eb1580
@@ -167,6 +199,8 @@ episodes:
   season: 12
   episode: 17
   release_date:
+  directors:
+  writers:
   description: The Simpsons journey through Africa, where they encounter jungle animals,
     tribesmen... and a chimp refuge owner with a secret.
   disneyplus_id: 4e1b6c0d-3e34-47ca-97ca-1a70ec60df00
@@ -177,6 +211,8 @@ episodes:
   season: 12
   episode: 18
   release_date:
+  directors:
+  writers:
   description: 'A day in the life of the Simpsons replays three times: Homer panics
     when Marge slices off his thumb; Lisa attempts to place her entry in the school
     science fair; Bart is pursued by gangsters.'
@@ -188,6 +224,8 @@ episodes:
   season: 12
   episode: 19
   release_date:
+  directors:
+  writers:
   description: To fulfill his dead wife's final wish, Ned Flanders converts an old,
     closed amusement park into a new Christian amusement park, 'Praiseland.'  The
     park flops until visitors begin having 'visions.'
@@ -199,6 +237,8 @@ episodes:
   season: 12
   episode: 20
   release_date:
+  directors:
+  writers:
   description: After Homer injures his knee, he's housebound for recuperation.  A
     successful stint as a babysitter prompts Homer to open a full-time daycare service,
     leaving Bart and Lisa feeling neglected.
@@ -210,6 +250,8 @@ episodes:
   season: 12
   episode: 21
   release_date:
+  directors:
+  writers:
   description: The Simpsons jump a train, and meet a hobo, who tells them twisted
     versions of three classic tales, all of which feature Simpsons characters.
   disneyplus_id: be38a176-f5fe-4e51-b91b-192b05534acc

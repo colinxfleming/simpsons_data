@@ -4,6 +4,8 @@ episodes:
   season: 8
   episode: 1
   release_date:
+  directors:
+  writers:
   description: 'The Simpsons appear in three tales of terror: Bart discovers an evil
     twin brother living in the attic; Lisa creates a microscopic society; and space
     aliens transform themselves into Clinton and Dole look-alikes.'
@@ -15,6 +17,8 @@ episodes:
   season: 8
   episode: 2
   release_date:
+  directors:
+  writers:
   description: The Simpsons relocate to another community after Homer unwittingly
     takes a job with a company controlled by a super-villain.
   disneyplus_id: 4bbad88a-4a1b-4881-9c0e-b78d8c703e7d
@@ -25,6 +29,8 @@ episodes:
   season: 8
   episode: 3
   release_date:
+  directors:
+  writers:
   description: Homer becomes a professional boxer when doctors discover he was born
     with a unique genetic condition that protects his brain from injury.
   disneyplus_id: 13979608-127b-4a93-b1ee-1fbd178019fd
@@ -35,6 +41,8 @@ episodes:
   season: 8
   episode: 4
   release_date:
+  directors:
+  writers:
   description: With Homer's help, Mr. Burns' long-lost son stages his own kidnapping.
   disneyplus_id: f8925031-3dda-44a5-8210-d0241c05795b
   simpsonsworld_id: 299622467514
@@ -44,6 +52,8 @@ episodes:
   season: 8
   episode: 5
   release_date:
+  directors:
+  writers:
   description: While Marge is out of town, Homer allows Bart to work at a burlesque
     house.
   disneyplus_id: 992e892f-0acd-4d25-8e40-fef5704efc7b
@@ -54,6 +64,8 @@ episodes:
   season: 8
   episode: 6
   release_date:
+  directors:
+  writers:
   description: When Milhouse's parents get a divorce, Homer grows convinced that his
     own marriage is in jeopardy.
   disneyplus_id: 25482c78-0e90-4a23-96b0-edfc4215514e
@@ -64,6 +76,8 @@ episodes:
   season: 8
   episode: 7
   release_date:
+  directors:
+  writers:
   description: Lisa develops a crush on bully Nelson Muntz.  Homer uses an automatic
     telephone dialer for an electronic panhandling scheme.
   disneyplus_id: c30d0b3b-b1df-4db7-a1e1-ef80cc750985
@@ -74,6 +88,8 @@ episodes:
   season: 8
   episode: 8
   release_date:
+  directors:
+  writers:
   description: Ned Flanders suffers a breakdown after his home is destroyed by a hurricane.
   disneyplus_id: a8fca808-af99-4856-9bac-f94014e86dc5
   simpsonsworld_id: 436250179702
@@ -83,6 +99,8 @@ episodes:
   season: 8
   episode: 9
   release_date:
+  directors:
+  writers:
   description: After ingesting several Guatemalan peppers during chili cook-off, Homer
     experiences hallucinatory visions that inspire him to find his true soul mate
     in life.
@@ -94,6 +112,8 @@ episodes:
   season: 8
   episode: 10
   release_date:
+  directors:
+  writers:
   description: X-Files Agents Mulder and Scully investigate Homer's encounter with
     an alleged extraterrestrial.
   disneyplus_id: 15802bc3-c0e2-4f05-bf59-e5a04c8e1ea3
@@ -104,6 +124,8 @@ episodes:
   season: 8
   episode: 11
   release_date:
+  directors:
+  writers:
   description: After being expelled from an investment club, Marge starts her own
     pretzel franchise.
   disneyplus_id: f922ecd7-179a-497b-9fb0-dffb05aedfcf
@@ -114,6 +136,8 @@ episodes:
   season: 8
   episode: 12
   release_date:
+  directors:
+  writers:
   description: Homer and Mr. Burns are buried beneath an avalanche during a survival
     trek in the mountains.
   disneyplus_id: 37a78fcb-f5de-424b-93d9-538f05e940c3
@@ -124,6 +148,8 @@ episodes:
   season: 8
   episode: 13
   release_date:
+  directors:
+  writers:
   description: The Simpsons hire a Mary Poppins-like nanny when Marge becomes overwhelmed
     by the demands of being a housewife.
   disneyplus_id: 586feaa4-08b3-4847-a67b-604a7562dddc
@@ -134,6 +160,8 @@ episodes:
   season: 8
   episode: 14
   release_date:
+  directors:
+  writers:
   description: When ratings for Itchy & Scratchy cartoons plummet, a studio committee
     creates a new, hipper character and hires Homer to provide the voice. Presented
     by FXX.
@@ -145,6 +173,8 @@ episodes:
   season: 8
   episode: 15
   release_date:
+  directors:
+  writers:
   description: Homer grows homophobic after he realizes the family's new friend is
     gay.
   disneyplus_id: 4f464b63-f2ef-4078-9ae1-e09951dd16b5
@@ -155,6 +185,8 @@ episodes:
   season: 8
   episode: 16
   release_date:
+  directors:
+  writers:
   description: Bart fears the worst when Sideshow Bob wins release from prison by
     claiming he is a reformed man and is hired by his brother to work on a construction
     project.
@@ -166,6 +198,8 @@ episodes:
   season: 8
   episode: 17
   release_date:
+  directors:
+  writers:
   description: Homer and Marge allow Lisa to baby-sit Bart.
   disneyplus_id: 9409fed1-b3b3-4345-88b6-a1c309774b44
   simpsonsworld_id: 436301891875
@@ -175,6 +209,8 @@ episodes:
   season: 8
   episode: 18
   release_date:
+  directors:
+  writers:
   description: Homer turns bootlegger when Springfield enforces an antiquated prohibition
     law.
   disneyplus_id: 17673fdc-6b4d-4bb2-8690-0065a74a84db
@@ -185,6 +221,8 @@ episodes:
   season: 8
   episode: 19
   release_date:
+  directors:
+  writers:
   description: Bart exposes Skinner and Krabappel's clandestine affair.
   disneyplus_id: c1827569-0955-47d5-9351-c38c49ba8196
   simpsonsworld_id: 436412995642
@@ -194,6 +232,8 @@ episodes:
   season: 8
   episode: 20
   release_date:
+  directors:
+  writers:
   description: Bart gives away Santa's Little Helper so he can keep a fully trained,
     blue ribbon Collie.
   disneyplus_id: 18d4e6f6-2c26-4c3f-ae52-c1ad04e82851
@@ -204,6 +244,8 @@ episodes:
   season: 8
   episode: 21
   release_date:
+  directors:
+  writers:
   description: Lisa helps Mr. Burns build a recycling center after a series of bad
     investments costs the multimillionaire his fortune.
   disneyplus_id: d62f4ce1-1bf2-44f2-ab83-9b6ad690873d
@@ -214,6 +256,8 @@ episodes:
   season: 8
   episode: 22
   release_date:
+  directors:
+  writers:
   description: Marge becomes a church volunteer.  Homer discovers his image printed
     on a box of Japanese dish detergent.
   disneyplus_id: 472be34f-4238-4d11-9afe-ba5abf66c895
@@ -224,6 +268,8 @@ episodes:
   season: 8
   episode: 23
   release_date:
+  directors:
+  writers:
   description: A resentful, hard-working employee at the power plant makes Homer his
     enemy.  Bart purchases an abandoned factory for one dollar at a government auction.
   disneyplus_id: 49a63595-ee7e-43fb-a7ef-bd79d439beef
@@ -234,6 +280,8 @@ episodes:
   season: 8
   episode: 24
   release_date:
+  directors:
+  writers:
   description: Troy McClure hosts three spin-offs from "The Simpsons" television show.
   disneyplus_id: 879b67c1-b784-4bec-aa11-5da4aeab587d
   simpsonsworld_id: 436481091875
@@ -243,6 +291,8 @@ episodes:
   season: 8
   episode: 25
   release_date:
+  directors:
+  writers:
   description: Cadets give Lisa the "silent treatment" when she enrolls in an all-male
     military academy.
   disneyplus_id: 0344e1ff-8d98-42af-8f56-2dbf0a8ed0a8

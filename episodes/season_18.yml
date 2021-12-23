@@ -4,6 +4,8 @@ episodes:
   season: 18
   episode: 1
   release_date:
+  directors:
+  writers:
   description: Lisa befriends the son of mobster Fat Tony, whose dream is to become
     a chef; Homer and Bart take over the 'family business' after Fat Tony is gunned
     down.
@@ -15,6 +17,8 @@ episodes:
   season: 18
   episode: 2
   release_date:
+  directors:
+  writers:
   description: Lisa grows jealous after Bart discovers he's a talented jazz drummer;
     Lisa hides some stray animals in the attic.
   disneyplus_id: ad3773ea-555e-4c7c-ad33-19dd12e2543a
@@ -25,6 +29,8 @@ episodes:
   season: 18
   episode: 3
   release_date:
+  directors:
+  writers:
   description: Marge starts her own carpentry business, only to discover that men
     don't trust a woman to do the job; Bart discovers that Skinner is allergic to
     peanuts.
@@ -36,6 +42,8 @@ episodes:
   season: 18
   episode: 4
   release_date:
+  directors:
+  writers:
   description: 'The Simpsons appear in three tales of horror: Homer turns into a rampaging
     blob; a creature from Jewish folklore does Bart''s bidding; a radio broadcast
     convinces townspeople they''re being invaded by aliens.'
@@ -47,6 +55,8 @@ episodes:
   season: 18
   episode: 5
   release_date:
+  directors:
+  writers:
   description: After Homer joins the Army, he's selected to play an enemy target during
     war games.  When the Army chases Homer into town, it pits the people of Springfield
     against the military.
@@ -58,6 +68,8 @@ episodes:
   season: 18
   episode: 6
   release_date:
+  directors:
+  writers:
   description: Lisa helps Moe get a poem published, but is deeply hurt when Moe refuses
     to acknowledge her contribution.
   disneyplus_id: 1dbc7634-6c9b-451c-b98d-f37a04aca4c3
@@ -68,6 +80,8 @@ episodes:
   season: 18
   episode: 7
   release_date:
+  directors:
+  writers:
   description: Homer finds happiness after he buys an ice cream truck; Marge finds
     her purpose in life when she makes sculptures out of popsicle sticks.
   disneyplus_id: ac78e6e7-e65b-4fdc-a5b1-ca92d60d8f7a
@@ -78,6 +92,8 @@ episodes:
   season: 18
   episode: 8
   release_date:
+  directors:
+  writers:
   description: Bart becomes Nelson's best friend; Homer becomes hooked on one of Lisa's
     fantasy books.
   disneyplus_id: cadd74ff-2dff-4715-983d-d725748114ec
@@ -88,6 +104,8 @@ episodes:
   season: 18
   episode: 9
   release_date:
+  directors:
+  writers:
   description: During the Christmas holiday, Marge attempts to muster the wherewithal
     to kick down-on-his-luck Gil out of the house.
   disneyplus_id: e23a7a91-620f-43cc-9b61-06fef0de06a9
@@ -98,6 +116,8 @@ episodes:
   season: 18
   episode: 10
   release_date:
+  directors:
+  writers:
   description: Marge returns to an island where she joyfully spent some of her childhood
     summers; Homer is forced to work on a fishing vessel that's threatened by a huge
     storm.
@@ -109,6 +129,8 @@ episodes:
   season: 18
   episode: 11
   release_date:
+  directors:
+  writers:
   description: The Simpsons spin three tales of revenge; Homer appears as the Count
     of Monte Cristo; Milhouse uses a gadget to get even with kids who've picked on
     him; comic hero Bart-Man searches for the villain who killed his parents.
@@ -120,6 +142,8 @@ episodes:
   season: 18
   episode: 12
   release_date:
+  directors:
+  writers:
   description: As Multicultural Day approaches, Lisa invents her own Native American
     heritage; after saving Springfield from a fire, Bart is rewarded with a driver's
     license-and ends up with a pregnant girlfriend who wants to wed.
@@ -131,6 +155,8 @@ episodes:
   season: 18
   episode: 13
   release_date:
+  directors:
+  writers:
   description: In this spoof of the 'Up' documentaries, a filmmaker chronicles the
     lives of a group of Springfield residents, including Homer, who has seemingly
     made good on his quest to become a millionaire.
@@ -142,6 +168,8 @@ episodes:
   season: 18
   episode: 14
   release_date:
+  directors:
+  writers:
   description: Lisa tutors Cletus's children - until Krusty hires them as a novelty
     act for his television show; Bart sees a female therapist after he's caught frightening
     his classmates with a scary story.
@@ -153,6 +181,8 @@ episodes:
   season: 18
   episode: 15
   release_date:
+  directors:
+  writers:
   description: Homer is horrified when his father begins dating Selma; Bart and Lisa
     build a fort after acquiring a large quantity of empty cardboard boxes.
   disneyplus_id: cfbd1344-3525-4ec1-90f2-d29679f8ad4d
@@ -163,6 +193,8 @@ episodes:
   season: 18
   episode: 16
   release_date:
+  directors:
+  writers:
   description: Homer tries his hand at making money by photographing celebrities and
     selling the images to the tabloids.
   disneyplus_id: b5af50a3-1980-4985-a51a-52d70c5e6021
@@ -173,6 +205,8 @@ episodes:
   season: 18
   episode: 17
   release_date:
+  directors:
+  writers:
   description: After discovering the Internet, Marge becomes a character in a popular
     online fantasy game; Homer referees Lisa's soccer team.
   disneyplus_id: 84482308-1ead-4b52-a111-879cf1e310f2
@@ -183,6 +217,8 @@ episodes:
   season: 18
   episode: 18
   release_date:
+  directors:
+  writers:
   description: Bart becomes the shame of Springfield after a bungle on the playing
     field causes the Isotots to lose a pennant game; Homer and Marge fight Reverend
     Lovejoy and his wife over possession of Homer's mattress.
@@ -194,6 +230,8 @@ episodes:
   season: 18
   episode: 19
   release_date:
+  directors:
+  writers:
   description: Homer and his friends join the volunteer fire department, only to begin
     stealing from fire victims.
   disneyplus_id: 45796141-0dfc-4591-84a0-4e60e2261165
@@ -204,6 +242,8 @@ episodes:
   season: 18
   episode: 20
   release_date:
+  directors:
+  writers:
   description: When Santa's Little Helper gets a job on the police force, Bart buys
     a python to replace him.
   disneyplus_id: 5915e2fd-c3d0-41ca-a505-9fe2dfbcf891
@@ -214,6 +254,8 @@ episodes:
   season: 18
   episode: 21
   release_date:
+  directors:
+  writers:
   description: In this spoof of the television series '24,' Bart attempts to stop
     Jimbo, Dolph and Kearney before they unleash a deadly stink bomb at an upcoming
     school bake sale.
@@ -225,6 +267,8 @@ episodes:
   season: 18
   episode: 22
   release_date:
+  directors:
+  writers:
   description: Kent Brockman accidentally utters an obscenity during a news broadcast,
     leading to a heavy fine from the FCC - and costing Brockman his job.
   disneyplus_id: 74c57b86-7dfd-4d25-8008-46a91d898f3c

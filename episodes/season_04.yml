@@ -4,6 +4,8 @@ episodes:
   season: 4
   episode: 1
   release_date: 1992-09-24
+  directors:
+  writers:
   description: Bart and Lisa are horrified when their summer at Kamp Krusty turns
     into a nightmare.
   disneyplus_id: 326e39c2-45a8-4781-9931-438ccbcc7f0a
@@ -14,6 +16,8 @@ episodes:
   season: 4
   episode: 2
   release_date: 1992-10-01
+  directors:
+  writers:
   description: When Marge lands the role of Blanche in a local production of "A Streetcar
     Named Desire," Homer cannot hide his disinterest.
   disneyplus_id: 0e1f575c-eb6e-46d3-8765-d786c3cbe0fc
@@ -24,6 +28,8 @@ episodes:
   season: 4
   episode: 3
   release_date: 1992-10-08
+  directors:
+  writers:
   description: Homer creates his own religion as a means of escaping church services
     on Sundays.
   disneyplus_id: 1aac9cd6-a6d9-49ea-9ae3-fb1622a811fa
@@ -34,6 +40,8 @@ episodes:
   season: 4
   episode: 4
   release_date: 1992-10-15
+  directors:
+  writers:
   description: Homer enters Lisa in a beauty pageant when her self-esteem plummets.
   disneyplus_id: 2f06393f-b88c-46b7-bddb-65bdf8172d44
   simpsonsworld_id: 273537603930
@@ -43,6 +51,8 @@ episodes:
   season: 4
   episode: 5
   release_date: 1992-10-29
+  directors:
+  writers:
   description: During a Halloween party, the Simpsons tell three horrifying tales
     of the macabre.
   disneyplus_id: 540e1a2c-051a-4f48-b5f0-585138090af5
@@ -53,6 +63,8 @@ episodes:
   season: 4
   episode: 6
   release_date: 1992-11-03
+  directors:
+  writers:
   description: Homer forbids his son from seeing a new movie about his favorite cartoon
     heroes as punishment for misbehaving.
   disneyplus_id: 8c17cbd3-960b-4157-9792-8d02f0098c59
@@ -63,6 +75,8 @@ episodes:
   season: 4
   episode: 7
   release_date: 1992-11-05
+  directors:
+  writers:
   description: When the foundation to the Simpsons' house is need of an expensive
     repair, Marge takes a position at the power plant where Homer works.
   disneyplus_id: 5d3a5020-24d8-40a9-b0b3-44fa32517226
@@ -73,6 +87,8 @@ episodes:
   season: 4
   episode: 8
   release_date: 1992-11-12
+  directors:
+  writers:
   description: Bart falls in love with the girl who moves in next door, only to find
     that she prefers the school bully.
   disneyplus_id: ca3bcaa1-7de1-4a36-b493-92db5ade62a6
@@ -83,6 +99,8 @@ episodes:
   season: 4
   episode: 9
   release_date: 1992-11-19
+  directors:
+  writers:
   description: Homer and Barney vie for Springfield's lucrative snow plowing business.
   disneyplus_id: 4534ec67-6d1f-48ad-b286-43e1cc108d3c
   simpsonsworld_id: 273544259768
@@ -92,6 +110,8 @@ episodes:
   season: 4
   episode: 10
   release_date: 1992-12-03
+  directors:
+  writers:
   description: Marge recounts how Lisa first spoke as the family awaits baby Maggie's
     first word.
   disneyplus_id: 0cf6e0b2-0c75-4106-93a2-efc89238c60c
@@ -102,6 +122,8 @@ episodes:
   season: 4
   episode: 11
   release_date: 1192-12-17
+  directors:
+  writers:
   description: Homer suffers a heart attack and hires Dr. Nick Riviera to perform
     a delicate triple bypass operation.
   disneyplus_id: 2299137d-d5f0-4488-8b35-bfcd5e15dedd
@@ -112,6 +134,8 @@ episodes:
   season: 4
   episode: 12
   release_date: 1993-01-14
+  directors:
+  writers:
   description: An unscrupulous profiteer sells the people of Springfield on a defective
     monorail system, with Homer as the conductor.
   disneyplus_id: fc04c428-5f24-4c42-a419-1d1dda6db8dd
@@ -122,6 +146,8 @@ episodes:
   season: 4
   episode: 13
   release_date: 1993-01-21
+  directors:
+  writers:
   description: Selma decides to take her dead aunt's advice and have children before
     it is too late.
   disneyplus_id: f2c8d63e-df66-419c-af18-5500e71f6d77
@@ -132,6 +158,8 @@ episodes:
   season: 4
   episode: 14
   release_date: 1993-02-04
+  directors:
+  writers:
   description: Bart tires of Homer's lack of interest in him and chooses another father
     from the Bigger Brother program.  Lisa struggles to kick the habit of dialing
     a 900 number.
@@ -143,6 +171,8 @@ episodes:
   season: 4
   episode: 15
   release_date: 1993-02-11
+  directors:
+  writers:
   description: Lisa feels pity for Ralph, a nerdy classmate, and gives him a card
     on Valentine's Day. But to her horror, Ralph develops a crush on her.
   disneyplus_id: 24614fa3-99fe-4898-9dff-80ef324eb72f
@@ -153,6 +183,8 @@ episodes:
   season: 4
   episode: 16
   release_date: 1993-02-18
+  directors:
+  writers:
   description: Marge convinces Homer he may have a drinking problem. Lisa plots to
     humiliate Bart with her science project after he ruins an experiment.
   disneyplus_id: 3bb045c7-34fd-45cb-98c2-b72e8db1ccba
@@ -163,6 +195,8 @@ episodes:
   season: 4
   episode: 17
   release_date: 1993-03-11
+  directors:
+  writers:
   description: Homer is elected union leader at the power plant and tries to save
     the dental plan so he will not have to pay for Lisa's new braces.
   disneyplus_id: e8b46e3c-2e23-42b8-aed6-136763d57c71
@@ -173,6 +207,8 @@ episodes:
   season: 4
   episode: 18
   release_date: 1993-04-01
+  directors:
+  writers:
   description: Family and friends reminisce about Homer's life after Bart's April
     Fools' Day prank sends him to the hospital.
   disneyplus_id: db1dbdfe-ce8d-4bd5-8471-68c776549ac1
@@ -183,6 +219,8 @@ episodes:
   season: 4
   episode: 19
   release_date: 1993-04-15
+  directors:
+  writers:
   description: Using Grandpa as a front, Lisa and Bart write their own "Itchy and
     Scratchy" cartoons.
   disneyplus_id: a5a0f5e2-1972-4360-8ec3-7c1374319a1a
@@ -193,6 +231,8 @@ episodes:
   season: 4
   episode: 20
   release_date: 1993-04-29
+  directors:
+  writers:
   description: Lisa seeks to end a local holiday in which snakes are chased into town
     and beaten with sticks.  Bart is expelled from school by Principal Skinner.
   disneyplus_id: 9ccf6860-afd1-4db1-8ea7-afe4f5dcbde9
@@ -203,6 +243,8 @@ episodes:
   season: 4
   episode: 21
   release_date: 1993-05-06
+  directors:
+  writers:
   description: Marge is jailed when she is convicted of stealing from Apu's convenience
     store.
   disneyplus_id: d02ae0e2-fcf2-43c0-b34a-372808d5dfd2
@@ -213,6 +255,8 @@ episodes:
   season: 4
   episode: 22
   release_date: 1993-05-13
+  directors:
+  writers:
   description: Bart, Lisa and a group of celebrities help Krusty turn his career around
     after his television show is canceled.
   disneyplus_id: 5c868b0d-b9d4-48a7-b40a-1027f81154db

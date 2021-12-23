@@ -4,6 +4,8 @@ episodes:
   season: 29
   episode: 1
   release_date:
+  directors:
+  writers:
   description: In a world of magic, Marge's mother is transformed into an Ice Walker
     and must rely on Lisa to use magic to help Homer afford the cure.
   disneyplus_id: 62eb0b5e-cc71-44d4-9179-4fc9709badc1
@@ -14,6 +16,8 @@ episodes:
   season: 29
   episode: 2
   release_date:
+  directors:
+  writers:
   description: Marge and Lisa decide to turns an unpleasant experience Lisa had into
     a successful graphic novel.
   disneyplus_id: df3b5ca2-828d-4685-b0a2-7fca3b905044
@@ -24,6 +28,8 @@ episodes:
   season: 29
   episode: 3
   release_date:
+  directors:
+  writers:
   description: Homer stumbles upon Maggie's incredible talent for whistling and decides
     to start her on the path to becoming a baby celebrity.
   disneyplus_id: f522c362-baa4-45a8-9dbb-e7c54e856648
@@ -34,6 +40,8 @@ episodes:
   season: 29
   episode: 4
   release_date:
+  directors:
+  writers:
   description: Maggie's body is overwhelmed by the malice of an ancient demon; in
     an alternate dimension, Lisa stumbles upon a disturbingly perfect version of her
     family.
@@ -45,6 +53,8 @@ episodes:
   season: 29
   episode: 5
   release_date:
+  directors:
+  writers:
   description: Grampa Simpson is finally able to hear the various things that people
     say about him after he receives a new hearing aid.
   disneyplus_id: 85c7dab6-27a8-4532-a64a-b1e8efac6aa4
@@ -55,6 +65,8 @@ episodes:
   season: 29
   episode: 6
   release_date:
+  directors:
+  writers:
   description: Marge decides to enter the race to become the next mayor of Springfield
     as she grows increasingly frustrated with how the local government operates.
   disneyplus_id: 4b81e3b0-082c-4be3-8b43-8cf5304af779
@@ -65,6 +77,8 @@ episodes:
   season: 29
   episode: 7
   release_date:
+  directors:
+  writers:
   description: Homer and the guys try helping Moe cheer up by getting their old bowling
     team back together again, but they soon face a team of arrogant millionaires.
   disneyplus_id: 5c73167e-6f2a-4d75-a7ef-c1ee5b718a20
@@ -75,6 +89,8 @@ episodes:
   season: 29
   episode: 8
   release_date:
+  directors:
+  writers:
   description: In the future, Lisa works on writing her Harvard college application
     essay by reflecting on how certain disappointing birthdays made her who she is.
   disneyplus_id: 2bbb56ca-eee0-4959-b1bd-518503bacd06
@@ -85,6 +101,8 @@ episodes:
   season: 29
   episode: 9
   release_date:
+  directors:
+  writers:
   description: When Bart suddenly disappears, the town organizes a search party in
     the hopes of finding him.
   disneyplus_id: c1493562-a725-40ea-bc09-bb73cd2687f2
@@ -95,6 +113,8 @@ episodes:
   season: 29
   episode: 10
   release_date:
+  directors:
+  writers:
   description: While the Simpson family attends a STEM conference, Lisa becomes attracted
     to a pianist and Bart learns about his natural talent for chemistry.
   disneyplus_id: a8ede7e7-a35f-4b09-b6bb-331796f1344e
@@ -105,6 +125,8 @@ episodes:
   season: 29
   episode: 11
   release_date:
+  directors:
+  writers:
   description: When Mr. Burns begins to worry that the world is coming to an end,
     he starts testing all of the residents of to figure out who would be worth saving.
   disneyplus_id: 4ac1a815-2066-44e9-b1ae-a90028b40078
@@ -115,6 +137,8 @@ episodes:
   season: 29
   episode: 12
   release_date:
+  directors:
+  writers:
   description: Homer learns to love a piece of art.
   disneyplus_id: 94a1ceb3-ad15-42f3-adcd-92183c27caaf
   simpsonsworld_id:
@@ -124,6 +148,8 @@ episodes:
   season: 29
   episode: 13
   release_date:
+  directors:
+  writers:
   description: The Simpsons visit their old apartment and remember the days without their kids.
   disneyplus_id: 144bb57c-9b2d-4ec0-9815-ab6aef446b46
   simpsonsworld_id:
@@ -133,6 +159,8 @@ episodes:
   season: 29
   episode: 14
   release_date:
+  directors:
+  writers:
   description: Due to a general fear of clowns, Krusty can no longer do his job.
   disneyplus_id: b39ae395-33c3-482a-9583-3dcea6e42473
   simpsonsworld_id:
@@ -142,6 +170,8 @@ episodes:
   season: 29
   episode: 15
   release_date:
+  directors:
+  writers:
   description: Bart tries to conquer Homer with help from a book.
   disneyplus_id: 9045ffae-7815-447b-833c-b5e04fc16a06
   simpsonsworld_id:
@@ -151,6 +181,8 @@ episodes:
   season: 29
   episode: 16
   release_date:
+  directors:
+  writers:
   description: Moe inherits a mattress business from his father.
   disneyplus_id: 665a15a4-6cb1-4dda-842c-2b064e272fec
   simpsonsworld_id:
@@ -160,6 +192,8 @@ episodes:
   season: 29
   episode: 17
   release_date:
+  directors:
+  writers:
   description: The family goes to New Orleans where they try to recover from various traumas.
   disneyplus_id: aca8364d-d82c-49f3-a9ba-d7f963e04daa
   simpsonsworld_id:
@@ -169,6 +203,8 @@ episodes:
   season: 29
   episode: 18
   release_date:
+  directors:
+  writers:
   description: Grampa is about to die when he reveals a terrible secret.
   disneyplus_id: 37eeaacc-1476-42f5-9374-59d6bd3ebbac
   simpsonsworld_id:
@@ -178,6 +214,8 @@ episodes:
   season: 29
   episode: 19
   release_date:
+  directors:
+  writers:
   description: Flanders loses his business and works with Homer at the plant.
   disneyplus_id: f509e8af-0f86-4c74-87ed-81b96b3c6dac
   simpsonsworld_id:
@@ -187,6 +225,8 @@ episodes:
   season: 29
   episode: 20
   release_date:
+  directors:
+  writers:
   description: The Simpsons visit Denmark and everyone but Homer falls in love with the happy country.
   disneyplus_id: b86d94e2-6991-463d-a0eb-0125d1aa4e8d
   simpsonsworld_id:
@@ -196,6 +236,8 @@ episodes:
   season: 29
   episode: 21
   release_date:
+  directors:
+  writers:
   description: Bart is struck by lightning and has horrible dreams.
   disneyplus_id: 00e15f02-f80c-473c-b8ee-94dad1ba4a8b
   simpsonsworld_id:
