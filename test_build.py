@@ -68,17 +68,20 @@ with open("simpsons_data.json", "r") as f:
         assert isinstance(episode["good"], bool)
 
         # Guest stars, directors, writers should be an array of strings
-        assert isinstance(episode["guest_stars"], list)
-        for star in episode["guest_stars"]:
-            assert isinstance(star, str)
+        if episode["guest_stars"]:
+            assert isinstance(episode["guest_stars"], list)
+            for star in episode["guest_stars"]:
+                assert isinstance(star, str)
 
-        # assert isinstance(episode["writers"], list)
-        # for writer in episode["writers"]:
-        #     assert isinstance(writer, str)
+        if episode["writers"]:
+            assert isinstance(episode["writers"], list)
+            for writer in episode["writers"]:
+                assert isinstance(writer, str)
 
-        # assert isinstance(episode["directors"], list)
-        # for director in episode["directors"]:
-        #     assert isinstance(director, str)
+        if episode["directors"]:
+            assert isinstance(episode["directors"], list)
+            for director in episode["directors"]:
+                assert isinstance(director, str)
 
     # Season-Episode pair should be unique
     assert len(all_episodes) == len(
