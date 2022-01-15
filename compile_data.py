@@ -12,7 +12,7 @@ all_data = {"episodes": []}
 for datatype in all_data.keys():
     data_files = os.listdir(os.path.join(basedir, datatype))
     for f in data_files:
-        content = yaml.load(open(os.path.join(basedir, datatype, f)))
+        content = yaml.safe_load(open(os.path.join(basedir, datatype, f)))
         all_data[datatype] = all_data[datatype] + content[datatype]
 
 # Individual sorting rules
