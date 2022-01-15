@@ -9,6 +9,8 @@ expected_ep_keys = [
     "season",
     "episode",
     "release_date",
+    "directors",
+    "writers",
     "description",
     "disneyplus_id",
     "simpsonsworld_id",
@@ -50,7 +52,6 @@ with open("simpsons_data.json", "r") as f:
         assert isinstance(episode["description"], str)
 
         # Release date should be a YYYY-MM-DD string if set
-        print(episode["release_date"])
         if episode["release_date"] is not None:
             assert isinstance(episode["release_date"], str)
             assert re.match(r"\d{4}-\d{2}-\d{2}", episode["release_date"])
@@ -66,10 +67,18 @@ with open("simpsons_data.json", "r") as f:
         # Good should be a boolean
         assert isinstance(episode["good"], bool)
 
-        # Characters should be an array of strings
+        # Guest stars, directors, writers should be an array of strings
         assert isinstance(episode["guest_stars"], list)
-        for character in episode["guest_stars"]:
-            assert isinstance(character, str)
+        for star in episode["guest_stars"]:
+            assert isinstance(star, str)
+
+        # assert isinstance(episode["writers"], list)
+        # for writer in episode["writers"]:
+        #     assert isinstance(writer, str)
+
+        # assert isinstance(episode["directors"], list)
+        # for director in episode["directors"]:
+        #     assert isinstance(director, str)
 
     # Season-Episode pair should be unique
     assert len(all_episodes) == len(

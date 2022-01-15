@@ -111,7 +111,7 @@ episodes:
   description: An amusement park ride lands the Simpsons in outer space..
   disneyplus_id: ea171ef8-0dab-48f9-bec1-491775080bc4
   simpsonsworld_id: 379818563729
-  good: maybe
+  good: false
   guest_stars:
 - title: Bart's New Friend
   season: 26
@@ -177,7 +177,7 @@ episodes:
   description: The Springfield congregation turns to gambling to repair the church.
   disneyplus_id: 7571103b-40e7-4456-80b6-4d1856bc73b0
   simpsonsworld_id: 410018371522
-  good: maybe
+  good: true
   guest_stars:
 - title: Waiting for Duffman
   season: 26
@@ -189,7 +189,7 @@ episodes:
     sets up a reality show competition to find his replacement.
   disneyplus_id: 8a3b1f5a-338d-4a7c-afcf-e3bb3933d0bb
   simpsonsworld_id: 420981315819
-  good: maybe
+  good: false
   guest_stars:
 - title: Peeping Mom
   season: 26
@@ -201,7 +201,7 @@ episodes:
     to follow him everywhere until he confesses.
   disneyplus_id: 7570ff99-2fd0-47a3-b275-404c5b96cc10
   simpsonsworld_id: 430426691868
-  good: maybe
+  good: false
   guest_stars:
 - title: The Kids Are All Fight
   season: 26
@@ -238,7 +238,7 @@ episodes:
     to pass anti-bullying legislation.
   disneyplus_id: 677ab214-4cde-4a05-8767-369f7a59be8c
   simpsonsworld_id: 442879555692
-  good: maybe
+  good: false
   guest_stars:
 - title: Mathlete's Feat
   season: 26
@@ -250,5 +250,5 @@ episodes:
     Lisa transforms it into a Waldorf school.
   disneyplus_id: ee46a17f-b96f-4db1-b8bf-0e25d09f9a59
   simpsonsworld_id: 446649411760
-  good: maybe
+  good: false
   guest_stars:
