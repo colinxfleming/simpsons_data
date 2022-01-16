@@ -4,156 +4,156 @@ episodes:
   season: 1
   episode: 1
   release_date: 1989-12-17
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["Mimi Pond"]
   description: Homer decides to gamble on a "hunch" at the dog track when his annual
     Christmas bonus is canceled.
   disneyplus_id: 79529cd0-f1cf-4eec-8b1d-ea1e1b76043b
   simpsonsworld_id: 273376835817
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Bart The Genius
   season: 1
   episode: 2
   release_date: 1990-01-14
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["Jon Vitti"]
   description: Bart is believed to be a genius after he switches I.Q. tests with brainy
     Martin Prince.
   disneyplus_id: 250ca502-751e-4b37-a465-f8b518d76ced
   simpsonsworld_id: 283744835990
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Homer's Odyssey
   season: 1
   episode: 3
   release_date: 1990-01-21
-  directors:
-  writers:
+  directors: ["Wesley Archer"]
+  writers: ["Jay Kogen", "Wallace Wolodarsky"]
   description: Fired from his job at the Nuclear Power Plant, Homer decides to embark
     on a campaign to make all of Springfield safer.
   disneyplus_id: 0e8e7f27-0ab2-495f-8254-d99d3c53ce4f
   simpsonsworld_id: 273381443699
   good: false
-  guest_stars:
+  guest_stars: ["Sam McMurray", "Christopher Collins"]
 - title: There's No Disgrace Like Home
   season: 1
   episode: 4
   release_date: 1990-01-28
-  directors:
-  writers:
+  directors: ["Gregg Vanzo", "Kent Butterworth"]
+  writers: ["Al Jean", "Mike Reiss"]
   description: After attending the annual company picnic, Homer becomes jealous of
     fellow employees with 'normal' families.  He decides to enlist the aid of psychologist
     Marvin Monroe to treat his wife and children.
   disneyplus_id: 5e837a36-5db0-451c-82d3-0cca1490f784
   simpsonsworld_id: 273392195780
   good: true
-  guest_stars:
+  guest_stars: null
 - title: Bart the General
   season: 1
   episode: 5
   release_date: 1990-02-04
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["John Swartzwelder"]
   description: Grandpa Simpson aids Bart in his war against a school bully and his
     gang.
   disneyplus_id: 051c32fc-0d9a-4bee-a960-9c6ab85eccdb
   simpsonsworld_id: 300934723994
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Moaning Lisa
   season: 1
   episode: 6
   release_date: 1990-02-11
-  directors:
-  writers:
+  directors: ["Wesley Archer"]
+  writers: ["Al Jean", "Mike Reiss"]
   description: Lisa befriends a saxophone player when she develops a case of the blues.
   disneyplus_id: d7502c3a-a254-451a-bdc0-b57e67b1ace4
   simpsonsworld_id: 273391683535
   good: false
-  guest_stars:
+  guest_stars: ["Ron Taylor", "Susan Blu", "Miriam Flynn"]
 - title: The Call of the Simpsons
   season: 1
   episode: 7
   release_date: 1990-02-18
-  directors:
-  writers:
+  directors: ["Wesley Archer"]
+  writers: ["John Swartzwelder"]
   description: Homer is mistaken for Bigfoot when he takes his family on a trip into
     the wilderness in their new camper.
   disneyplus_id: 8d4aad23-2222-4980-af9b-729bc8159898
   simpsonsworld_id: 273396803837
   good: false
-  guest_stars:
+  guest_stars: ["Albert Brooks"]
 - title: The Telltale Head
   season: 1
   episode: 8
   release_date: 1990-02-25
-  directors:
-  writers:
+  directors: ["Rich Moore"]
+  writers: ["Al Jean", "Mike Reiss", "Sam Simon", "Matt Groening"]
   description: Bart attempts to impress his new friends by vandalizing a statue of
     the town's founding father, Jebediah Springfield.
   disneyplus_id: 8868eddb-224d-4df4-93c2-145abd60270d
   simpsonsworld_id: 305663555641
   good: true
-  guest_stars:
+  guest_stars: null
 - title: Life on the Fast Lane
   season: 1
   episode: 9
   release_date: 1990-03-18
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["John Swartzwelder"]
   description: Marge contemplates having an affair with a local womanizer after Homer
     selfishly buys her a bowling ball for her birthday.
   disneyplus_id: 6303b4c8-5e65-46a0-bd51-6460bba86e8e
   simpsonsworld_id: 280384579592
   good: false
-  guest_stars:
+  guest_stars: ["Albert Brooks"]
 - title: Homer's Night Out
   season: 1
   episode: 10
   release_date: 1990-03-25
-  directors:
-  writers:
+  directors: ["Rich Moore"]
+  writers: ["Jon Vitti"]
   description: Bart photographs Homer with belly-dancer Princess Kashmir.  Marge will
     only forgive her husband when he proves to Bart that all women are not merely
     sexual objects.
   disneyplus_id: 084078a6-9f7e-4468-8b33-48ce7fb5c7c0
   simpsonsworld_id: 275197507879
   good: false
-  guest_stars:
+  guest_stars: ["Sam McMurray"]
 - title: The Crepes of Wrath
   season: 1
   episode: 11
   release_date: 1990-04-15
-  directors:
-  writers:
+  directors: ["Wesley Archer", "Milton Gray"]
+  writers: ["George Meyer", "Sam Simon", "John Swartzwelder", "Jon Vitti"]
   description: To Homer's delight, Bart is sent to France for the summer as part of
     a student exchange program.
   disneyplus_id: 01937c40-fe95-4e8f-aa0d-3933ee3ba378
   simpsonsworld_id: 306382403766
   good: true
-  guest_stars:
+  guest_stars: ["Christian Coffinet"]
 - title: Krusty Gets Busted
   season: 1
   episode: 12
   release_date: 1990-04-29
-  directors:
-  writers:
+  directors: ["Brad Bird"]
+  writers: ["Jay Kogen", "Wallace Wolodarsky"]
   description: When Homer positively identifies Krusty the Clown as an armed robber,
     Bart attempts to clear his idol's name.
   disneyplus_id: 829bc530-f7b3-459d-bac1-dc92672c9138
   simpsonsworld_id: 288019523914
   good: true
-  guest_stars:
+  guest_stars: ["Kelsey Grammer"]
 - title: Some Enchanted Evening
   season: 1
   episode: 13
   release_date: 1990-05-13
-  directors:
-  writers:
+  directors: ["David Silverman", "Kent Butterworth"]
+  writers: ["Matt Groening", "Sam Simon"]
   description: Marge and Homer unwittingly leave their children in the care of a villainous
     babysitter when they attempt to rekindle their marriage.
   disneyplus_id: 332f91c5-2de7-40d2-ac02-9de76820f4f6
   simpsonsworld_id: 274504771647
   good: false
-  guest_stars:
+  guest_stars: ["Penny Marshall", "Hank Azaria", "Christoper Collins", "June Foray", "Paul Wilson"]

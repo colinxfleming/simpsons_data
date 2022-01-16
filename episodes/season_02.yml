@@ -4,84 +4,84 @@ episodes:
   season: 2
   episode: 1
   release_date: 1990-10-11
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["David M. Stern"]
   description: Bart must pass a critical history test or he will be held back a grade.
   disneyplus_id: 4050d194-f1a6-47d4-bc1b-76b8245ed113
   simpsonsworld_id: 260539459671
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Simpson and Delilah
   season: 2
   episode: 2
   release_date: 1990-10-18
-  directors:
-  writers:
+  directors: ["Rich Moore"]
+  writers: ["Jon Vitti"]
   description: Homer's life changes dramatically when he purchases a miracle hair
     growth formula.
   disneyplus_id: 243f60de-a36e-49ad-add0-dfc14531cafd
   simpsonsworld_id: 260539971564
   good: true
-  guest_stars:
+  guest_stars: ["Harvey Fierstein"]
 - title: Treehouse of Horror
   season: 2
   episode: 3
   release_date: 1990-10-25
-  directors:
-  writers:
+  directors: ["Wes Archer", "Rich Moore", "David Silverman"]
+  writers: ["John Swartzwelder", "Jay Kogen", "Wallace Wolodarsky", "Sam Simon"]
   description: The Simpsons tell three bloodcurdling tales of horror on Halloween
     night.
   disneyplus_id: 4ec3dd31-0428-40c2-b1e0-b052dfc53fe0
   simpsonsworld_id: 260538435884
   good: true
-  guest_stars:
+  guest_stars: ["James Earl Jones"]
 - title: Two Cars in Every Garage and Three Eyes on Every Fish
   season: 2
   episode: 4
   release_date: 1990-11-01
-  directors:
-  writers:
+  directors: ["Wes Archer"]
+  writers: ["Sam Simon", "John Swartzwelder"]
   description: Homer supports Mr. Burns in his bid for governor, but Marge remains
     loyal to Burns's political opposition.
   disneyplus_id: de06551c-30d7-44ef-b000-05e29c00eed6
   simpsonsworld_id: 260537411822
   good: true
-  guest_stars:
+  guest_stars: null
 - title: Dancin' Homer
   season: 2
   episode: 5
   release_date: 1990-11-08
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["Ken Levine", "David Isaacs"]
   description: Homer becomes the official mascot for a major league baseball team.
   disneyplus_id: ebf614c8-eefe-4cc3-8b26-d898f40faad0
   simpsonsworld_id: 260538435888
   good: true
-  guest_stars:
+  guest_stars: ["Tony Bennett", "Tom Poston", "Daryl L. Coley", "Kevin Levine"]
 - title: Dead Putting Society
   season: 2
   episode: 6
   release_date: 1990-11-15
-  directors:
-  writers:
+  directors: ["Rich Moore"]
+  writers: ["Jeff Martin"]
   description: Homer and Ned Flanders pressure their sons to win a miniature golf
     championship.
   disneyplus_id: 142af74a-1149-493c-ad2b-a283c98db66d
   simpsonsworld_id: 260539459670
   good: true
-  guest_stars:
+  guest_stars: ["Michael Bell"]
 - title: Bart vs. Thanksgiving
   season: 2
   episode: 7
   release_date: 1990-11-22
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["George Meyer"]
   description: Bart learns the true meaning of Thanksgiving when he runs away from
     home after having an argument with Lisa.
   disneyplus_id: f4dc6ce1-cb9d-49e3-b4d4-2e5f50549812
   simpsonsworld_id: 260539459701
   good: false
-  guest_stars:
+  guest_stars: ["Greg Berg", "Carol Kane"]
 - title: Bart the Daredevil
   season: 2
   episode: 8
@@ -93,31 +93,31 @@ episodes:
   disneyplus_id: 9f790394-88b9-48ac-970c-18d32de46342
   simpsonsworld_id: 260539459702
   good: true
-  guest_stars:
+  guest_stars: null
 - title: Itchy and Scratchy and Marge
   season: 2
   episode: 9
   release_date: 1990-12-20
-  directors:
-  writers:
+  directors: ["Jim Reardon"]
+  writers: ["John Swartzwelder"]
   description: Marge initiates a protest movement against gratuitous violence on television
     when Maggie begins acting aggressively after viewing Itchy and Scratchy cartoons.
   disneyplus_id: fd366e91-bcd5-4629-83d9-6c6f6739897c
   simpsonsworld_id: 1094123075920
   good: true
-  guest_stars:
+  guest_stars: ["Alex Rocco"]
 - title: Bart Gets Hit by a Car
   season: 2
   episode: 10
   release_date: 1991-01-10
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["John Swartzwelder"]
   description: When Mr. Burns hits Bart with his car, Homer is enticed by a disreputable
     lawyer to sue him.
   disneyplus_id: bf571705-b52b-46ae-a9c1-c88d36672839
   simpsonsworld_id: 260550723760
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman"]
 - title: One Fish, Two Fish, Blowfish, Blue Fish
   season: 2
   episode: 11
@@ -129,7 +129,7 @@ episodes:
   disneyplus_id: 28244e58-a5dd-4260-a8be-13e2a34d0ba9
   simpsonsworld_id: 260548675839
   good: true
-  guest_stars:
+  guest_stars: ["Larry King", "George Takei", "Sab Shimono", "Joey Miyashima", "Diane Tanaka"]
 - title: The Way We Was
   season: 2
   episode: 12
@@ -141,7 +141,7 @@ episodes:
   disneyplus_id: 1fd08344-aa39-42f3-a056-662aa4835f0f
   simpsonsworld_id: 260549187876
   good: false
-  guest_stars:
+  guest_stars: ["Jon Lovitz"]
 - title: Homer vs. Lisa and the 8th Commandment
   season: 2
   episode: 13
@@ -153,7 +153,7 @@ episodes:
   disneyplus_id: fb653641-23b8-4e9b-a547-0d195f78c33c
   simpsonsworld_id: 260820547692
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman"]
 - title: Principal Charming
   season: 2
   episode: 14
@@ -165,7 +165,7 @@ episodes:
   disneyplus_id: ce071635-1151-49b0-9168-eda9b55880fa
   simpsonsworld_id: 263496771968
   good: true
-  guest_stars:
+  guest_stars: null
 - title: Oh Brother, Where Art Thou?
   season: 2
   episode: 15
@@ -177,7 +177,7 @@ episodes:
   disneyplus_id: 78ae94ea-6ac6-4d34-b1a9-031a324f447a
   simpsonsworld_id: 1094123587812
   good: false
-  guest_stars:
+  guest_stars: ["Danny DeVito"]
 - title: Bart's Dog Gets an F
   season: 2
   episode: 16
@@ -189,7 +189,7 @@ episodes:
   disneyplus_id: ab2e3441-cb90-4cee-ab57-6f20fa1bfdac
   simpsonsworld_id: 272034883946
   good: true
-  guest_stars:
+  guest_stars: ["Tracey Ullman", "Frank Welker"]
 - title: Old Money
   season: 2
   episode: 17
@@ -200,7 +200,7 @@ episodes:
   disneyplus_id: b847307a-cb9d-494a-bb98-12a764168288
   simpsonsworld_id: 263504963955
   good: false
-  guest_stars:
+  guest_stars: ["Audrey Meadows", "Phil Hartman"]
 - title: Brush with Greatness
   season: 2
   episode: 18
@@ -213,7 +213,7 @@ episodes:
   disneyplus_id: 8cf507bf-2b25-45d7-84d4-e3f668a68f37
   simpsonsworld_id: 1094212163883
   good: true
-  guest_stars:
+  guest_stars: ["Ringo Starr", "Jon Lovitz"]
 - title: Lisa's Substitute
   season: 2
   episode: 19
@@ -225,7 +225,7 @@ episodes:
   disneyplus_id: 33c5ea7a-09ac-4513-b471-29289dbbc1f9
   simpsonsworld_id: 288011331912
   good: true
-  guest_stars:
+  guest_stars: ["Dustin Hoffman"]
 - title: The War of the Simpsons
   season: 2
   episode: 20
@@ -238,7 +238,7 @@ episodes:
   disneyplus_id: ac3d5ea1-e473-4a79-bfaf-a496a79b2a3b
   simpsonsworld_id: 272040003661
   good: true
-  guest_stars:
+  guest_stars: null
 - title: Three Men and a Comic Book
   season: 2
   episode: 21
@@ -250,7 +250,7 @@ episodes:
   disneyplus_id: a1394377-1c23-458d-b91b-18ff12018d47
   simpsonsworld_id: 310368835964
   good: true
-  guest_stars:
+  guest_stars: ["Cloris Leachman", "Daniel Stern"]
 - title: Blood Feud
   season: 2
   episode: 22
@@ -262,4 +262,4 @@ episodes:
   disneyplus_id: cd94c4b6-8f87-4df0-b709-190eb4f84964
   simpsonsworld_id: 272041539932
   good: true
-  guest_stars:
+  guest_stars: null
