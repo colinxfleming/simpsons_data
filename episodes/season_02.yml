@@ -4,8 +4,8 @@ episodes:
   season: 2
   episode: 1
   release_date: 1990-10-11
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["David M. Stern"]
   description: Bart must pass a critical history test or he will be held back a grade.
   disneyplus_id: 4050d194-f1a6-47d4-bc1b-76b8245ed113
   simpsonsworld_id: 260539459671
@@ -15,8 +15,8 @@ episodes:
   season: 2
   episode: 2
   release_date: 1990-10-18
-  directors:
-  writers:
+  directors: ["Rich Moore"]
+  writers: ["Jon Vitti"]
   description: Homer's life changes dramatically when he purchases a miracle hair
     growth formula.
   disneyplus_id: 243f60de-a36e-49ad-add0-dfc14531cafd
@@ -27,8 +27,8 @@ episodes:
   season: 2
   episode: 3
   release_date: 1990-10-25
-  directors:
-  writers:
+  directors: ["Wes Archer", "Rich Moore", "David Silverman"]
+  writers: ["John Swartzwelder", "Jay Kogen", "Wallace Wolodarsky", "Sam Simon"]
   description: The Simpsons tell three bloodcurdling tales of horror on Halloween
     night.
   disneyplus_id: 4ec3dd31-0428-40c2-b1e0-b052dfc53fe0
@@ -39,8 +39,8 @@ episodes:
   season: 2
   episode: 4
   release_date: 1990-11-01
-  directors:
-  writers:
+  directors: ["Wes Archer"]
+  writers: ["Sam Simon", "John Swartzwelder"]
   description: Homer supports Mr. Burns in his bid for governor, but Marge remains
     loyal to Burns's political opposition.
   disneyplus_id: de06551c-30d7-44ef-b000-05e29c00eed6
@@ -51,8 +51,8 @@ episodes:
   season: 2
   episode: 5
   release_date: 1990-11-08
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["Ken Levine", "David Isaacs"]
   description: Homer becomes the official mascot for a major league baseball team.
   disneyplus_id: ebf614c8-eefe-4cc3-8b26-d898f40faad0
   simpsonsworld_id: 260538435888
@@ -62,8 +62,8 @@ episodes:
   season: 2
   episode: 6
   release_date: 1990-11-15
-  directors:
-  writers:
+  directors: ["Rich Moore"]
+  writers: ["Jeff Martin"]
   description: Homer and Ned Flanders pressure their sons to win a miniature golf
     championship.
   disneyplus_id: 142af74a-1149-493c-ad2b-a283c98db66d
@@ -74,8 +74,8 @@ episodes:
   season: 2
   episode: 7
   release_date: 1990-11-22
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["George Meyer"]
   description: Bart learns the true meaning of Thanksgiving when he runs away from
     home after having an argument with Lisa.
   disneyplus_id: f4dc6ce1-cb9d-49e3-b4d4-2e5f50549812
@@ -98,8 +98,8 @@ episodes:
   season: 2
   episode: 9
   release_date: 1990-12-20
-  directors:
-  writers:
+  directors: ["Jim Reardon"]
+  writers: ["John Swartzwelder"]
   description: Marge initiates a protest movement against gratuitous violence on television
     when Maggie begins acting aggressively after viewing Itchy and Scratchy cartoons.
   disneyplus_id: fd366e91-bcd5-4629-83d9-6c6f6739897c
@@ -110,8 +110,8 @@ episodes:
   season: 2
   episode: 10
   release_date: 1991-01-10
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["John Swartzwelder"]
   description: When Mr. Burns hits Bart with his car, Homer is enticed by a disreputable
     lawyer to sue him.
   disneyplus_id: bf571705-b52b-46ae-a9c1-c88d36672839

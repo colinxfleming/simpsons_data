@@ -5,8 +5,12 @@
             "season": 1,
             "episode": 1,
             "release_date": "1989-12-17",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Mimi Pond"
+            ],
             "description": "Homer decides to gamble on a \"hunch\" at the dog track when his annual Christmas bonus is canceled.",
             "disneyplus_id": "79529cd0-f1cf-4eec-8b1d-ea1e1b76043b",
             "simpsonsworld_id": 273376835817,
@@ -18,8 +22,12 @@
             "season": 1,
             "episode": 2,
             "release_date": "1990-01-14",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Bart is believed to be a genius after he switches I.Q. tests with brainy Martin Prince.",
             "disneyplus_id": "250ca502-751e-4b37-a465-f8b518d76ced",
             "simpsonsworld_id": 283744835990,
@@ -31,21 +39,35 @@
             "season": 1,
             "episode": 3,
             "release_date": "1990-01-21",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wesley Archer"
+            ],
+            "writers": [
+                "Jay Kogen",
+                "Wallace Wolodarsky"
+            ],
             "description": "Fired from his job at the Nuclear Power Plant, Homer decides to embark on a campaign to make all of Springfield safer.",
             "disneyplus_id": "0e8e7f27-0ab2-495f-8254-d99d3c53ce4f",
             "simpsonsworld_id": 273381443699,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Sam McMurray",
+                "Christopher Collins"
+            ]
         },
         {
             "title": "There's No Disgrace Like Home",
             "season": 1,
             "episode": 4,
             "release_date": "1990-01-28",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Gregg Vanzo",
+                "Kent Butterworth"
+            ],
+            "writers": [
+                "Al Jean",
+                "Mike Reiss"
+            ],
             "description": "After attending the annual company picnic, Homer becomes jealous of fellow employees with 'normal' families.  He decides to enlist the aid of psychologist Marvin Monroe to treat his wife and children.",
             "disneyplus_id": "5e837a36-5db0-451c-82d3-0cca1490f784",
             "simpsonsworld_id": 273392195780,
@@ -57,8 +79,12 @@
             "season": 1,
             "episode": 5,
             "release_date": "1990-02-04",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Grandpa Simpson aids Bart in his war against a school bully and his gang.",
             "disneyplus_id": "051c32fc-0d9a-4bee-a960-9c6ab85eccdb",
             "simpsonsworld_id": 300934723994,
@@ -70,34 +96,56 @@
             "season": 1,
             "episode": 6,
             "release_date": "1990-02-11",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wesley Archer"
+            ],
+            "writers": [
+                "Al Jean",
+                "Mike Reiss"
+            ],
             "description": "Lisa befriends a saxophone player when she develops a case of the blues.",
             "disneyplus_id": "d7502c3a-a254-451a-bdc0-b57e67b1ace4",
             "simpsonsworld_id": 273391683535,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Ron Taylor",
+                "Susan Blu",
+                "Miriam Flynn"
+            ]
         },
         {
             "title": "The Call of the Simpsons",
             "season": 1,
             "episode": 7,
             "release_date": "1990-02-18",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wesley Archer"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Homer is mistaken for Bigfoot when he takes his family on a trip into the wilderness in their new camper.",
             "disneyplus_id": "8d4aad23-2222-4980-af9b-729bc8159898",
             "simpsonsworld_id": 273396803837,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Albert Brooks"
+            ]
         },
         {
             "title": "The Telltale Head",
             "season": 1,
             "episode": 8,
             "release_date": "1990-02-25",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore"
+            ],
+            "writers": [
+                "Al Jean",
+                "Mike Reiss",
+                "Sam Simon",
+                "Matt Groening"
+            ],
             "description": "Bart attempts to impress his new friends by vandalizing a statue of the town's founding father, Jebediah Springfield.",
             "disneyplus_id": "8868eddb-224d-4df4-93c2-145abd60270d",
             "simpsonsworld_id": 305663555641,
@@ -109,73 +157,118 @@
             "season": 1,
             "episode": 9,
             "release_date": "1990-03-18",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Marge contemplates having an affair with a local womanizer after Homer selfishly buys her a bowling ball for her birthday.",
             "disneyplus_id": "6303b4c8-5e65-46a0-bd51-6460bba86e8e",
             "simpsonsworld_id": 280384579592,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Albert Brooks"
+            ]
         },
         {
             "title": "Homer's Night Out",
             "season": 1,
             "episode": 10,
             "release_date": "1990-03-25",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Bart photographs Homer with belly-dancer Princess Kashmir.  Marge will only forgive her husband when he proves to Bart that all women are not merely sexual objects.",
             "disneyplus_id": "084078a6-9f7e-4468-8b33-48ce7fb5c7c0",
             "simpsonsworld_id": 275197507879,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Sam McMurray"
+            ]
         },
         {
             "title": "The Crepes of Wrath",
             "season": 1,
             "episode": 11,
             "release_date": "1990-04-15",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wesley Archer",
+                "Milton Gray"
+            ],
+            "writers": [
+                "George Meyer",
+                "Sam Simon",
+                "John Swartzwelder",
+                "Jon Vitti"
+            ],
             "description": "To Homer's delight, Bart is sent to France for the summer as part of a student exchange program.",
             "disneyplus_id": "01937c40-fe95-4e8f-aa0d-3933ee3ba378",
             "simpsonsworld_id": 306382403766,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Christian Coffinet"
+            ]
         },
         {
             "title": "Krusty Gets Busted",
             "season": 1,
             "episode": 12,
             "release_date": "1990-04-29",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Brad Bird"
+            ],
+            "writers": [
+                "Jay Kogen",
+                "Wallace Wolodarsky"
+            ],
             "description": "When Homer positively identifies Krusty the Clown as an armed robber, Bart attempts to clear his idol's name.",
             "disneyplus_id": "829bc530-f7b3-459d-bac1-dc92672c9138",
             "simpsonsworld_id": 288019523914,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Kelsey Grammer"
+            ]
         },
         {
             "title": "Some Enchanted Evening",
             "season": 1,
             "episode": 13,
             "release_date": "1990-05-13",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman",
+                "Kent Butterworth"
+            ],
+            "writers": [
+                "Matt Groening",
+                "Sam Simon"
+            ],
             "description": "Marge and Homer unwittingly leave their children in the care of a villainous babysitter when they attempt to rekindle their marriage.",
             "disneyplus_id": "332f91c5-2de7-40d2-ac02-9de76820f4f6",
             "simpsonsworld_id": 274504771647,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Penny Marshall",
+                "Hank Azaria",
+                "Christoper Collins",
+                "June Foray",
+                "Paul Wilson"
+            ]
         },
         {
             "title": "Bart Gets an F",
             "season": 2,
             "episode": 1,
             "release_date": "1990-10-11",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "David M. Stern"
+            ],
             "description": "Bart must pass a critical history test or he will be held back a grade.",
             "disneyplus_id": "4050d194-f1a6-47d4-bc1b-76b8245ed113",
             "simpsonsworld_id": 260539459671,
@@ -187,34 +280,56 @@
             "season": 2,
             "episode": 2,
             "release_date": "1990-10-18",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Homer's life changes dramatically when he purchases a miracle hair growth formula.",
             "disneyplus_id": "243f60de-a36e-49ad-add0-dfc14531cafd",
             "simpsonsworld_id": 260539971564,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Harvey Fierstein"
+            ]
         },
         {
             "title": "Treehouse of Horror",
             "season": 2,
             "episode": 3,
             "release_date": "1990-10-25",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wes Archer",
+                "Rich Moore",
+                "David Silverman"
+            ],
+            "writers": [
+                "John Swartzwelder",
+                "Jay Kogen",
+                "Wallace Wolodarsky",
+                "Sam Simon"
+            ],
             "description": "The Simpsons tell three bloodcurdling tales of horror on Halloween night.",
             "disneyplus_id": "4ec3dd31-0428-40c2-b1e0-b052dfc53fe0",
             "simpsonsworld_id": 260538435884,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "James Earl Jones"
+            ]
         },
         {
             "title": "Two Cars in Every Garage and Three Eyes on Every Fish",
             "season": 2,
             "episode": 4,
             "release_date": "1990-11-01",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "Sam Simon",
+                "John Swartzwelder"
+            ],
             "description": "Homer supports Mr. Burns in his bid for governor, but Marge remains loyal to Burns's political opposition.",
             "disneyplus_id": "de06551c-30d7-44ef-b000-05e29c00eed6",
             "simpsonsworld_id": 260537411822,
@@ -226,39 +341,62 @@
             "season": 2,
             "episode": 5,
             "release_date": "1990-11-08",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Ken Levine",
+                "David Isaacs"
+            ],
             "description": "Homer becomes the official mascot for a major league baseball team.",
             "disneyplus_id": "ebf614c8-eefe-4cc3-8b26-d898f40faad0",
             "simpsonsworld_id": 260538435888,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Tony Bennett",
+                "Tom Poston",
+                "Daryl L. Coley",
+                "Kevin Levine"
+            ]
         },
         {
             "title": "Dead Putting Society",
             "season": 2,
             "episode": 6,
             "release_date": "1990-11-15",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore"
+            ],
+            "writers": [
+                "Jeff Martin"
+            ],
             "description": "Homer and Ned Flanders pressure their sons to win a miniature golf championship.",
             "disneyplus_id": "142af74a-1149-493c-ad2b-a283c98db66d",
             "simpsonsworld_id": 260539459670,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Michael Bell"
+            ]
         },
         {
             "title": "Bart vs. Thanksgiving",
             "season": 2,
             "episode": 7,
             "release_date": "1990-11-22",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "George Meyer"
+            ],
             "description": "Bart learns the true meaning of Thanksgiving when he runs away from home after having an argument with Lisa.",
             "disneyplus_id": "f4dc6ce1-cb9d-49e3-b4d4-2e5f50549812",
             "simpsonsworld_id": 260539459701,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Greg Berg",
+                "Carol Kane"
+            ]
         },
         {
             "title": "Bart the Daredevil",
@@ -278,26 +416,38 @@
             "season": 2,
             "episode": 9,
             "release_date": "1990-12-20",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Marge initiates a protest movement against gratuitous violence on television when Maggie begins acting aggressively after viewing Itchy and Scratchy cartoons.",
             "disneyplus_id": "fd366e91-bcd5-4629-83d9-6c6f6739897c",
             "simpsonsworld_id": 1094123075920,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Alex Rocco"
+            ]
         },
         {
             "title": "Bart Gets Hit by a Car",
             "season": 2,
             "episode": 10,
             "release_date": "1991-01-10",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "When Mr. Burns hits Bart with his car, Homer is enticed by a disreputable lawyer to sue him.",
             "disneyplus_id": "bf571705-b52b-46ae-a9c1-c88d36672839",
             "simpsonsworld_id": 260550723760,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Phil Hartman"
+            ]
         },
         {
             "title": "One Fish, Two Fish, Blowfish, Blue Fish",
@@ -310,7 +460,13 @@
             "disneyplus_id": "28244e58-a5dd-4260-a8be-13e2a34d0ba9",
             "simpsonsworld_id": 260548675839,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Larry King",
+                "George Takei",
+                "Sab Shimono",
+                "Joey Miyashima",
+                "Diane Tanaka"
+            ]
         },
         {
             "title": "The Way We Was",
@@ -323,7 +479,9 @@
             "disneyplus_id": "1fd08344-aa39-42f3-a056-662aa4835f0f",
             "simpsonsworld_id": 260549187876,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jon Lovitz"
+            ]
         },
         {
             "title": "Homer vs. Lisa and the 8th Commandment",
@@ -336,7 +494,9 @@
             "disneyplus_id": "fb653641-23b8-4e9b-a547-0d195f78c33c",
             "simpsonsworld_id": 260820547692,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Phil Hartman"
+            ]
         },
         {
             "title": "Principal Charming",
@@ -362,7 +522,9 @@
             "disneyplus_id": "78ae94ea-6ac6-4d34-b1a9-031a324f447a",
             "simpsonsworld_id": 1094123587812,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Danny DeVito"
+            ]
         },
         {
             "title": "Bart's Dog Gets an F",
@@ -375,7 +537,10 @@
             "disneyplus_id": "ab2e3441-cb90-4cee-ab57-6f20fa1bfdac",
             "simpsonsworld_id": 272034883946,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Tracey Ullman",
+                "Frank Welker"
+            ]
         },
         {
             "title": "Old Money",
@@ -388,7 +553,10 @@
             "disneyplus_id": "b847307a-cb9d-494a-bb98-12a764168288",
             "simpsonsworld_id": 263504963955,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Audrey Meadows",
+                "Phil Hartman"
+            ]
         },
         {
             "title": "Brush with Greatness",
@@ -401,7 +569,10 @@
             "disneyplus_id": "8cf507bf-2b25-45d7-84d4-e3f668a68f37",
             "simpsonsworld_id": 1094212163883,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Ringo Starr",
+                "Jon Lovitz"
+            ]
         },
         {
             "title": "Lisa's Substitute",
@@ -414,7 +585,9 @@
             "disneyplus_id": "33c5ea7a-09ac-4513-b471-29289dbbc1f9",
             "simpsonsworld_id": 288011331912,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Dustin Hoffman"
+            ]
         },
         {
             "title": "The War of the Simpsons",
@@ -440,7 +613,10 @@
             "disneyplus_id": "a1394377-1c23-458d-b91b-18ff12018d47",
             "simpsonsworld_id": 310368835964,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Cloris Leachman",
+                "Daniel Stern"
+            ]
         },
         {
             "title": "Blood Feud",
@@ -460,21 +636,32 @@
             "season": 3,
             "episode": 1,
             "release_date": "1991-09-19",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore"
+            ],
+            "writers": [
+                "Al Jean",
+                "Mike Reiss"
+            ],
             "description": "Homer is institutionalized after Bart fills out his sanity test.  A man who thinks he is Michael Jackson helps Bart write a song for Lisa when he forgets her birthday.",
             "disneyplus_id": "not-ported-over",
             "simpsonsworld_id": 272234051980,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Michael Jackson"
+            ]
         },
         {
             "title": "Mr. Lisa Goes to Washington",
             "season": 3,
             "episode": 2,
             "release_date": "1991-09-26",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "George Meyer"
+            ],
             "description": "The Simpsons travel to the Nation's Capitol when Lisa becomes a semifinalist in an essay contest on patriotism.",
             "disneyplus_id": "30e6b625-ad02-4c52-ba41-571b68eee431",
             "simpsonsworld_id": 275196995796,
@@ -486,8 +673,12 @@
             "season": 3,
             "episode": 3,
             "release_date": "1991-10-03",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Ned Flanders opens a store for left-handed people and Homer is overjoyed when it performs poorly.",
             "disneyplus_id": "bba00c31-32ab-4167-9990-d44ca856fb77",
             "simpsonsworld_id": 272051267562,
@@ -499,47 +690,80 @@
             "season": 3,
             "episode": 4,
             "release_date": "1991-10-10",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Bart fraternizes with a gang of mobsters and becomes the prime suspect when Principal Skinner mysteriously disappears.",
             "disneyplus_id": "062bfbc7-f1ac-4c7f-9ccc-bd2e96fd6da4",
             "simpsonsworld_id": 288015427922,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Phil Hartman",
+                "Joe Mantegna",
+                "Neil Patrick Harris"
+            ]
         },
         {
             "title": "Homer Defined",
             "season": 3,
             "episode": 5,
             "release_date": "1991-10-17",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Howard Gewirtz"
+            ],
             "description": "Homer becomes a hero when he averts a catastrophe at the power plant, but what is perceived as his skill of being a quick thinker is actually dumb luck.",
             "disneyplus_id": "03be2e07-7414-436a-9522-e697bd015483",
             "simpsonsworld_id": 256843843704,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Jon Lovitz",
+                "Magic Johnson",
+                "Chick Hearn"
+            ]
         },
         {
             "title": "Like Father, Like Clown",
             "season": 3,
             "episode": 6,
             "release_date": "1991-10-24",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jeffrey Lynch",
+                "Brad Bird"
+            ],
+            "writers": [
+                "Jay Kogen",
+                "Wallace Wolodarsky"
+            ],
             "description": "Bart and Lisa scheme to reunite Krusty the Clown with his father, Rabbi Krustofsky, who disowned him for not carrying on the family tradition.",
             "disneyplus_id": "27977583-ce54-45e5-8c9e-3ea55d551a3e",
             "simpsonsworld_id": 256874051703,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Jackie Mason"
+            ]
         },
         {
             "title": "Treehouse of Horror II",
             "season": 3,
             "episode": 7,
             "release_date": "1991-10-31",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Al Jean",
+                "Mike Reiss",
+                "Jeff Martin",
+                "George Meyer",
+                "Sam Simon",
+                "John Swartzwelder"
+            ],
             "description": "The Simpsons eat too much candy on Halloween and experience nightmarish tales of horror while they sleep.",
             "disneyplus_id": "1d2183e7-f0c6-4b61-abd7-47688dccfd15",
             "simpsonsworld_id": 272054339616,
@@ -551,60 +775,96 @@
             "season": 3,
             "episode": 8,
             "release_date": "1991-11-07",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Carlos Baeza"
+            ],
+            "writers": [
+                "Al Jean",
+                "Mike Reiss"
+            ],
             "description": "Homer realizes that he never shows Lisa the attention she deserves and buys her a pony.",
             "disneyplus_id": "9ce55c08-4635-4cc8-857c-081460a2480e",
             "simpsonsworld_id": 310374467809,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Frank Welker"
+            ]
         },
         {
             "title": "Saturdays of Thunder",
             "season": 3,
             "episode": 9,
             "release_date": "1991-11-14",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Ken Levine",
+                "David Isaacs"
+            ],
             "description": "Realizing he has not been a good father to Bart, Homer aids his son in building a soap box racer.",
             "disneyplus_id": "b1ecdef1-ffef-4cb1-b7cc-3980a258cc69",
             "simpsonsworld_id": 256898115598,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Phil Hartman"
+            ]
         },
         {
             "title": "Flaming Moe's",
             "season": 3,
             "episode": 10,
             "release_date": "1991-11-21",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore",
+                "Alan Smart"
+            ],
+            "writers": [
+                "Robert Cohen"
+            ],
             "description": "Homer gives Moe the recipe for a unique alcoholic drink, and when it turns into a sensation, Moe takes credit, and the profits, from its success.",
             "disneyplus_id": "796cd258-4056-43ab-9268-4932550f11f5",
             "simpsonsworld_id": 305663555961,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Steven Tyler",
+                "Tom Hamilton",
+                "Joey Kramer",
+                "Joe Perry",
+                "Brad Whitford",
+                "Phil Hartman"
+            ]
         },
         {
             "title": "Burns Verkaufen der Kraftwerk",
             "season": 3,
             "episode": 11,
             "release_date": "1991-12-05",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Homer is fired from his job when a German firm buys the power plant from Mr. Burns.",
             "disneyplus_id": "dd37faf9-f191-4a97-99c4-2cf7e966e441",
             "simpsonsworld_id": 310380099512,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Phil Hartman"
+            ]
         },
         {
             "title": "I Married Marge",
             "season": 3,
             "episode": 12,
             "release_date": "1991-12-26",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jeffrey Lynch"
+            ],
+            "writers": [
+                "Jeff Martin"
+            ],
             "description": "When Marge believes she may be pregnant, Homer recounts how Bart was born.",
             "disneyplus_id": "e7a09c16-34cd-448d-89c8-3a7cd3f1db05",
             "simpsonsworld_id": 299618371603,
@@ -616,47 +876,70 @@
             "season": 3,
             "episode": 13,
             "release_date": "1992-01-23",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Carlos Baeza"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Using his Superstar Celebrity microphone, Bart tricks all of Springfield into believing that a child has fallen down a well.  But when he falls into the same well, Bart cannot get anyone to save him.",
             "disneyplus_id": "4b6bb3d5-cf1f-4edc-a1f5-b619c5d5979f",
             "simpsonsworld_id": 272052803895,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Sting"
+            ]
         },
         {
             "title": "Lisa the Greek",
             "season": 3,
             "episode": 14,
             "release_date": "1992-01-23",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore"
+            ],
+            "writers": [
+                "Jay Kogen",
+                "Wallace Wolodarsky"
+            ],
             "description": "Lisa accurately predicts the winners of sporting events that Homer gambles on so she can be closer to her father.",
             "disneyplus_id": "f4faa613-2619-484b-b9d5-84cb7907b60e",
             "simpsonsworld_id": 273404483565,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Phil Hartman"
+            ]
         },
         {
             "title": "Homer Alone",
             "season": 3,
             "episode": 15,
             "release_date": "1992-02-06",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "David M. Stern"
+            ],
             "description": "When Marge reaches the breaking point, she leaves for a much needed vacation, leaving the rest of the family to realize how much she does for them.",
             "disneyplus_id": "affe697b-246e-4e2b-b314-86abb18f51f3",
             "simpsonsworld_id": 272224835795,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Phil Hartman"
+            ]
         },
         {
             "title": "Bart the Lover",
             "season": 3,
             "episode": 16,
             "release_date": "1992-02-13",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Carlos Baeza"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "When Bart discovers that his divorced teacher, Mrs. Krabappel, has placed a \"personals\" ad in the local newspaper, he decides to create fake correspondence.",
             "disneyplus_id": "8e541791-0374-4447-92d5-427e190347c0",
             "simpsonsworld_id": 272228931984,
@@ -668,104 +951,167 @@
             "season": 3,
             "episode": 17,
             "release_date": "1992-02-20",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Mr. Burns bets one million dollars that his power plant's softball team will win the championship, then hires professional baseball players to be members of the team.",
             "disneyplus_id": "277c0f29-5036-4ec1-8730-346b62202ec9",
             "simpsonsworld_id": 310380099768,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Roger Clemens",
+                "Mike Scioscia",
+                "Don Mattingly",
+                "Steve Sax",
+                "Ozzie Smith",
+                "Wade Boggs",
+                "Darryl Strawberry",
+                "Ken Griffey, Jr.",
+                "Jos\u00e9 Canseco",
+                "Terry Cashman"
+            ]
         },
         {
             "title": "Separate Vocations",
             "season": 3,
             "episode": 18,
             "release_date": "1992-02-27",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jeffrey Lynch"
+            ],
+            "writers": [
+                "George Meyer"
+            ],
             "description": "Bart finds new respect for the law and Lisa hangs out with the wrong crowd after they both take career aptitude tests.",
             "disneyplus_id": "84689699-9a61-4873-9e97-b92fdfdfd912",
             "simpsonsworld_id": 263513155607,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Steve Allen"
+            ]
         },
         {
             "title": "Dog of Death",
             "season": 3,
             "episode": 19,
             "release_date": "1992-03-12",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "The Simpsons must choose between frills and their dog when Santa's Little Helper needs an expensive operation to save its life.",
             "disneyplus_id": "2d3ca633-e681-408d-b43a-17d34c4e3429",
             "simpsonsworld_id": 274404419620,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Frank Welker"
+            ]
         },
         {
             "title": "Colonel Homer",
             "season": 3,
             "episode": 20,
             "release_date": "1992-03-26",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Matt Groening"
+            ],
             "description": "Homer becomes the manager of a beautiful Country Western singer.",
             "disneyplus_id": "dd81dd22-a6d1-490b-9e4d-86b5bf64e2b0",
             "simpsonsworld_id": 272215619762,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Beverly D'Angelo"
+            ]
         },
         {
             "title": "Black Widower",
             "season": 3,
             "episode": 21,
             "release_date": "1992-04-09",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Thomas Chastain",
+                "Sam Simon",
+                "Jon Vitti"
+            ],
             "description": "To Bart's horror, Selma announces that her husband-to-be is none other than Sideshow Bob.",
             "disneyplus_id": "d5a7bef2-e845-4439-916e-121bb33838c4",
             "simpsonsworld_id": 272221251812,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Kelsey Grammer"
+            ]
         },
         {
             "title": "The Otto Show",
             "season": 3,
             "episode": 22,
             "release_date": "1992-04-23",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "Jeff Martin"
+            ],
             "description": "Bart attends a Spinal Tap concert.  Otto loses his job driving the school bus and moves in with the Simpsons.",
             "disneyplus_id": "97b16e5f-ef0a-4bdb-b113-e8ceb248217a",
             "simpsonsworld_id": 279103043694,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Christopher Guest",
+                "Michael McKean"
+            ]
         },
         {
             "title": "Bart's Friend Falls in Love",
             "season": 3,
             "episode": 23,
             "release_date": "1992-05-07",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Jay Kogen",
+                "Wallace Wolodarsky"
+            ],
             "description": "Bart becomes jealous when Milhouse falls for a girl who transferred to their school.",
             "disneyplus_id": "44f88f5f-ef09-4102-a975-4cc963938ec3",
             "simpsonsworld_id": 280393283967,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Kimmy Robertson",
+                "Phil Hartman"
+            ]
         },
         {
             "title": "Brother, Can You Spare Two Dimes?",
             "season": 3,
             "episode": 24,
             "release_date": "1992-08-27",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Herb Powell asks his brother Homer to let him borrow $2000 to develop a new invention: a translator of baby gibberish.",
             "disneyplus_id": "7262519a-bba5-44c2-a547-2c812ed2541d",
             "simpsonsworld_id": 279098435798,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Danny DeVito",
+                "Joe Frazier"
+            ]
         },
         {
             "title": "Kamp Krusty",
