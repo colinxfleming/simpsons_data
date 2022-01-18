@@ -3,147 +3,147 @@ episodes:
 - title: Treehouse of Horror XIV
   season: 15
   episode: 1
-  release_date:
-  directors:
-  writers:
+  release_date: 2003-11-02
+  directors: ["Steven Dean Moore"]
+  writers: ["John Swartzwelder"]
   description: On Halloween, Homer takes over for the Grim Reaper and discovers Marge's
     name on his list; Professor Frink reanimates his father's corpse; Bart and Milhouse
     play pranks with a watch that can stop time.
   disneyplus_id: 5b27c965-12fc-423b-b7b5-84b841d5385a
   simpsonsworld_id: 227335747784
   good: true
-  guest_stars:
+  guest_stars: ["Jerry Lewis", "Dudley Herschbach", "Jennifer Garner", "Oscar De La Hoya"]
 - title: My Mother the Carjacker
   season: 15
   episode: 2
-  release_date:
-  directors:
-  writers:
+  release_date: 2003-11-09
+  directors: ["Nancy Kruse"]
+  writers: ["Michael Price"]
   description: Mother Simpson is captured by police and placed on trial for sabotaging
     Mr. Burns' germ warfare plant in the 1960s.  Homer's heartfelt testimony helps
     win her release... but Mr. Burns concocts a plot to get revenge.
   disneyplus_id: 5f913e49-20aa-4240-9330-5f561ca09c20
   simpsonsworld_id: 227339843917
   good: true
-  guest_stars:
+  guest_stars: ["Glenn Close"]
 - title: The President Wore Pearls
   season: 15
   episode: 3
-  release_date:
-  directors:
-  writers:
+  release_date: 2003-11-16
+  directors: ["Mike B. Anderson"]
+  writers: ["Dana Gould"]
   description: When Lisa is elected student body president, she vows to make the school
     a better place to learn.  But Skinner tricks her into cutting well-liked programs...
     prompting Lisa to call a general student strike.
   disneyplus_id: 147d2de9-5e90-40da-9fd9-6b4f1b2efe83
   simpsonsworld_id: 227348035643
   good: false
-  guest_stars:
+  guest_stars: ["Michael Moore"]
 - title: The Regina Monologues
   season: 15
   episode: 4
-  release_date:
-  directors:
-  writers:
+  release_date: 2003-11-23
+  directors: ["Mark Kirkland"]
+  writers: ["John Swartzwelder"]
   description: The Simpsons travel to England, where Homer is imprisoned in the Tower
     of London after he smashes a car into the Queen's royal coach.
   disneyplus_id: c0e74b7a-439f-4a6a-97c4-2fa2b8a77468
   simpsonsworld_id: 227349059824
   good: false
-  guest_stars:
+  guest_stars: ["Jane Leeves", "Tony Blair", "Evan Marriott", "Ian McKellen", "J. K. Rowling"]
 - title: The Fat and the Furriest
   season: 15
   episode: 5
-  release_date:
-  directors:
-  writers:
+  release_date: 2003-11-30
+  directors: ["Matthew Nastuk"]
+  writers: ["Joel H. Cohen"]
   description: Homer becomes the laughing stock of the town when a wild bear humiliates
     him.  But when he seeks a rematch, Homer bonds with the animal and tries to save
     its life.
   disneyplus_id: 44f6459e-2f5f-40a2-935c-ae8816dd7b9b
   simpsonsworld_id: 227355715580
   good: false
-  guest_stars:
+  guest_stars: ["Charles Napier"]
 - title: Today I am a Clown
   season: 15
   episode: 6
-  release_date:
-  directors:
-  writers:
+  release_date: 2003-12-07
+  directors: ["Nancy Kruse"]
+  writers: ["Joel H. Cohen"]
   description: When Krusty takes the Sabbath off so he can study for his bar mitzvah,
     he chooses Homer as temporary guest host.  But when Homer's career unexpectedly
     takes off, Krusty finds himself out of a job.
   disneyplus_id: 7f39669f-3347-401c-ab47-58ee0b88799f
   simpsonsworld_id: 227360323557
   good: false
-  guest_stars:
+  guest_stars: ["Jackie Mason", "Mr. T"]
 - title: "'Tis the Fifteenth Season"
   season: 15
   episode: 7
-  release_date:
-  directors:
-  writers:
+  release_date: 2003-12-14
+  directors: ["Steven Dean Moore"]
+  writers: ["Michael Price"]
   description: As Christmas approaches, Homer discovers the true meaning of the season
     after watching an animated version of A Christmas Carol on television.  But Flanders
     find it impossible to live as the second-nicest-guy in town.
   disneyplus_id: 1a35adfe-6cfc-48b5-8bcf-1f2b67935073
   simpsonsworld_id: 227364931670
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays
   season: 15
   episode: 8
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-01-04
+  directors: ["Bob Anderson"]
+  writers: ["Jon Vitti"]
   description: Marge opposes a political group made up of childless people who've
     grown fed-up with accommodating people with families.
   disneyplus_id: 2eee17ee-617a-4353-8ea8-d8a462a05664
   simpsonsworld_id: 227369027832
   good: false
-  guest_stars:
+  guest_stars: null
 - title: I, (Annoyed Grunt)-Bot
   season: 15
   episode: 9
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-01-11
+  directors: ["Lauren MacMullan"]
+  writers: ["Dan Greaney", "Allen Glazier"]
   description: Homer builds a fighting robot for Bart, but finds he must hide inside
     the device to make it work; Lisa searches for a replacement for Snowball II when
     the cat is run over by a car.
   disneyplus_id: c55c6d82-f03b-4a1e-b11d-d52312afd970
   simpsonsworld_id: 227376707538
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Diatribe of a Mad Housewife
   season: 15
   episode: 10
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-01-25
+  directors: ["Mark Kirkland"]
+  writers: ["Robin J. Stein"]
   description: Homer buys an ambulance and starts responding to medical emergencies;
     Marge authors her own romance novel.
   disneyplus_id: 80fa3f3a-1fa9-46a3-922d-06e3f1cdfc55
   simpsonsworld_id: 227378755925
   good: true
-  guest_stars:
+  guest_stars: ["Tom Clancy", "Thomas Pynchon", "Mary-Kate Olsen", "Ashley Olsen"]
 - title: Margical History Tour
   season: 15
   episode: 11
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-02-08
+  directors: ["Mike B. Anderson"]
+  writers: ["Brian Kelley"]
   description: 'Marge tells the children three historical tales: the story of King
     Henry the Eighth and his quest for a son; Sacagawea''s journey with Lewis and
     Clark; and the rivalry between Mozart and Salieri.'
   disneyplus_id: 4f94a1f6-b11a-4fdf-91b9-23c09fe2e584
   simpsonsworld_id: 227386947567
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Milhouse Doesn't Live Here Anymore
   season: 15
   episode: 12
-  release_date:
+  release_date: 2004-02-15
   directors:
   writers:
   description: When Milhouse and his mother relocate to Capital City, Bart strikes
@@ -151,37 +151,37 @@ episodes:
   disneyplus_id: 7528e5f7-8bf0-4c91-bedb-2305c37a868a
   simpsonsworld_id: 227392067706
   good: true
-  guest_stars:
+  guest_stars: ["Nick Bakay", "William Daniels", "Isabel Sanford", "Dick Tufeld"]
 - title: Smart and Smarter
   season: 15
   episode: 13
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-02-22
+  directors: ["Steven Dean Moore"]
+  writers: ["Carolyn Omine"]
   description: Lisa searches for a new identity when baby Maggie turns out to be smarter
     than her.
   disneyplus_id: 1139d006-99a7-48f6-9f52-fdebfaac820d
   simpsonsworld_id: 229331523584
   good: true
-  guest_stars:
+  guest_stars: ["Simon Cowell"]
 - title: The Ziff Who Came to Dinner
   season: 15
   episode: 14
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-03-14
+  directors: ["Nancy Kruse"]
+  writers: ["Deb Lacusta", "Dan Castellaneta"]
   description: Homer becomes the majority shareholder of Artie Ziff's troubled Internet
     company-and ends up being arrested by the Securities and Exchange Commission.
   disneyplus_id: 82113640-5626-4a70-822c-f8f608aa869d
   simpsonsworld_id: 227426371786
   good: true
-  guest_stars:
+  guest_stars: ["Jon Lovitz"]
 - title: Co-Dependent's Day
   season: 15
   episode: 15
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-03-21
+  directors: ["Bob Anderson"]
+  writers: ["Matt Warburton"]
   description: When a drunken Homer loses control of his car, he places an unconscious
     Marge in the driver's seat so she'll be blamed for the accident; Lisa and Bart
     complain to the creator of the Cosmic Wars saga about his latest films.
@@ -192,86 +192,86 @@ episodes:
 - title: The Wandering Juvie
   season: 15
   episode: 16
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-03-28
+  directors: ["Lauren MacMullan"]
+  writers: ["John Frink", "Don Payne"]
   description: Bart's latest prank lands him in juvenile prison, where a tough girl
     forces him to go on the lam.
   disneyplus_id: 6fc62065-18ae-4751-a441-f8f1fe016693
   simpsonsworld_id: 227402307606
   good: true
-  guest_stars:
+  guest_stars: ["Sarah Michelle Gellar", "Charles Napier", "Jane Maczmarek"]
 - title: My Big Fat Geek Wedding
   season: 15
   episode: 17
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-04-18
+  directors: ["Mark Kirkland"]
+  writers: ["Kevin Curran"]
   description: Mrs. Krabappel dumps Principal Skinner at the altar and has a passionate
     affair with the Comic Book Guy.
   disneyplus_id: 6a0af6db-2725-4782-bf06-813dbfe5cbfa
   simpsonsworld_id: 227423299561
   good: false
-  guest_stars:
+  guest_stars: ["Matt Groening"]
 - title: Catch 'Em If You Can
   season: 15
   episode: 18
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-04-25
+  directors: ["Matthew Nastuk"]
+  writers: ["Ian Maxtone-Graham"]
   description: Bart and Lisa pursue Homer and Marge after they sneak away on a second
     honeymoon; Grampa catches the eye of a dashing Cuban man.
   disneyplus_id: 91fa3c12-3d04-473c-9641-d371e41d0bc7
   simpsonsworld_id: 227415619717
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Simple Simpson
   season: 15
   episode: 19
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-05-02
+  directors: ["Jim Reardon"]
+  writers: ["Jon Vitti"]
   description: Homer confronts evildoers in the form of his crime-fighting alter ego,
     the Pie Man-until Mr. Burns blackmails him into throwing a pie at the Dalai Lama.
   disneyplus_id: d4bd306d-4700-4d5d-bfa6-9987b68ec982
   simpsonsworld_id: 227327555884
   good: false
-  guest_stars:
+  guest_stars: ["Nichelle Nichols"]
 - title: The Way We Weren't
   season: 15
   episode: 20
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-05-09
+  directors: ["Mike B. Anderson"]
+  writers: ["J. Stewart Burns"]
   description: Homer reveals that Marge wasn't the first girl he ever kissed, but
     as he and Marge recount their versions of time spent at a summer camp, Homer realizes
     he caused Marge thirty years of heartbreak.
   disneyplus_id: 5bd69f8d-d191-4586-87ec-0730bfcf2e47
   simpsonsworld_id: 227330115859
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Bart-Mangled Banner
   season: 15
   episode: 21
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-05-16
+  directors: ["Steven Dean Moore"]
+  writers: ["John Frink"]
   description: The Simpsons are thrown in prison after Bart accidentally moons the
     American flag.
   disneyplus_id: 88247ea9-a5dd-4a76-9b27-57c807db9116
   simpsonsworld_id: 227410499679
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Fraudcast News
   season: 15
   episode: 22
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-05-23
+  directors: ["Bob Anderson"]
+  writers: ["Don Payne"]
   description: Mr. Burns buys up all the media outlets in Springfield in an effort
     to polish his image, but soon finds himself at odds with Lisa, who started publishing
     her own newspaper.
   disneyplus_id: 500ac3a9-3fd3-4318-8606-2b1132f7ac2d
   simpsonsworld_id: 227405379707
   good: true
-  guest_stars:
+  guest_stars: null

@@ -267,7 +267,7 @@ episodes:
     thanks from him. Homer later appears live to answer phoned in questions.
   disneyplus_id: c93809a1-f8cd-4941-a268-4b688b6bee15
   simpsonsworld_id: 770892355976
-  good: maybe
+  good: false
   guest_stars:
 - title: Orange Is the New Yellow
   season: 27
