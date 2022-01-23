@@ -86,7 +86,7 @@ episodes:
   description: Homer becomes an internet recapper while Krusty joins the circus.
   disneyplus_id: b5aeb3d3-3cc3-4e91-a32a-1b33b683b4f9
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: Daddicus Finch
   season: 30
@@ -97,7 +97,7 @@ episodes:
   description: Lisa reads "To Kill a Mockingbird" and observes similarities between her dad and Atticus Finch.
   disneyplus_id: 057a8476-019d-4196-8601-38ba7aa0fcad
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: "'Tis the 30th Season"
   season: 30
@@ -152,7 +152,7 @@ episodes:
   description: On a podcast Krusty discusses a lost film he made in the ‘80s.
   disneyplus_id: d3a79e2f-0900-427d-8a99-aed99216af5c
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: 101 Mitigations
   season: 30
