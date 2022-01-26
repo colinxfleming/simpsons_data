@@ -42,7 +42,7 @@ episodes:
   description: The annual Simpsons terror-themed trilogy.
   disneyplus_id: 42262a30-b359-4417-87bc-af4f9ca99a5e
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: The 7 Beer Itch
   season: 32

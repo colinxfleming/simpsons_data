@@ -3,9 +3,9 @@ episodes:
 - title: The Bonfire of the Manatees
   season: 17
   episode: 1
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-09-11
+  directors: ["Mark Kirkland"]
+  writers: ["Dan Greaney"]
   description: When Homer allows the mob to film a pornographic movie at the house,
     a disgusted Marge leaves the family and hooks up with a doctor trying to save
     the lives of manatees.
@@ -16,9 +16,9 @@ episodes:
 - title: The Girl Who Slept Too Little
   season: 17
   episode: 2
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-09-18
+  directors: ["Raymond S. Persi"]
+  writers: ["John Frink"]
   description: Lisa must confront her darkest fears after a cemetery is relocated
     to the Simpsons' neighborhood.
   disneyplus_id: 49f07704-d9ac-47e6-aa12-0a30eaf32f6e
@@ -28,9 +28,9 @@ episodes:
 - title: Milhouse of Sand and Fog
   season: 17
   episode: 3
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-09-25
+  directors: ["Steven Dean Moore"]
+  writers: ["Patric M. Verrone"]
   description: After Kirk and Luann rekindle their relationship, Bart and Milhouse
     plot to end the romance... only to inadvertently cause Homer and Marge to break
     up instead.
@@ -41,9 +41,9 @@ episodes:
 - title: Treehouse of Horror XVI
   season: 17
   episode: 4
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-11-06
+  directors: ["David Silverman"]
+  writers: ["Marc Wilmore"]
   description: On Halloween, Bart is replaced by a robotic boy after he falls into
     a coma; Burns hunts down Homer in a most dangerous game; a witch transforms trick-or-treaters
     into the costumes they're wearing.
@@ -54,9 +54,9 @@ episodes:
 - title: Marge's Son Poisoning
   season: 17
   episode: 5
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-11-13
+  directors: ["Mike B. Anderson"]
+  writers: ["Daniel Chun"]
   description: After spending time with her son, Marge begins to worry that she's
     turning Bart into a momma's boy; Homer enters an arm-wrestling competition.
   disneyplus_id: 4f23394a-acfe-44da-9638-6c91de330635
@@ -66,9 +66,9 @@ episodes:
 - title: See Homer Run
   season: 17
   episode: 6
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-11-20
+  directors: ["Nancy Kruse"]
+  writers: ["Stephanie Gillis"]
   description: After winning popularity as the Safety Salamander, Homer challenges
     Quimby during a special mayoral recall election.
   disneyplus_id: e583a0f5-1ec6-430e-aca2-d8872a2a62a7
@@ -78,9 +78,9 @@ episodes:
 - title: The Last of the Red Hat Mamas
   season: 17
   episode: 7
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-11-27
+  directors: ["Matthew Nastuk"]
+  writers: ["Joel H. Cohen"]
   description: A lonely Marge joins a women's group; Milhouse teaches Lisa how to
     speak Italian.
   disneyplus_id: b1c183c4-3596-488d-a69f-e009a0b9a052
@@ -90,9 +90,9 @@ episodes:
 - title: The Italian Bob
   season: 17
   episode: 8
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-12-11
+  directors: ["Mark Kirkland"]
+  writers: ["John Frink"]
   description: The Simpsons travel to Italy to retrieve Mr. Burn's expensive new sports
     car... only to encounter Sideshow Bob and his murderous family.
   disneyplus_id: 33c8bd72-9107-4de1-943b-a3e9e4f02fe8
@@ -102,9 +102,9 @@ episodes:
 - title: Simpsons Christmas Stories
   season: 17
   episode: 9
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-12-18
+  directors: ["Steven Dean Moore"]
+  writers: ["Don Payne"]
   description: 'The Simpsons appear in three Christmas tales: the story of the birth
     of Jesus; a World War II tale featuring Grampa, Mr. Burns and Santa; and a musical
     featuring The Nutcracker suite.'
@@ -115,9 +115,9 @@ episodes:
 - title: Homer's Paternity Coot
   season: 17
   episode: 10
-  release_date:
-  directors:
-  writers:
+  release_date: 2006-01-08
+  directors: ["Mike B. Anderson"]
+  writers: ["Joel H. Cohen"]
   description: When an old letter is delivered to the Simpson home, Homer comes to
     believe that Grampa isn't his biological father after all.
   disneyplus_id: 5076a95f-afa6-46d1-8e57-91577a8220cf
@@ -127,9 +127,9 @@ episodes:
 - title: We're on the Road to D'ohwhere
   season: 17
   episode: 11
-  release_date:
-  directors:
-  writers:
+  release_date: 2006-01-29
+  directors: ["Nancy Kruse"]
+  writers: ["Kevin Curran"]
   description: After Bart gets into trouble at school, Homer drives Bart to Oregon,
     where he attends a behavior modification camp; Marge becomes a popular drug dealer
     after she sells Homer's pain medications during a yard sale.
@@ -140,9 +140,9 @@ episodes:
 - title: My Fair Laddy
   season: 17
   episode: 12
-  release_date:
-  directors:
-  writers:
+  release_date: 2006-02-26
+  directors: ["Bob Anderson"]
+  writers: ["Michael Price"]
   description: Lisa vows to turn Groundskeeper Willie into a 'proper gentleman' in
     time for the upcoming school science fair; Homer tries to find something to wear
     after he rips his favorite blue pants.
@@ -153,9 +153,9 @@ episodes:
 - title: The Seemingly Never-Ending Story
   season: 17
   episode: 13
-  release_date:
-  directors:
-  writers:
+  release_date: 2006-03-12
+  directors: ["Raymond S. Persi"]
+  writers: ["Ian Maxtone-Graham"]
   description: When the Simpsons become trapped inside a cave, Lisa recounts a story
     involving a bag of gold coins and how it affected the lives of Mr. Burns, Moe
     and Homer.
@@ -166,9 +166,9 @@ episodes:
 - title: Bart Has Two Mommies
   season: 17
   episode: 14
-  release_date:
-  directors:
-  writers:
+  release_date: 2006-03-19
+  directors: ["Mike Marcantel"]
+  writers: ["Dana Gould"]
   description: Marge teaches Rod and Todd Flanders how to have fun; a lonely chimpanzee
     grabs hold of Bart.
   disneyplus_id: f0ba9823-f753-4fde-b3c3-597e098037c1
@@ -178,9 +178,9 @@ episodes:
 - title: Homer Simpson, This is Your Wife
   season: 17
   episode: 15
-  release_date:
-  directors:
-  writers:
+  release_date: 2006-03-26
+  directors: ["Matthew Nastuk"]
+  writers: ["Ricky Gervais"]
   description: Marge swaps places with a British wife after the Simpsons become contestants
     on a reality television show.
   disneyplus_id: c76182bf-8018-4817-bebe-6f6e97fd95c1
@@ -190,9 +190,9 @@ episodes:
 - title: Million Dollar Abie
   season: 17
   episode: 16
-  release_date:
-  directors:
-  writers:
+  release_date: 2006-04-02
+  directors: ["Steven Dean Moore"]
+  writers: ["Tim Long"]
   description: After costing Springfield a professional football team, Grampa tries
     to end his life, but the experience changes him, and he ends up becoming a matador.
   disneyplus_id: f06f1cc0-dad5-43ca-95f6-bd312cf3447c
@@ -202,9 +202,9 @@ episodes:
 - title: Kiss Kiss Bang Bangalore
   season: 17
   episode: 17
-  release_date:
-  directors:
-  writers:
+  release_date: 2006-04-09
+  directors: ["Mark Kirkland"]
+  writers: ["Deb Lacusta", "Dan Castellaneta"]
   description: Mr. Burns closes the nuclear power plant and outsources all the jobs,
     forcing Homer to relocate to India; MacGyver fans Patty and Selma kidnap actor
     Richard Dean Anderson.
@@ -215,9 +215,9 @@ episodes:
 - title: The Wettest Stories Ever Told
   season: 17
   episode: 18
-  release_date:
-  directors:
-  writers:
+  release_date: 2006-04-23
+  directors: ["Mike B. Anderson"]
+  writers: ["Jeff Westbrook"]
   description: 'The Simpsons appear in three stories set at sea: the journey of The
     Mayflower, the mutiny on The Bounty, and the capsizing of a cruise ship.'
   disneyplus_id: 45d552e0-f659-47d7-a211-af7feff50ed0
@@ -227,9 +227,9 @@ episodes:
 - title: Girls Just Want to Have Sums
   season: 17
   episode: 19
-  release_date:
-  directors:
-  writers:
+  release_date: 2006-04-30
+  directors: ["Nancy Kruse"]
+  writers: ["Matt Selman"]
   description: After Skinner is fired for insinuating that girls are inferior to boys
     in math, Springfield Elementary is split into two groups-boys and girls-forcing
     Lisa to dress up like a boy so she can attend a math class.
@@ -240,9 +240,9 @@ episodes:
 - title: Regarding Margie
   season: 17
   episode: 20
-  release_date:
-  directors:
-  writers:
+  release_date: 2006-05-07
+  directors: ["Michael Polcino"]
+  writers: ["Marc Wilmore"]
   description: After Marge develops amnesia and can't remember anything about Homer,
     she decides to kick him out of the house and see other people.
   disneyplus_id: 7ebe927e-566b-41b5-9625-ba9600ceb5b5
@@ -252,9 +252,9 @@ episodes:
 - title: The Monkey Suit
   season: 17
   episode: 21
-  release_date:
-  directors:
-  writers:
+  release_date: 2006-05-14
+  directors: ["Raymond S. Persi"]
+  writers: ["J. Stewart Burns"]
   description: Lisa protests when Springfield passes a law requiring that creationism
     be taught alongside evolution in public schools.
   disneyplus_id: 8d55f57f-97da-4a15-a0b2-57d6ce59bc29
@@ -264,9 +264,9 @@ episodes:
 - title: Marge and Homer Turn a Couple Play
   season: 17
   episode: 22
-  release_date:
-  directors:
-  writers:
+  release_date: 2006-05-21
+  directors: ["Bob Anderson"]
+  writers: ["Joel H. Cohen"]
   description: Homer and Marge play marriage counselors to help a baseball player
     and his sexy recording artist-wife.
   disneyplus_id: 81f1ff3f-741e-4677-9c71-628b4851dbf6

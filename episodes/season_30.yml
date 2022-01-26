@@ -196,7 +196,7 @@ episodes:
   description: Bart is upset to learn there is a new, all-girl version of Itchy and Scratchy.
   disneyplus_id: 8b656b44-85db-4ecd-bae5-a3258eb8e9f6
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: Girl's in the Band
   season: 30
@@ -207,7 +207,7 @@ episodes:
   description: Lisa joins an advanced youth orchestra in Capital City, throwing the family’s lives into havoc.
   disneyplus_id: df2fda5d-4585-424a-a2d5-35a4a5178067
   simpsonsworld_id:
-  good: maybe
+  good: true
   guest_stars:
 - title: I'm Just a Girl Who Can't Say D'oh
   season: 30
@@ -240,7 +240,7 @@ episodes:
   description: $600 theft rocks the Simpson home. A local TV crime show attempts to crack it to no avail.
   disneyplus_id: 106f5152-8b8a-497c-a823-b10e809f717e
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: Crystal Blue-Haired Persuasion
   season: 30
@@ -251,5 +251,5 @@ episodes:
   description: Marge sells crystals and makes a fortune.
   disneyplus_id: 553af900-6995-420a-8230-61ae64ca9c9a
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
