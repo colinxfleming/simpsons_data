@@ -12,7 +12,7 @@ episodes:
   disneyplus_id: 1783fde5-2f80-47c4-bfd6-f4fa22b5ca1b
   simpsonsworld_id: 292959299559
   good: false
-  guest_stars:
+  guest_stars: ["Joe Mantegna", "Joe Pantoliano", "Michael Imperioli", "James Hetfield", "Lars Ulrich", "Kirk Hammett", "Robert Trujillo"]
 - title: Jazzy and the Pussycats
   season: 18
   episode: 2
@@ -24,7 +24,7 @@ episodes:
   disneyplus_id: ad3773ea-555e-4c7c-ad33-19dd12e2543a
   simpsonsworld_id: 283202115995
   good: false
-  guest_stars:
+  guest_stars: ["Meg White", "Jack White"]
 - title: Please Homer, Don't Hammer 'em
   season: 18
   episode: 3
@@ -37,7 +37,7 @@ episodes:
   disneyplus_id: de75d6a6-d9c8-4821-b1c6-d2d7f77adb9f
   simpsonsworld_id: 283760707876
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Treehouse of Horror XVII
   season: 18
   episode: 4
@@ -50,7 +50,7 @@ episodes:
   disneyplus_id: 072d998d-45f2-430b-976f-9cdf1d7f0e0f
   simpsonsworld_id: 302871107984
   good: false
-  guest_stars:
+  guest_stars: ["Richard Lewis", "Fran Drescher", "Dr. Phil", "Sir Mix-a-Lot", "Maurice LaMarche"]
 - title: G.I. (Annoyed Grunt)
   season: 18
   episode: 5
@@ -63,7 +63,7 @@ episodes:
   disneyplus_id: d506c8e0-838b-42e2-8bc8-639d7ac79093
   simpsonsworld_id: 283080259896
   good: false
-  guest_stars:
+  guest_stars: ["Kiefer Sutherland", "Maurice LaMarche"]
 - title: Moe 'N' a Lisa
   season: 18
   episode: 6
@@ -75,7 +75,7 @@ episodes:
   disneyplus_id: 1dbc7634-6c9b-451c-b98d-f37a04aca4c3
   simpsonsworld_id: 307167299594
   good: false
-  guest_stars:
+  guest_stars: ["J. K. Simmons", "Tom Wolfe", "Gore Vidal", "Michael Chabon", "Jonathan Franzen"]
 - title: Ice Cream of Margie (With the Light Blue Hair)
   season: 18
   episode: 7
@@ -87,7 +87,7 @@ episodes:
   disneyplus_id: ac78e6e7-e65b-4fdc-a5b1-ca92d60d8f7a
   simpsonsworld_id: 292941379558
   good: false
-  guest_stars:
+  guest_stars: null
 - title: The Haw-Hawed Couple
   season: 18
   episode: 8
@@ -99,7 +99,7 @@ episodes:
   disneyplus_id: cadd74ff-2dff-4715-983d-d725748114ec
   simpsonsworld_id: 279785027791
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Kill Gil (Parts I and II)
   season: 18
   episode: 9
@@ -111,7 +111,7 @@ episodes:
   disneyplus_id: e23a7a91-620f-43cc-9b61-06fef0de06a9
   simpsonsworld_id: 279793731867
   good: false
-  guest_stars:
+  guest_stars: ["Elvis Stojko"]
 - title: The Wife Aquatic
   season: 18
   episode: 10
@@ -124,7 +124,7 @@ episodes:
   disneyplus_id: 68523be0-e230-4d15-8bfa-1f00537ca5b3
   simpsonsworld_id: 283764803572
   good: false
-  guest_stars:
+  guest_stars: ["Sab Shimono", "Maurice LaMarche"]
 - title: Revenge is a Dish Best Served Three Times
   season: 18
   episode: 11
@@ -137,7 +137,7 @@ episodes:
   disneyplus_id: bd3f385d-9260-4ede-8a7a-49406efedb53
   simpsonsworld_id: 283790915851
   good: true
-  guest_stars:
+  guest_stars: null
 - title: Little Big Girl
   season: 18
   episode: 12
@@ -150,7 +150,7 @@ episodes:
   disneyplus_id: cfb599de-f928-47bb-a4fe-26f3675c18e0
   simpsonsworld_id: 310462531619
   good: false
-  guest_stars:
+  guest_stars: ["Natalie Portman"]
 - title: Springfield Up
   season: 18
   episode: 13
@@ -163,7 +163,7 @@ episodes:
   disneyplus_id: 4949be66-6329-499b-b1fc-a773ba45b1c8
   simpsonsworld_id: 302876739533
   good: false
-  guest_stars:
+  guest_stars: ["Eric Idle"]
 - title: Yokel Chords
   season: 18
   episode: 14
@@ -176,7 +176,7 @@ episodes:
   disneyplus_id: a5a3d0fa-49ea-4982-b746-9d62af1e5583
   simpsonsworld_id: 307175491532
   good: false
-  guest_stars:
+  guest_stars: ["Meg Ryan", "Andy Dick", "James Patterson", "Stephen Sondheim", "Peter Bogdanovich"]
 - title: Rome-old and Juli-eh
   season: 18
   episode: 15
@@ -188,7 +188,7 @@ episodes:
   disneyplus_id: cfbd1344-3525-4ec1-90f2-d29679f8ad4d
   simpsonsworld_id: 302868035943
   good: false
-  guest_stars:
+  guest_stars: ["Jane Kaczmarek"]
 - title: Homerazzi
   season: 18
   episode: 16
@@ -200,7 +200,7 @@ episodes:
   disneyplus_id: b5af50a3-1980-4985-a51a-52d70c5e6021
   simpsonsworld_id: 292962371807
   good: false
-  guest_stars:
+  guest_stars: ["J. K. Simmons", "Betty White", "Jon Lovitz"]
 - title: Marge Gamer
   season: 18
   episode: 17
@@ -212,7 +212,7 @@ episodes:
   disneyplus_id: 84482308-1ead-4b52-a111-879cf1e310f2
   simpsonsworld_id: 277036099916
   good: true
-  guest_stars:
+  guest_stars: ["Ronaldo"]
 - title: The Boys of Bummer
   season: 18
   episode: 18
@@ -225,7 +225,7 @@ episodes:
   disneyplus_id: 01978e70-0f9d-4779-ad24-0021c5dfb062
   simpsonsworld_id: 279798851587
   good: true
-  guest_stars:
+  guest_stars: null
 - title: Crook and Ladder
   season: 18
   episode: 19
@@ -237,7 +237,7 @@ episodes:
   disneyplus_id: 45796141-0dfc-4591-84a0-4e60e2261165
   simpsonsworld_id: 310491203943
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Stop Or My Dog Will Shoot
   season: 18
   episode: 20
@@ -249,7 +249,7 @@ episodes:
   disneyplus_id: 5915e2fd-c3d0-41ca-a505-9fe2dfbcf891
   simpsonsworld_id: 302865987860
   good: false
-  guest_stars:
+  guest_stars: ["Stephen Hawking", "Rudy Giuliani", "Maurice LaMarche"]
 - title: 24 Minutes
   season: 18
   episode: 21
@@ -262,7 +262,7 @@ episodes:
   disneyplus_id: 61602bd0-a1ab-4070-8bea-865b5a694998
   simpsonsworld_id: 292963907577
   good: false
-  guest_stars:
+  guest_stars: ["Kiefer Sutherland", "Mary Lynn Rajskub"]
 - title: You Kent Always Say What You Want
   season: 18
   episode: 22
@@ -274,4 +274,4 @@ episodes:
   disneyplus_id: 74c57b86-7dfd-4d25-8008-46a91d898f3c
   simpsonsworld_id: 302859843984
   good: false
-  guest_stars:
+  guest_stars: ["Ludacris", "Maurice LaMarche"]

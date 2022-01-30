@@ -5625,7 +5625,10 @@
             "disneyplus_id": "15041ad9-c690-4a1e-819c-5394d01d3896",
             "simpsonsworld_id": 273502275982,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Alec Baldwin",
+                "Joe Mantegna"
+            ]
         },
         {
             "title": "The Girl Who Slept Too Little",
@@ -5676,7 +5679,10 @@
             "disneyplus_id": "79526359-09da-410f-93ed-473dd8a22d91",
             "simpsonsworld_id": 310466627927,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Terry Bradshaw",
+                "Dennis Rodman"
+            ]
         },
         {
             "title": "Marge's Son Poisoning",
@@ -5727,7 +5733,9 @@
             "disneyplus_id": "b1c183c4-3596-488d-a69f-e009a0b9a052",
             "simpsonsworld_id": 279770179721,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Lily Tomlin"
+            ]
         },
         {
             "title": "The Italian Bob",
@@ -5744,7 +5752,11 @@
             "disneyplus_id": "33c8bd72-9107-4de1-943b-a3e9e4f02fe8",
             "simpsonsworld_id": 256858691577,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Maria Grazia Cucinotta",
+                "Kelsey Grammer",
+                "John Moschitta"
+            ]
         },
         {
             "title": "Simpsons Christmas Stories",
@@ -5778,7 +5790,11 @@
             "disneyplus_id": "5076a95f-afa6-46d1-8e57-91577a8220cf",
             "simpsonsworld_id": 279775811924,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Michael York",
+                "William H. Macy",
+                "Joe Frazier"
+            ]
         },
         {
             "title": "We're on the Road to D'ohwhere",
@@ -5829,7 +5845,9 @@
             "disneyplus_id": "34ca3fd2-198b-4dbc-a3f0-20813f98d804",
             "simpsonsworld_id": 277107267767,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Bart Has Two Mommies",
@@ -5846,7 +5864,12 @@
             "disneyplus_id": "f0ba9823-f753-4fde-b3c3-597e098037c1",
             "simpsonsworld_id": 277113411511,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Antonio Fargas",
+                "Susan Sarandon",
+                "Randy Johnson",
+                "Dave Thomas"
+            ]
         },
         {
             "title": "Homer Simpson, This is Your Wife",
@@ -5863,7 +5886,9 @@
             "disneyplus_id": "c76182bf-8018-4817-bebe-6f6e97fd95c1",
             "simpsonsworld_id": 277119043544,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Ricky Gervais"
+            ]
         },
         {
             "title": "Million Dollar Abie",
@@ -5880,7 +5905,10 @@
             "disneyplus_id": "f06f1cc0-dad5-43ca-95f6-bd312cf3447c",
             "simpsonsworld_id": 292950083730,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Rob Reiner",
+                "Michael Carrington"
+            ]
         },
         {
             "title": "Kiss Kiss Bang Bangalore",
@@ -5898,7 +5926,9 @@
             "disneyplus_id": "ea476b6b-104d-4b87-b600-104ce3ea2192",
             "simpsonsworld_id": 283757123904,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Richard Dean Anderson"
+            ]
         },
         {
             "title": "The Wettest Stories Ever Told",
@@ -5932,7 +5962,9 @@
             "disneyplus_id": "5df6d32f-2304-45cd-a197-1d90aa7e1d76",
             "simpsonsworld_id": 274367043639,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Frances McDormand"
+            ]
         },
         {
             "title": "Regarding Margie",
@@ -5949,7 +5981,10 @@
             "disneyplus_id": "7ebe927e-566b-41b5-9625-ba9600ceb5b5",
             "simpsonsworld_id": 277125187506,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Sal Bando",
+                "Gene Tenace"
+            ]
         },
         {
             "title": "The Monkey Suit",
@@ -5966,7 +6001,10 @@
             "disneyplus_id": "8d55f57f-97da-4a15-a0b2-57d6ce59bc29",
             "simpsonsworld_id": 277127235959,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Melanie Griffith",
+                "Larry Hagman"
+            ]
         },
         {
             "title": "Marge and Homer Turn a Couple Play",
@@ -5983,7 +6021,10 @@
             "disneyplus_id": "81f1ff3f-741e-4677-9c71-628b4851dbf6",
             "simpsonsworld_id": 292955203576,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Mandy Moore",
+                "Stacy Keach"
+            ]
         },
         {
             "title": "The Mook, the Chef, the Wife and Her Homer",
@@ -5996,7 +6037,15 @@
             "disneyplus_id": "1783fde5-2f80-47c4-bfd6-f4fa22b5ca1b",
             "simpsonsworld_id": 292959299559,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Joe Mantegna",
+                "Joe Pantoliano",
+                "Michael Imperioli",
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Robert Trujillo"
+            ]
         },
         {
             "title": "Jazzy and the Pussycats",
@@ -6009,7 +6058,10 @@
             "disneyplus_id": "ad3773ea-555e-4c7c-ad33-19dd12e2543a",
             "simpsonsworld_id": 283202115995,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Meg White",
+                "Jack White"
+            ]
         },
         {
             "title": "Please Homer, Don't Hammer 'em",
@@ -6038,7 +6090,13 @@
             "disneyplus_id": "072d998d-45f2-430b-976f-9cdf1d7f0e0f",
             "simpsonsworld_id": 302871107984,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Richard Lewis",
+                "Fran Drescher",
+                "Dr. Phil",
+                "Sir Mix-a-Lot",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "G.I. (Annoyed Grunt)",
@@ -6055,7 +6113,10 @@
             "disneyplus_id": "d506c8e0-838b-42e2-8bc8-639d7ac79093",
             "simpsonsworld_id": 283080259896,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Kiefer Sutherland",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Moe 'N' a Lisa",
@@ -6072,7 +6133,13 @@
             "disneyplus_id": "1dbc7634-6c9b-451c-b98d-f37a04aca4c3",
             "simpsonsworld_id": 307167299594,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "J. K. Simmons",
+                "Tom Wolfe",
+                "Gore Vidal",
+                "Michael Chabon",
+                "Jonathan Franzen"
+            ]
         },
         {
             "title": "Ice Cream of Margie (With the Light Blue Hair)",
@@ -6123,7 +6190,9 @@
             "disneyplus_id": "e23a7a91-620f-43cc-9b61-06fef0de06a9",
             "simpsonsworld_id": 279793731867,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Elvis Stojko"
+            ]
         },
         {
             "title": "The Wife Aquatic",
@@ -6140,7 +6209,10 @@
             "disneyplus_id": "68523be0-e230-4d15-8bfa-1f00537ca5b3",
             "simpsonsworld_id": 283764803572,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Sab Shimono",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Revenge is a Dish Best Served Three Times",
@@ -6174,7 +6246,9 @@
             "disneyplus_id": "cfb599de-f928-47bb-a4fe-26f3675c18e0",
             "simpsonsworld_id": 310462531619,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Natalie Portman"
+            ]
         },
         {
             "title": "Springfield Up",
@@ -6191,7 +6265,9 @@
             "disneyplus_id": "4949be66-6329-499b-b1fc-a773ba45b1c8",
             "simpsonsworld_id": 302876739533,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Eric Idle"
+            ]
         },
         {
             "title": "Yokel Chords",
@@ -6208,7 +6284,13 @@
             "disneyplus_id": "a5a3d0fa-49ea-4982-b746-9d62af1e5583",
             "simpsonsworld_id": 307175491532,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Meg Ryan",
+                "Andy Dick",
+                "James Patterson",
+                "Stephen Sondheim",
+                "Peter Bogdanovich"
+            ]
         },
         {
             "title": "Rome-old and Juli-eh",
@@ -6225,7 +6307,9 @@
             "disneyplus_id": "cfbd1344-3525-4ec1-90f2-d29679f8ad4d",
             "simpsonsworld_id": 302868035943,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jane Kaczmarek"
+            ]
         },
         {
             "title": "Homerazzi",
@@ -6242,7 +6326,11 @@
             "disneyplus_id": "b5af50a3-1980-4985-a51a-52d70c5e6021",
             "simpsonsworld_id": 292962371807,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "J. K. Simmons",
+                "Betty White",
+                "Jon Lovitz"
+            ]
         },
         {
             "title": "Marge Gamer",
@@ -6259,7 +6347,9 @@
             "disneyplus_id": "84482308-1ead-4b52-a111-879cf1e310f2",
             "simpsonsworld_id": 277036099916,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Ronaldo"
+            ]
         },
         {
             "title": "The Boys of Bummer",
@@ -6310,7 +6400,11 @@
             "disneyplus_id": "5915e2fd-c3d0-41ca-a505-9fe2dfbcf891",
             "simpsonsworld_id": 302865987860,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Stephen Hawking",
+                "Rudy Giuliani",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "24 Minutes",
@@ -6328,7 +6422,10 @@
             "disneyplus_id": "61602bd0-a1ab-4070-8bea-865b5a694998",
             "simpsonsworld_id": 292963907577,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Kiefer Sutherland",
+                "Mary Lynn Rajskub"
+            ]
         },
         {
             "title": "You Kent Always Say What You Want",
@@ -6345,7 +6442,10 @@
             "disneyplus_id": "74c57b86-7dfd-4d25-8008-46a91d898f3c",
             "simpsonsworld_id": 302859843984,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Ludacris",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "He Loves To Fly And He D'ohs",
@@ -6358,7 +6458,10 @@
             "disneyplus_id": "cfb4a65d-9894-49a4-a3cd-8a69d5d2e27e",
             "simpsonsworld_id": 292943427892,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Stephen Colbert",
+                "Lionel Richie"
+            ]
         },
         {
             "title": "Homer of Seville",
@@ -6371,7 +6474,10 @@
             "disneyplus_id": "29d746b8-c00f-4017-a385-e7439147f115",
             "simpsonsworld_id": 350651459856,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Pl\u00e1cido Domingo",
+                "Maya Rudolph"
+            ]
         },
         {
             "title": "Midnight Towboy",
@@ -6384,7 +6490,9 @@
             "disneyplus_id": "3aabd561-93f2-4cab-acdf-c2e8f4adc3f8",
             "simpsonsworld_id": 292968003585,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Matt Dillon"
+            ]
         },
         {
             "title": "I Don't Wanna Know Why the Caged Bird Sings",
@@ -6397,7 +6505,11 @@
             "disneyplus_id": "f5ba0aac-38a1-41f2-a749-87292f0f6ec8",
             "simpsonsworld_id": 310455875747,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Steve Buschemi",
+                "Ted Nugent",
+                "Julia Louis-Dreyfus"
+            ]
         },
         {
             "title": "Treehouse of Horror XVIII",
@@ -6410,7 +6522,9 @@
             "disneyplus_id": "e3918111-7db4-4a22-a335-fa3a24ec2545",
             "simpsonsworld_id": 302852163741,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Little Orphan Millie",
@@ -6436,7 +6550,13 @@
             "disneyplus_id": "12049833-9d7d-4442-877c-5d2cb51d63e7",
             "simpsonsworld_id": 294772803561,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Alan Moore",
+                "Art Spiegelman",
+                "Dan Clowes",
+                "Jack Black",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Funeral for a Fiend",
@@ -6449,7 +6569,12 @@
             "disneyplus_id": "63ecb9f3-2160-4fa4-a70a-e4b969f3a541",
             "simpsonsworld_id": 310458947589,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Kelsey Grammer",
+                "David Hyde Pierce",
+                "John Mahoney",
+                "Keith Olbermann"
+            ]
         },
         {
             "title": "Eternal Moonshine of the Simpson Mind",
@@ -6475,7 +6600,10 @@
             "disneyplus_id": "04b3942a-b531-45e1-820c-c8b1447affd9",
             "simpsonsworld_id": 307179075535,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jon Stewart",
+                "Dan Rather"
+            ]
         },
         {
             "title": "That 90's Show",
@@ -6488,7 +6616,10 @@
             "disneyplus_id": "496a92e0-6d0f-4b93-874a-6466ceb46185",
             "simpsonsworld_id": 299664963588,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Kurt Loder",
+                "Weird Al Yankovic"
+            ]
         },
         {
             "title": "Love, Springfieldian Style",
@@ -6514,7 +6645,10 @@
             "disneyplus_id": "6ec0564f-066c-4db8-9c0b-525fb045760c",
             "simpsonsworld_id": 302849603730,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Topher Grace",
+                "Terry Gross"
+            ]
         },
         {
             "title": "Dial 'N' for Nerder",
@@ -6553,7 +6687,12 @@
             "disneyplus_id": "59529fea-4dd3-40fb-82ba-f6fac7ae816a",
             "simpsonsworld_id": 283768387739,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Beverly D'Angelo",
+                "Natalie Maines",
+                "Martie Maguire",
+                "Emily Strayer"
+            ]
         },
         {
             "title": "Apocalypse Cow",
@@ -6566,7 +6705,9 @@
             "disneyplus_id": "1a63a3b9-4b72-4e3f-80d8-bf00d962ab72",
             "simpsonsworld_id": 302847555768,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Zooey Deschanel"
+            ]
         },
         {
             "title": "Any Given Sundance",
@@ -6579,7 +6720,10 @@
             "disneyplus_id": "160f68fb-5e93-4905-8721-fdb30ac750ab",
             "simpsonsworld_id": 283769923976,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jim Jarmusch",
+                "John C. Reilly"
+            ]
         },
         {
             "title": "Mona Leaves-a",
@@ -6592,7 +6736,10 @@
             "disneyplus_id": "6b46ca89-e6d0-43d8-8e18-cab6a8c392b4",
             "simpsonsworld_id": 299670083511,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Glenn Close",
+                "Lance Armstrong"
+            ]
         },
         {
             "title": "All About Lisa",
@@ -6605,7 +6752,9 @@
             "disneyplus_id": "1ac6f2b6-a083-4be3-aa46-9d5e185c1451",
             "simpsonsworld_id": 294774851723,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Drew Carey"
+            ]
         },
         {
             "title": "Sex, Pies and Idiot Scrapes",
@@ -6618,7 +6767,11 @@
             "disneyplus_id": "b41e3be6-a769-407d-a3fc-a277e56801f3",
             "simpsonsworld_id": 311088195682,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Julia Louis-Dreyfus",
+                "Robert Forster",
+                "Joe Mantegna"
+            ]
         },
         {
             "title": "Lost Verizon",
@@ -6631,7 +6784,10 @@
             "disneyplus_id": "342c9998-d824-4e01-9a5b-9b6db32bf258",
             "simpsonsworld_id": 304458307742,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Denis Leary",
+                "Brian Grazer"
+            ]
         },
         {
             "title": "Double, Double, Boy in Trouble",
@@ -6644,7 +6800,9 @@
             "disneyplus_id": "37918594-db18-449e-a6cc-d82abf914a4b",
             "simpsonsworld_id": 304460355919,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Joe Montana"
+            ]
         },
         {
             "title": "Treehouse of Horror XIX",
@@ -6670,7 +6828,9 @@
             "disneyplus_id": "9c79d330-2b3d-48d8-adb8-ee9781e48fb4",
             "simpsonsworld_id": 311675459549,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Homer and Lisa Exchange Cross Words",
@@ -6683,7 +6843,11 @@
             "disneyplus_id": "52d5c4bb-bc9c-4463-862a-2b241726510f",
             "simpsonsworld_id": 310541891517,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Merl Reagle",
+                "Will Shortz",
+                "Scott Thompson"
+            ]
         },
         {
             "title": "Mypods and Boomsticks",
@@ -6696,7 +6860,9 @@
             "disneyplus_id": "04436cd4-2791-45a4-b513-1e436dcec79b",
             "simpsonsworld_id": 310498883779,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Shohreh Aghdashloo"
+            ]
         },
         {
             "title": "The Burns and the Bees",
@@ -6709,7 +6875,11 @@
             "disneyplus_id": "eff7ae0c-3a24-4a1d-af82-ca8771821789",
             "simpsonsworld_id": 310506051725,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Mark Cuban",
+                "Jeff Bezos",
+                "Marv Albert"
+            ]
         },
         {
             "title": "Lisa the Drama Queen",
@@ -6722,7 +6892,13 @@
             "disneyplus_id": "68ee0aa3-11db-4692-9bca-d8f8601c3a5a",
             "simpsonsworld_id": 292944963870,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Emily Blunt",
+                "Pete Wentz",
+                "Patrick Stump",
+                "Joe Trohman",
+                "Andy Hurley"
+            ]
         },
         {
             "title": "Take My Life, Please",
@@ -6761,7 +6937,9 @@
             "disneyplus_id": "7b36dd78-924e-40ee-8be2-ce89a6b40964",
             "simpsonsworld_id": 273029699673,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Gone Maggie Gone",
@@ -6774,7 +6952,9 @@
             "disneyplus_id": "7142d0eb-2815-4108-b9d6-af8624dc2ab1",
             "simpsonsworld_id": 273030211958,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Ed Begley, Jr."
+            ]
         },
         {
             "title": "In the Name of the Grandfather",
@@ -6787,7 +6967,11 @@
             "disneyplus_id": "788f0f9a-99a6-44a5-b575-b65feeee9152",
             "simpsonsworld_id": 307849283838,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Colm Meaney",
+                "Glen Hansard",
+                "Mark\u00e9ta Irglov\u00e1"
+            ]
         },
         {
             "title": "Wedding for Disaster",
@@ -6800,7 +6984,9 @@
             "disneyplus_id": "8de216fa-ab27-4068-abba-7b3d64888854",
             "simpsonsworld_id": 273024579646,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Kelsey Grammer"
+            ]
         },
         {
             "title": "Eeny Teeny Maya Moe",
@@ -6826,7 +7012,9 @@
             "disneyplus_id": "ba710d3f-9c05-4213-9311-ea4d6ae60d7c",
             "simpsonsworld_id": 273057347598,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Anne Hathaway"
+            ]
         },
         {
             "title": "Father Knows Worst",
@@ -6852,7 +7040,10 @@
             "disneyplus_id": "236d3723-c091-4c65-9147-fd39dd2183bb",
             "simpsonsworld_id": 299732035764,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Elliot Page",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Four Great Women and a Manicure",
@@ -6865,7 +7056,9 @@
             "disneyplus_id": "1cf52f6d-4c3e-45d1-81d0-294bb257f1c8",
             "simpsonsworld_id": 273732163923,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jodie Foster"
+            ]
         },
         {
             "title": "Coming To Homerica",
@@ -6891,7 +7084,11 @@
             "disneyplus_id": "88af7df7-b6fc-410e-9e07-92dda4a29a47",
             "simpsonsworld_id": 250297923589,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Seth Rogen",
+                "Matt Groening",
+                "Kevin Michael Richardson"
+            ]
         },
         {
             "title": "Bart Gets A 'Z'",
@@ -6917,7 +7114,9 @@
             "disneyplus_id": "2388825f-aab3-4dd2-8661-592808bf85bc",
             "simpsonsworld_id": 250299971833,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Chuck Liddell"
+            ]
         },
         {
             "title": "Treehouse of Horror XX",
@@ -6956,7 +7155,9 @@
             "disneyplus_id": "564a90ff-acea-4ef1-98f4-c3014b817f9f",
             "simpsonsworld_id": 792414787985,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jonah Hill"
+            ]
         },
         {
             "title": "Rednecks and Broomsticks",
@@ -6969,7 +7170,9 @@
             "disneyplus_id": "7e3a408b-0351-4058-92fe-573098060e2a",
             "simpsonsworld_id": 250307139830,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Neve Campbell"
+            ]
         },
         {
             "title": "O Brother, Where Bart Thou?",
@@ -6982,7 +7185,16 @@
             "disneyplus_id": "82a1a502-53a6-4c94-be36-3db8a55d12a3",
             "simpsonsworld_id": 250311235599,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Peyton Manning",
+                "Eli Manning",
+                "Cooper Manning",
+                "Tom Smothers",
+                "Dick Smothers",
+                "Kim Cattrall",
+                "Huell Howser",
+                "Jordan Nagai"
+            ]
         },
         {
             "title": "Thursdays with Abie",
@@ -6995,7 +7207,9 @@
             "disneyplus_id": "5837bd57-dcbb-4658-9bee-071dcfb532db",
             "simpsonsworld_id": 250369603964,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Mitch Albom"
+            ]
         },
         {
             "title": "Once Upon A Time in Springfield",
@@ -7008,7 +7222,13 @@
             "disneyplus_id": "93d48c4e-6bcc-4da6-aa24-379f32809368",
             "simpsonsworld_id": 250379331672,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Anne Hathaway",
+                "Jackie Mason",
+                "Eartha Kitt",
+                "Gary Larson",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Million Dollar Maybe",
@@ -7021,7 +7241,9 @@
             "disneyplus_id": "f6b9c035-54ac-4356-9a03-c039dd95ee4c",
             "simpsonsworld_id": 279804995696,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Chris Martin"
+            ]
         },
         {
             "title": "Boy Meets Curl",
@@ -7034,7 +7256,9 @@
             "disneyplus_id": "c9b38de3-fef9-4da6-96ea-9e5b44e3e3ed",
             "simpsonsworld_id": 250385475646,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Bob Costas"
+            ]
         },
         {
             "title": "The Color Yellow",
@@ -7047,7 +7271,9 @@
             "disneyplus_id": "cb0d811d-9959-4641-8ec5-cedd2e07bbb8",
             "simpsonsworld_id": 255100483932,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Wren T. Brown"
+            ]
         },
         {
             "title": "Postcards From the Wedge",
@@ -7073,7 +7299,10 @@
             "disneyplus_id": "f41d6853-3d30-4749-9b15-3553be80418b",
             "simpsonsworld_id": 250397251688,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Sarah Silverman",
+                "Angela Bassett"
+            ]
         },
         {
             "title": "The Greatest Story Ever D'ohed",
@@ -7086,7 +7315,10 @@
             "disneyplus_id": "c700ad86-11bd-4a7b-8a66-b1871c47173b",
             "simpsonsworld_id": 279809091713,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Sacha Baron Cohen",
+                "Yael Naim"
+            ]
         },
         {
             "title": "American History X-cellent",
@@ -7099,7 +7331,10 @@
             "disneyplus_id": "51b45e30-b646-4b83-91a4-81422d38f972",
             "simpsonsworld_id": 250508867924,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Joe Mantegna",
+                "Kevin Michael Richardson"
+            ]
         },
         {
             "title": "Chief of Hearts",
@@ -7112,7 +7347,11 @@
             "disneyplus_id": "19d92204-1f6f-46b1-96fe-36118aaf1fce",
             "simpsonsworld_id": 250515523850,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jane Maczmarek",
+                "Maurice LaMarche",
+                "Joe Mantegna"
+            ]
         },
         {
             "title": "The Squirt and the Whale",
@@ -7138,7 +7377,9 @@
             "disneyplus_id": "f675cbf8-c051-4be9-a2d7-fbf3752afd40",
             "simpsonsworld_id": 250523203904,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Eddie Izzard"
+            ]
         },
         {
             "title": "Moe Letter Blues",
@@ -7151,7 +7392,9 @@
             "disneyplus_id": "7a2a3403-6a37-4cf3-ae36-c6eb364abebd",
             "simpsonsworld_id": 250592323527,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Richard Ridings"
+            ]
         },
         {
             "title": "The Bob Next Door",
@@ -7164,7 +7407,9 @@
             "disneyplus_id": "1c755dcb-64db-43ea-9444-d03e1fecf09e",
             "simpsonsworld_id": 250531907855,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Kelsey Grammer"
+            ]
         },
         {
             "title": "Judge Me Tender",
@@ -7177,7 +7422,14 @@
             "disneyplus_id": "735f75cf-d156-40f7-b2d0-893a32eb59a4",
             "simpsonsworld_id": 255074883631,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Simon Cowell",
+                "Randy Jackson",
+                "Ellen DeGeneres",
+                "Kara DioGuardi",
+                "Rupert Murdoch",
+                "Ryan Searcrest"
+            ]
         },
         {
             "title": "Elementary School Musical",
@@ -7190,7 +7442,15 @@
             "disneyplus_id": "38dc78b3-ee05-4b9d-9faf-324e06a3bb5c",
             "simpsonsworld_id": 263519811935,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jermaine Clement",
+                "Bret McKenzie",
+                "Lea Michele",
+                "Cory Monteith",
+                "Amber Riley",
+                "Ira Glass",
+                "Stephen Hawking"
+            ]
         },
         {
             "title": "Loan-A-Lisa",
@@ -7203,7 +7463,11 @@
             "disneyplus_id": "02203562-d301-496c-af82-b940db82b457",
             "simpsonsworld_id": 263525955686,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Mark Zuckerberg",
+                "Chris Hansen",
+                "Muhammad Yunus"
+            ]
         },
         {
             "title": "Money Bart",
@@ -7216,7 +7480,10 @@
             "disneyplus_id": "15c14d56-e9f6-4f1c-9ebd-3c9f38710b0d",
             "simpsonsworld_id": 263531587720,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Mike Scioscia",
+                "Bill James"
+            ]
         },
         {
             "title": "Treehouse of Horror XXI",
@@ -7229,7 +7496,10 @@
             "disneyplus_id": "bb65a800-5f8d-4847-84a8-ec68a9ab9293",
             "simpsonsworld_id": 263577155794,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Daniel Radcliffe",
+                "Hugh Laurie"
+            ]
         },
         {
             "title": "Lisa Simpson, This Isn't Your Life",
@@ -7268,7 +7538,10 @@
             "disneyplus_id": "356e17bb-0256-4ed9-a099-2440629b232a",
             "simpsonsworld_id": 263545923923,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Danica Patrick",
+                "Rachel Weisz"
+            ]
         },
         {
             "title": "The Fight Before Christmas",
@@ -7281,7 +7554,10 @@
             "disneyplus_id": "3f4c7660-b103-4f5e-8f3c-1f0294d6b8b0",
             "simpsonsworld_id": 263551043814,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Martha Stewart",
+                "Katy Perry"
+            ]
         },
         {
             "title": "Donnie Fatso",
@@ -7294,7 +7570,10 @@
             "disneyplus_id": "e10fee5e-a7af-44b5-abd3-4b77d384d0e7",
             "simpsonsworld_id": 263572035826,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jon Hamm",
+                "Joe Mantegna"
+            ]
         },
         {
             "title": "Moms I'd Like To Forget",
@@ -7320,7 +7599,11 @@
             "disneyplus_id": "05b20286-fb1c-4d57-864b-d1ec3bfeb7cf",
             "simpsonsworld_id": 263579715535,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Alyson Hannigan",
+                "Kristen Wiig",
+                "Scott Thompson"
+            ]
         },
         {
             "title": "Homer the Father",
@@ -7333,7 +7616,12 @@
             "disneyplus_id": "de9cd73b-cd99-4706-b804-ef09beb797d5",
             "simpsonsworld_id": 256851523744,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "James Lipton",
+                "David Mamet",
+                "Michael Paul Chan",
+                "Garry Marshall"
+            ]
         },
         {
             "title": "The Blue and the Gray",

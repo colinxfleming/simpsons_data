@@ -11,7 +11,7 @@ episodes:
   disneyplus_id: 38dc78b3-ee05-4b9d-9faf-324e06a3bb5c
   simpsonsworld_id: 263519811935
   good: maybe
-  guest_stars:
+  guest_stars: ["Jermaine Clement", "Bret McKenzie", "Lea Michele", "Cory Monteith", "Amber Riley", "Ira Glass", "Stephen Hawking"]
 - title: Loan-A-Lisa
   season: 22
   episode: 2
@@ -24,7 +24,7 @@ episodes:
   disneyplus_id: 02203562-d301-496c-af82-b940db82b457
   simpsonsworld_id: 263525955686
   good: maybe
-  guest_stars:
+  guest_stars: ["Mark Zuckerberg", "Chris Hansen", "Muhammad Yunus"]
 - title: Money Bart
   season: 22
   episode: 3
@@ -36,7 +36,7 @@ episodes:
   disneyplus_id: 15c14d56-e9f6-4f1c-9ebd-3c9f38710b0d
   simpsonsworld_id: 263531587720
   good: maybe
-  guest_stars:
+  guest_stars: ["Mike Scioscia", "Bill James"]
 - title: Treehouse of Horror XXI
   season: 22
   episode: 4
@@ -49,7 +49,7 @@ episodes:
   disneyplus_id: bb65a800-5f8d-4847-84a8-ec68a9ab9293
   simpsonsworld_id: 263577155794
   good: false
-  guest_stars:
+  guest_stars: ["Daniel Radcliffe", "Hugh Laurie"]
 - title: Lisa Simpson, This Isn't Your Life
   season: 22
   episode: 5
@@ -62,7 +62,7 @@ episodes:
   disneyplus_id: 6de44acb-aec2-4b25-a004-33b218e68d95
   simpsonsworld_id: 263540291528
   good: maybe
-  guest_stars:
+  guest_stars: null
 - title: The Fool Monty
   season: 22
   episode: 6
@@ -74,7 +74,7 @@ episodes:
   disneyplus_id: a3b8ce07-2d55-4871-8fad-6329dd94e6c7
   simpsonsworld_id: 263544387571
   good: maybe
-  guest_stars:
+  guest_stars: null
 - title: How Munched is that Birdie in the Window?
   season: 22
   episode: 7
@@ -86,7 +86,7 @@ episodes:
   disneyplus_id: 356e17bb-0256-4ed9-a099-2440629b232a
   simpsonsworld_id: 263545923923
   good: maybe
-  guest_stars:
+  guest_stars: ["Danica Patrick", "Rachel Weisz"]
 - title: The Fight Before Christmas
   season: 22
   episode: 8
@@ -99,7 +99,7 @@ episodes:
   disneyplus_id: 3f4c7660-b103-4f5e-8f3c-1f0294d6b8b0
   simpsonsworld_id: 263551043814
   good: maybe
-  guest_stars:
+  guest_stars: ["Martha Stewart", "Katy Perry"]
 - title: Donnie Fatso
   season: 22
   episode: 9
@@ -111,7 +111,7 @@ episodes:
   disneyplus_id: e10fee5e-a7af-44b5-abd3-4b77d384d0e7
   simpsonsworld_id: 263572035826
   good: maybe
-  guest_stars:
+  guest_stars: ["Jon Hamm", "Joe Mantegna"]
 - title: Moms I'd Like To Forget
   season: 22
   episode: 10
@@ -123,7 +123,7 @@ episodes:
   disneyplus_id: b74dda16-c0a0-470f-a1e4-bdbf60934c52
   simpsonsworld_id: 256848451515
   good: maybe
-  guest_stars:
+  guest_stars: null
 - title: Flaming Moe
   season: 22
   episode: 11
@@ -135,7 +135,7 @@ episodes:
   disneyplus_id: 05b20286-fb1c-4d57-864b-d1ec3bfeb7cf
   simpsonsworld_id: 263579715535
   good: maybe
-  guest_stars:
+  guest_stars: ["Alyson Hannigan", "Kristen Wiig", "Scott Thompson"]
 - title: Homer the Father
   season: 22
   episode: 12
@@ -148,7 +148,7 @@ episodes:
   disneyplus_id: de9cd73b-cd99-4706-b804-ef09beb797d5
   simpsonsworld_id: 256851523744
   good: maybe
-  guest_stars:
+  guest_stars: ["James Lipton", "David Mamet", "Michael Paul Chan", "Garry Marshall"]
 - title: The Blue and the Gray
   season: 22
   episode: 13

@@ -229,7 +229,7 @@ episodes:
   description: A British secret agent comes to Springfield in search of a Russian spy.
   disneyplus_id: ced76366-e9b2-4ad5-9783-e0fdb25975b6
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: The Last Barfighter
   season: 32
