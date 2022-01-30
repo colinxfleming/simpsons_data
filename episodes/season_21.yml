@@ -11,7 +11,7 @@ episodes:
   disneyplus_id: 88af7df7-b6fc-410e-9e07-92dda4a29a47
   simpsonsworld_id: 250297923589
   good: false
-  guest_stars:
+  guest_stars: ["Seth Rogen", "Matt Groening", "Kevin Michael Richardson"]
 - title: Bart Gets A 'Z'
   season: 21
   episode: 2
@@ -24,7 +24,7 @@ episodes:
   disneyplus_id: 67d61bfb-23a7-4884-b587-ee93135ddc02
   simpsonsworld_id: 310517315862
   good: false
-  guest_stars:
+  guest_stars: null
 - title: The Great Wife Hope
   season: 21
   episode: 3
@@ -36,7 +36,7 @@ episodes:
   disneyplus_id: 2388825f-aab3-4dd2-8661-592808bf85bc
   simpsonsworld_id: 250299971833
   good: false
-  guest_stars:
+  guest_stars: ["Chuck Liddell"]
 - title: Treehouse of Horror XX
   season: 21
   episode: 4
@@ -49,7 +49,7 @@ episodes:
   disneyplus_id: f38f6b8f-47f4-4d69-aff9-ab3a3094245e
   simpsonsworld_id: 262634051998
   good: false
-  guest_stars:
+  guest_stars: null
 - title: The Devil Wears Nada
   season: 21
   episode: 5
@@ -61,7 +61,7 @@ episodes:
   disneyplus_id: ae2e4f38-dba6-4deb-868a-53d89aedda2d
   simpsonsworld_id: 250304067959
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Pranks and Greens
   season: 21
   episode: 6
@@ -73,7 +73,7 @@ episodes:
   disneyplus_id: 564a90ff-acea-4ef1-98f4-c3014b817f9f
   simpsonsworld_id: 792414787985
   good: maybe
-  guest_stars:
+  guest_stars: ["Jonah Hill"]
 - title: Rednecks and Broomsticks
   season: 21
   episode: 7
@@ -85,7 +85,7 @@ episodes:
   disneyplus_id: 7e3a408b-0351-4058-92fe-573098060e2a
   simpsonsworld_id: 250307139830
   good: maybe
-  guest_stars:
+  guest_stars: ["Neve Campbell"]
 - title: O Brother, Where Bart Thou?
   season: 21
   episode: 8
@@ -97,7 +97,7 @@ episodes:
   disneyplus_id: 82a1a502-53a6-4c94-be36-3db8a55d12a3
   simpsonsworld_id: 250311235599
   good: maybe
-  guest_stars:
+  guest_stars: ["Peyton Manning", "Eli Manning", "Cooper Manning", "Tom Smothers", "Dick Smothers", "Kim Cattrall", "Huell Howser", "Jordan Nagai"]
 - title: Thursdays with Abie
   season: 21
   episode: 9
@@ -109,7 +109,7 @@ episodes:
   disneyplus_id: 5837bd57-dcbb-4658-9bee-071dcfb532db
   simpsonsworld_id: 250369603964
   good: maybe
-  guest_stars:
+  guest_stars: ["Mitch Albom"]
 - title: Once Upon A Time in Springfield
   season: 21
   episode: 10
@@ -121,7 +121,7 @@ episodes:
   disneyplus_id: 93d48c4e-6bcc-4da6-aa24-379f32809368
   simpsonsworld_id: 250379331672
   good: maybe
-  guest_stars:
+  guest_stars: ["Anne Hathaway", "Jackie Mason", "Eartha Kitt", "Gary Larson", "Maurice LaMarche"]
 - title: Million Dollar Maybe
   season: 21
   episode: 11
@@ -133,7 +133,7 @@ episodes:
   disneyplus_id: f6b9c035-54ac-4356-9a03-c039dd95ee4c
   simpsonsworld_id: 279804995696
   good: maybe
-  guest_stars:
+  guest_stars: ["Chris Martin"]
 - title: Boy Meets Curl
   season: 21
   episode: 12
@@ -145,7 +145,7 @@ episodes:
   disneyplus_id: c9b38de3-fef9-4da6-96ea-9e5b44e3e3ed
   simpsonsworld_id: 250385475646
   good: maybe
-  guest_stars:
+  guest_stars: ["Bob Costas"]
 - title: The Color Yellow
   season: 21
   episode: 13
@@ -157,7 +157,7 @@ episodes:
   disneyplus_id: cb0d811d-9959-4641-8ec5-cedd2e07bbb8
   simpsonsworld_id: 255100483932
   good: maybe
-  guest_stars:
+  guest_stars: ["Wren T. Brown"]
 - title: Postcards From the Wedge
   season: 21
   episode: 14
@@ -170,7 +170,7 @@ episodes:
   disneyplus_id: 6b41ad4a-fc4e-460f-a2e0-790773a93b7b
   simpsonsworld_id: 250390595937
   good: maybe
-  guest_stars:
+  guest_stars: null
 - title: Stealing First Base
   season: 21
   episode: 15
@@ -182,7 +182,7 @@ episodes:
   disneyplus_id: f41d6853-3d30-4749-9b15-3553be80418b
   simpsonsworld_id: 250397251688
   good: maybe
-  guest_stars:
+  guest_stars: ["Sarah Silverman", "Angela Bassett"]
 - title: The Greatest Story Ever D'ohed
   season: 21
   episode: 16
@@ -195,7 +195,7 @@ episodes:
   disneyplus_id: c700ad86-11bd-4a7b-8a66-b1871c47173b
   simpsonsworld_id: 279809091713
   good: maybe
-  guest_stars:
+  guest_stars: ["Sacha Baron Cohen", "Yael Naim"]
 - title: American History X-cellent
   season: 21
   episode: 17
@@ -208,7 +208,7 @@ episodes:
   disneyplus_id: 51b45e30-b646-4b83-91a4-81422d38f972
   simpsonsworld_id: 250508867924
   good: maybe
-  guest_stars:
+  guest_stars: ["Joe Mantegna", "Kevin Michael Richardson"]
 - title: Chief of Hearts
   season: 21
   episode: 18
@@ -220,7 +220,7 @@ episodes:
   disneyplus_id: 19d92204-1f6f-46b1-96fe-36118aaf1fce
   simpsonsworld_id: 250515523850
   good: maybe
-  guest_stars:
+  guest_stars: ["Jane Maczmarek", "Maurice LaMarche", "Joe Mantegna"]
 - title: The Squirt and the Whale
   season: 21
   episode: 19
@@ -231,7 +231,7 @@ episodes:
   disneyplus_id: 5018ece6-0256-4692-b13a-ff3aa9b07aed
   simpsonsworld_id: 250519619700
   good: maybe
-  guest_stars:
+  guest_stars: null
 - title: To Surveil With Love
   season: 21
   episode: 20
@@ -244,7 +244,7 @@ episodes:
   disneyplus_id: f675cbf8-c051-4be9-a2d7-fbf3752afd40
   simpsonsworld_id: 250523203904
   good: maybe
-  guest_stars:
+  guest_stars: ["Eddie Izzard"]
 - title: Moe Letter Blues
   season: 21
   episode: 21
@@ -256,7 +256,7 @@ episodes:
   disneyplus_id: 7a2a3403-6a37-4cf3-ae36-c6eb364abebd
   simpsonsworld_id: 250592323527
   good: maybe
-  guest_stars:
+  guest_stars: ["Richard Ridings"]
 - title: The Bob Next Door
   season: 21
   episode: 22
@@ -268,7 +268,7 @@ episodes:
   disneyplus_id: 1c755dcb-64db-43ea-9444-d03e1fecf09e
   simpsonsworld_id: 250531907855
   good: maybe
-  guest_stars:
+  guest_stars: ["Kelsey Grammer"]
 - title: Judge Me Tender
   season: 21
   episode: 23
@@ -281,4 +281,4 @@ episodes:
   disneyplus_id: 735f75cf-d156-40f7-b2d0-893a32eb59a4
   simpsonsworld_id: 255074883631
   good: maybe
-  guest_stars:
+  guest_stars: ["Simon Cowell", "Randy Jackson", "Ellen DeGeneres", "Kara DioGuardi", "Rupert Murdoch", "Ryan Searcrest"]
