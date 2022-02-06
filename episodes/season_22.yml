@@ -3,7 +3,7 @@ episodes:
 - title: Elementary School Musical
   season: 22
   episode: 1
-  release_date:
+  release_date: 2010-09-26
   directors:
   writers:
   description: Lisa attends a performing arts camp; Krusty stands trial in The Hague
@@ -15,7 +15,7 @@ episodes:
 - title: Loan-A-Lisa
   season: 22
   episode: 2
-  release_date:
+  release_date: 2010-10-03
   directors:
   writers:
   description: Lisa donates money to a microfinance bank to help Nelson's custom bicycle
@@ -110,7 +110,7 @@ episodes:
     of mobster Fat Tony as part of the FBI's efforts to break up his crime syndicate.
   disneyplus_id: e10fee5e-a7af-44b5-abd3-4b77d384d0e7
   simpsonsworld_id: 263572035826
-  good: maybe
+  good: false
   guest_stars: ["Jon Hamm", "Joe Mantegna"]
 - title: Moms I'd Like To Forget
   season: 22
@@ -172,7 +172,7 @@ episodes:
     short film, Homer hogs the spotlight... much to Bart's dismay.
   disneyplus_id: d9470465-3363-4914-bc9b-ebf02c34d164
   simpsonsworld_id: 254814275630
-  good: maybe
+  good: true
   guest_stars:
 - title: The Scorpion's Tale
   season: 22

@@ -4,8 +4,8 @@ episodes:
   season: 18
   episode: 1
   release_date: 2006-09-10
-  directors:
-  writers:
+  directors: ["Michael Marcantel"]
+  writers: ["Bill Odenkirk"]
   description: Lisa befriends the son of mobster Fat Tony, whose dream is to become
     a chef; Homer and Bart take over the 'family business' after Fat Tony is gunned
     down.
@@ -17,8 +17,8 @@ episodes:
   season: 18
   episode: 2
   release_date: 2006-09-17
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Daniel Chun"]
   description: Lisa grows jealous after Bart discovers he's a talented jazz drummer;
     Lisa hides some stray animals in the attic.
   disneyplus_id: ad3773ea-555e-4c7c-ad33-19dd12e2543a
@@ -29,8 +29,8 @@ episodes:
   season: 18
   episode: 3
   release_date: 2006-09-24
-  directors:
-  writers:
+  directors: ["Mike B. Anderson", "Ralpha Sosa"]
+  writers: ["Matt Warburton"]
   description: Marge starts her own carpentry business, only to discover that men
     don't trust a woman to do the job; Bart discovers that Skinner is allergic to
     peanuts.
@@ -43,7 +43,7 @@ episodes:
   episode: 4
   release_date: 2006-11-05
   directors: ["David Silverman", "Matthew Faughnan"]
-  writers:
+  writers: ["Peter Gaffney"]
   description: 'The Simpsons appear in three tales of horror: Homer turns into a rampaging
     blob; a creature from Jewish folklore does Bart''s bidding; a radio broadcast
     convinces townspeople they''re being invaded by aliens.'

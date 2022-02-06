@@ -3,7 +3,7 @@ episodes:
 - title: Treehouse of Horror XII
   season: 13
   episode: 1
-  release_date:
+  release_date: 2001-11-06
   directors:
   writers:
   description: On Halloween, the Simpsons are menaced by a computer controlling an
@@ -16,7 +16,7 @@ episodes:
 - title: The Parent Rap
   season: 13
   episode: 2
-  release_date:
+  release_date: 2001-11-11
   directors:
   writers:
   description: A stern judge rules that Homer and Bart are to be tethered together,
@@ -29,7 +29,7 @@ episodes:
 - title: Homer the Moe
   season: 13
   episode: 3
-  release_date:
+  release_date: 2001-11-18
   directors:
   writers:
   description: Moe turns the bar into a pretentious hang-out for Springfield's 'beautiful
@@ -41,7 +41,7 @@ episodes:
 - title: Hunka Hunka Burns in Love
   season: 13
   episode: 4
-  release_date:
+  release_date: 2001-12-02
   directors:
   writers:
   description: When Mr. Burns falls for an attractive traffic cop many years his junior,
@@ -53,7 +53,7 @@ episodes:
 - title: The Blunder Years
   season: 13
   episode: 5
-  release_date:
+  release_date: 2001-12-09
   directors:
   writers:
   description: When placed under hypnosis, Homer struggles with a repressed memory-which
@@ -65,7 +65,7 @@ episodes:
 - title: She of Little Faith
   season: 13
   episode: 6
-  release_date:
+  release_date: 2001-12-16
   directors:
   writers:
   description: As Christmas approaches... Lisa searches for a new religion after Mr.
@@ -77,7 +77,7 @@ episodes:
 - title: Brawl in the Family
   season: 13
   episode: 7
-  release_date:
+  release_date: 2002-01-06
   directors:
   writers:
   description: A social worker attempts to transform the family into a functional,
@@ -89,7 +89,7 @@ episodes:
 - title: Sweets and Sour Marge
   season: 13
   episode: 8
-  release_date:
+  release_date: 2002-01-20
   directors:
   writers:
   description: After Springfield wins the title of World's Fattest Town, Marge launches
@@ -101,7 +101,7 @@ episodes:
 - title: Jaws Wired Shut
   season: 13
   episode: 9
-  release_date:
+  release_date: 2002-01-27
   directors:
   writers:
   description: When Homer has to have his jaw wired shut, he discovers the joys of
@@ -113,7 +113,7 @@ episodes:
 - title: Half-Decent Proposal
   season: 13
   episode: 10
-  release_date:
+  release_date: 2002-02-10
   directors:
   writers:
   description: Marge's ex-boyfriend, now one of the world's richest men, offers Homer
@@ -126,7 +126,7 @@ episodes:
 - title: The Bart Wants What It Wants
   season: 13
   episode: 11
-  release_date:
+  release_date: 2002-02-17
   directors:
   writers:
   description: Bart travels to Canada to win back the heart of Rainier Wolfcastle's
@@ -138,7 +138,7 @@ episodes:
 - title: The Lastest Gun in the West
   season: 13
   episode: 12
-  release_date:
+  release_date: 2002-02-24
   directors:
   writers:
   description: Bart befriends an aging movie cowboy who begins drinking heavily when
@@ -150,7 +150,7 @@ episodes:
 - title: The Old Man and the Key
   season: 13
   episode: 13
-  release_date:
+  release_date: 2002-03-10
   directors:
   writers:
   description: In an effort to win a date with a beautiful new resident at the nursing
@@ -163,7 +163,7 @@ episodes:
 - title: Tales From the Public Domain
   season: 13
   episode: 14
-  release_date:
+  release_date: 2002-03-17
   directors:
   writers:
   description: 'The Simpsons appear as characters in three classic tales: Homer as
@@ -176,7 +176,7 @@ episodes:
 - title: Blame it on Lisa
   season: 13
   episode: 15
-  release_date:
+  release_date: 2002-03-31
   directors:
   writers:
   description: When the Simpsons fly to Brazil to locate a missing orphan that Lisa
