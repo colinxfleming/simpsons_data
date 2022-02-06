@@ -20,7 +20,7 @@ episodes:
   description: Homer and Marge go on an amazing race type show where they are eliminated immediately.
   disneyplus_id: 7c3f3732-8a93-4a58-ab07-f658a8b5ff65
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: My Way or the Highway to Heaven
   season: 30
