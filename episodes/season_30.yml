@@ -20,7 +20,7 @@ episodes:
   description: Homer and Marge go on an amazing race type show where they are eliminated immediately.
   disneyplus_id: 7c3f3732-8a93-4a58-ab07-f658a8b5ff65
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: My Way or the Highway to Heaven
   season: 30
@@ -86,7 +86,7 @@ episodes:
   description: Homer becomes an internet recapper while Krusty joins the circus.
   disneyplus_id: b5aeb3d3-3cc3-4e91-a32a-1b33b683b4f9
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: Daddicus Finch
   season: 30
@@ -97,7 +97,7 @@ episodes:
   description: Lisa reads "To Kill a Mockingbird" and observes similarities between her dad and Atticus Finch.
   disneyplus_id: 057a8476-019d-4196-8601-38ba7aa0fcad
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: "'Tis the 30th Season"
   season: 30
@@ -152,7 +152,7 @@ episodes:
   description: On a podcast Krusty discusses a lost film he made in the ‘80s.
   disneyplus_id: d3a79e2f-0900-427d-8a99-aed99216af5c
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: 101 Mitigations
   season: 30
@@ -196,7 +196,7 @@ episodes:
   description: Bart is upset to learn there is a new, all-girl version of Itchy and Scratchy.
   disneyplus_id: 8b656b44-85db-4ecd-bae5-a3258eb8e9f6
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: Girl's in the Band
   season: 30
@@ -207,7 +207,7 @@ episodes:
   description: Lisa joins an advanced youth orchestra in Capital City, throwing the family’s lives into havoc.
   disneyplus_id: df2fda5d-4585-424a-a2d5-35a4a5178067
   simpsonsworld_id:
-  good: maybe
+  good: true
   guest_stars:
 - title: I'm Just a Girl Who Can't Say D'oh
   season: 30
@@ -240,7 +240,7 @@ episodes:
   description: $600 theft rocks the Simpson home. A local TV crime show attempts to crack it to no avail.
   disneyplus_id: 106f5152-8b8a-497c-a823-b10e809f717e
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: Crystal Blue-Haired Persuasion
   season: 30
@@ -251,5 +251,5 @@ episodes:
   description: Marge sells crystals and makes a fortune.
   disneyplus_id: 553af900-6995-420a-8230-61ae64ca9c9a
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:

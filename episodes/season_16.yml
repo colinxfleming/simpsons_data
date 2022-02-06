@@ -3,234 +3,234 @@ episodes:
 - title: Treehouse of Horror XV
   season: 16
   episode: 1
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-11-07
+  directors: ["David Silverman"]
+  writers: ["Bill Odenkirk"]
   description: On Halloween... Flanders can predict when people will die; in Victorian
     London, Lisa and Bart hunt for a killer; the Simpsons take a fantastic voyage
     after Mr. Burns swallows a miniaturized Maggie.
   disneyplus_id:
   simpsonsworld_id: 256741955834
   good: true
-  guest_stars:
+  guest_stars: null
 - title: All's Fair in Oven War
   season: 16
   episode: 2
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-11-14
+  directors: ["Mark Kirkland"]
+  writers: ["Matt Selman"]
   description: Marge enters a bakeoff competition, but ends up sabotaging the other
     entries; Bart decides to live the life of a swinger after discovering Playdude
     magazine.
   disneyplus_id:
   simpsonsworld_id: 257840195722
   good: false
-  guest_stars:
+  guest_stars: ["Thomas Pynchon", "James Caan"]
 - title: Sleeping with the Enemy
   season: 16
   episode: 3
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-11-21
+  directors: ["Lauren MacMullan"]
+  writers: ["Jon Vitti"]
   description: Lisa becomes self-conscious about her weight after kids at school make
     fun of her posterior;  Marge takes bully Nelson Muntz under her wing ... much
     to Bart's horror.
   disneyplus_id:
   simpsonsworld_id: 256764995911
   good: false
-  guest_stars:
+  guest_stars: null
 - title: She Used to Be My Girl
   season: 16
   episode: 4
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-12-05
+  directors: ["Matthew Nastuk"]
+  writers: ["Tim Long"]
   description: Marge wonders if she made the right choices in life after she encounters
     a successful high school classmate who has traveled the world as a television
     news reporter.
   disneyplus_id:
   simpsonsworld_id: 256753731544
   good: false
-  guest_stars:
+  guest_stars: ["Kim Cattrall"]
 - title: Fat Man and Little Boy
   season: 16
   episode: 5
-  release_date:
-  directors:
-  writers:
+  release_date: 2004-12-12
+  directors: ["Mike B. Anderson"]
+  writers: ["Joel H. Cohen"]
   description: Homer builds a nuclear reactor for Lisa's science project; Bart makes
     money creating his own line of t-shirts.
   disneyplus_id:
   simpsonsworld_id: 256759363799
   good: false
-  guest_stars:
+  guest_stars: ["Eric Idle"]
 - title: Midnight Rx
   season: 16
   episode: 6
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-01-16
+  directors: ["Nancy Kruse"]
+  writers: ["Marc Wilmore"]
   description: Homer and Grampa smuggle drugs out of Canada after Mr. Burns terminates
     his company's employee prescription drug program.
   disneyplus_id:
   simpsonsworld_id: 1094235715818
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Mommie Beerest
   season: 16
   episode: 7
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-01-30
+  directors: ["Mark Kirkland"]
+  writers: ["Michael Price"]
   description: Homer mortgages his house to save Moe's bar, but Marge ends up taking
     control of the business and spends so much time with Moe that Homer fears his
     marriage is in trouble.
   disneyplus_id:
   simpsonsworld_id: 256807491582
   good: false
-  guest_stars:
+  guest_stars: null
 - title: Homer and Ned's Hail Mary Pass
   season: 16
   episode: 8
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-02-06
+  directors: ["Steven Dean Moore"]
+  writers: ["Tim Long"]
   description: After teaching famous athletes some victory dance moves, Homer is chosen
     to produce the Super Bowl half-time show; Flanders makes a movie featuring violent
     reenactments of biblical events.
   disneyplus_id:
   simpsonsworld_id: 256813635887
   good: false
-  guest_stars:
+  guest_stars: ["Tom Brady", "LeBron James", "Michelle Kwan", "Yao Ming", "Warren Sapp"]
 - title: Pranksta Rap
   season: 16
   episode: 9
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-02-13
+  directors: ["Mike B. Anderson"]
+  writers: ["Matt Selman"]
   description: After sneaking off to a rap concert, Bart fakes his own kidnapping
     and inadvertently implicates Milhouse's father in the 'crime.'
   disneyplus_id:
   simpsonsworld_id: 256798275935
   good: false
-  guest_stars:
+  guest_stars: ["50 Cent", "Dana Gould"]
 - title: There's Something About Marrying
   season: 16
   episode: 10
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-02-20
+  directors: ["Nancy Kruse"]
+  writers: ["J. Stewart Burns"]
   description: When tourists shun Springfield, the town legalizes gay marriage in
     hopes of reversing the dire economic slowdown - and Homer makes money by becoming
     an ordained minister.
   disneyplus_id:
   simpsonsworld_id: 256822339660
   good: false
-  guest_stars:
+  guest_stars: null
 - title: On a Clear Day I Can't See My Sister
   season: 16
   episode: 11
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-03-06
+  directors: ["Bob Anderson"]
+  writers: ["Jeff Westbrook"]
   description: After Bart torments his sister during a school field trip, Lisa gets
     a restraining order; Homer takes a job as a greeter at a local mega-store.
   disneyplus_id:
   simpsonsworld_id: 256825923849
   good: false
-  guest_stars:
+  guest_stars: ["Gary Busey", "Jane Maczmarek"]
 - title: Goo Goo Gai Pan
   season: 16
   episode: 12
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-03-13
+  directors: ["Lance Kramer"]
+  writers: ["Dana Gould"]
   description: Homer pretends to be Selma's husband when Selma travels to China to
     adopt a baby.
   disneyplus_id:
   simpsonsworld_id: 264432707575
   good: false
-  guest_stars:
+  guest_stars: ["Robert Wagner", "Lucy Liu"]
 - title: Mobile Homer
   season: 16
   episode: 13
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-03-20
+  directors: ["Raymond S. Persi"]
+  writers: ["Tim Long"]
   description: Bart and Lisa attempt to save Homer and Marge's marriage after Homer
     spends the family's savings on a recreational vehicle.
   disneyplus_id:
   simpsonsworld_id: 264432707841
   good: false
-  guest_stars:
+  guest_stars: null
 - title: The Seven-Beer Snitch
   season: 16
   episode: 14
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-04-03
+  directors: ["Matthew Nastuk"]
+  writers: ["Bill Odenkirk"]
   description: Homer becomes a prison snitch after he's convicted of breaking an outdated
     law; Lisa and Bart discover that Snowball II has a secret life.
   disneyplus_id:
   simpsonsworld_id: 260844611804
   good: true
-  guest_stars:
+  guest_stars: ["Frank Gehry", "Charles Napier", "Joe Mantegna"]
 - title: Future-Drama
   season: 16
   episode: 15
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-04-17
+  directors: ["Mike B. Anderson"]
+  writers: ["Matt Selman"]
   description: Using Professor Frink's astrological projection machine, Bart and Lisa
     peer into the future, where Bart breaks Lisa's heart by taking away her scholarship
     to Yale.
   disneyplus_id:
   simpsonsworld_id: 260841027999
   good: false
-  guest_stars:
+  guest_stars: ["Amy Poehler", "John DiMaggio"]
 - title: Don't Fear the Roofer
   season: 16
   episode: 16
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-05-01
+  directors: ["Mark Kirkland"]
+  writers: ["Kevin Curran"]
   description: Homer ends up in a mental institution after Marge grows convinced the
     contractor he befriended is a figment of his imagination; Marge allows Santa's
     Little Helper to stay at Grampa's retirement home.
   disneyplus_id:
   simpsonsworld_id: 260835395771
   good: false
-  guest_stars:
+  guest_stars: ["Stephen Hawking", "Ray Romano"]
 - title: The Heartbroke Kid
   season: 16
   episode: 17
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-05-01
+  directors: ["Steven Dean Moore"]
+  writers: ["Ian Maxtone-Graham"]
   description: Bart has a heart attack after he becomes addicted to junk food; the
     Simpsons turn the house into a youth hostel, which is soon overrun by German backpackers.
   disneyplus_id:
   simpsonsworld_id: 264207427808
   good: false
-  guest_stars:
+  guest_stars: ["Albert Brooks"]
 - title: A Star is Torn
   season: 16
   episode: 18
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-05-08
+  directors: ["Nancy Kruse"]
+  writers: ["Carolyn Omine"]
   description: Homer behaves like a domineering stage mom after Lisa achieves fame
     by appearing in a singing competition on The Krusty the Clown Show.
   disneyplus_id:
   simpsonsworld_id: 264212035982
   good: false
-  guest_stars:
+  guest_stars: ["Fantasia Barrino"]
 - title: Thank God It's Doomsday
   season: 16
   episode: 19
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-05-08
+  directors: ["Michael Marcantel"]
+  writers: ["Don Payne"]
   description: Homer is declared a prophet after he convinces everyone in town that
     the end of the world is at hand.
   disneyplus_id:
@@ -240,25 +240,25 @@ episodes:
 - title: The Father, The Son, and The Holy Guest Star
   season: 16
   episode: 20
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-05-15
+  directors: ["Michael Polcino"]
+  writers: ["Matt Warburton"]
   description: After Bart gets expelled, he's enrolled in Catholic school, where he
     befriends a priest who wants to convert him and Homer to Catholicism.
   disneyplus_id:
   simpsonsworld_id: 264455235845
   good: false
-  guest_stars:
+  guest_stars: ["Liam Neeson"]
 - title: Home Away From Homer
   season: 16
   episode: 21
-  release_date:
-  directors:
-  writers:
+  release_date: 2005-05-15
+  directors: ["Bob Anderson"]
+  writers: ["Joel H. Cohen"]
   description: Flanders feels like a fool after sorority girls run an adult Web site
     from his house without his knowledge, so he and the boys move away from Springfield...
     to a town where everyone looks like a Hummel figurine.
   disneyplus_id:
   simpsonsworld_id: 264560707993
   good: false
-  guest_stars:
+  guest_stars: ["Jason Bateman"]

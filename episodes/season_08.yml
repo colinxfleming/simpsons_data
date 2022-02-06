@@ -3,7 +3,7 @@ episodes:
 - title: Treehouse of Horror VII
   season: 8
   episode: 1
-  release_date:
+  release_date: 1996-10-27
   directors:
   writers:
   description: 'The Simpsons appear in three tales of terror: Bart discovers an evil
@@ -16,7 +16,7 @@ episodes:
 - title: You Only Move Twice
   season: 8
   episode: 2
-  release_date:
+  release_date: 1996-11-03
   directors:
   writers:
   description: The Simpsons relocate to another community after Homer unwittingly
@@ -28,7 +28,7 @@ episodes:
 - title: The Homer They Fall
   season: 8
   episode: 3
-  release_date:
+  release_date: 1996-11-10
   directors:
   writers:
   description: Homer becomes a professional boxer when doctors discover he was born
@@ -40,7 +40,7 @@ episodes:
 - title: Burns, Baby Burns
   season: 8
   episode: 4
-  release_date:
+  release_date: 1996-11-17
   directors:
   writers:
   description: With Homer's help, Mr. Burns' long-lost son stages his own kidnapping.
@@ -51,7 +51,7 @@ episodes:
 - title: Bart After Dark
   season: 8
   episode: 5
-  release_date:
+  release_date: 1996-11-24
   directors:
   writers:
   description: While Marge is out of town, Homer allows Bart to work at a burlesque
@@ -63,7 +63,7 @@ episodes:
 - title: A Milhouse Divided
   season: 8
   episode: 6
-  release_date:
+  release_date: 1996-12-01
   directors:
   writers:
   description: When Milhouse's parents get a divorce, Homer grows convinced that his
@@ -75,7 +75,7 @@ episodes:
 - title: Lisa's Date with Density
   season: 8
   episode: 7
-  release_date:
+  release_date: 1996-12-15
   directors:
   writers:
   description: Lisa develops a crush on bully Nelson Muntz.  Homer uses an automatic
@@ -87,7 +87,7 @@ episodes:
 - title: Hurricane Neddy
   season: 8
   episode: 8
-  release_date:
+  release_date: 1996-12-29
   directors:
   writers:
   description: Ned Flanders suffers a breakdown after his home is destroyed by a hurricane.
@@ -98,7 +98,7 @@ episodes:
 - title: El Viaje Misterioso de Nuestro Jomer (The Mysterious Voyage of Homer)
   season: 8
   episode: 9
-  release_date:
+  release_date: 1997-01-05
   directors:
   writers:
   description: After ingesting several Guatemalan peppers during chili cook-off, Homer
@@ -111,7 +111,7 @@ episodes:
 - title: The Springfield Files
   season: 8
   episode: 10
-  release_date:
+  release_date: 1997-01-12
   directors:
   writers:
   description: X-Files Agents Mulder and Scully investigate Homer's encounter with
@@ -123,7 +123,7 @@ episodes:
 - title: The Twisted World of Marge Simpson
   season: 8
   episode: 11
-  release_date:
+  release_date: 1997-01-19
   directors:
   writers:
   description: After being expelled from an investment club, Marge starts her own
@@ -135,7 +135,7 @@ episodes:
 - title: Mountain of Madness
   season: 8
   episode: 12
-  release_date:
+  release_date: 1997-02-02
   directors:
   writers:
   description: Homer and Mr. Burns are buried beneath an avalanche during a survival
@@ -147,7 +147,7 @@ episodes:
 - title: Simpsoncalifragilisticexpiala(Annoyed Grunt)cious
   season: 8
   episode: 13
-  release_date:
+  release_date: 1997-02-07
   directors:
   writers:
   description: The Simpsons hire a Mary Poppins-like nanny when Marge becomes overwhelmed
@@ -159,7 +159,7 @@ episodes:
 - title: The Itchy and Scratchy and Poochie Show
   season: 8
   episode: 14
-  release_date:
+  release_date: 1997-02-09
   directors:
   writers:
   description: When ratings for Itchy & Scratchy cartoons plummet, a studio committee
@@ -172,7 +172,7 @@ episodes:
 - title: Homer's Phobia
   season: 8
   episode: 15
-  release_date:
+  release_date: 1997-02-16
   directors:
   writers:
   description: Homer grows homophobic after he realizes the family's new friend is
@@ -184,7 +184,7 @@ episodes:
 - title: Brother from Another Series
   season: 8
   episode: 16
-  release_date:
+  release_date: 1997-02-23
   directors:
   writers:
   description: Bart fears the worst when Sideshow Bob wins release from prison by
@@ -197,7 +197,7 @@ episodes:
 - title: My Sister, My Sitter
   season: 8
   episode: 17
-  release_date:
+  release_date: 1997-03-02
   directors:
   writers:
   description: Homer and Marge allow Lisa to baby-sit Bart.
@@ -208,7 +208,7 @@ episodes:
 - title: Homer vs. the Eighteenth Amendment
   season: 8
   episode: 18
-  release_date:
+  release_date: 1997-03-16
   directors:
   writers:
   description: Homer turns bootlegger when Springfield enforces an antiquated prohibition
@@ -220,7 +220,7 @@ episodes:
 - title: Grade School Confidential
   season: 8
   episode: 19
-  release_date:
+  release_date: 1997-04-06
   directors:
   writers:
   description: Bart exposes Skinner and Krabappel's clandestine affair.
@@ -231,7 +231,7 @@ episodes:
 - title: The Canine Mutiny
   season: 8
   episode: 20
-  release_date:
+  release_date: 1997-04-13
   directors:
   writers:
   description: Bart gives away Santa's Little Helper so he can keep a fully trained,
@@ -243,7 +243,7 @@ episodes:
 - title: The Old Man and the Lisa
   season: 8
   episode: 21
-  release_date:
+  release_date: 1997-04-20
   directors:
   writers:
   description: Lisa helps Mr. Burns build a recycling center after a series of bad
@@ -255,7 +255,7 @@ episodes:
 - title: In Marge We Trust
   season: 8
   episode: 22
-  release_date:
+  release_date: 1997-04-27
   directors:
   writers:
   description: Marge becomes a church volunteer.  Homer discovers his image printed
@@ -267,7 +267,7 @@ episodes:
 - title: Homer's Enemy
   season: 8
   episode: 23
-  release_date:
+  release_date: 1997-05-04
   directors:
   writers:
   description: A resentful, hard-working employee at the power plant makes Homer his
@@ -279,7 +279,7 @@ episodes:
 - title: The Simpsons Spin-Off Showcase
   season: 8
   episode: 24
-  release_date:
+  release_date: 1997-05-11
   directors:
   writers:
   description: Troy McClure hosts three spin-offs from "The Simpsons" television show.
@@ -290,7 +290,7 @@ episodes:
 - title: The Secret War of Lisa Simpson
   season: 8
   episode: 25
-  release_date:
+  release_date: 1997-05-18
   directors:
   writers:
   description: Cadets give Lisa the "silent treatment" when she enrolls in an all-male

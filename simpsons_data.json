@@ -1690,8 +1690,12 @@
             "season": 6,
             "episode": 1,
             "release_date": "1994-09-04",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Dan McGrath"
+            ],
             "description": "Bart believes he witnessed Ned Flanders murder his wife.  Lisa's popularity soars after her family buys a swimming pool during a heat wave.",
             "disneyplus_id": "e0db43b4-b127-4792-9ba6-caf3fdba9189",
             "simpsonsworld_id": 300925507538,
@@ -1703,8 +1707,12 @@
             "season": 6,
             "episode": 2,
             "release_date": "1994-09-11",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Mike Scully"
+            ],
             "description": "Lisa becomes jealous when she meets a new student who is even more intelligent than herself.  Homer acquires a truckload of white sugar, thinking it will net him a fortune.",
             "disneyplus_id": "3c568ad6-485c-4d21-b020-38c786694561",
             "simpsonsworld_id": 278809667691,
@@ -1716,8 +1724,12 @@
             "season": 6,
             "episode": 3,
             "release_date": "1994-09-25",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "When Marge suspects that romance has gone out of her life, her family recalls romantic encounters from their past.",
             "disneyplus_id": "feda9375-d929-429a-9435-b1cd5d101222",
             "simpsonsworld_id": 300928067775,
@@ -1729,8 +1741,12 @@
             "season": 6,
             "episode": 4,
             "release_date": "1994-10-02",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "The Simpsons visit a theme park based on the gratuitously violent Itchy and Scratchy cartoons.",
             "disneyplus_id": "916ceda9-c787-4d02-9b7f-dc39a0840d5d",
             "simpsonsworld_id": 283752003577,
@@ -1742,8 +1758,13 @@
             "season": 6,
             "episode": 5,
             "release_date": "1994-10-09",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Bill Oakley",
+                "Josh Weinstein"
+            ],
             "description": "Sideshow Bob runs for political office after Mayor Quimby pardons him from prison.",
             "disneyplus_id": "40520eb0-dffb-4f80-bb22-2ddb42f54b0c",
             "simpsonsworld_id": 275729987504,
@@ -1755,8 +1776,15 @@
             "season": 6,
             "episode": 6,
             "release_date": "1994-10-30",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Bob Kushell",
+                "Greg Daniels",
+                "Dan McGrath",
+                "David X. Cohen"
+            ],
             "description": "The Simpsons spin three tales of Halloween horror.",
             "disneyplus_id": "956d5f58-9674-4f76-88de-b113d2318202",
             "simpsonsworld_id": 299597891663,
@@ -1768,8 +1796,12 @@
             "season": 6,
             "episode": 7,
             "release_date": "1994-11-06",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Susie Dietter"
+            ],
+            "writers": [
+                "Jonathan Collier"
+            ],
             "description": "Bart falls in love with Reverend Lovejoy's beautiful daughter, only to discover that she is more of a hellion than he is.",
             "disneyplus_id": "62d263db-6b8c-4654-beda-040484e7235e",
             "simpsonsworld_id": 275744323759,
@@ -1781,8 +1813,12 @@
             "season": 6,
             "episode": 8,
             "release_date": "1994-11-13",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Mike Scully"
+            ],
             "description": "Lisa joins a hockey team and finds herself pitted against Bart in a critical game.",
             "disneyplus_id": "e45f5161-1e73-455f-82ac-48e3d03a7e12",
             "simpsonsworld_id": 275746371575,
@@ -1794,8 +1830,12 @@
             "season": 6,
             "episode": 9,
             "release_date": "1994-11-27",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jeff Lynch"
+            ],
+            "writers": [
+                "Greg Daniels"
+            ],
             "description": "Homer is wrongly accused of committing sexual harassment.",
             "disneyplus_id": "48565484-149b-48f2-a05e-ebcd9b121782",
             "simpsonsworld_id": 275746883653,
@@ -1807,8 +1847,13 @@
             "season": 6,
             "episode": 10,
             "release_date": "1994-12-04",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "Bill Okaley",
+                "Josh Weinstein"
+            ],
             "description": "While selling a homemade tonic guaranteed to increase sexual desire in men, Grampa reveals that Homer's conception was accidental.",
             "disneyplus_id": "7b7cd73e-4de3-40e8-bcbd-f7cee25bfa6f",
             "simpsonsworld_id": 274264643876,
@@ -1820,8 +1865,12 @@
             "season": 6,
             "episode": 11,
             "release_date": "1994-12-18",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Dvid Sacks"
+            ],
             "description": "Marge seeks professional help from a psychiatrist after realizing she is afraid to fly.",
             "disneyplus_id": "8575c33f-e73d-40a8-8fa2-c91b65a9710f",
             "simpsonsworld_id": 305684547546,
@@ -1833,8 +1882,12 @@
             "season": 6,
             "episode": 12,
             "release_date": "1995-01-08",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Homer's popularity skyrockets when he is chosen as the leader of a secret organization.",
             "disneyplus_id": "d02227b3-65fd-4fa1-ad78-3a4d72fe1254",
             "simpsonsworld_id": 275745859881,
@@ -1846,8 +1899,12 @@
             "season": 6,
             "episode": 13,
             "release_date": "1995-01-22",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Swinton O. Scott III"
+            ],
+            "writers": [
+                "Jennifer Crittenden"
+            ],
             "description": "Homer recounts how Maggie's accidental birth changed his life forever.",
             "disneyplus_id": "beb15b6c-0732-45f6-9455-ee8336f45f1d",
             "simpsonsworld_id": 278796867754,
@@ -1859,8 +1916,12 @@
             "season": 6,
             "episode": 14,
             "release_date": "1995-02-05",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Bart discovers a comet that is on a collision course with Springfield.",
             "disneyplus_id": "ab06e7e0-8658-45f0-9e61-49e2a2a3f6cd",
             "simpsonsworld_id": 275746883888,
@@ -1872,8 +1933,12 @@
             "season": 6,
             "episode": 15,
             "release_date": "1995-02-12",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Homer enrolls in a clown college franchised by Krusty the Clown.",
             "disneyplus_id": "30a62635-7272-43d6-887a-d323236b492a",
             "simpsonsworld_id": 279723587611,
@@ -1885,8 +1950,13 @@
             "season": 6,
             "episode": 16,
             "release_date": "1995-02-19",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "Bill Oakley",
+                "Josh Weinstein"
+            ],
             "description": "Bart must apologize to the country of Australia after he tricks a boy from down under into accepting an expensive collect call.",
             "disneyplus_id": "646ad7b7-2623-459e-9544-ded1ccaf6094",
             "simpsonsworld_id": 275748931680,
@@ -1898,8 +1968,12 @@
             "season": 6,
             "episode": 17,
             "release_date": "1995-02-26",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Brent Forrester"
+            ],
             "description": "Homer is forced to borrow money from Patty and Selma after he wipes out the family's savings by investing in pumpkins.",
             "disneyplus_id": "2fa7626b-eabb-46b0-81e5-b9cb333b56f3",
             "simpsonsworld_id": 305686083529,
@@ -1911,8 +1985,12 @@
             "season": 6,
             "episode": 18,
             "release_date": "1995-03-05",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Susie Dietter"
+            ],
+            "writers": [
+                "Ken Keeler"
+            ],
             "description": "Homer grows jealous after Marge asks critic Jay Sherman to co-judge Springfield's film festival.",
             "disneyplus_id": "4f4aaa93-bfde-443c-9024-9cd1f217fced",
             "simpsonsworld_id": 283753539580,
@@ -1924,8 +2002,12 @@
             "season": 6,
             "episode": 19,
             "release_date": "1995-03-19",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Greg Daniels"
+            ],
             "description": "A fortune teller describes how a genteel Englishman will ask for Lisa's hand in marriage in the year 2010.",
             "disneyplus_id": "9708a302-1343-4bbb-ba23-5a96255d8289",
             "simpsonsworld_id": 275751491511,
@@ -1937,8 +2019,12 @@
             "season": 6,
             "episode": 20,
             "release_date": "1995-04-09",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Mike Scully"
+            ],
             "description": "Bart and Lisa attempt to rescue 25 greyhound puppies from Mr. Burns, who wants to use their hides for a new tuxedo.",
             "disneyplus_id": "b598df88-303d-4588-8cdc-08a6a1f1692d",
             "simpsonsworld_id": 278807107855,
@@ -1950,8 +2036,12 @@
             "season": 6,
             "episode": 21,
             "release_date": "1995-04-16",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Swinton O. Scott III"
+            ],
+            "writers": [
+                "Jennifer Crittenden"
+            ],
             "description": "Bart masterminds a teacher's strike, but is humiliated when Marge takes charge of his class.",
             "disneyplus_id": "c00d65d6-2343-4870-bd41-3cbd2660273a",
             "simpsonsworld_id": 294780995610,
@@ -1963,8 +2053,15 @@
             "season": 6,
             "episode": 22,
             "release_date": "1995-04-30",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Mike Reiss",
+                "Al Jean",
+                "Joshua Sternin",
+                "Jeffrey Ventimilia"
+            ],
             "description": "Lisa is saddened by the death of blues great Bleeding Gums Murphy.  Bart ingests a piece of jagged metal while eating Krusty-O cereal.",
             "disneyplus_id": "a1d3d5ef-5c31-422e-8e6e-23f0c8d7dbea",
             "simpsonsworld_id": 275755587777,
@@ -1976,8 +2073,12 @@
             "season": 6,
             "episode": 23,
             "release_date": "1995-05-07",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Jonathan Collier"
+            ],
             "description": "Marge joins the police force.",
             "disneyplus_id": "055a8934-53ff-46e0-bd72-709db2c17b5a",
             "simpsonsworld_id": 305689155572,
@@ -1989,8 +2090,12 @@
             "season": 6,
             "episode": 24,
             "release_date": "1995-05-14",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Brent Forrester"
+            ],
             "description": "Bart and his friends march on Shelbyville when Springfield's lemon tree is stolen by a gang of children from across the border.",
             "disneyplus_id": "02037b88-c8d8-4512-9ca3-08cfe7eba3c6",
             "simpsonsworld_id": 274269763684,
@@ -2002,8 +2107,13 @@
             "season": 6,
             "episode": 25,
             "release_date": "1995-05-21",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jeffrey Lynch"
+            ],
+            "writers": [
+                "Bill Oakley",
+                "Josh Weinstein"
+            ],
             "description": "Just about everyone in Springfield vows to kill Mr. Burns after he cheats the elementary school out of a newly discovered oil well and threatens to block out the sun.",
             "disneyplus_id": "d4c01d16-1512-424e-bb7a-36c11398972f",
             "simpsonsworld_id": 294781507859,
@@ -2014,9 +2124,14 @@
             "title": "Who Shot Mr. Burns? (Part Two)",
             "season": 7,
             "episode": 1,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1995-09-17",
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "Bill Oakley",
+                "Josh Weinstein"
+            ],
             "description": "Lisa aids police with the investigation of the Burns shooting.",
             "disneyplus_id": "af6bd0ea-9f03-4291-9224-de834958b1a1",
             "simpsonsworld_id": 305689667892,
@@ -2027,9 +2142,13 @@
             "title": "Radioactive Man",
             "season": 7,
             "episode": 2,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1995-09-24",
+            "directors": [
+                "Susie Dietter"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Hollywood producers cast Milhouse in a motion picture based on the popular \"Radioactive Man\" comic books.",
             "disneyplus_id": "2895e8ae-b98c-43e8-8da0-8015832768f6",
             "simpsonsworld_id": 305693251940,
@@ -2040,9 +2159,13 @@
             "title": "Home Sweet Homediddly-Dum-Doodily",
             "season": 7,
             "episode": 3,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1995-10-01",
+            "directors": [
+                "Susie Dietter"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "The Flanders gain custody of the Simpson children after welfare workers accuse Homer and Marge of being negligent parents.",
             "disneyplus_id": "85ae1888-ba11-43e6-a617-badff0685aad",
             "simpsonsworld_id": 306174019869,
@@ -2053,9 +2176,13 @@
             "title": "Bart Sells His Soul",
             "season": 7,
             "episode": 4,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1995-10-08",
+            "directors": [
+                "Wesley Archer"
+            ],
+            "writers": [
+                "Greg Daniels"
+            ],
             "description": "Bart sells his soul to Milhouse for five dollars.  Moe transforms his bar into a family restaurant.",
             "disneyplus_id": "9168c65f-2ea7-46de-aef9-14c518a5f597",
             "simpsonsworld_id": 276972099995,
@@ -2066,9 +2193,13 @@
             "title": "Lisa the Vegetarian",
             "season": 7,
             "episode": 5,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1995-10-15",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "David X. Cohen"
+            ],
             "description": "Lisa turns vegetarian after her family visits a petting zoo.",
             "disneyplus_id": "18076697-c44b-4d5d-a4cd-e12fe07b924e",
             "simpsonsworld_id": 276980291592,
@@ -2079,9 +2210,15 @@
             "title": "Treehouse of Horror VI",
             "season": 7,
             "episode": 6,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1995-10-29",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "John Swartzwelder",
+                "Steve Tompkins",
+                "David X. Cohen"
+            ],
             "description": "The Simpsons appear in three horrifying Halloween tales.",
             "disneyplus_id": "384c7808-cd8f-4908-a095-c3fedf955d37",
             "simpsonsworld_id": 310404163601,
@@ -2092,9 +2229,13 @@
             "title": "King-Size Homer",
             "season": 7,
             "episode": 7,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1995-11-05",
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Dan Greaney"
+            ],
             "description": "Homer intentionally gains weight so he can qualify for disability and work at home.",
             "disneyplus_id": "3da929b8-51d7-483b-8007-540faa742efa",
             "simpsonsworld_id": 294786627843,
@@ -2105,9 +2246,13 @@
             "title": "Mother Simpson",
             "season": 7,
             "episode": 8,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1995-11-19",
+            "directors": [
+                "Dominic Polcino"
+            ],
+            "writers": [
+                "Spike Feresten"
+            ],
             "description": "After Homer fakes his own death, his long-thought-deceased mother arrives in Springfield to pay her last respects.",
             "disneyplus_id": "79177d82-52a3-42e0-9f1a-74bebdb70a3b",
             "simpsonsworld_id": 276983875726,
@@ -2118,9 +2263,13 @@
             "title": "Sideshow Bob's Last Gleaming",
             "season": 7,
             "episode": 9,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1995-11-26",
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Sideshow Bob threatens to detonate a nuclear bomb unless television is abolished.",
             "disneyplus_id": "dd578c4e-b966-4039-9154-c49ebfc3fcc7",
             "simpsonsworld_id": 302792771516,
@@ -2131,9 +2280,13 @@
             "title": "The Simpsons 138th Episode Spectacular",
             "season": 7,
             "episode": 10,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1995-12-03",
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Troy McClure hosts this special 138th episode, which includes the first-ever cartoon shorts, trivia questions, and never-before-seen footage.",
             "disneyplus_id": "bf91c3f9-c130-4b40-9c0a-d106bee437da",
             "simpsonsworld_id": 324451395934,
@@ -2144,9 +2297,13 @@
             "title": "Marge Be Not Proud",
             "season": 7,
             "episode": 11,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1995-12-17",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Mike Scully"
+            ],
             "description": "As Christmas approaches, Marge treats Bart like an adult after he is caught shoplifting.",
             "disneyplus_id": "c75d20a0-48e3-4e3f-b420-51b13527decf",
             "simpsonsworld_id": 305669699710,
@@ -2157,9 +2314,13 @@
             "title": "Team Homer",
             "season": 7,
             "episode": 12,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1996-01-07",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Mike Scully"
+            ],
             "description": "Homer reluctantly accepts Mr. Burns into his new bowling league.  Bart causes a student riot by wearing a Mad magazine iron-on prompting Skinner to implement a school dress code.",
             "disneyplus_id": "db3b4bed-0e2b-493b-928a-23a8a3b829d2",
             "simpsonsworld_id": 302792771967,
@@ -2170,9 +2331,13 @@
             "title": "Two Bad Neighbors",
             "season": 7,
             "episode": 13,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1996-01-14",
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "Ken Keeler"
+            ],
             "description": "Former President George Bush and his wife Barbara buy a house across the street from the Simpsons.",
             "disneyplus_id": "6d3f90dd-4441-4a21-873b-2b856aae503c",
             "simpsonsworld_id": 276994115834,
@@ -2183,9 +2348,13 @@
             "title": "Scenes from the Class Struggle in Springfield",
             "season": 7,
             "episode": 14,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1996-02-04",
+            "directors": [
+                "Susie Dietter"
+            ],
+            "writers": [
+                "Jennifer Crittenden"
+            ],
             "description": "The Simpsons apply for membership at a posh country club.",
             "disneyplus_id": "69f3b82f-c910-4c58-a378-cc18fe23587a",
             "simpsonsworld_id": 305694276001,
@@ -2196,9 +2365,14 @@
             "title": "Bart the Fink",
             "season": 7,
             "episode": 15,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1996-02-11",
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Bob Kushell",
+                "John Swartzwelder"
+            ],
             "description": "Krusty is arrested for massive tax fraud after Bart inadvertently exposes his hero's illegal bank account.",
             "disneyplus_id": "22adc89c-f2e8-4380-9d96-bd10defc0ddd",
             "simpsonsworld_id": 301346371709,
@@ -2209,9 +2383,13 @@
             "title": "Lisa the Iconoclast",
             "season": 7,
             "episode": 16,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1996-02-18",
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "Jonathan Collier"
+            ],
             "description": "Lisa discovers that Jebediah Springfield was a vicious pirate. Homer wins the coveted role of town crier in an upcoming parade.",
             "disneyplus_id": "3c98cfc8-ba9f-4dd9-8fdf-9bc0f5f63b8f",
             "simpsonsworld_id": 302796355658,
@@ -2222,9 +2400,13 @@
             "title": "Homer the Smithers",
             "season": 7,
             "episode": 17,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1996-02-25",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Homer acts as Mr. Burns' assistant while Smithers is away on vacation.",
             "disneyplus_id": "c2fc5c37-1407-47bc-a71a-a6fa30688127",
             "simpsonsworld_id": 277248579634,
@@ -2235,9 +2417,13 @@
             "title": "The Day the Violence Died",
             "season": 7,
             "episode": 18,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1996-03-17",
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Bart and Lisa come to the aid of a down-and-out man who claims to have invented the concept of cartoon violence.",
             "disneyplus_id": "cdf89f39-7954-4823-bd0f-e59a508cfd84",
             "simpsonsworld_id": 301668931982,
@@ -2248,9 +2434,13 @@
             "title": "A Fish Called Selma",
             "season": 7,
             "episode": 19,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1996-03-24",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Jack Barth"
+            ],
             "description": "Troy McClure stages a Hollywood comeback when he begins dating Selma.",
             "disneyplus_id": "d479707a-067a-49c9-a707-1360c0e001e1",
             "simpsonsworld_id": 300935235544,
@@ -2261,9 +2451,13 @@
             "title": "Bart on the Road",
             "season": 7,
             "episode": 20,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1996-03-31",
+            "directors": [
+                "Swinton O. Scott III"
+            ],
+            "writers": [
+                "Richard Appel"
+            ],
             "description": "Using a fake driver's license, Bart rents a car and embarks on a Spring Break road trip with his friends.  A special bond develops between Lisa and Homer after Skinner invents Go To Work With Your Parents Day.",
             "disneyplus_id": "e79fc0c4-b737-4bdd-b9e3-74228b08850e",
             "simpsonsworld_id": 277000259951,
@@ -2274,9 +2468,23 @@
             "title": "22 Short Films About Springfield",
             "season": 7,
             "episode": 21,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1996-04-14",
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Richard Appel",
+                "David X. Cohen",
+                "Jonathan Collier",
+                "Jennifer Crittenden",
+                "Greg Daniels",
+                "Brent Forrester",
+                "Rachel Pulido",
+                "Steven Tompkins",
+                "Bill Oakley",
+                "Josh Weinstein",
+                "Matt Groening"
+            ],
             "description": "The lives of Springfield residents are highlighted in a series of interconnecting vignettes.",
             "disneyplus_id": "7a4eea69-f6f0-4361-a043-0282f15c365a",
             "simpsonsworld_id": 299588163608,
@@ -2287,9 +2495,13 @@
             "title": "Raging Abe Simpson and His Grumbling Grandson in 'The Curse of the Flying Hellfish'",
             "season": 7,
             "episode": 22,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1996-04-28",
+            "directors": [
+                "Jeffrey Lynch"
+            ],
+            "writers": [
+                "Jonathan Collier"
+            ],
             "description": "Grampa and Mr. Burns, the last surviving members of a World War II army unit, vie for a priceless collection of rare art hidden in a secret location.",
             "disneyplus_id": "83a53166-960e-4b09-808c-93e6556722bd",
             "simpsonsworld_id": 279728707597,
@@ -2300,9 +2512,13 @@
             "title": "Much Apu About Nothing",
             "season": 7,
             "episode": 23,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1996-05-05",
+            "directors": [
+                "Susie Dietter"
+            ],
+            "writers": [
+                "David X. Cohen"
+            ],
             "description": "Apu faces deportation when a referendum on illegal immigrants is placed on the Springfield ballot.",
             "disneyplus_id": "1195725c-d1c9-4ff1-bd37-0c652fda5309",
             "simpsonsworld_id": 310404675978,
@@ -2313,9 +2529,13 @@
             "title": "Homerpalooza",
             "season": 7,
             "episode": 24,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1996-05-19",
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "Brent Forrester"
+            ],
             "description": "Homer is hired to perform in a rock festival.",
             "disneyplus_id": "75b8b572-9e2d-40b5-8424-5b943d15fd75",
             "simpsonsworld_id": 277008451637,
@@ -2326,9 +2546,13 @@
             "title": "Summer of 4 Ft. 2",
             "season": 7,
             "episode": 25,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1996-05-19",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Dan Greaney"
+            ],
             "description": "While on summer vacation with her family, Lisa sheds her nerdy image in an effort to make new friends.",
             "disneyplus_id": "964b876c-efaa-483f-bf8b-047187608d95",
             "simpsonsworld_id": 277013571573,
@@ -2339,7 +2563,7 @@
             "title": "Treehouse of Horror VII",
             "season": 8,
             "episode": 1,
-            "release_date": null,
+            "release_date": "1996-10-27",
             "directors": null,
             "writers": null,
             "description": "The Simpsons appear in three tales of terror: Bart discovers an evil twin brother living in the attic; Lisa creates a microscopic society; and space aliens transform themselves into Clinton and Dole look-alikes.",
@@ -2352,7 +2576,7 @@
             "title": "You Only Move Twice",
             "season": 8,
             "episode": 2,
-            "release_date": null,
+            "release_date": "1996-11-03",
             "directors": null,
             "writers": null,
             "description": "The Simpsons relocate to another community after Homer unwittingly takes a job with a company controlled by a super-villain.",
@@ -2365,7 +2589,7 @@
             "title": "The Homer They Fall",
             "season": 8,
             "episode": 3,
-            "release_date": null,
+            "release_date": "1996-11-10",
             "directors": null,
             "writers": null,
             "description": "Homer becomes a professional boxer when doctors discover he was born with a unique genetic condition that protects his brain from injury.",
@@ -2378,7 +2602,7 @@
             "title": "Burns, Baby Burns",
             "season": 8,
             "episode": 4,
-            "release_date": null,
+            "release_date": "1996-11-17",
             "directors": null,
             "writers": null,
             "description": "With Homer's help, Mr. Burns' long-lost son stages his own kidnapping.",
@@ -2391,7 +2615,7 @@
             "title": "Bart After Dark",
             "season": 8,
             "episode": 5,
-            "release_date": null,
+            "release_date": "1996-11-24",
             "directors": null,
             "writers": null,
             "description": "While Marge is out of town, Homer allows Bart to work at a burlesque house.",
@@ -2404,7 +2628,7 @@
             "title": "A Milhouse Divided",
             "season": 8,
             "episode": 6,
-            "release_date": null,
+            "release_date": "1996-12-01",
             "directors": null,
             "writers": null,
             "description": "When Milhouse's parents get a divorce, Homer grows convinced that his own marriage is in jeopardy.",
@@ -2417,7 +2641,7 @@
             "title": "Lisa's Date with Density",
             "season": 8,
             "episode": 7,
-            "release_date": null,
+            "release_date": "1996-12-15",
             "directors": null,
             "writers": null,
             "description": "Lisa develops a crush on bully Nelson Muntz.  Homer uses an automatic telephone dialer for an electronic panhandling scheme.",
@@ -2430,7 +2654,7 @@
             "title": "Hurricane Neddy",
             "season": 8,
             "episode": 8,
-            "release_date": null,
+            "release_date": "1996-12-29",
             "directors": null,
             "writers": null,
             "description": "Ned Flanders suffers a breakdown after his home is destroyed by a hurricane.",
@@ -2443,7 +2667,7 @@
             "title": "El Viaje Misterioso de Nuestro Jomer (The Mysterious Voyage of Homer)",
             "season": 8,
             "episode": 9,
-            "release_date": null,
+            "release_date": "1997-01-05",
             "directors": null,
             "writers": null,
             "description": "After ingesting several Guatemalan peppers during chili cook-off, Homer experiences hallucinatory visions that inspire him to find his true soul mate in life.",
@@ -2456,7 +2680,7 @@
             "title": "The Springfield Files",
             "season": 8,
             "episode": 10,
-            "release_date": null,
+            "release_date": "1997-01-12",
             "directors": null,
             "writers": null,
             "description": "X-Files Agents Mulder and Scully investigate Homer's encounter with an alleged extraterrestrial.",
@@ -2469,7 +2693,7 @@
             "title": "The Twisted World of Marge Simpson",
             "season": 8,
             "episode": 11,
-            "release_date": null,
+            "release_date": "1997-01-19",
             "directors": null,
             "writers": null,
             "description": "After being expelled from an investment club, Marge starts her own pretzel franchise.",
@@ -2482,7 +2706,7 @@
             "title": "Mountain of Madness",
             "season": 8,
             "episode": 12,
-            "release_date": null,
+            "release_date": "1997-02-02",
             "directors": null,
             "writers": null,
             "description": "Homer and Mr. Burns are buried beneath an avalanche during a survival trek in the mountains.",
@@ -2495,7 +2719,7 @@
             "title": "Simpsoncalifragilisticexpiala(Annoyed Grunt)cious",
             "season": 8,
             "episode": 13,
-            "release_date": null,
+            "release_date": "1997-02-07",
             "directors": null,
             "writers": null,
             "description": "The Simpsons hire a Mary Poppins-like nanny when Marge becomes overwhelmed by the demands of being a housewife.",
@@ -2508,7 +2732,7 @@
             "title": "The Itchy and Scratchy and Poochie Show",
             "season": 8,
             "episode": 14,
-            "release_date": null,
+            "release_date": "1997-02-09",
             "directors": null,
             "writers": null,
             "description": "When ratings for Itchy & Scratchy cartoons plummet, a studio committee creates a new, hipper character and hires Homer to provide the voice. Presented by FXX.",
@@ -2521,7 +2745,7 @@
             "title": "Homer's Phobia",
             "season": 8,
             "episode": 15,
-            "release_date": null,
+            "release_date": "1997-02-16",
             "directors": null,
             "writers": null,
             "description": "Homer grows homophobic after he realizes the family's new friend is gay.",
@@ -2534,7 +2758,7 @@
             "title": "Brother from Another Series",
             "season": 8,
             "episode": 16,
-            "release_date": null,
+            "release_date": "1997-02-23",
             "directors": null,
             "writers": null,
             "description": "Bart fears the worst when Sideshow Bob wins release from prison by claiming he is a reformed man and is hired by his brother to work on a construction project.",
@@ -2547,7 +2771,7 @@
             "title": "My Sister, My Sitter",
             "season": 8,
             "episode": 17,
-            "release_date": null,
+            "release_date": "1997-03-02",
             "directors": null,
             "writers": null,
             "description": "Homer and Marge allow Lisa to baby-sit Bart.",
@@ -2560,7 +2784,7 @@
             "title": "Homer vs. the Eighteenth Amendment",
             "season": 8,
             "episode": 18,
-            "release_date": null,
+            "release_date": "1997-03-16",
             "directors": null,
             "writers": null,
             "description": "Homer turns bootlegger when Springfield enforces an antiquated prohibition law.",
@@ -2573,7 +2797,7 @@
             "title": "Grade School Confidential",
             "season": 8,
             "episode": 19,
-            "release_date": null,
+            "release_date": "1997-04-06",
             "directors": null,
             "writers": null,
             "description": "Bart exposes Skinner and Krabappel's clandestine affair.",
@@ -2586,7 +2810,7 @@
             "title": "The Canine Mutiny",
             "season": 8,
             "episode": 20,
-            "release_date": null,
+            "release_date": "1997-04-13",
             "directors": null,
             "writers": null,
             "description": "Bart gives away Santa's Little Helper so he can keep a fully trained, blue ribbon Collie.",
@@ -2599,7 +2823,7 @@
             "title": "The Old Man and the Lisa",
             "season": 8,
             "episode": 21,
-            "release_date": null,
+            "release_date": "1997-04-20",
             "directors": null,
             "writers": null,
             "description": "Lisa helps Mr. Burns build a recycling center after a series of bad investments costs the multimillionaire his fortune.",
@@ -2612,7 +2836,7 @@
             "title": "In Marge We Trust",
             "season": 8,
             "episode": 22,
-            "release_date": null,
+            "release_date": "1997-04-27",
             "directors": null,
             "writers": null,
             "description": "Marge becomes a church volunteer.  Homer discovers his image printed on a box of Japanese dish detergent.",
@@ -2625,7 +2849,7 @@
             "title": "Homer's Enemy",
             "season": 8,
             "episode": 23,
-            "release_date": null,
+            "release_date": "1997-05-04",
             "directors": null,
             "writers": null,
             "description": "A resentful, hard-working employee at the power plant makes Homer his enemy.  Bart purchases an abandoned factory for one dollar at a government auction.",
@@ -2638,7 +2862,7 @@
             "title": "The Simpsons Spin-Off Showcase",
             "season": 8,
             "episode": 24,
-            "release_date": null,
+            "release_date": "1997-05-11",
             "directors": null,
             "writers": null,
             "description": "Troy McClure hosts three spin-offs from \"The Simpsons\" television show.",
@@ -2651,7 +2875,7 @@
             "title": "The Secret War of Lisa Simpson",
             "season": 8,
             "episode": 25,
-            "release_date": null,
+            "release_date": "1997-05-18",
             "directors": null,
             "writers": null,
             "description": "Cadets give Lisa the \"silent treatment\" when she enrolls in an all-male military academy.",
@@ -3288,9 +3512,13 @@
             "title": "Beyond Blunderdome",
             "season": 11,
             "episode": 1,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1999-09-26",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Mike Scully"
+            ],
             "description": "Studio executives panic when actor Mel Gibson taps Homer to help him retool his latest film.",
             "disneyplus_id": "51a94205-716d-4276-b609-6bee5ae6e993",
             "simpsonsworld_id": 306906179700,
@@ -3301,9 +3529,13 @@
             "title": "Brother's Little Helper",
             "season": 11,
             "episode": 2,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1999-10-03",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "George Meyer"
+            ],
             "description": "Bart is diagnosed with Attention Deficit Disorder and placed on medication that quells his disruptive behavior.",
             "disneyplus_id": "66fa7298-1240-43a9-bb52-a74dc9ad59ee",
             "simpsonsworld_id": 302833219678,
@@ -3314,9 +3546,13 @@
             "title": "Guess Who's Coming to Criticize Dinner",
             "season": 11,
             "episode": 3,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1999-10-24",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Al Jean"
+            ],
             "description": "Homer becomes the Springfield Shopper's new food critic, but raises the ire of restaurateurs by panning their cooking.",
             "disneyplus_id": "a34950c4-0127-4fba-b78a-1bd91e9ce551",
             "simpsonsworld_id": 306911811691,
@@ -3327,9 +3563,15 @@
             "title": "Treehouse of Horror X",
             "season": 11,
             "episode": 4,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1999-10-31",
+            "directors": [
+                "Pete Michels"
+            ],
+            "writers": [
+                "Donick Cary",
+                "Tim Long",
+                "Ron Hauge"
+            ],
             "description": "Homer's Y2K error plunges the Earth into chaos; Bart and Lisa become superheroes and attempt to save Lucy Lawless from a super-villain; someone terrorizes the family after Marge kills Ned Flanders.",
             "disneyplus_id": "763cd9de-443f-443f-8611-1d34a7d719c9",
             "simpsonsworld_id": 307851843709,
@@ -3340,9 +3582,13 @@
             "title": "E-I-E-I-(Annoyed Grunt)",
             "season": 11,
             "episode": 5,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1999-11-07",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Ian Maxtone-Graham"
+            ],
             "description": "The Simpsons relocate to a farm, where Homer produces a tomato that is highly addictive.",
             "disneyplus_id": "4e4cc6d6-b29e-4c57-8ce2-4fe36f2b2e5b",
             "simpsonsworld_id": 302847555697,
@@ -3353,9 +3599,13 @@
             "title": "Hello Gutter, Hello Fadder",
             "season": 11,
             "episode": 6,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1999-11-14",
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "Al Jean"
+            ],
             "description": "Homer becomes an instant celebrity when he bowls a perfect game.  But when his fame fades away, he lavishes his time on baby Maggie.",
             "disneyplus_id": "676796b5-1bb2-4f80-a6e6-b954950c2c85",
             "simpsonsworld_id": 294762563857,
@@ -3366,9 +3616,13 @@
             "title": "Eight Misbehavin'",
             "season": 11,
             "episode": 7,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1999-11-21",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Matt Selman"
+            ],
             "description": "Apu is driven to the brink when his wife, Manjula, gives birth to octuplets.",
             "disneyplus_id": "634f7da4-8b3a-46c3-b430-76727eb16fef",
             "simpsonsworld_id": 306920003903,
@@ -3379,9 +3633,13 @@
             "title": "Take My Wife, Sleaze",
             "season": 11,
             "episode": 8,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1999-11-28",
+            "directors": [
+                "Neil Affleck"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Homer wins a vintage motorcycle during a dance contest - and attracts the attention of Hell's Satans when he forms his own gang.",
             "disneyplus_id": "8a0511a7-ba04-4454-b63b-28f8916d677c",
             "simpsonsworld_id": 301643843522,
@@ -3392,9 +3650,13 @@
             "title": "Grift of the Magi",
             "season": 11,
             "episode": 9,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "1999-12-19",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Tom Martin"
+            ],
             "description": "As the Christmas holiday approaches... Springfield Elementary closes its doors for financial reasons, only to reopen when a mysterious organization steps in to help.",
             "disneyplus_id": "4dd995c4-c319-418d-99ac-0be2d2687fcc",
             "simpsonsworld_id": 848995395938,
@@ -3405,9 +3667,13 @@
             "title": "Little Big Mom",
             "season": 11,
             "episode": 10,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2000-01-09",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Carolyn Omine"
+            ],
             "description": "Lisa becomes mother-of-the-house when Marge is hospitalized with a broken leg.",
             "disneyplus_id": "a8d8e5e8-bdb5-4f66-b1cc-de7e0bf648c7",
             "simpsonsworld_id": 300903491898,
@@ -3418,9 +3684,13 @@
             "title": "Faith Off",
             "season": 11,
             "episode": 11,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2000-01-16",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Frank Mula"
+            ],
             "description": "Bart believes he has the power to heal the sick.",
             "disneyplus_id": "3f6ee369-ee77-4e31-8bb4-1db00856908a",
             "simpsonsworld_id": 300909123775,
@@ -3431,9 +3701,13 @@
             "title": "The Mansion Family",
             "season": 11,
             "episode": 12,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2000-01-23",
+            "directors": [
+                "Michael Polcino"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "The Simpsons care for Burns' mansion when the billionaire leaves town for a medical exam.",
             "disneyplus_id": "1ea1b7a7-bc53-4895-b7b9-390e6c371fd6",
             "simpsonsworld_id": 279747651734,
@@ -3444,9 +3718,13 @@
             "title": "Saddlesore Galactica",
             "season": 11,
             "episode": 13,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2000-02-06",
+            "directors": [
+                "Lance Kramer"
+            ],
+            "writers": [
+                "Tim Long"
+            ],
             "description": "When Homer and Bart transform a loser racehorse into a champion, rival jockeys threaten revenge.",
             "disneyplus_id": "472ef84f-0b34-4e34-870e-e31843d98194",
             "simpsonsworld_id": 306926659533,
@@ -3457,9 +3735,13 @@
             "title": "Alone Again Natura-Diddily",
             "season": 11,
             "episode": 14,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2000-02-13",
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Ian Maxtone-Graham"
+            ],
             "description": "Homer attempts to help when Flanders experiences a tragic loss.",
             "disneyplus_id": null,
             "simpsonsworld_id": 288077891629,
@@ -3470,9 +3752,13 @@
             "title": "Missionary Impossible",
             "season": 11,
             "episode": 15,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2000-02-20",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Ron Hauge"
+            ],
             "description": "Homer is forced to become a missionary on a remote island after he pledges a large sum of money to PBS.",
             "disneyplus_id": "f40944fc-3c09-48d9-9af7-5be976b9d51c",
             "simpsonsworld_id": 310458435665,
@@ -3483,9 +3769,13 @@
             "title": "Pygmoelian",
             "season": 11,
             "episode": 16,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2000-02-27",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Larry Doyle"
+            ],
             "description": "Moe undergoes plastic surgery and becomes a hot new soap opera star.",
             "disneyplus_id": "c116ee6a-7621-4cf8-822f-d9de5f159905",
             "simpsonsworld_id": 294758467783,
@@ -3496,9 +3786,13 @@
             "title": "Bart to the Future",
             "season": 11,
             "episode": 17,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2000-03-19",
+            "directors": [
+                "Michael Marcantel"
+            ],
+            "writers": [
+                "Dan Greaney"
+            ],
             "description": "A Native American casino manager shows Bart a glimpse into the future... a time when Bart is an over-the-hill moocher and Lisa is President of the United States.",
             "disneyplus_id": "3c3bad55-e8a0-402f-a246-5b0d1aefe749",
             "simpsonsworld_id": 302835267686,
@@ -3509,9 +3803,14 @@
             "title": "Days of Wine and D'Ohses",
             "season": 11,
             "episode": 18,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2000-04-09",
+            "directors": [
+                "Neil Affleck"
+            ],
+            "writers": [
+                "Deb Lacusta",
+                "Dan Castellaneta"
+            ],
             "description": "Barney swears off alcohol, creating a rift between he and Homer; seeking to win a contest, Bart and Lisa attempt to photograph a new cover for the Springfield phone book.",
             "disneyplus_id": "4373fcc9-f26f-4a82-b33c-ee08ccfb1410",
             "simpsonsworld_id": 306930755636,
@@ -3522,9 +3821,13 @@
             "title": "Kill the Alligator and Run",
             "season": 11,
             "episode": 19,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2000-04-30",
+            "directors": [
+                "Jen Kamerman"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "The Simpsons find themselves on the run from the law after they accidentally kill a beloved alligator while vacationing in Florida.",
             "disneyplus_id": "0d9af443-5878-47d7-85cd-cfbf013953bf",
             "simpsonsworld_id": 292935747924,
@@ -3535,9 +3838,13 @@
             "title": "Last Tap Dance in Springfield",
             "season": 11,
             "episode": 20,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2000-05-07",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Julie Thacker"
+            ],
             "description": "After watching a movie about a sexy tango dancer, Lisa enrolls in a tap dance class... only to discover she has two left feet; Bart and Milhouse abandon a camping trip and hide out in a shopping mall.",
             "disneyplus_id": "da2d4067-691f-4445-8a05-73afbded1024",
             "simpsonsworld_id": 302849091512,
@@ -3548,9 +3855,13 @@
             "title": "It's a Mad, Mad, Mad, Mad Marge",
             "season": 11,
             "episode": 21,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2000-05-14",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Larry Doyle"
+            ],
             "description": "When Otto ditches his fianc\u00e9e at the altar, Bart invites her to stay with the family... forcing Marge to compete with the much younger woman.",
             "disneyplus_id": "8567caad-39f1-4f5d-9866-2f1540bd9e12",
             "simpsonsworld_id": 301683779737,
@@ -3561,9 +3872,16 @@
             "title": "Behind the Laughter",
             "season": 11,
             "episode": 22,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2000-05-21",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Tim Long",
+                "George Meyer",
+                "Mike Scully",
+                "Matt Selman"
+            ],
             "description": "This 'behind-the-scenes' special chronicles the ups and downs of America's favorite sitcom family.",
             "disneyplus_id": "767915dc-10a7-4a1d-ba3f-65ab847a98fb",
             "simpsonsworld_id": 279751747780,
@@ -3574,7 +3892,7 @@
             "title": "Treehouse of Horror XI",
             "season": 12,
             "episode": 1,
-            "release_date": null,
+            "release_date": "2000-11-01",
             "directors": null,
             "writers": null,
             "description": "On Halloween... a deceased Homer must perform one good deed to get into heaven; angry dolphins launch an attack against the people of Springfield; Bart and Lisa encounter characters from fairy tales.",
@@ -3587,7 +3905,7 @@
             "title": "A Tale of Two Springfields",
             "season": 12,
             "episode": 2,
-            "release_date": null,
+            "release_date": "2000-11-05",
             "directors": null,
             "writers": null,
             "description": "The townspeople of Springfield divide into two communities when the telephone company institutes a new area code system.",
@@ -3600,7 +3918,7 @@
             "title": "Insane Clown Poppy",
             "season": 12,
             "episode": 3,
-            "release_date": null,
+            "release_date": "2000-11-12",
             "directors": null,
             "writers": null,
             "description": "Krusty discovers that he fathered a child during the Gulf War... only to gamble away his daughter's precious violin during a poker game with Fat Tony.",
@@ -3613,7 +3931,7 @@
             "title": "Lisa the Treehugger",
             "season": 12,
             "episode": 4,
-            "release_date": null,
+            "release_date": "2000-11-19",
             "directors": null,
             "writers": null,
             "description": "Lisa joins a group of eco-radicals in her attempt to save the city's oldest redwood tree.",
@@ -3626,7 +3944,7 @@
             "title": "Homer vs. Dignity",
             "season": 12,
             "episode": 5,
-            "release_date": null,
+            "release_date": "2000-11-26",
             "directors": null,
             "writers": null,
             "description": "As the Thanksgiving holiday approaches, Mr. Burns hires Homer to be his 'prank monkey.'",
@@ -3639,7 +3957,7 @@
             "title": "The Computer Wore Menace Shoes",
             "season": 12,
             "episode": 6,
-            "release_date": null,
+            "release_date": "2000-12-03",
             "directors": null,
             "writers": null,
             "description": "Homer uses his new computer to spread gossip on the Internet... and eventually finds himself stranded on a mysterious island.",
@@ -3652,7 +3970,7 @@
             "title": "The Great Money Caper",
             "season": 12,
             "episode": 7,
-            "release_date": null,
+            "release_date": "2000-12-10",
             "directors": null,
             "writers": null,
             "description": "Homer and Bart become scam artists when the family is faced with the cost of a sudden car repair.",
@@ -3665,7 +3983,7 @@
             "title": "Skinner's Sense of Snow",
             "season": 12,
             "episode": 8,
-            "release_date": null,
+            "release_date": "2000-12-17",
             "directors": null,
             "writers": null,
             "description": "As Christmas approaches, a winter snowstorm traps Bart, Lisa and their fellow students inside Springfield Elementary, where Principal Skinner attempts to keep chaos from erupting.",
@@ -3678,7 +3996,7 @@
             "title": "HOMR",
             "season": 12,
             "episode": 9,
-            "release_date": null,
+            "release_date": "2001-01-07",
             "directors": null,
             "writers": null,
             "description": "Homer experiences a dramatic increase in intelligence when researchers remove a crayon lodged in his brain.",
@@ -3691,7 +4009,7 @@
             "title": "Pokey Mom",
             "season": 12,
             "episode": 10,
-            "release_date": null,
+            "release_date": "2001-01-14",
             "directors": null,
             "writers": null,
             "description": "With Marge's help, an inmate with artistic ability is paroled from prison.  But when the ex-con gets a job painting a mural at the elementary school, he clashes with Skinner.",
@@ -3704,7 +4022,7 @@
             "title": "Worst Episode Ever",
             "season": 12,
             "episode": 11,
-            "release_date": null,
+            "release_date": "2001-02-04",
             "directors": null,
             "writers": null,
             "description": "When the Comic Book Guy suffers a heart attack, Bart and Milhouse take over his store.",
@@ -3717,7 +4035,7 @@
             "title": "Tennis the Menace",
             "season": 12,
             "episode": 12,
-            "release_date": null,
+            "release_date": "2001-02-11",
             "directors": null,
             "writers": null,
             "description": "When the Simpsons construct a tennis court in the backyard, Bart pairs up with Marge and becomes a tennis whiz... much to Homer's disappointment.",
@@ -3730,7 +4048,7 @@
             "title": "Day of the Jackanapes",
             "season": 12,
             "episode": 13,
-            "release_date": null,
+            "release_date": "2001-02-18",
             "directors": null,
             "writers": null,
             "description": "Sideshow Bob wins release from prison and hypnotizes Bart to kill Krusty the Clown.",
@@ -3743,7 +4061,7 @@
             "title": "New Kids on the Blecch",
             "season": 12,
             "episode": 14,
-            "release_date": null,
+            "release_date": "2001-02-25",
             "directors": null,
             "writers": null,
             "description": "After casting Bart and his friends as singers in an all-boy band, a crazed record producer launches an attack on the offices of MAD magazine.",
@@ -3756,7 +4074,7 @@
             "title": "Hungry Hungry Homer",
             "season": 12,
             "episode": 15,
-            "release_date": null,
+            "release_date": "2001-03-04",
             "directors": null,
             "writers": null,
             "description": "Homer goes on a hunger strike after learning that the owner of the Springfield Isotopes plans on moving the team to Albuquerque.",
@@ -3769,9 +4087,14 @@
             "title": "Bye Bye Nerdy",
             "season": 12,
             "episode": 16,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2001-03-11",
+            "directors": [
+                "Lauren MacMullan"
+            ],
+            "writers": [
+                "John Frink",
+                "Don Payne"
+            ],
             "description": "Lisa searches for answers when a new student at school bullies her; Homer starts his own baby-proofing business.",
             "disneyplus_id": "a1c87fe2-c9a6-4eed-bc9a-bd2960eb1580",
             "simpsonsworld_id": 302846019892,
@@ -3782,9 +4105,13 @@
             "title": "Simpson Safari",
             "season": 12,
             "episode": 17,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2001-04-01",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "The Simpsons journey through Africa, where they encounter jungle animals, tribesmen... and a chimp refuge owner with a secret.",
             "disneyplus_id": "4e1b6c0d-3e34-47ca-97ca-1a70ec60df00",
             "simpsonsworld_id": 302845507908,
@@ -3795,9 +4122,13 @@
             "title": "Trilogy of Error",
             "season": 12,
             "episode": 18,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2001-04-29",
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "Matt Selman"
+            ],
             "description": "A day in the life of the Simpsons replays three times: Homer panics when Marge slices off his thumb; Lisa attempts to place her entry in the school science fair; Bart is pursued by gangsters.",
             "disneyplus_id": "0cb770ac-cb53-4d54-a068-c5c4e0375eed",
             "simpsonsworld_id": 302842947994,
@@ -3808,9 +4139,13 @@
             "title": "I'm Goin' to Praise Land",
             "season": 12,
             "episode": 19,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2001-05-06",
+            "directors": [
+                "Chuck Sheetz"
+            ],
+            "writers": [
+                "Julie Thacker"
+            ],
             "description": "To fulfill his dead wife's final wish, Ned Flanders converts an old, closed amusement park into a new Christian amusement park, 'Praiseland.'  The park flops until visitors begin having 'visions.'",
             "disneyplus_id": "531b8ed5-1190-4ec8-8ed8-dab058e10a59",
             "simpsonsworld_id": 302848579632,
@@ -3821,9 +4156,13 @@
             "title": "Children of a Lesser Clod",
             "season": 12,
             "episode": 20,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2001-05-13",
+            "directors": [
+                "Mike Polcino"
+            ],
+            "writers": [
+                "Al Jean"
+            ],
             "description": "After Homer injures his knee, he's housebound for recuperation.  A successful stint as a babysitter prompts Homer to open a full-time daycare service, leaving Bart and Lisa feeling neglected.",
             "disneyplus_id": "291d7d5a-edda-40ea-a149-75bf98b7b7e6",
             "simpsonsworld_id": 301652547508,
@@ -3834,9 +4173,16 @@
             "title": "Simpsons Tall Tales",
             "season": 12,
             "episode": 21,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2001-05-20",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "John Frink",
+                "Don Payne",
+                "Bob Bendetson",
+                "Matt Selman"
+            ],
             "description": "The Simpsons jump a train, and meet a hobo, who tells them twisted versions of three classic tales, all of which feature Simpsons characters.",
             "disneyplus_id": "be38a176-f5fe-4e51-b91b-192b05534acc",
             "simpsonsworld_id": 301685315594,
@@ -3847,7 +4193,7 @@
             "title": "Treehouse of Horror XII",
             "season": 13,
             "episode": 1,
-            "release_date": null,
+            "release_date": "2001-11-06",
             "directors": null,
             "writers": null,
             "description": "On Halloween, the Simpsons are menaced by a computer controlling an automated house; a gypsy curses Homer; Lisa and Bart find themselves in a Harry Potter-like adventure.",
@@ -3860,7 +4206,7 @@
             "title": "The Parent Rap",
             "season": 13,
             "episode": 2,
-            "release_date": null,
+            "release_date": "2001-11-11",
             "directors": null,
             "writers": null,
             "description": "A stern judge rules that Homer and Bart are to be tethered together, and later, Homer and Marge are declared bad parents and placed in old-fashioned wooden stocks.",
@@ -3873,7 +4219,7 @@
             "title": "Homer the Moe",
             "season": 13,
             "episode": 3,
-            "release_date": null,
+            "release_date": "2001-11-18",
             "directors": null,
             "writers": null,
             "description": "Moe turns the bar into a pretentious hang-out for Springfield's 'beautiful people,' forcing Homer to start a bar of his own inside his garage.",
@@ -3886,7 +4232,7 @@
             "title": "Hunka Hunka Burns in Love",
             "season": 13,
             "episode": 4,
-            "release_date": null,
+            "release_date": "2001-12-02",
             "directors": null,
             "writers": null,
             "description": "When Mr. Burns falls for an attractive traffic cop many years his junior, he enlists Homer's help in romancing her.",
@@ -3899,7 +4245,7 @@
             "title": "The Blunder Years",
             "season": 13,
             "episode": 5,
-            "release_date": null,
+            "release_date": "2001-12-09",
             "directors": null,
             "writers": null,
             "description": "When placed under hypnosis, Homer struggles with a repressed memory-which leads to a shocking discovery.",
@@ -3912,7 +4258,7 @@
             "title": "She of Little Faith",
             "season": 13,
             "episode": 6,
-            "release_date": null,
+            "release_date": "2001-12-16",
             "directors": null,
             "writers": null,
             "description": "As Christmas approaches... Lisa searches for a new religion after Mr. Burns takes over her church and runs it like a corporation.",
@@ -3925,7 +4271,7 @@
             "title": "Brawl in the Family",
             "season": 13,
             "episode": 7,
-            "release_date": null,
+            "release_date": "2002-01-06",
             "directors": null,
             "writers": null,
             "description": "A social worker attempts to transform the family into a functional, cooperative unit... until Homer's other wife shows up unexpectedly.",
@@ -3938,7 +4284,7 @@
             "title": "Sweets and Sour Marge",
             "season": 13,
             "episode": 8,
-            "release_date": null,
+            "release_date": "2002-01-20",
             "directors": null,
             "writers": null,
             "description": "After Springfield wins the title of World's Fattest Town, Marge launches an anti-sugar crusade, and sugar is banned from the city.",
@@ -3951,7 +4297,7 @@
             "title": "Jaws Wired Shut",
             "season": 13,
             "episode": 9,
-            "release_date": null,
+            "release_date": "2002-01-27",
             "directors": null,
             "writers": null,
             "description": "When Homer has to have his jaw wired shut, he discovers the joys of listening, but Marge finds that a well-behaved Homer isn't what she really wanted.",
@@ -3964,7 +4310,7 @@
             "title": "Half-Decent Proposal",
             "season": 13,
             "episode": 10,
-            "release_date": null,
+            "release_date": "2002-02-10",
             "directors": null,
             "writers": null,
             "description": "Marge's ex-boyfriend, now one of the world's richest men, offers Homer a million dollars in exchange for a weekend with her, to see what 'might have been.'",
@@ -3977,7 +4323,7 @@
             "title": "The Bart Wants What It Wants",
             "season": 13,
             "episode": 11,
-            "release_date": null,
+            "release_date": "2002-02-17",
             "directors": null,
             "writers": null,
             "description": "Bart travels to Canada to win back the heart of Rainier Wolfcastle's daughter after she runs off with Milhouse.",
@@ -3990,7 +4336,7 @@
             "title": "The Lastest Gun in the West",
             "season": 13,
             "episode": 12,
-            "release_date": null,
+            "release_date": "2002-02-24",
             "directors": null,
             "writers": null,
             "description": "Bart befriends an aging movie cowboy who begins drinking heavily when asked to appear on Krusty's television show.",
@@ -4003,7 +4349,7 @@
             "title": "The Old Man and the Key",
             "season": 13,
             "episode": 13,
-            "release_date": null,
+            "release_date": "2002-03-10",
             "directors": null,
             "writers": null,
             "description": "In an effort to win a date with a beautiful new resident at the nursing home, Grampa gets his driver's license back... and gives chase when the object of his affection leaves for Branson, Missouri.",
@@ -4016,7 +4362,7 @@
             "title": "Tales From the Public Domain",
             "season": 13,
             "episode": 14,
-            "release_date": null,
+            "release_date": "2002-03-17",
             "directors": null,
             "writers": null,
             "description": "The Simpsons appear as characters in three classic tales: Homer as Odysseus leads the Greek army; Bart as Hamlet attempts to avenge the death of his father; Lisa as Joan of Arc pits the French against the English.",
@@ -4029,7 +4375,7 @@
             "title": "Blame it on Lisa",
             "season": 13,
             "episode": 15,
-            "release_date": null,
+            "release_date": "2002-03-31",
             "directors": null,
             "writers": null,
             "description": "When the Simpsons fly to Brazil to locate a missing orphan that Lisa has been sponsoring, Homer ends up getting kidnapped.",
@@ -4133,9 +4479,15 @@
             "title": "Treehouse of Horror XIII",
             "season": 14,
             "episode": 1,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2002-11-03",
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Marc Wilmore",
+                "Brian Kelley",
+                "Kevin Curran"
+            ],
             "description": "On Halloween, Homer's evil hammock produces an army of Homer clones; zombie cowboys threaten to destroy Springfield after Lisa outlaws guns; the Simpsons travel to an island inhabited by 'manimals.'",
             "disneyplus_id": "3c929d17-30d3-4f18-887e-af51361b015a",
             "simpsonsworld_id": 221301315863,
@@ -4146,178 +4498,282 @@
             "title": "How I Spent My Strummer Vacation",
             "season": 14,
             "episode": 2,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2002-11-10",
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "Mike Scully"
+            ],
             "description": "When a hidden camera tapes Homer lamenting that having a family meant kissing goodbye his dreams of becoming a rock 'n' roll star, Marge enrolls him a fantasy rock star camp run by The Rolling Stones.",
             "disneyplus_id": "ced4d9f0-93c2-4832-be02-41bbec25bb81",
             "simpsonsworld_id": 221293123693,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Elvis Costello",
+                "Mick Jagger",
+                "Lenny Kravitz",
+                "Tom Petty",
+                "Keith Richards",
+                "Brian Setzer"
+            ]
         },
         {
             "title": "Bart vs. Lisa vs. 3rd Grade",
             "season": 14,
             "episode": 3,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2002-11-17",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Tim Long"
+            ],
             "description": "Bart and Lisa are horrified when they both end up in the same 3rd grade class.",
             "disneyplus_id": "87d21214-5742-4f77-89b8-d14d38e73772",
             "simpsonsworld_id": 221347395722,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Tony Bennett"
+            ]
         },
         {
             "title": "Large Marge",
             "season": 14,
             "episode": 4,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2002-11-24",
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Ian Maxtone-Graham"
+            ],
             "description": "Marge's life changes dramatically when her attempt to lose weight via surgery resulting in larger breasts; Bart and Milhouse get into mischief that leads to a public relations nightmare for Krusty.",
             "disneyplus_id": "4c9736ca-bf75-424d-a839-9c954722ed1e",
             "simpsonsworld_id": 221352515586,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jan Hooks",
+                "Marcia Wallace",
+                "Burt Ward",
+                "Adam West",
+                "Patrick Carey",
+                "Omerit Hield",
+                "Marvin Prosper"
+            ]
         },
         {
             "title": "Helter Shelter",
             "season": 14,
             "episode": 5,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2002-12-01",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Brian Pollack",
+                "Mert Rich"
+            ],
             "description": "When the Simpson house undergoes fumigation, the family is forced to seek shelter elsewhere... and ends up participating in a reality TV program set in a house from the 1800s.",
             "disneyplus_id": "d6afb3d4-fad3-4b9d-95f3-4f294c847db1",
             "simpsonsworld_id": 221388355650,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "David Lander",
+                "Larry Holmes"
+            ]
         },
         {
             "title": "The Great Louse Detective",
             "season": 14,
             "episode": 6,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2002-12-15",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "John Frink",
+                "Don Payne"
+            ],
             "description": "When someone attempts to murder Homer, Sideshow Bob is released from prison to help identify the culprit before he strikes again.",
             "disneyplus_id": "ae9e9d58-b373-4c0d-857a-42fb7a84a316",
             "simpsonsworld_id": 221467203550,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Kelsey Grammer"
+            ]
         },
         {
             "title": "Special Edna",
             "season": 14,
             "episode": 7,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-01-05",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Dennis Snee"
+            ],
             "description": "When Bart gets Mrs. Krabappel nominated for Teacher of the Year, the family heads for Orlando to attend the ceremony.  But Skinner fears he may lose Krabappel forever... and asks Bart to sabotage the affair.",
             "disneyplus_id": "06bec5b1-7e14-4cac-805f-0e0004333f9e",
             "simpsonsworld_id": 221467715532,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Little Richard"
+            ]
         },
         {
             "title": "The Dad Who Knew Too Little",
             "season": 14,
             "episode": 8,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-01-12",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Matt Selman"
+            ],
             "description": "Homer hires a shady private investigator to spy on Lisa when he realizes he doesn't know very much about his daughter.",
             "disneyplus_id": "3b28d928-7acf-4429-a0c8-a3b791ff21bc",
             "simpsonsworld_id": 221531715548,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Elliott Gould"
+            ]
         },
         {
             "title": "The Strong Arms of The Ma",
             "season": 14,
             "episode": 9,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-02-02",
+            "directors": [
+                "Pete Michels"
+            ],
+            "writers": [
+                "Carolyn Omine"
+            ],
             "description": "When Marge is mugged at the Kwik-E-Mart, she develops agoraphobia and ends up living in the basement... until she turns into a fearless bodybuilder.",
             "disneyplus_id": "06fad58a-25d7-40c0-a83d-adcbddc60bce",
             "simpsonsworld_id": 221532739689,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Pamela Reed"
+            ]
         },
         {
             "title": "Pray Anything",
             "season": 14,
             "episode": 10,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-02-09",
+            "directors": [
+                "Michael Polcino"
+            ],
+            "writers": [
+                "Sam O'Neal",
+                "Neal Boushell"
+            ],
             "description": "Inspired by Ned Flanders, Homer turns to prayer in hopes of changing his lot in life.  But when he injures himself coming out of church, Homer sues for damages... and is awarded the church itself.",
             "disneyplus_id": "78bd01df-cfb9-4698-9543-1ab60b39316e",
             "simpsonsworld_id": 221526595805,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Ken Burns",
+                "Lisa Leslie"
+            ]
         },
         {
             "title": "Barting Over",
             "season": 14,
             "episode": 11,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-02-16",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Andrew Kreisberg"
+            ],
             "description": "When Bart discovers the existence of an embarrassing TV commercial he appeared in as a baby-and that Homer spent the money he earned-he sues for emancipation and moves out of the house.",
             "disneyplus_id": "a0f86449-2e95-4f93-9530-8583b944153c",
             "simpsonsworld_id": 221696067841,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Tony Hawk",
+                "Mark Hoppus",
+                "Tom DeLonge",
+                "Travis Barker",
+                "Jane Kaczmarek"
+            ]
         },
         {
             "title": "I'm Spelling as Fast as I Can",
             "season": 14,
             "episode": 12,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-02-16",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Kevin Curran"
+            ],
             "description": "When Lisa becomes a finalist in a spelling bee, she's offered a college scholarship in exchange for losing; Homer falls hopelessly in love with Krustyburger's limited-time-only rib sandwich.",
             "disneyplus_id": "2bed81b0-4523-43c4-b3f7-b8420f76024b",
             "simpsonsworld_id": 221698627830,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "George Plimpton"
+            ]
         },
         {
             "title": "A Star is Born-Again",
             "season": 14,
             "episode": 13,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-03-02",
+            "directors": [
+                "Michael Marcantel"
+            ],
+            "writers": [
+                "Brian Kelley"
+            ],
             "description": "A Hollywood movie star takes a romantic interest in Ned Flanders, and when the relationship blossoms, Ned's faith is put to the test when the star wants to have premarital sex.",
             "disneyplus_id": "413584b6-3fc2-4c21-bcd9-19edcb87f17e",
             "simpsonsworld_id": 221695043703,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Helen Fielding",
+                "James L. Brooks",
+                "Marisa Tomei"
+            ]
         },
         {
             "title": "Mr. Spritz Goes To Washington",
             "season": 14,
             "episode": 14,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-03-09",
+            "directors": [
+                "Lance Kramer"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "When Springfield Airport changes the flight paths of airplanes, sending them over the Simpson's house, the family convinces Krusty to run for congress so he can change the law.",
             "disneyplus_id": "22618eac-62dd-4e12-96ba-21480c311e01",
             "simpsonsworld_id": 221699651686,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Joe Mantegna"
+            ]
         },
         {
             "title": "C.E.D'oh",
             "season": 14,
             "episode": 15,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-03-16",
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "Dana Gould"
+            ],
             "description": "On Valentine's Day, Homer attends a college course on how to succeed in the corporate world, he becomes the owner of the power plant and fires Mr. Burns... only to realize that running the plant means being away from family.",
             "disneyplus_id": "072eac8a-cce2-4eae-ae8e-0b2830c50b21",
             "simpsonsworld_id": 221696067982,
@@ -4328,74 +4784,117 @@
             "title": "'Scuse Me While I Miss The Sky",
             "season": 14,
             "episode": 16,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-03-30",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Dan Greaney",
+                "Allen Glazier"
+            ],
             "description": "As a British filmmaker makes a documentary about Springfield Elementary, Lisa tires to save the nighttime sky from light pollution, while Bart attempts to restore his coolness by obtaining a hood ornament from Fat Tony's car.",
             "disneyplus_id": "124c3766-ec1a-4c61-85c1-e9dc770a8548",
             "simpsonsworld_id": 221700675635,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Eric Idle",
+                "Joe Mantegna"
+            ]
         },
         {
             "title": "Three Gays of the Condo",
             "season": 14,
             "episode": 17,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-04-13",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Matt Warburton"
+            ],
             "description": "Homer moves in with a gay couple after discovering a letter Marge wrote years earlier that implies she resents him.",
             "disneyplus_id": "35fdd041-58b4-4a6c-a6a1-a1aa12d2ee9c",
             "simpsonsworld_id": 221699139984,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Scott Thompson",
+                "Weird Al Yankovic"
+            ]
         },
         {
             "title": "Dude, Where's My Ranch?",
             "season": 14,
             "episode": 18,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-04-27",
+            "directors": [
+                "Chris Clements"
+            ],
+            "writers": [
+                "Ian Maxtone-Graham"
+            ],
             "description": "While vacationing at a dude ranch, Lisa falls for a cute 13-year-old cowboy; Homer vows to stop beavers who've dammed a river and kept Native Americans from their land.",
             "disneyplus_id": "b2674cb0-30d5-4033-85ee-6f92ec4742e9",
             "simpsonsworld_id": 221700163549,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jonathan Taylor Thomas",
+                "Andy Serkis",
+                "David Byrne"
+            ]
         },
         {
             "title": "Old Yeller-Belly",
             "season": 14,
             "episode": 19,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-05-04",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "John Frink",
+                "Don Payne"
+            ],
             "description": "When Santa's Little Helper becomes Duff Beer's new, highly-paid mascot, his original owner comes out of the woodwork and claims the dog belongs to him.",
             "disneyplus_id": "d05adc7d-5679-4d0b-bf54-98ade578f1bd",
             "simpsonsworld_id": 221701187546,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Stacy Keach",
+                "John Kassir"
+            ]
         },
         {
             "title": "Brake My Wife, Please",
             "season": 14,
             "episode": 20,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-05-11",
+            "directors": [
+                "Pete Michels"
+            ],
+            "writers": [
+                "Tim Long"
+            ],
             "description": "When Homer loses his driver's license, he embraces walking.  But Marge begins to suffer from stress when the pressure of being the only full-time driver in the house takes its toll-and ends up running Homer over in her car.",
             "disneyplus_id": "4338a61e-9197-4066-949a-0a11ed4e1105",
             "simpsonsworld_id": 229724227970,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Steve Buscemi",
+                "Jackson Browne",
+                "Jane Kaczmarek"
+            ]
         },
         {
             "title": "The Bart of War",
             "season": 14,
             "episode": 21,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-05-18",
+            "directors": [
+                "Michael Polcino"
+            ],
+            "writers": [
+                "Marc Wilmore"
+            ],
             "description": "After police discover Bart and Milhouse ransacking Flanders' Beatles memorabilia, Marge decides to place her son in a supervised activity, the Pre-Teen Braves.",
             "disneyplus_id": "80d14bbb-7b6a-4d67-8c18-9a4ec85fb489",
             "simpsonsworld_id": 229731395601,
@@ -4406,100 +4905,154 @@
             "title": "Moe Baby Blues",
             "season": 14,
             "episode": 22,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-05-18",
+            "directors": [
+                "Lauren MacMullan"
+            ],
+            "writers": [
+                "J. Stewart Burns"
+            ],
             "description": "When Moe saves baby Maggie's life, a close bond forms.  But when Maggie wanders off with some gangsters, Homer and Marge mistakenly believe that Moe is responsible for the baby's disappearance.",
             "disneyplus_id": "bbd0d9ff-4b47-4fbd-9df8-cfda37516844",
             "simpsonsworld_id": 228412483812,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Joe Mantegna"
+            ]
         },
         {
             "title": "Treehouse of Horror XIV",
             "season": 15,
             "episode": 1,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-11-02",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "On Halloween, Homer takes over for the Grim Reaper and discovers Marge's name on his list; Professor Frink reanimates his father's corpse; Bart and Milhouse play pranks with a watch that can stop time.",
             "disneyplus_id": "5b27c965-12fc-423b-b7b5-84b841d5385a",
             "simpsonsworld_id": 227335747784,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Jerry Lewis",
+                "Dudley Herschbach",
+                "Jennifer Garner",
+                "Oscar De La Hoya"
+            ]
         },
         {
             "title": "My Mother the Carjacker",
             "season": 15,
             "episode": 2,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-11-09",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Michael Price"
+            ],
             "description": "Mother Simpson is captured by police and placed on trial for sabotaging Mr. Burns' germ warfare plant in the 1960s.  Homer's heartfelt testimony helps win her release... but Mr. Burns concocts a plot to get revenge.",
             "disneyplus_id": "5f913e49-20aa-4240-9330-5f561ca09c20",
             "simpsonsworld_id": 227339843917,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Glenn Close"
+            ]
         },
         {
             "title": "The President Wore Pearls",
             "season": 15,
             "episode": 3,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-11-16",
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "Dana Gould"
+            ],
             "description": "When Lisa is elected student body president, she vows to make the school a better place to learn.  But Skinner tricks her into cutting well-liked programs... prompting Lisa to call a general student strike.",
             "disneyplus_id": "147d2de9-5e90-40da-9fd9-6b4f1b2efe83",
             "simpsonsworld_id": 227348035643,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Michael Moore"
+            ]
         },
         {
             "title": "The Regina Monologues",
             "season": 15,
             "episode": 4,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-11-23",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "The Simpsons travel to England, where Homer is imprisoned in the Tower of London after he smashes a car into the Queen's royal coach.",
             "disneyplus_id": "c0e74b7a-439f-4a6a-97c4-2fa2b8a77468",
             "simpsonsworld_id": 227349059824,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jane Leeves",
+                "Tony Blair",
+                "Evan Marriott",
+                "Ian McKellen",
+                "J. K. Rowling"
+            ]
         },
         {
             "title": "The Fat and the Furriest",
             "season": 15,
             "episode": 5,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-11-30",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Joel H. Cohen"
+            ],
             "description": "Homer becomes the laughing stock of the town when a wild bear humiliates him.  But when he seeks a rematch, Homer bonds with the animal and tries to save its life.",
             "disneyplus_id": "44f6459e-2f5f-40a2-935c-ae8816dd7b9b",
             "simpsonsworld_id": 227355715580,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Charles Napier"
+            ]
         },
         {
             "title": "Today I am a Clown",
             "season": 15,
             "episode": 6,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-12-07",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Joel H. Cohen"
+            ],
             "description": "When Krusty takes the Sabbath off so he can study for his bar mitzvah, he chooses Homer as temporary guest host.  But when Homer's career unexpectedly takes off, Krusty finds himself out of a job.",
             "disneyplus_id": "7f39669f-3347-401c-ab47-58ee0b88799f",
             "simpsonsworld_id": 227360323557,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jackie Mason",
+                "Mr. T"
+            ]
         },
         {
             "title": "'Tis the Fifteenth Season",
             "season": 15,
             "episode": 7,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2003-12-14",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Michael Price"
+            ],
             "description": "As Christmas approaches, Homer discovers the true meaning of the season after watching an animated version of A Christmas Carol on television.  But Flanders find it impossible to live as the second-nicest-guy in town.",
             "disneyplus_id": "1a35adfe-6cfc-48b5-8bcf-1f2b67935073",
             "simpsonsworld_id": 227364931670,
@@ -4510,9 +5063,13 @@
             "title": "Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays",
             "season": 15,
             "episode": 8,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-01-04",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Marge opposes a political group made up of childless people who've grown fed-up with accommodating people with families.",
             "disneyplus_id": "2eee17ee-617a-4353-8ea8-d8a462a05664",
             "simpsonsworld_id": 227369027832,
@@ -4523,9 +5080,14 @@
             "title": "I, (Annoyed Grunt)-Bot",
             "season": 15,
             "episode": 9,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-01-11",
+            "directors": [
+                "Lauren MacMullan"
+            ],
+            "writers": [
+                "Dan Greaney",
+                "Allen Glazier"
+            ],
             "description": "Homer builds a fighting robot for Bart, but finds he must hide inside the device to make it work; Lisa searches for a replacement for Snowball II when the cat is run over by a car.",
             "disneyplus_id": "c55c6d82-f03b-4a1e-b11d-d52312afd970",
             "simpsonsworld_id": 227376707538,
@@ -4536,22 +5098,35 @@
             "title": "Diatribe of a Mad Housewife",
             "season": 15,
             "episode": 10,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-01-25",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Robin J. Stein"
+            ],
             "description": "Homer buys an ambulance and starts responding to medical emergencies; Marge authors her own romance novel.",
             "disneyplus_id": "80fa3f3a-1fa9-46a3-922d-06e3f1cdfc55",
             "simpsonsworld_id": 227378755925,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Tom Clancy",
+                "Thomas Pynchon",
+                "Mary-Kate Olsen",
+                "Ashley Olsen"
+            ]
         },
         {
             "title": "Margical History Tour",
             "season": 15,
             "episode": 11,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-02-08",
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "Brian Kelley"
+            ],
             "description": "Marge tells the children three historical tales: the story of King Henry the Eighth and his quest for a son; Sacagawea's journey with Lewis and Clark; and the rivalry between Mozart and Salieri.",
             "disneyplus_id": "4f94a1f6-b11a-4fdf-91b9-23c09fe2e584",
             "simpsonsworld_id": 227386947567,
@@ -4562,48 +5137,70 @@
             "title": "Milhouse Doesn't Live Here Anymore",
             "season": 15,
             "episode": 12,
-            "release_date": null,
+            "release_date": "2004-02-15",
             "directors": null,
             "writers": null,
             "description": "When Milhouse and his mother relocate to Capital City, Bart strikes up a friendship with Lisa; Homer makes money by pretending to be a transient.",
             "disneyplus_id": "7528e5f7-8bf0-4c91-bedb-2305c37a868a",
             "simpsonsworld_id": 227392067706,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Nick Bakay",
+                "William Daniels",
+                "Isabel Sanford",
+                "Dick Tufeld"
+            ]
         },
         {
             "title": "Smart and Smarter",
             "season": 15,
             "episode": 13,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-02-22",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Carolyn Omine"
+            ],
             "description": "Lisa searches for a new identity when baby Maggie turns out to be smarter than her.",
             "disneyplus_id": "1139d006-99a7-48f6-9f52-fdebfaac820d",
             "simpsonsworld_id": 229331523584,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Simon Cowell"
+            ]
         },
         {
             "title": "The Ziff Who Came to Dinner",
             "season": 15,
             "episode": 14,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-03-14",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Deb Lacusta",
+                "Dan Castellaneta"
+            ],
             "description": "Homer becomes the majority shareholder of Artie Ziff's troubled Internet company-and ends up being arrested by the Securities and Exchange Commission.",
             "disneyplus_id": "82113640-5626-4a70-822c-f8f608aa869d",
             "simpsonsworld_id": 227426371786,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Jon Lovitz"
+            ]
         },
         {
             "title": "Co-Dependent's Day",
             "season": 15,
             "episode": 15,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-03-21",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Matt Warburton"
+            ],
             "description": "When a drunken Homer loses control of his car, he places an unconscious Marge in the driver's seat so she'll be blamed for the accident; Lisa and Bart complain to the creator of the Cosmic Wars saga about his latest films.",
             "disneyplus_id": "9fabb30c-119f-43a6-bbf6-747c2d9c3a7d",
             "simpsonsworld_id": 227399235673,
@@ -4614,35 +5211,54 @@
             "title": "The Wandering Juvie",
             "season": 15,
             "episode": 16,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-03-28",
+            "directors": [
+                "Lauren MacMullan"
+            ],
+            "writers": [
+                "John Frink",
+                "Don Payne"
+            ],
             "description": "Bart's latest prank lands him in juvenile prison, where a tough girl forces him to go on the lam.",
             "disneyplus_id": "6fc62065-18ae-4751-a441-f8f1fe016693",
             "simpsonsworld_id": 227402307606,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Sarah Michelle Gellar",
+                "Charles Napier",
+                "Jane Maczmarek"
+            ]
         },
         {
             "title": "My Big Fat Geek Wedding",
             "season": 15,
             "episode": 17,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-04-18",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Kevin Curran"
+            ],
             "description": "Mrs. Krabappel dumps Principal Skinner at the altar and has a passionate affair with the Comic Book Guy.",
             "disneyplus_id": "6a0af6db-2725-4782-bf06-813dbfe5cbfa",
             "simpsonsworld_id": 227423299561,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Matt Groening"
+            ]
         },
         {
             "title": "Catch 'Em If You Can",
             "season": 15,
             "episode": 18,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-04-25",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Ian Maxtone-Graham"
+            ],
             "description": "Bart and Lisa pursue Homer and Marge after they sneak away on a second honeymoon; Grampa catches the eye of a dashing Cuban man.",
             "disneyplus_id": "91fa3c12-3d04-473c-9641-d371e41d0bc7",
             "simpsonsworld_id": 227415619717,
@@ -4653,22 +5269,32 @@
             "title": "Simple Simpson",
             "season": 15,
             "episode": 19,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-05-02",
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Homer confronts evildoers in the form of his crime-fighting alter ego, the Pie Man-until Mr. Burns blackmails him into throwing a pie at the Dalai Lama.",
             "disneyplus_id": "d4bd306d-4700-4d5d-bfa6-9987b68ec982",
             "simpsonsworld_id": 227327555884,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Nichelle Nichols"
+            ]
         },
         {
             "title": "The Way We Weren't",
             "season": 15,
             "episode": 20,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-05-09",
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "J. Stewart Burns"
+            ],
             "description": "Homer reveals that Marge wasn't the first girl he ever kissed, but as he and Marge recount their versions of time spent at a summer camp, Homer realizes he caused Marge thirty years of heartbreak.",
             "disneyplus_id": "5bd69f8d-d191-4586-87ec-0730bfcf2e47",
             "simpsonsworld_id": 227330115859,
@@ -4679,9 +5305,13 @@
             "title": "Bart-Mangled Banner",
             "season": 15,
             "episode": 21,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-05-16",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "John Frink"
+            ],
             "description": "The Simpsons are thrown in prison after Bart accidentally moons the American flag.",
             "disneyplus_id": "88247ea9-a5dd-4a76-9b27-57c807db9116",
             "simpsonsworld_id": 227410499679,
@@ -4692,9 +5322,13 @@
             "title": "Fraudcast News",
             "season": 15,
             "episode": 22,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-05-23",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Don Payne"
+            ],
             "description": "Mr. Burns buys up all the media outlets in Springfield in an effort to polish his image, but soon finds himself at odds with Lisa, who started publishing her own newspaper.",
             "disneyplus_id": "500ac3a9-3fd3-4318-8606-2b1132f7ac2d",
             "simpsonsworld_id": 227405379707,
@@ -4705,9 +5339,13 @@
             "title": "Treehouse of Horror XV",
             "season": 16,
             "episode": 1,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-11-07",
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Bill Odenkirk"
+            ],
             "description": "On Halloween... Flanders can predict when people will die; in Victorian London, Lisa and Bart hunt for a killer; the Simpsons take a fantastic voyage after Mr. Burns swallows a miniaturized Maggie.",
             "disneyplus_id": null,
             "simpsonsworld_id": 256741955834,
@@ -4718,22 +5356,33 @@
             "title": "All's Fair in Oven War",
             "season": 16,
             "episode": 2,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-11-14",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Matt Selman"
+            ],
             "description": "Marge enters a bakeoff competition, but ends up sabotaging the other entries; Bart decides to live the life of a swinger after discovering Playdude magazine.",
             "disneyplus_id": null,
             "simpsonsworld_id": 257840195722,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Thomas Pynchon",
+                "James Caan"
+            ]
         },
         {
             "title": "Sleeping with the Enemy",
             "season": 16,
             "episode": 3,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-11-21",
+            "directors": [
+                "Lauren MacMullan"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Lisa becomes self-conscious about her weight after kids at school make fun of her posterior;  Marge takes bully Nelson Muntz under her wing ... much to Bart's horror.",
             "disneyplus_id": null,
             "simpsonsworld_id": 256764995911,
@@ -4744,35 +5393,51 @@
             "title": "She Used to Be My Girl",
             "season": 16,
             "episode": 4,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-12-05",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Tim Long"
+            ],
             "description": "Marge wonders if she made the right choices in life after she encounters a successful high school classmate who has traveled the world as a television news reporter.",
             "disneyplus_id": null,
             "simpsonsworld_id": 256753731544,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Kim Cattrall"
+            ]
         },
         {
             "title": "Fat Man and Little Boy",
             "season": 16,
             "episode": 5,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2004-12-12",
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "Joel H. Cohen"
+            ],
             "description": "Homer builds a nuclear reactor for Lisa's science project; Bart makes money creating his own line of t-shirts.",
             "disneyplus_id": null,
             "simpsonsworld_id": 256759363799,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Eric Idle"
+            ]
         },
         {
             "title": "Midnight Rx",
             "season": 16,
             "episode": 6,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-01-16",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Marc Wilmore"
+            ],
             "description": "Homer and Grampa smuggle drugs out of Canada after Mr. Burns terminates his company's employee prescription drug program.",
             "disneyplus_id": null,
             "simpsonsworld_id": 1094235715818,
@@ -4783,9 +5448,13 @@
             "title": "Mommie Beerest",
             "season": 16,
             "episode": 7,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-01-30",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Michael Price"
+            ],
             "description": "Homer mortgages his house to save Moe's bar, but Marge ends up taking control of the business and spends so much time with Moe that Homer fears his marriage is in trouble.",
             "disneyplus_id": null,
             "simpsonsworld_id": 256807491582,
@@ -4796,35 +5465,56 @@
             "title": "Homer and Ned's Hail Mary Pass",
             "season": 16,
             "episode": 8,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-02-06",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Tim Long"
+            ],
             "description": "After teaching famous athletes some victory dance moves, Homer is chosen to produce the Super Bowl half-time show; Flanders makes a movie featuring violent reenactments of biblical events.",
             "disneyplus_id": null,
             "simpsonsworld_id": 256813635887,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Tom Brady",
+                "LeBron James",
+                "Michelle Kwan",
+                "Yao Ming",
+                "Warren Sapp"
+            ]
         },
         {
             "title": "Pranksta Rap",
             "season": 16,
             "episode": 9,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-02-13",
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "Matt Selman"
+            ],
             "description": "After sneaking off to a rap concert, Bart fakes his own kidnapping and inadvertently implicates Milhouse's father in the 'crime.'",
             "disneyplus_id": null,
             "simpsonsworld_id": 256798275935,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "50 Cent",
+                "Dana Gould"
+            ]
         },
         {
             "title": "There's Something About Marrying",
             "season": 16,
             "episode": 10,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-02-20",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "J. Stewart Burns"
+            ],
             "description": "When tourists shun Springfield, the town legalizes gay marriage in hopes of reversing the dire economic slowdown - and Homer makes money by becoming an ordained minister.",
             "disneyplus_id": null,
             "simpsonsworld_id": 256822339660,
@@ -4835,35 +5525,53 @@
             "title": "On a Clear Day I Can't See My Sister",
             "season": 16,
             "episode": 11,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-03-06",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Jeff Westbrook"
+            ],
             "description": "After Bart torments his sister during a school field trip, Lisa gets a restraining order; Homer takes a job as a greeter at a local mega-store.",
             "disneyplus_id": null,
             "simpsonsworld_id": 256825923849,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Gary Busey",
+                "Jane Maczmarek"
+            ]
         },
         {
             "title": "Goo Goo Gai Pan",
             "season": 16,
             "episode": 12,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-03-13",
+            "directors": [
+                "Lance Kramer"
+            ],
+            "writers": [
+                "Dana Gould"
+            ],
             "description": "Homer pretends to be Selma's husband when Selma travels to China to adopt a baby.",
             "disneyplus_id": null,
             "simpsonsworld_id": 264432707575,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Robert Wagner",
+                "Lucy Liu"
+            ]
         },
         {
             "title": "Mobile Homer",
             "season": 16,
             "episode": 13,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-03-20",
+            "directors": [
+                "Raymond S. Persi"
+            ],
+            "writers": [
+                "Tim Long"
+            ],
             "description": "Bart and Lisa attempt to save Homer and Marge's marriage after Homer spends the family's savings on a recreational vehicle.",
             "disneyplus_id": null,
             "simpsonsworld_id": 264432707841,
@@ -4874,74 +5582,112 @@
             "title": "The Seven-Beer Snitch",
             "season": 16,
             "episode": 14,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-04-03",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Bill Odenkirk"
+            ],
             "description": "Homer becomes a prison snitch after he's convicted of breaking an outdated law; Lisa and Bart discover that Snowball II has a secret life.",
             "disneyplus_id": null,
             "simpsonsworld_id": 260844611804,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Frank Gehry",
+                "Charles Napier",
+                "Joe Mantegna"
+            ]
         },
         {
             "title": "Future-Drama",
             "season": 16,
             "episode": 15,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-04-17",
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "Matt Selman"
+            ],
             "description": "Using Professor Frink's astrological projection machine, Bart and Lisa peer into the future, where Bart breaks Lisa's heart by taking away her scholarship to Yale.",
             "disneyplus_id": null,
             "simpsonsworld_id": 260841027999,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Amy Poehler",
+                "John DiMaggio"
+            ]
         },
         {
             "title": "Don't Fear the Roofer",
             "season": 16,
             "episode": 16,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-05-01",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Kevin Curran"
+            ],
             "description": "Homer ends up in a mental institution after Marge grows convinced the contractor he befriended is a figment of his imagination; Marge allows Santa's Little Helper to stay at Grampa's retirement home.",
             "disneyplus_id": null,
             "simpsonsworld_id": 260835395771,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Stephen Hawking",
+                "Ray Romano"
+            ]
         },
         {
             "title": "The Heartbroke Kid",
             "season": 16,
             "episode": 17,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-05-01",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Ian Maxtone-Graham"
+            ],
             "description": "Bart has a heart attack after he becomes addicted to junk food; the Simpsons turn the house into a youth hostel, which is soon overrun by German backpackers.",
             "disneyplus_id": null,
             "simpsonsworld_id": 264207427808,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Albert Brooks"
+            ]
         },
         {
             "title": "A Star is Torn",
             "season": 16,
             "episode": 18,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-05-08",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Carolyn Omine"
+            ],
             "description": "Homer behaves like a domineering stage mom after Lisa achieves fame by appearing in a singing competition on The Krusty the Clown Show.",
             "disneyplus_id": null,
             "simpsonsworld_id": 264212035982,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Fantasia Barrino"
+            ]
         },
         {
             "title": "Thank God It's Doomsday",
             "season": 16,
             "episode": 19,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-05-08",
+            "directors": [
+                "Michael Marcantel"
+            ],
+            "writers": [
+                "Don Payne"
+            ],
             "description": "Homer is declared a prophet after he convinces everyone in town that the end of the world is at hand.",
             "disneyplus_id": null,
             "simpsonsworld_id": 264217155650,
@@ -4952,48 +5698,71 @@
             "title": "The Father, The Son, and The Holy Guest Star",
             "season": 16,
             "episode": 20,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-05-15",
+            "directors": [
+                "Michael Polcino"
+            ],
+            "writers": [
+                "Matt Warburton"
+            ],
             "description": "After Bart gets expelled, he's enrolled in Catholic school, where he befriends a priest who wants to convert him and Homer to Catholicism.",
             "disneyplus_id": null,
             "simpsonsworld_id": 264455235845,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Liam Neeson"
+            ]
         },
         {
             "title": "Home Away From Homer",
             "season": 16,
             "episode": 21,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-05-15",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Joel H. Cohen"
+            ],
             "description": "Flanders feels like a fool after sorority girls run an adult Web site from his house without his knowledge, so he and the boys move away from Springfield... to a town where everyone looks like a Hummel figurine.",
             "disneyplus_id": null,
             "simpsonsworld_id": 264560707993,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jason Bateman"
+            ]
         },
         {
             "title": "The Bonfire of the Manatees",
             "season": 17,
             "episode": 1,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-09-11",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Dan Greaney"
+            ],
             "description": "When Homer allows the mob to film a pornographic movie at the house, a disgusted Marge leaves the family and hooks up with a doctor trying to save the lives of manatees.",
             "disneyplus_id": "15041ad9-c690-4a1e-819c-5394d01d3896",
             "simpsonsworld_id": 273502275982,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Alec Baldwin",
+                "Joe Mantegna"
+            ]
         },
         {
             "title": "The Girl Who Slept Too Little",
             "season": 17,
             "episode": 2,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-09-18",
+            "directors": [
+                "Raymond S. Persi"
+            ],
+            "writers": [
+                "John Frink"
+            ],
             "description": "Lisa must confront her darkest fears after a cemetery is relocated to the Simpsons' neighborhood.",
             "disneyplus_id": "49f07704-d9ac-47e6-aa12-0a30eaf32f6e",
             "simpsonsworld_id": 277101123962,
@@ -5004,9 +5773,13 @@
             "title": "Milhouse of Sand and Fog",
             "season": 17,
             "episode": 3,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-09-25",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Patric M. Verrone"
+            ],
             "description": "After Kirk and Luann rekindle their relationship, Bart and Milhouse plot to end the romance... only to inadvertently cause Homer and Marge to break up instead.",
             "disneyplus_id": "8c265c5a-c1d6-4d41-a16e-2947e666bdd0",
             "simpsonsworld_id": 273506371834,
@@ -5017,22 +5790,33 @@
             "title": "Treehouse of Horror XVI",
             "season": 17,
             "episode": 4,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-11-06",
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Marc Wilmore"
+            ],
             "description": "On Halloween, Bart is replaced by a robotic boy after he falls into a coma; Burns hunts down Homer in a most dangerous game; a witch transforms trick-or-treaters into the costumes they're wearing.",
             "disneyplus_id": "79526359-09da-410f-93ed-473dd8a22d91",
             "simpsonsworld_id": 310466627927,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Terry Bradshaw",
+                "Dennis Rodman"
+            ]
         },
         {
             "title": "Marge's Son Poisoning",
             "season": 17,
             "episode": 5,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-11-13",
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "Daniel Chun"
+            ],
             "description": "After spending time with her son, Marge begins to worry that she's turning Bart into a momma's boy; Homer enters an arm-wrestling competition.",
             "disneyplus_id": "4f23394a-acfe-44da-9638-6c91de330635",
             "simpsonsworld_id": 279766083701,
@@ -5043,9 +5827,13 @@
             "title": "See Homer Run",
             "season": 17,
             "episode": 6,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-11-20",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Stephanie Gillis"
+            ],
             "description": "After winning popularity as the Safety Salamander, Homer challenges Quimby during a special mayoral recall election.",
             "disneyplus_id": "e583a0f5-1ec6-430e-aca2-d8872a2a62a7",
             "simpsonsworld_id": 273512003506,
@@ -5056,35 +5844,53 @@
             "title": "The Last of the Red Hat Mamas",
             "season": 17,
             "episode": 7,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-11-27",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Joel H. Cohen"
+            ],
             "description": "A lonely Marge joins a women's group; Milhouse teaches Lisa how to speak Italian.",
             "disneyplus_id": "b1c183c4-3596-488d-a69f-e009a0b9a052",
             "simpsonsworld_id": 279770179721,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Lily Tomlin"
+            ]
         },
         {
             "title": "The Italian Bob",
             "season": 17,
             "episode": 8,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-12-11",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "John Frink"
+            ],
             "description": "The Simpsons travel to Italy to retrieve Mr. Burn's expensive new sports car... only to encounter Sideshow Bob and his murderous family.",
             "disneyplus_id": "33c8bd72-9107-4de1-943b-a3e9e4f02fe8",
             "simpsonsworld_id": 256858691577,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Maria Grazia Cucinotta",
+                "Kelsey Grammer",
+                "John Moschitta"
+            ]
         },
         {
             "title": "Simpsons Christmas Stories",
             "season": 17,
             "episode": 9,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2005-12-18",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Don Payne"
+            ],
             "description": "The Simpsons appear in three Christmas tales: the story of the birth of Jesus; a World War II tale featuring Grampa, Mr. Burns and Santa; and a musical featuring The Nutcracker suite.",
             "disneyplus_id": "69054322-132b-4ec5-b54b-ea7f4bdcc48c",
             "simpsonsworld_id": 256885315702,
@@ -5095,22 +5901,34 @@
             "title": "Homer's Paternity Coot",
             "season": 17,
             "episode": 10,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-01-08",
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "Joel H. Cohen"
+            ],
             "description": "When an old letter is delivered to the Simpson home, Homer comes to believe that Grampa isn't his biological father after all.",
             "disneyplus_id": "5076a95f-afa6-46d1-8e57-91577a8220cf",
             "simpsonsworld_id": 279775811924,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Michael York",
+                "William H. Macy",
+                "Joe Frazier"
+            ]
         },
         {
             "title": "We're on the Road to D'ohwhere",
             "season": 17,
             "episode": 11,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-01-29",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Kevin Curran"
+            ],
             "description": "After Bart gets into trouble at school, Homer drives Bart to Oregon, where he attends a behavior modification camp; Marge becomes a popular drug dealer after she sells Homer's pain medications during a yard sale.",
             "disneyplus_id": "97ef599a-591e-4b7b-8d45-4dee2571550e",
             "simpsonsworld_id": 310483523720,
@@ -5121,9 +5939,13 @@
             "title": "My Fair Laddy",
             "season": 17,
             "episode": 12,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-02-26",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Michael Price"
+            ],
             "description": "Lisa vows to turn Groundskeeper Willie into a 'proper gentleman' in time for the upcoming school science fair; Homer tries to find something to wear after he rips his favorite blue pants.",
             "disneyplus_id": "11f3cddd-9bb1-4486-a382-448da80dc063",
             "simpsonsworld_id": 307171907536,
@@ -5134,74 +5956,113 @@
             "title": "The Seemingly Never-Ending Story",
             "season": 17,
             "episode": 13,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-03-12",
+            "directors": [
+                "Raymond S. Persi"
+            ],
+            "writers": [
+                "Ian Maxtone-Graham"
+            ],
             "description": "When the Simpsons become trapped inside a cave, Lisa recounts a story involving a bag of gold coins and how it affected the lives of Mr. Burns, Moe and Homer.",
             "disneyplus_id": "34ca3fd2-198b-4dbc-a3f0-20813f98d804",
             "simpsonsworld_id": 277107267767,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Bart Has Two Mommies",
             "season": 17,
             "episode": 14,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-03-19",
+            "directors": [
+                "Mike Marcantel"
+            ],
+            "writers": [
+                "Dana Gould"
+            ],
             "description": "Marge teaches Rod and Todd Flanders how to have fun; a lonely chimpanzee grabs hold of Bart.",
             "disneyplus_id": "f0ba9823-f753-4fde-b3c3-597e098037c1",
             "simpsonsworld_id": 277113411511,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Antonio Fargas",
+                "Susan Sarandon",
+                "Randy Johnson",
+                "Dave Thomas"
+            ]
         },
         {
             "title": "Homer Simpson, This is Your Wife",
             "season": 17,
             "episode": 15,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-03-26",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Ricky Gervais"
+            ],
             "description": "Marge swaps places with a British wife after the Simpsons become contestants on a reality television show.",
             "disneyplus_id": "c76182bf-8018-4817-bebe-6f6e97fd95c1",
             "simpsonsworld_id": 277119043544,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Ricky Gervais"
+            ]
         },
         {
             "title": "Million Dollar Abie",
             "season": 17,
             "episode": 16,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-04-02",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Tim Long"
+            ],
             "description": "After costing Springfield a professional football team, Grampa tries to end his life, but the experience changes him, and he ends up becoming a matador.",
             "disneyplus_id": "f06f1cc0-dad5-43ca-95f6-bd312cf3447c",
             "simpsonsworld_id": 292950083730,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Rob Reiner",
+                "Michael Carrington"
+            ]
         },
         {
             "title": "Kiss Kiss Bang Bangalore",
             "season": 17,
             "episode": 17,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-04-09",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Deb Lacusta",
+                "Dan Castellaneta"
+            ],
             "description": "Mr. Burns closes the nuclear power plant and outsources all the jobs, forcing Homer to relocate to India; MacGyver fans Patty and Selma kidnap actor Richard Dean Anderson.",
             "disneyplus_id": "ea476b6b-104d-4b87-b600-104ce3ea2192",
             "simpsonsworld_id": 283757123904,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Richard Dean Anderson"
+            ]
         },
         {
             "title": "The Wettest Stories Ever Told",
             "season": 17,
             "episode": 18,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-04-23",
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "Jeff Westbrook"
+            ],
             "description": "The Simpsons appear in three stories set at sea: the journey of The Mayflower, the mutiny on The Bounty, and the capsizing of a cruise ship.",
             "disneyplus_id": "45d552e0-f659-47d7-a211-af7feff50ed0",
             "simpsonsworld_id": 310489667660,
@@ -5212,87 +6073,138 @@
             "title": "Girls Just Want to Have Sums",
             "season": 17,
             "episode": 19,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-04-30",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Matt Selman"
+            ],
             "description": "After Skinner is fired for insinuating that girls are inferior to boys in math, Springfield Elementary is split into two groups-boys and girls-forcing Lisa to dress up like a boy so she can attend a math class.",
             "disneyplus_id": "5df6d32f-2304-45cd-a197-1d90aa7e1d76",
             "simpsonsworld_id": 274367043639,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Frances McDormand"
+            ]
         },
         {
             "title": "Regarding Margie",
             "season": 17,
             "episode": 20,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-05-07",
+            "directors": [
+                "Michael Polcino"
+            ],
+            "writers": [
+                "Marc Wilmore"
+            ],
             "description": "After Marge develops amnesia and can't remember anything about Homer, she decides to kick him out of the house and see other people.",
             "disneyplus_id": "7ebe927e-566b-41b5-9625-ba9600ceb5b5",
             "simpsonsworld_id": 277125187506,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Sal Bando",
+                "Gene Tenace"
+            ]
         },
         {
             "title": "The Monkey Suit",
             "season": 17,
             "episode": 21,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-05-14",
+            "directors": [
+                "Raymond S. Persi"
+            ],
+            "writers": [
+                "J. Stewart Burns"
+            ],
             "description": "Lisa protests when Springfield passes a law requiring that creationism be taught alongside evolution in public schools.",
             "disneyplus_id": "8d55f57f-97da-4a15-a0b2-57d6ce59bc29",
             "simpsonsworld_id": 277127235959,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Melanie Griffith",
+                "Larry Hagman"
+            ]
         },
         {
             "title": "Marge and Homer Turn a Couple Play",
             "season": 17,
             "episode": 22,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-05-21",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Joel H. Cohen"
+            ],
             "description": "Homer and Marge play marriage counselors to help a baseball player and his sexy recording artist-wife.",
             "disneyplus_id": "81f1ff3f-741e-4677-9c71-628b4851dbf6",
             "simpsonsworld_id": 292955203576,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Mandy Moore",
+                "Stacy Keach"
+            ]
         },
         {
             "title": "The Mook, the Chef, the Wife and Her Homer",
             "season": 18,
             "episode": 1,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-09-10",
+            "directors": [
+                "Michael Marcantel"
+            ],
+            "writers": [
+                "Bill Odenkirk"
+            ],
             "description": "Lisa befriends the son of mobster Fat Tony, whose dream is to become a chef; Homer and Bart take over the 'family business' after Fat Tony is gunned down.",
             "disneyplus_id": "1783fde5-2f80-47c4-bfd6-f4fa22b5ca1b",
             "simpsonsworld_id": 292959299559,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Joe Mantegna",
+                "Joe Pantoliano",
+                "Michael Imperioli",
+                "James Hetfield",
+                "Lars Ulrich",
+                "Kirk Hammett",
+                "Robert Trujillo"
+            ]
         },
         {
             "title": "Jazzy and the Pussycats",
             "season": 18,
             "episode": 2,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-09-17",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Daniel Chun"
+            ],
             "description": "Lisa grows jealous after Bart discovers he's a talented jazz drummer; Lisa hides some stray animals in the attic.",
             "disneyplus_id": "ad3773ea-555e-4c7c-ad33-19dd12e2543a",
             "simpsonsworld_id": 283202115995,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Meg White",
+                "Jack White"
+            ]
         },
         {
             "title": "Please Homer, Don't Hammer 'em",
             "season": 18,
             "episode": 3,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-09-24",
+            "directors": [
+                "Mike B. Anderson",
+                "Ralpha Sosa"
+            ],
+            "writers": [
+                "Matt Warburton"
+            ],
             "description": "Marge starts her own carpentry business, only to discover that men don't trust a woman to do the job; Bart discovers that Skinner is allergic to peanuts.",
             "disneyplus_id": "de75d6a6-d9c8-4821-b1c6-d2d7f77adb9f",
             "simpsonsworld_id": 283760707876,
@@ -5303,48 +6215,80 @@
             "title": "Treehouse of Horror XVII",
             "season": 18,
             "episode": 4,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-11-05",
+            "directors": [
+                "David Silverman",
+                "Matthew Faughnan"
+            ],
+            "writers": [
+                "Peter Gaffney"
+            ],
             "description": "The Simpsons appear in three tales of horror: Homer turns into a rampaging blob; a creature from Jewish folklore does Bart's bidding; a radio broadcast convinces townspeople they're being invaded by aliens.",
             "disneyplus_id": "072d998d-45f2-430b-976f-9cdf1d7f0e0f",
             "simpsonsworld_id": 302871107984,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Richard Lewis",
+                "Fran Drescher",
+                "Dr. Phil",
+                "Sir Mix-a-Lot",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "G.I. (Annoyed Grunt)",
             "season": 18,
             "episode": 5,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-11-12",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Daniel Chun"
+            ],
             "description": "After Homer joins the Army, he's selected to play an enemy target during war games.  When the Army chases Homer into town, it pits the people of Springfield against the military.",
             "disneyplus_id": "d506c8e0-838b-42e2-8bc8-639d7ac79093",
             "simpsonsworld_id": 283080259896,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Kiefer Sutherland",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Moe 'N' a Lisa",
             "season": 18,
             "episode": 6,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-11-19",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Matt Warburton"
+            ],
             "description": "Lisa helps Moe get a poem published, but is deeply hurt when Moe refuses to acknowledge her contribution.",
             "disneyplus_id": "1dbc7634-6c9b-451c-b98d-f37a04aca4c3",
             "simpsonsworld_id": 307167299594,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "J. K. Simmons",
+                "Tom Wolfe",
+                "Gore Vidal",
+                "Michael Chabon",
+                "Jonathan Franzen"
+            ]
         },
         {
             "title": "Ice Cream of Margie (With the Light Blue Hair)",
             "season": 18,
             "episode": 7,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-11-26",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Carolyn Omine"
+            ],
             "description": "Homer finds happiness after he buys an ice cream truck; Marge finds her purpose in life when she makes sculptures out of popsicle sticks.",
             "disneyplus_id": "ac78e6e7-e65b-4fdc-a5b1-ca92d60d8f7a",
             "simpsonsworld_id": 292941379558,
@@ -5355,9 +6299,13 @@
             "title": "The Haw-Hawed Couple",
             "season": 18,
             "episode": 8,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-12-10",
+            "directors": [
+                "Chris Clements"
+            ],
+            "writers": [
+                "Matt Selman"
+            ],
             "description": "Bart becomes Nelson's best friend; Homer becomes hooked on one of Lisa's fantasy books.",
             "disneyplus_id": "cadd74ff-2dff-4715-983d-d725748114ec",
             "simpsonsworld_id": 279785027791,
@@ -5368,35 +6316,52 @@
             "title": "Kill Gil (Parts I and II)",
             "season": 18,
             "episode": 9,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2006-12-17",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Jeff Westbrook"
+            ],
             "description": "During the Christmas holiday, Marge attempts to muster the wherewithal to kick down-on-his-luck Gil out of the house.",
             "disneyplus_id": "e23a7a91-620f-43cc-9b61-06fef0de06a9",
             "simpsonsworld_id": 279793731867,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Elvis Stojko"
+            ]
         },
         {
             "title": "The Wife Aquatic",
             "season": 18,
             "episode": 10,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2007-01-07",
+            "directors": [
+                "Lance Kramer"
+            ],
+            "writers": [
+                "Kevin Curran"
+            ],
             "description": "Marge returns to an island where she joyfully spent some of her childhood summers; Homer is forced to work on a fishing vessel that's threatened by a huge storm.",
             "disneyplus_id": "68523be0-e230-4d15-8bfa-1f00537ca5b3",
             "simpsonsworld_id": 283764803572,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Sab Shimono",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Revenge is a Dish Best Served Three Times",
             "season": 18,
             "episode": 11,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2007-01-28",
+            "directors": [
+                "Michael Polcino"
+            ],
+            "writers": [
+                "Joel H. Cohen"
+            ],
             "description": "The Simpsons spin three tales of revenge; Homer appears as the Count of Monte Cristo; Milhouse uses a gadget to get even with kids who've picked on him; comic hero Bart-Man searches for the villain who killed his parents.",
             "disneyplus_id": "bd3f385d-9260-4ede-8a7a-49406efedb53",
             "simpsonsworld_id": 283790915851,
@@ -5407,87 +6372,133 @@
             "title": "Little Big Girl",
             "season": 18,
             "episode": 12,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2007-02-11",
+            "directors": [
+                "Raymond S. Persi"
+            ],
+            "writers": [
+                "Don Payne"
+            ],
             "description": "As Multicultural Day approaches, Lisa invents her own Native American heritage; after saving Springfield from a fire, Bart is rewarded with a driver's license-and ends up with a pregnant girlfriend who wants to wed.",
             "disneyplus_id": "cfb599de-f928-47bb-a4fe-26f3675c18e0",
             "simpsonsworld_id": 310462531619,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Natalie Portman"
+            ]
         },
         {
             "title": "Springfield Up",
             "season": 18,
             "episode": 13,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2007-02-18",
+            "directors": [
+                "Chuck Sheetz"
+            ],
+            "writers": [
+                "Matt Warburton"
+            ],
             "description": "In this spoof of the 'Up' documentaries, a filmmaker chronicles the lives of a group of Springfield residents, including Homer, who has seemingly made good on his quest to become a millionaire.",
             "disneyplus_id": "4949be66-6329-499b-b1fc-a773ba45b1c8",
             "simpsonsworld_id": 302876739533,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Eric Idle"
+            ]
         },
         {
             "title": "Yokel Chords",
             "season": 18,
             "episode": 14,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2007-03-04",
+            "directors": [
+                "Susie Dietter"
+            ],
+            "writers": [
+                "Michael Price"
+            ],
             "description": "Lisa tutors Cletus's children - until Krusty hires them as a novelty act for his television show; Bart sees a female therapist after he's caught frightening his classmates with a scary story.",
             "disneyplus_id": "a5a3d0fa-49ea-4982-b746-9d62af1e5583",
             "simpsonsworld_id": 307175491532,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Meg Ryan",
+                "Andy Dick",
+                "James Patterson",
+                "Stephen Sondheim",
+                "Peter Bogdanovich"
+            ]
         },
         {
             "title": "Rome-old and Juli-eh",
             "season": 18,
             "episode": 15,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2007-03-11",
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Daniel Chun"
+            ],
             "description": "Homer is horrified when his father begins dating Selma; Bart and Lisa build a fort after acquiring a large quantity of empty cardboard boxes.",
             "disneyplus_id": "cfbd1344-3525-4ec1-90f2-d29679f8ad4d",
             "simpsonsworld_id": 302868035943,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jane Kaczmarek"
+            ]
         },
         {
             "title": "Homerazzi",
             "season": 18,
             "episode": 16,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2007-03-25",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "J. Stewart Burns"
+            ],
             "description": "Homer tries his hand at making money by photographing celebrities and selling the images to the tabloids.",
             "disneyplus_id": "b5af50a3-1980-4985-a51a-52d70c5e6021",
             "simpsonsworld_id": 292962371807,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "J. K. Simmons",
+                "Betty White",
+                "Jon Lovitz"
+            ]
         },
         {
             "title": "Marge Gamer",
             "season": 18,
             "episode": 17,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2007-04-22",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "J. Stewart Burns"
+            ],
             "description": "After discovering the Internet, Marge becomes a character in a popular online fantasy game; Homer referees Lisa's soccer team.",
             "disneyplus_id": "84482308-1ead-4b52-a111-879cf1e310f2",
             "simpsonsworld_id": 277036099916,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Ronaldo"
+            ]
         },
         {
             "title": "The Boys of Bummer",
             "season": 18,
             "episode": 18,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2007-04-29",
+            "directors": [
+                "Rob Oliver"
+            ],
+            "writers": [
+                "Michael Price"
+            ],
             "description": "Bart becomes the shame of Springfield after a bungle on the playing field causes the Isotots to lose a pennant game; Homer and Marge fight Reverend Lovejoy and his wife over possession of Homer's mattress.",
             "disneyplus_id": "01978e70-0f9d-4779-ad24-0021c5dfb062",
             "simpsonsworld_id": 279798851587,
@@ -5498,9 +6509,13 @@
             "title": "Crook and Ladder",
             "season": 18,
             "episode": 19,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2007-05-06",
+            "directors": [
+                "Lance Kramer"
+            ],
+            "writers": [
+                "Bill Odenkirk"
+            ],
             "description": "Homer and his friends join the volunteer fire department, only to begin stealing from fire victims.",
             "disneyplus_id": "45796141-0dfc-4591-84a0-4e60e2261165",
             "simpsonsworld_id": 310491203943,
@@ -5511,40 +6526,63 @@
             "title": "Stop Or My Dog Will Shoot",
             "season": 18,
             "episode": 20,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2007-05-13",
+            "directors": [
+                "Matthew Gaughnan"
+            ],
+            "writers": [
+                "John Frink"
+            ],
             "description": "When Santa's Little Helper gets a job on the police force, Bart buys a python to replace him.",
             "disneyplus_id": "5915e2fd-c3d0-41ca-a505-9fe2dfbcf891",
             "simpsonsworld_id": 302865987860,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Stephen Hawking",
+                "Rudy Giuliani",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "24 Minutes",
             "season": 18,
             "episode": 21,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2007-05-20",
+            "directors": [
+                "Raymond S. Persi"
+            ],
+            "writers": [
+                "Billy Kimball",
+                "Ian Maxtone-Graham"
+            ],
             "description": "In this spoof of the television series '24,' Bart attempts to stop Jimbo, Dolph and Kearney before they unleash a deadly stink bomb at an upcoming school bake sale.",
             "disneyplus_id": "61602bd0-a1ab-4070-8bea-865b5a694998",
             "simpsonsworld_id": 292963907577,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Kiefer Sutherland",
+                "Mary Lynn Rajskub"
+            ]
         },
         {
             "title": "You Kent Always Say What You Want",
             "season": 18,
             "episode": 22,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2007-05-20",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Tim Long"
+            ],
             "description": "Kent Brockman accidentally utters an obscenity during a news broadcast, leading to a heavy fine from the FCC - and costing Brockman his job.",
             "disneyplus_id": "74c57b86-7dfd-4d25-8008-46a91d898f3c",
             "simpsonsworld_id": 302859843984,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Ludacris",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "He Loves To Fly And He D'ohs",
@@ -5557,7 +6595,10 @@
             "disneyplus_id": "cfb4a65d-9894-49a4-a3cd-8a69d5d2e27e",
             "simpsonsworld_id": 292943427892,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Stephen Colbert",
+                "Lionel Richie"
+            ]
         },
         {
             "title": "Homer of Seville",
@@ -5570,7 +6611,10 @@
             "disneyplus_id": "29d746b8-c00f-4017-a385-e7439147f115",
             "simpsonsworld_id": 350651459856,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Pl\u00e1cido Domingo",
+                "Maya Rudolph"
+            ]
         },
         {
             "title": "Midnight Towboy",
@@ -5583,7 +6627,9 @@
             "disneyplus_id": "3aabd561-93f2-4cab-acdf-c2e8f4adc3f8",
             "simpsonsworld_id": 292968003585,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Matt Dillon"
+            ]
         },
         {
             "title": "I Don't Wanna Know Why the Caged Bird Sings",
@@ -5596,7 +6642,11 @@
             "disneyplus_id": "f5ba0aac-38a1-41f2-a749-87292f0f6ec8",
             "simpsonsworld_id": 310455875747,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Steve Buschemi",
+                "Ted Nugent",
+                "Julia Louis-Dreyfus"
+            ]
         },
         {
             "title": "Treehouse of Horror XVIII",
@@ -5609,7 +6659,9 @@
             "disneyplus_id": "e3918111-7db4-4a22-a335-fa3a24ec2545",
             "simpsonsworld_id": 302852163741,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Little Orphan Millie",
@@ -5635,7 +6687,13 @@
             "disneyplus_id": "12049833-9d7d-4442-877c-5d2cb51d63e7",
             "simpsonsworld_id": 294772803561,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Alan Moore",
+                "Art Spiegelman",
+                "Dan Clowes",
+                "Jack Black",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Funeral for a Fiend",
@@ -5648,7 +6706,12 @@
             "disneyplus_id": "63ecb9f3-2160-4fa4-a70a-e4b969f3a541",
             "simpsonsworld_id": 310458947589,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Kelsey Grammer",
+                "David Hyde Pierce",
+                "John Mahoney",
+                "Keith Olbermann"
+            ]
         },
         {
             "title": "Eternal Moonshine of the Simpson Mind",
@@ -5674,7 +6737,10 @@
             "disneyplus_id": "04b3942a-b531-45e1-820c-c8b1447affd9",
             "simpsonsworld_id": 307179075535,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jon Stewart",
+                "Dan Rather"
+            ]
         },
         {
             "title": "That 90's Show",
@@ -5687,7 +6753,10 @@
             "disneyplus_id": "496a92e0-6d0f-4b93-874a-6466ceb46185",
             "simpsonsworld_id": 299664963588,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Kurt Loder",
+                "Weird Al Yankovic"
+            ]
         },
         {
             "title": "Love, Springfieldian Style",
@@ -5713,7 +6782,10 @@
             "disneyplus_id": "6ec0564f-066c-4db8-9c0b-525fb045760c",
             "simpsonsworld_id": 302849603730,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Topher Grace",
+                "Terry Gross"
+            ]
         },
         {
             "title": "Dial 'N' for Nerder",
@@ -5752,7 +6824,12 @@
             "disneyplus_id": "59529fea-4dd3-40fb-82ba-f6fac7ae816a",
             "simpsonsworld_id": 283768387739,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Beverly D'Angelo",
+                "Natalie Maines",
+                "Martie Maguire",
+                "Emily Strayer"
+            ]
         },
         {
             "title": "Apocalypse Cow",
@@ -5765,7 +6842,9 @@
             "disneyplus_id": "1a63a3b9-4b72-4e3f-80d8-bf00d962ab72",
             "simpsonsworld_id": 302847555768,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Zooey Deschanel"
+            ]
         },
         {
             "title": "Any Given Sundance",
@@ -5778,7 +6857,10 @@
             "disneyplus_id": "160f68fb-5e93-4905-8721-fdb30ac750ab",
             "simpsonsworld_id": 283769923976,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jim Jarmusch",
+                "John C. Reilly"
+            ]
         },
         {
             "title": "Mona Leaves-a",
@@ -5791,7 +6873,10 @@
             "disneyplus_id": "6b46ca89-e6d0-43d8-8e18-cab6a8c392b4",
             "simpsonsworld_id": 299670083511,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Glenn Close",
+                "Lance Armstrong"
+            ]
         },
         {
             "title": "All About Lisa",
@@ -5804,7 +6889,9 @@
             "disneyplus_id": "1ac6f2b6-a083-4be3-aa46-9d5e185c1451",
             "simpsonsworld_id": 294774851723,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Drew Carey"
+            ]
         },
         {
             "title": "Sex, Pies and Idiot Scrapes",
@@ -5817,7 +6904,11 @@
             "disneyplus_id": "b41e3be6-a769-407d-a3fc-a277e56801f3",
             "simpsonsworld_id": 311088195682,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Julia Louis-Dreyfus",
+                "Robert Forster",
+                "Joe Mantegna"
+            ]
         },
         {
             "title": "Lost Verizon",
@@ -5830,7 +6921,10 @@
             "disneyplus_id": "342c9998-d824-4e01-9a5b-9b6db32bf258",
             "simpsonsworld_id": 304458307742,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Denis Leary",
+                "Brian Grazer"
+            ]
         },
         {
             "title": "Double, Double, Boy in Trouble",
@@ -5843,7 +6937,9 @@
             "disneyplus_id": "37918594-db18-449e-a6cc-d82abf914a4b",
             "simpsonsworld_id": 304460355919,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Joe Montana"
+            ]
         },
         {
             "title": "Treehouse of Horror XIX",
@@ -5869,7 +6965,9 @@
             "disneyplus_id": "9c79d330-2b3d-48d8-adb8-ee9781e48fb4",
             "simpsonsworld_id": 311675459549,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Homer and Lisa Exchange Cross Words",
@@ -5882,7 +6980,11 @@
             "disneyplus_id": "52d5c4bb-bc9c-4463-862a-2b241726510f",
             "simpsonsworld_id": 310541891517,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Merl Reagle",
+                "Will Shortz",
+                "Scott Thompson"
+            ]
         },
         {
             "title": "Mypods and Boomsticks",
@@ -5895,7 +6997,9 @@
             "disneyplus_id": "04436cd4-2791-45a4-b513-1e436dcec79b",
             "simpsonsworld_id": 310498883779,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Shohreh Aghdashloo"
+            ]
         },
         {
             "title": "The Burns and the Bees",
@@ -5908,7 +7012,11 @@
             "disneyplus_id": "eff7ae0c-3a24-4a1d-af82-ca8771821789",
             "simpsonsworld_id": 310506051725,
             "good": true,
-            "guest_stars": []
+            "guest_stars": [
+                "Mark Cuban",
+                "Jeff Bezos",
+                "Marv Albert"
+            ]
         },
         {
             "title": "Lisa the Drama Queen",
@@ -5921,7 +7029,13 @@
             "disneyplus_id": "68ee0aa3-11db-4692-9bca-d8f8601c3a5a",
             "simpsonsworld_id": 292944963870,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Emily Blunt",
+                "Pete Wentz",
+                "Patrick Stump",
+                "Joe Trohman",
+                "Andy Hurley"
+            ]
         },
         {
             "title": "Take My Life, Please",
@@ -5960,7 +7074,9 @@
             "disneyplus_id": "7b36dd78-924e-40ee-8be2-ce89a6b40964",
             "simpsonsworld_id": 273029699673,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Gone Maggie Gone",
@@ -5973,7 +7089,9 @@
             "disneyplus_id": "7142d0eb-2815-4108-b9d6-af8624dc2ab1",
             "simpsonsworld_id": 273030211958,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Ed Begley, Jr."
+            ]
         },
         {
             "title": "In the Name of the Grandfather",
@@ -5986,7 +7104,11 @@
             "disneyplus_id": "788f0f9a-99a6-44a5-b575-b65feeee9152",
             "simpsonsworld_id": 307849283838,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Colm Meaney",
+                "Glen Hansard",
+                "Mark\u00e9ta Irglov\u00e1"
+            ]
         },
         {
             "title": "Wedding for Disaster",
@@ -5999,7 +7121,9 @@
             "disneyplus_id": "8de216fa-ab27-4068-abba-7b3d64888854",
             "simpsonsworld_id": 273024579646,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Kelsey Grammer"
+            ]
         },
         {
             "title": "Eeny Teeny Maya Moe",
@@ -6025,7 +7149,9 @@
             "disneyplus_id": "ba710d3f-9c05-4213-9311-ea4d6ae60d7c",
             "simpsonsworld_id": 273057347598,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Anne Hathaway"
+            ]
         },
         {
             "title": "Father Knows Worst",
@@ -6051,7 +7177,10 @@
             "disneyplus_id": "236d3723-c091-4c65-9147-fd39dd2183bb",
             "simpsonsworld_id": 299732035764,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Elliot Page",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Four Great Women and a Manicure",
@@ -6064,7 +7193,9 @@
             "disneyplus_id": "1cf52f6d-4c3e-45d1-81d0-294bb257f1c8",
             "simpsonsworld_id": 273732163923,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jodie Foster"
+            ]
         },
         {
             "title": "Coming To Homerica",
@@ -6090,7 +7221,11 @@
             "disneyplus_id": "88af7df7-b6fc-410e-9e07-92dda4a29a47",
             "simpsonsworld_id": 250297923589,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Seth Rogen",
+                "Matt Groening",
+                "Kevin Michael Richardson"
+            ]
         },
         {
             "title": "Bart Gets A 'Z'",
@@ -6116,7 +7251,9 @@
             "disneyplus_id": "2388825f-aab3-4dd2-8661-592808bf85bc",
             "simpsonsworld_id": 250299971833,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Chuck Liddell"
+            ]
         },
         {
             "title": "Treehouse of Horror XX",
@@ -6155,7 +7292,9 @@
             "disneyplus_id": "564a90ff-acea-4ef1-98f4-c3014b817f9f",
             "simpsonsworld_id": 792414787985,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jonah Hill"
+            ]
         },
         {
             "title": "Rednecks and Broomsticks",
@@ -6168,7 +7307,9 @@
             "disneyplus_id": "7e3a408b-0351-4058-92fe-573098060e2a",
             "simpsonsworld_id": 250307139830,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Neve Campbell"
+            ]
         },
         {
             "title": "O Brother, Where Bart Thou?",
@@ -6181,7 +7322,16 @@
             "disneyplus_id": "82a1a502-53a6-4c94-be36-3db8a55d12a3",
             "simpsonsworld_id": 250311235599,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Peyton Manning",
+                "Eli Manning",
+                "Cooper Manning",
+                "Tom Smothers",
+                "Dick Smothers",
+                "Kim Cattrall",
+                "Huell Howser",
+                "Jordan Nagai"
+            ]
         },
         {
             "title": "Thursdays with Abie",
@@ -6194,7 +7344,9 @@
             "disneyplus_id": "5837bd57-dcbb-4658-9bee-071dcfb532db",
             "simpsonsworld_id": 250369603964,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Mitch Albom"
+            ]
         },
         {
             "title": "Once Upon A Time in Springfield",
@@ -6207,7 +7359,13 @@
             "disneyplus_id": "93d48c4e-6bcc-4da6-aa24-379f32809368",
             "simpsonsworld_id": 250379331672,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Anne Hathaway",
+                "Jackie Mason",
+                "Eartha Kitt",
+                "Gary Larson",
+                "Maurice LaMarche"
+            ]
         },
         {
             "title": "Million Dollar Maybe",
@@ -6220,7 +7378,9 @@
             "disneyplus_id": "f6b9c035-54ac-4356-9a03-c039dd95ee4c",
             "simpsonsworld_id": 279804995696,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Chris Martin"
+            ]
         },
         {
             "title": "Boy Meets Curl",
@@ -6233,7 +7393,9 @@
             "disneyplus_id": "c9b38de3-fef9-4da6-96ea-9e5b44e3e3ed",
             "simpsonsworld_id": 250385475646,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Bob Costas"
+            ]
         },
         {
             "title": "The Color Yellow",
@@ -6246,7 +7408,9 @@
             "disneyplus_id": "cb0d811d-9959-4641-8ec5-cedd2e07bbb8",
             "simpsonsworld_id": 255100483932,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Wren T. Brown"
+            ]
         },
         {
             "title": "Postcards From the Wedge",
@@ -6272,7 +7436,10 @@
             "disneyplus_id": "f41d6853-3d30-4749-9b15-3553be80418b",
             "simpsonsworld_id": 250397251688,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Sarah Silverman",
+                "Angela Bassett"
+            ]
         },
         {
             "title": "The Greatest Story Ever D'ohed",
@@ -6285,7 +7452,10 @@
             "disneyplus_id": "c700ad86-11bd-4a7b-8a66-b1871c47173b",
             "simpsonsworld_id": 279809091713,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Sacha Baron Cohen",
+                "Yael Naim"
+            ]
         },
         {
             "title": "American History X-cellent",
@@ -6298,7 +7468,10 @@
             "disneyplus_id": "51b45e30-b646-4b83-91a4-81422d38f972",
             "simpsonsworld_id": 250508867924,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Joe Mantegna",
+                "Kevin Michael Richardson"
+            ]
         },
         {
             "title": "Chief of Hearts",
@@ -6311,7 +7484,11 @@
             "disneyplus_id": "19d92204-1f6f-46b1-96fe-36118aaf1fce",
             "simpsonsworld_id": 250515523850,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jane Maczmarek",
+                "Maurice LaMarche",
+                "Joe Mantegna"
+            ]
         },
         {
             "title": "The Squirt and the Whale",
@@ -6337,7 +7514,9 @@
             "disneyplus_id": "f675cbf8-c051-4be9-a2d7-fbf3752afd40",
             "simpsonsworld_id": 250523203904,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Eddie Izzard"
+            ]
         },
         {
             "title": "Moe Letter Blues",
@@ -6350,7 +7529,9 @@
             "disneyplus_id": "7a2a3403-6a37-4cf3-ae36-c6eb364abebd",
             "simpsonsworld_id": 250592323527,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Richard Ridings"
+            ]
         },
         {
             "title": "The Bob Next Door",
@@ -6363,7 +7544,9 @@
             "disneyplus_id": "1c755dcb-64db-43ea-9444-d03e1fecf09e",
             "simpsonsworld_id": 250531907855,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Kelsey Grammer"
+            ]
         },
         {
             "title": "Judge Me Tender",
@@ -6376,33 +7559,52 @@
             "disneyplus_id": "735f75cf-d156-40f7-b2d0-893a32eb59a4",
             "simpsonsworld_id": 255074883631,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Simon Cowell",
+                "Randy Jackson",
+                "Ellen DeGeneres",
+                "Kara DioGuardi",
+                "Rupert Murdoch",
+                "Ryan Searcrest"
+            ]
         },
         {
             "title": "Elementary School Musical",
             "season": 22,
             "episode": 1,
-            "release_date": null,
+            "release_date": "2010-09-26",
             "directors": null,
             "writers": null,
             "description": "Lisa attends a performing arts camp; Krusty stands trial in The Hague after being tricked into believing he won the Nobel Prize.",
             "disneyplus_id": "38dc78b3-ee05-4b9d-9faf-324e06a3bb5c",
             "simpsonsworld_id": 263519811935,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jermaine Clement",
+                "Bret McKenzie",
+                "Lea Michele",
+                "Cory Monteith",
+                "Amber Riley",
+                "Ira Glass",
+                "Stephen Hawking"
+            ]
         },
         {
             "title": "Loan-A-Lisa",
             "season": 22,
             "episode": 2,
-            "release_date": null,
+            "release_date": "2010-10-03",
             "directors": null,
             "writers": null,
             "description": "Lisa donates money to a microfinance bank to help Nelson's custom bicycle company; Homer games the system by purchasing expensive items from stores and, after using them for a period of time, returns them for a refund.",
             "disneyplus_id": "02203562-d301-496c-af82-b940db82b457",
             "simpsonsworld_id": 263525955686,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Mark Zuckerberg",
+                "Chris Hansen",
+                "Muhammad Yunus"
+            ]
         },
         {
             "title": "Money Bart",
@@ -6415,7 +7617,10 @@
             "disneyplus_id": "15c14d56-e9f6-4f1c-9ebd-3c9f38710b0d",
             "simpsonsworld_id": 263531587720,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Mike Scioscia",
+                "Bill James"
+            ]
         },
         {
             "title": "Treehouse of Horror XXI",
@@ -6428,7 +7633,10 @@
             "disneyplus_id": "bb65a800-5f8d-4847-84a8-ec68a9ab9293",
             "simpsonsworld_id": 263577155794,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Daniel Radcliffe",
+                "Hugh Laurie"
+            ]
         },
         {
             "title": "Lisa Simpson, This Isn't Your Life",
@@ -6467,7 +7675,10 @@
             "disneyplus_id": "356e17bb-0256-4ed9-a099-2440629b232a",
             "simpsonsworld_id": 263545923923,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Danica Patrick",
+                "Rachel Weisz"
+            ]
         },
         {
             "title": "The Fight Before Christmas",
@@ -6480,7 +7691,10 @@
             "disneyplus_id": "3f4c7660-b103-4f5e-8f3c-1f0294d6b8b0",
             "simpsonsworld_id": 263551043814,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Martha Stewart",
+                "Katy Perry"
+            ]
         },
         {
             "title": "Donnie Fatso",
@@ -6493,7 +7707,10 @@
             "disneyplus_id": "e10fee5e-a7af-44b5-abd3-4b77d384d0e7",
             "simpsonsworld_id": 263572035826,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Jon Hamm",
+                "Joe Mantegna"
+            ]
         },
         {
             "title": "Moms I'd Like To Forget",
@@ -6519,7 +7736,11 @@
             "disneyplus_id": "05b20286-fb1c-4d57-864b-d1ec3bfeb7cf",
             "simpsonsworld_id": 263579715535,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "Alyson Hannigan",
+                "Kristen Wiig",
+                "Scott Thompson"
+            ]
         },
         {
             "title": "Homer the Father",
@@ -6532,7 +7753,12 @@
             "disneyplus_id": "de9cd73b-cd99-4706-b804-ef09beb797d5",
             "simpsonsworld_id": 256851523744,
             "good": false,
-            "guest_stars": []
+            "guest_stars": [
+                "James Lipton",
+                "David Mamet",
+                "Michael Paul Chan",
+                "Garry Marshall"
+            ]
         },
         {
             "title": "The Blue and the Gray",
@@ -6557,7 +7783,7 @@
             "description": "When the 'Angry Dad' character is turned into an award-winning animated short film, Homer hogs the spotlight... much to Bart's dismay.",
             "disneyplus_id": "d9470465-3363-4914-bc9b-ebf02c34d164",
             "simpsonsworld_id": 254814275630,
-            "good": false,
+            "good": true,
             "guest_stars": []
         },
         {
@@ -8897,7 +10123,7 @@
             "description": "Lisa joins an advanced youth orchestra in Capital City, throwing the family\u2019s lives into havoc.",
             "disneyplus_id": "df2fda5d-4585-424a-a2d5-35a4a5178067",
             "simpsonsworld_id": null,
-            "good": false,
+            "good": true,
             "guest_stars": []
         },
         {

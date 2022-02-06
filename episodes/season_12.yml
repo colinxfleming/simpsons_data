@@ -3,7 +3,7 @@ episodes:
 - title: Treehouse of Horror XI
   season: 12
   episode: 1
-  release_date:
+  release_date: 2000-11-01
   directors:
   writers:
   description: On Halloween... a deceased Homer must perform one good deed to get
@@ -16,7 +16,7 @@ episodes:
 - title: A Tale of Two Springfields
   season: 12
   episode: 2
-  release_date:
+  release_date: 2000-11-05
   directors:
   writers:
   description: The townspeople of Springfield divide into two communities when the
@@ -28,7 +28,7 @@ episodes:
 - title: Insane Clown Poppy
   season: 12
   episode: 3
-  release_date:
+  release_date: 2000-11-12
   directors:
   writers:
   description: Krusty discovers that he fathered a child during the Gulf War... only
@@ -40,7 +40,7 @@ episodes:
 - title: Lisa the Treehugger
   season: 12
   episode: 4
-  release_date:
+  release_date: 2000-11-19
   directors:
   writers:
   description: Lisa joins a group of eco-radicals in her attempt to save the city's
@@ -52,7 +52,7 @@ episodes:
 - title: Homer vs. Dignity
   season: 12
   episode: 5
-  release_date:
+  release_date: 2000-11-26
   directors:
   writers:
   description: As the Thanksgiving holiday approaches, Mr. Burns hires Homer to be
@@ -64,7 +64,7 @@ episodes:
 - title: The Computer Wore Menace Shoes
   season: 12
   episode: 6
-  release_date:
+  release_date: 2000-12-03
   directors:
   writers:
   description: Homer uses his new computer to spread gossip on the Internet... and
@@ -76,7 +76,7 @@ episodes:
 - title: The Great Money Caper
   season: 12
   episode: 7
-  release_date:
+  release_date: 2000-12-10
   directors:
   writers:
   description: Homer and Bart become scam artists when the family is faced with the
@@ -88,7 +88,7 @@ episodes:
 - title: Skinner's Sense of Snow
   season: 12
   episode: 8
-  release_date:
+  release_date: 2000-12-17
   directors:
   writers:
   description: As Christmas approaches, a winter snowstorm traps Bart, Lisa and their
@@ -101,7 +101,7 @@ episodes:
 - title: HOMR
   season: 12
   episode: 9
-  release_date:
+  release_date: 2001-01-07
   directors:
   writers:
   description: Homer experiences a dramatic increase in intelligence when researchers
@@ -113,7 +113,7 @@ episodes:
 - title: Pokey Mom
   season: 12
   episode: 10
-  release_date:
+  release_date: 2001-01-14
   directors:
   writers:
   description: With Marge's help, an inmate with artistic ability is paroled from
@@ -126,7 +126,7 @@ episodes:
 - title: Worst Episode Ever
   season: 12
   episode: 11
-  release_date:
+  release_date: 2001-02-04
   directors:
   writers:
   description: When the Comic Book Guy suffers a heart attack, Bart and Milhouse take
@@ -138,7 +138,7 @@ episodes:
 - title: Tennis the Menace
   season: 12
   episode: 12
-  release_date:
+  release_date: 2001-02-11
   directors:
   writers:
   description: When the Simpsons construct a tennis court in the backyard, Bart pairs
@@ -150,7 +150,7 @@ episodes:
 - title: Day of the Jackanapes
   season: 12
   episode: 13
-  release_date:
+  release_date: 2001-02-18
   directors:
   writers:
   description: Sideshow Bob wins release from prison and hypnotizes Bart to kill Krusty
@@ -162,7 +162,7 @@ episodes:
 - title: New Kids on the Blecch
   season: 12
   episode: 14
-  release_date:
+  release_date: 2001-02-25
   directors:
   writers:
   description: After casting Bart and his friends as singers in an all-boy band, a
@@ -174,7 +174,7 @@ episodes:
 - title: Hungry Hungry Homer
   season: 12
   episode: 15
-  release_date:
+  release_date: 2001-03-04
   directors:
   writers:
   description: Homer goes on a hunger strike after learning that the owner of the
@@ -186,9 +186,9 @@ episodes:
 - title: Bye Bye Nerdy
   season: 12
   episode: 16
-  release_date:
-  directors:
-  writers:
+  release_date: 2001-03-11
+  directors: ["Lauren MacMullan"]
+  writers: ["John Frink", "Don Payne"]
   description: Lisa searches for answers when a new student at school bullies her;
     Homer starts his own baby-proofing business.
   disneyplus_id: a1c87fe2-c9a6-4eed-bc9a-bd2960eb1580
@@ -198,9 +198,9 @@ episodes:
 - title: Simpson Safari
   season: 12
   episode: 17
-  release_date:
-  directors:
-  writers:
+  release_date: 2001-04-01
+  directors: ["Mark Kirkland"]
+  writers: ["John Swartzwelder"]
   description: The Simpsons journey through Africa, where they encounter jungle animals,
     tribesmen... and a chimp refuge owner with a secret.
   disneyplus_id: 4e1b6c0d-3e34-47ca-97ca-1a70ec60df00
@@ -210,9 +210,9 @@ episodes:
 - title: Trilogy of Error
   season: 12
   episode: 18
-  release_date:
-  directors:
-  writers:
+  release_date: 2001-04-29
+  directors: ["Mike B. Anderson"]
+  writers: ["Matt Selman"]
   description: 'A day in the life of the Simpsons replays three times: Homer panics
     when Marge slices off his thumb; Lisa attempts to place her entry in the school
     science fair; Bart is pursued by gangsters.'
@@ -223,9 +223,9 @@ episodes:
 - title: I'm Goin' to Praise Land
   season: 12
   episode: 19
-  release_date:
-  directors:
-  writers:
+  release_date: 2001-05-06
+  directors: ["Chuck Sheetz"]
+  writers: ["Julie Thacker"]
   description: To fulfill his dead wife's final wish, Ned Flanders converts an old,
     closed amusement park into a new Christian amusement park, 'Praiseland.'  The
     park flops until visitors begin having 'visions.'
@@ -236,9 +236,9 @@ episodes:
 - title: Children of a Lesser Clod
   season: 12
   episode: 20
-  release_date:
-  directors:
-  writers:
+  release_date: 2001-05-13
+  directors: ["Mike Polcino"]
+  writers: ["Al Jean"]
   description: After Homer injures his knee, he's housebound for recuperation.  A
     successful stint as a babysitter prompts Homer to open a full-time daycare service,
     leaving Bart and Lisa feeling neglected.
@@ -249,9 +249,9 @@ episodes:
 - title: Simpsons Tall Tales
   season: 12
   episode: 21
-  release_date:
-  directors:
-  writers:
+  release_date: 2001-05-20
+  directors: ["Bob Anderson"]
+  writers: ["John Frink", "Don Payne", "Bob Bendetson", "Matt Selman"]
   description: The Simpsons jump a train, and meet a hobo, who tells them twisted
     versions of three classic tales, all of which feature Simpsons characters.
   disneyplus_id: be38a176-f5fe-4e51-b91b-192b05534acc

@@ -42,7 +42,7 @@ episodes:
   description: The annual Simpsons terror-themed trilogy.
   disneyplus_id: 42262a30-b359-4417-87bc-af4f9ca99a5e
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: The 7 Beer Itch
   season: 32
@@ -229,7 +229,7 @@ episodes:
   description: A British secret agent comes to Springfield in search of a Russian spy.
   disneyplus_id: ced76366-e9b2-4ad5-9783-e0fdb25975b6
   simpsonsworld_id:
-  good: maybe
+  good: false
   guest_stars:
 - title: The Last Barfighter
   season: 32
