@@ -188,9 +188,9 @@ episodes:
 - title: Weekend at Burnsie's
   season: 13
   episode: 16
-  release_date: ["Michael Marcantel"]
-  directors: ["Jon Vitti"]
-  writers:
+  release_date: 2002-04-07
+  directors: ["Michael Marcantel"]
+  writers: ["Jon Vitti"]
   description: When Homer is attacked by crows, he's prescribed medical marijuana
     to help relieve the pain... leading Burns to promote his happy employee to executive
     vice president of the power plant.

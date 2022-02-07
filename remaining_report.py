@@ -17,7 +17,7 @@ for datatype in all_data.keys():
         all_data[datatype] = all_data[datatype] + content[datatype]
 
 all_data["episodes"].sort(key=lambda x: (x["season"], x["episode"]))
-all_keys = all_data['episodes'][0].keys()
+all_keys = all_data["episodes"][0].keys()
 for ep in all_data["episodes"]:
     s = f"{ep['season']}-{ep['episode']} - {ep['title']}"
     for k in all_keys:
