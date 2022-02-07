@@ -89,7 +89,7 @@ episodes:
   disneyplus_id: 1a35adfe-6cfc-48b5-8bcf-1f2b67935073
   simpsonsworld_id: 227364931670
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays
   season: 15
   episode: 8
@@ -101,7 +101,7 @@ episodes:
   disneyplus_id: 2eee17ee-617a-4353-8ea8-d8a462a05664
   simpsonsworld_id: 227369027832
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: I, (Annoyed Grunt)-Bot
   season: 15
   episode: 9
@@ -114,7 +114,7 @@ episodes:
   disneyplus_id: c55c6d82-f03b-4a1e-b11d-d52312afd970
   simpsonsworld_id: 227376707538
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Diatribe of a Mad Housewife
   season: 15
   episode: 10
@@ -139,7 +139,7 @@ episodes:
   disneyplus_id: 4f94a1f6-b11a-4fdf-91b9-23c09fe2e584
   simpsonsworld_id: 227386947567
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Milhouse Doesn't Live Here Anymore
   season: 15
   episode: 12
@@ -224,7 +224,7 @@ episodes:
   disneyplus_id: 91fa3c12-3d04-473c-9641-d371e41d0bc7
   simpsonsworld_id: 227415619717
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Simple Simpson
   season: 15
   episode: 19
@@ -249,7 +249,7 @@ episodes:
   disneyplus_id: 5bd69f8d-d191-4586-87ec-0730bfcf2e47
   simpsonsworld_id: 227330115859
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Bart-Mangled Banner
   season: 15
   episode: 21
@@ -261,7 +261,7 @@ episodes:
   disneyplus_id: 88247ea9-a5dd-4a76-9b27-57c807db9116
   simpsonsworld_id: 227410499679
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Fraudcast News
   season: 15
   episode: 22
@@ -274,4 +274,4 @@ episodes:
   disneyplus_id: 500ac3a9-3fd3-4318-8606-2b1132f7ac2d
   simpsonsworld_id: 227405379707
   good: true
-  guest_stars: null
+  guest_stars: []

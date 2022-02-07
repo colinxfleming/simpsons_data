@@ -49,7 +49,7 @@ episodes:
   disneyplus_id: d2d09518-7a45-4fb6-882a-a97051fe2e27
   simpsonsworld_id: 691895363987
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Dangerous Curves
   season: 20
   episode: 5
@@ -123,7 +123,7 @@ episodes:
   disneyplus_id: 1274848a-af0a-4883-866f-4cb68b0e503d
   simpsonsworld_id: 273728067781
   good: maybe
-  guest_stars: null
+  guest_stars: []
 - title: How the Test Was Won
   season: 20
   episode: 11
@@ -136,7 +136,7 @@ episodes:
   disneyplus_id: 67652d71-984c-4ae6-a681-039dc438e679
   simpsonsworld_id: 277134915702
   good: maybe
-  guest_stars: null
+  guest_stars: []
 - title: No Loan Again, Naturally
   season: 20
   episode: 12
@@ -198,7 +198,7 @@ episodes:
   disneyplus_id: 5c605010-e2c7-442f-afc8-2ef9e6845e94
   simpsonsworld_id: 273066051746
   good: maybe
-  guest_stars: null
+  guest_stars: []
 - title: The Good, The Sad, and The Drugly
   season: 20
   episode: 17
@@ -224,7 +224,7 @@ episodes:
   disneyplus_id: d4a21611-7e67-480d-940d-3291933e8328
   simpsonsworld_id: 273070659848
   good: maybe
-  guest_stars: null
+  guest_stars: []
 - title: Waverly Hills 9-0-2-1-D'oh
   season: 20
   episode: 19
@@ -260,4 +260,4 @@ episodes:
   disneyplus_id: 527aec32-aac9-47c3-ac7e-72509b9a9fe7
   simpsonsworld_id: 729848899646
   good: maybe
-  guest_stars: null
+  guest_stars: []

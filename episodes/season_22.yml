@@ -62,7 +62,7 @@ episodes:
   disneyplus_id: 6de44acb-aec2-4b25-a004-33b218e68d95
   simpsonsworld_id: 263540291528
   good: maybe
-  guest_stars: null
+  guest_stars: []
 - title: The Fool Monty
   season: 22
   episode: 6
@@ -74,7 +74,7 @@ episodes:
   disneyplus_id: a3b8ce07-2d55-4871-8fad-6329dd94e6c7
   simpsonsworld_id: 263544387571
   good: maybe
-  guest_stars: null
+  guest_stars: []
 - title: How Munched is that Birdie in the Window?
   season: 22
   episode: 7
@@ -123,7 +123,7 @@ episodes:
   disneyplus_id: b74dda16-c0a0-470f-a1e4-bdbf60934c52
   simpsonsworld_id: 256848451515
   good: maybe
-  guest_stars: null
+  guest_stars: []
 - title: Flaming Moe
   season: 22
   episode: 11

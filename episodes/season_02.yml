@@ -10,7 +10,7 @@ episodes:
   disneyplus_id: 4050d194-f1a6-47d4-bc1b-76b8245ed113
   simpsonsworld_id: 260539459671
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Simpson and Delilah
   season: 2
   episode: 2
@@ -46,7 +46,7 @@ episodes:
   disneyplus_id: de06551c-30d7-44ef-b000-05e29c00eed6
   simpsonsworld_id: 260537411822
   good: true
-  guest_stars: null
+  guest_stars: []
 - title: Dancin' Homer
   season: 2
   episode: 5
@@ -93,7 +93,7 @@ episodes:
   disneyplus_id: 9f790394-88b9-48ac-970c-18d32de46342
   simpsonsworld_id: 260539459702
   good: true
-  guest_stars: null
+  guest_stars: []
 - title: Itchy and Scratchy and Marge
   season: 2
   episode: 9
@@ -165,7 +165,7 @@ episodes:
   disneyplus_id: ce071635-1151-49b0-9168-eda9b55880fa
   simpsonsworld_id: 263496771968
   good: true
-  guest_stars: null
+  guest_stars: []
 - title: Oh Brother, Where Art Thou?
   season: 2
   episode: 15
@@ -238,7 +238,7 @@ episodes:
   disneyplus_id: ac3d5ea1-e473-4a79-bfaf-a496a79b2a3b
   simpsonsworld_id: 272040003661
   good: true
-  guest_stars: null
+  guest_stars: []
 - title: Three Men and a Comic Book
   season: 2
   episode: 21
@@ -262,4 +262,4 @@ episodes:
   disneyplus_id: cd94c4b6-8f87-4df0-b709-190eb4f84964
   simpsonsworld_id: 272041539932
   good: true
-  guest_stars: null
+  guest_stars: []

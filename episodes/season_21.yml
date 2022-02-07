@@ -24,7 +24,7 @@ episodes:
   disneyplus_id: 67d61bfb-23a7-4884-b587-ee93135ddc02
   simpsonsworld_id: 310517315862
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: The Great Wife Hope
   season: 21
   episode: 3
@@ -49,7 +49,7 @@ episodes:
   disneyplus_id: f38f6b8f-47f4-4d69-aff9-ab3a3094245e
   simpsonsworld_id: 262634051998
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: The Devil Wears Nada
   season: 21
   episode: 5
@@ -61,7 +61,7 @@ episodes:
   disneyplus_id: ae2e4f38-dba6-4deb-868a-53d89aedda2d
   simpsonsworld_id: 250304067959
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Pranks and Greens
   season: 21
   episode: 6
@@ -170,7 +170,7 @@ episodes:
   disneyplus_id: 6b41ad4a-fc4e-460f-a2e0-790773a93b7b
   simpsonsworld_id: 250390595937
   good: maybe
-  guest_stars: null
+  guest_stars: []
 - title: Stealing First Base
   season: 21
   episode: 15
@@ -231,7 +231,7 @@ episodes:
   disneyplus_id: 5018ece6-0256-4692-b13a-ff3aa9b07aed
   simpsonsworld_id: 250519619700
   good: maybe
-  guest_stars: null
+  guest_stars: []
 - title: To Surveil With Love
   season: 21
   episode: 20
