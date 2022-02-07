@@ -12,7 +12,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 256741955834
   good: true
-  guest_stars: null
+  guest_stars: []
 - title: All's Fair in Oven War
   season: 16
   episode: 2
@@ -38,7 +38,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 256764995911
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: She Used to Be My Girl
   season: 16
   episode: 4
@@ -75,7 +75,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 1094235715818
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Mommie Beerest
   season: 16
   episode: 7
@@ -88,7 +88,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 256807491582
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Homer and Ned's Hail Mary Pass
   season: 16
   episode: 8
@@ -126,7 +126,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 256822339660
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: On a Clear Day I Can't See My Sister
   season: 16
   episode: 11
@@ -162,7 +162,7 @@ episodes:
   disneyplus_id:
   simpsonsworld_id: 264432707841
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: The Seven-Beer Snitch
   season: 16
   episode: 14

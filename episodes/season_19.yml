@@ -73,7 +73,7 @@ episodes:
   disneyplus_id: 6904d6d9-3499-4cc5-a61f-91ad2d3805f7
   simpsonsworld_id: 302855747799
   good: maybe
-  guest_stars: null
+  guest_stars: []
 - title: Husbands and Knives
   season: 19
   episode: 7
@@ -112,7 +112,7 @@ episodes:
   disneyplus_id: d0790333-bd60-4a6c-bc3a-f81924537052
   simpsonsworld_id: 302847555877
   good: maybe
-  guest_stars: null
+  guest_stars: []
 - title: E. Pluribus Wiggum
   season: 19
   episode: 10
@@ -149,7 +149,7 @@ episodes:
   disneyplus_id: cb1aece7-21a5-4ff0-93a1-be32ff6b6454
   simpsonsworld_id: 310471235766
   good: maybe
-  guest_stars: null
+  guest_stars: []
 - title: The Debarted
   season: 19
   episode: 13
@@ -173,7 +173,7 @@ episodes:
   disneyplus_id: acde483e-f4e3-45f8-b751-cb9096b35221
   simpsonsworld_id: 302849091724
   good: maybe
-  guest_stars: null
+  guest_stars: []
 - title: Smoke on the Daughter
   season: 19
   episode: 15
@@ -185,7 +185,7 @@ episodes:
   disneyplus_id: 811e0263-04e6-439d-b44d-b5e8ed1b40bd
   simpsonsworld_id: 310477379554
   good: maybe
-  guest_stars: null
+  guest_stars: []
 - title: Papa Don't Leech
   season: 19
   episode: 16

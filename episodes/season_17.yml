@@ -24,7 +24,7 @@ episodes:
   disneyplus_id: 49f07704-d9ac-47e6-aa12-0a30eaf32f6e
   simpsonsworld_id: 277101123962
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Milhouse of Sand and Fog
   season: 17
   episode: 3
@@ -37,7 +37,7 @@ episodes:
   disneyplus_id: 8c265c5a-c1d6-4d41-a16e-2947e666bdd0
   simpsonsworld_id: 273506371834
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Treehouse of Horror XVI
   season: 17
   episode: 4
@@ -62,7 +62,7 @@ episodes:
   disneyplus_id: 4f23394a-acfe-44da-9638-6c91de330635
   simpsonsworld_id: 279766083701
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: See Homer Run
   season: 17
   episode: 6
@@ -74,7 +74,7 @@ episodes:
   disneyplus_id: e583a0f5-1ec6-430e-aca2-d8872a2a62a7
   simpsonsworld_id: 273512003506
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: The Last of the Red Hat Mamas
   season: 17
   episode: 7
@@ -111,7 +111,7 @@ episodes:
   disneyplus_id: 69054322-132b-4ec5-b54b-ea7f4bdcc48c
   simpsonsworld_id: 256885315702
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Homer's Paternity Coot
   season: 17
   episode: 10
@@ -136,7 +136,7 @@ episodes:
   disneyplus_id: 97ef599a-591e-4b7b-8d45-4dee2571550e
   simpsonsworld_id: 310483523720
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: My Fair Laddy
   season: 17
   episode: 12
@@ -149,7 +149,7 @@ episodes:
   disneyplus_id: 11f3cddd-9bb1-4486-a382-448da80dc063
   simpsonsworld_id: 307171907536
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: The Seemingly Never-Ending Story
   season: 17
   episode: 13
@@ -223,7 +223,7 @@ episodes:
   disneyplus_id: 45d552e0-f659-47d7-a211-af7feff50ed0
   simpsonsworld_id: 310489667660
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Girls Just Want to Have Sums
   season: 17
   episode: 19

@@ -12,7 +12,7 @@ episodes:
   disneyplus_id: 3c929d17-30d3-4f18-887e-af51361b015a
   simpsonsworld_id: 221301315863
   good: true
-  guest_stars: null
+  guest_stars: []
 - title: How I Spent My Strummer Vacation
   season: 14
   episode: 2
@@ -190,7 +190,7 @@ episodes:
   disneyplus_id: 072eac8a-cce2-4eae-ae8e-0b2830c50b21
   simpsonsworld_id: 221696067982
   good: true
-  guest_stars: null
+  guest_stars: []
 - title: "'Scuse Me While I Miss The Sky"
   season: 14
   episode: 16
@@ -266,7 +266,7 @@ episodes:
   disneyplus_id: 80d14bbb-7b6a-4d67-8c18-9a4ec85fb489
   simpsonsworld_id: 229731395601
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Moe Baby Blues
   season: 14
   episode: 22

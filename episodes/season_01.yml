@@ -11,7 +11,7 @@ episodes:
   disneyplus_id: 79529cd0-f1cf-4eec-8b1d-ea1e1b76043b
   simpsonsworld_id: 273376835817
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Bart The Genius
   season: 1
   episode: 2
@@ -23,7 +23,7 @@ episodes:
   disneyplus_id: 250ca502-751e-4b37-a465-f8b518d76ced
   simpsonsworld_id: 283744835990
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Homer's Odyssey
   season: 1
   episode: 3
@@ -48,7 +48,7 @@ episodes:
   disneyplus_id: 5e837a36-5db0-451c-82d3-0cca1490f784
   simpsonsworld_id: 273392195780
   good: true
-  guest_stars: null
+  guest_stars: []
 - title: Bart the General
   season: 1
   episode: 5
@@ -60,7 +60,7 @@ episodes:
   disneyplus_id: 051c32fc-0d9a-4bee-a960-9c6ab85eccdb
   simpsonsworld_id: 300934723994
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Moaning Lisa
   season: 1
   episode: 6
@@ -95,7 +95,7 @@ episodes:
   disneyplus_id: 8868eddb-224d-4df4-93c2-145abd60270d
   simpsonsworld_id: 305663555641
   good: true
-  guest_stars: null
+  guest_stars: []
 - title: Life on the Fast Lane
   season: 1
   episode: 9

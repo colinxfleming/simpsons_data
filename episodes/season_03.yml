@@ -24,7 +24,7 @@ episodes:
   disneyplus_id: 30e6b625-ad02-4c52-ba41-571b68eee431
   simpsonsworld_id: 275196995796
   good: true
-  guest_stars: null
+  guest_stars: []
 - title: When Flanders Failed
   season: 3
   episode: 3
@@ -36,7 +36,7 @@ episodes:
   disneyplus_id: bba00c31-32ab-4167-9990-d44ca856fb77
   simpsonsworld_id: 272051267562
   good: true
-  guest_stars: null
+  guest_stars: []
 - title: Bart the Murderer
   season: 3
   episode: 4
@@ -193,7 +193,7 @@ episodes:
   disneyplus_id: 8e541791-0374-4447-92d5-427e190347c0
   simpsonsworld_id: 272228931984
   good: true
-  guest_stars: null
+  guest_stars: []
 - title: Homer at the Bat
   season: 3
   episode: 17

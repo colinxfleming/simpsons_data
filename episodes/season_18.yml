@@ -37,7 +37,7 @@ episodes:
   disneyplus_id: de75d6a6-d9c8-4821-b1c6-d2d7f77adb9f
   simpsonsworld_id: 283760707876
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Treehouse of Horror XVII
   season: 18
   episode: 4
@@ -87,7 +87,7 @@ episodes:
   disneyplus_id: ac78e6e7-e65b-4fdc-a5b1-ca92d60d8f7a
   simpsonsworld_id: 292941379558
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: The Haw-Hawed Couple
   season: 18
   episode: 8
@@ -99,7 +99,7 @@ episodes:
   disneyplus_id: cadd74ff-2dff-4715-983d-d725748114ec
   simpsonsworld_id: 279785027791
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Kill Gil (Parts I and II)
   season: 18
   episode: 9
@@ -137,7 +137,7 @@ episodes:
   disneyplus_id: bd3f385d-9260-4ede-8a7a-49406efedb53
   simpsonsworld_id: 283790915851
   good: true
-  guest_stars: null
+  guest_stars: []
 - title: Little Big Girl
   season: 18
   episode: 12
@@ -225,7 +225,7 @@ episodes:
   disneyplus_id: 01978e70-0f9d-4779-ad24-0021c5dfb062
   simpsonsworld_id: 279798851587
   good: true
-  guest_stars: null
+  guest_stars: []
 - title: Crook and Ladder
   season: 18
   episode: 19
@@ -237,7 +237,7 @@ episodes:
   disneyplus_id: 45796141-0dfc-4591-84a0-4e60e2261165
   simpsonsworld_id: 310491203943
   good: false
-  guest_stars: null
+  guest_stars: []
 - title: Stop Or My Dog Will Shoot
   season: 18
   episode: 20

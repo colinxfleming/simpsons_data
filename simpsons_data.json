@@ -1118,8 +1118,12 @@
             "season": 4,
             "episode": 1,
             "release_date": "1992-09-24",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "David M. Stern"
+            ],
             "description": "Bart and Lisa are horrified when their summer at Kamp Krusty turns into a nightmare.",
             "disneyplus_id": "326e39c2-45a8-4781-9931-438ccbcc7f0a",
             "simpsonsworld_id": 279133251579,
@@ -1131,8 +1135,12 @@
             "season": 4,
             "episode": 2,
             "release_date": "1992-10-01",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore"
+            ],
+            "writers": [
+                "Jeff Martin"
+            ],
             "description": "When Marge lands the role of Blanche in a local production of \"A Streetcar Named Desire,\" Homer cannot hide his disinterest.",
             "disneyplus_id": "0e1f575c-eb6e-46d3-8765-d786c3cbe0fc",
             "simpsonsworld_id": 273537603751,
@@ -1144,8 +1152,12 @@
             "season": 4,
             "episode": 3,
             "release_date": "1992-10-08",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "George Meyer"
+            ],
             "description": "Homer creates his own religion as a means of escaping church services on Sundays.",
             "disneyplus_id": "1aac9cd6-a6d9-49ea-9ae3-fb1622a811fa",
             "simpsonsworld_id": 279137859827,
@@ -1157,8 +1169,12 @@
             "season": 4,
             "episode": 4,
             "release_date": "1992-10-15",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Jeff Martin"
+            ],
             "description": "Homer enters Lisa in a beauty pageant when her self-esteem plummets.",
             "disneyplus_id": "2f06393f-b88c-46b7-bddb-65bdf8172d44",
             "simpsonsworld_id": 273537603930,
@@ -1170,8 +1186,17 @@
             "season": 4,
             "episode": 5,
             "release_date": "1992-10-29",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Carlos Baeza"
+            ],
+            "writers": [
+                "Al Jean",
+                "Mike Reiss",
+                "Jay Kogen",
+                "Wallace Wolodarsky",
+                "Sam Simon",
+                "Jon Vitti"
+            ],
             "description": "During a Halloween party, the Simpsons tell three horrifying tales of the macabre.",
             "disneyplus_id": "540e1a2c-051a-4f48-b5f0-585138090af5",
             "simpsonsworld_id": 305668675610,
@@ -1183,8 +1208,12 @@
             "season": 4,
             "episode": 6,
             "release_date": "1992-11-03",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Homer forbids his son from seeing a new movie about his favorite cartoon heroes as punishment for misbehaving.",
             "disneyplus_id": "8c17cbd3-960b-4157-9792-8d02f0098c59",
             "simpsonsworld_id": 278803011830,
@@ -1196,8 +1225,13 @@
             "season": 4,
             "episode": 7,
             "release_date": "1992-11-05",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jeff Lynch"
+            ],
+            "writers": [
+                "Bill Oakley",
+                "Josh Weinstein"
+            ],
             "description": "When the foundation to the Simpsons' house is need of an expensive repair, Marge takes a position at the power plant where Homer works.",
             "disneyplus_id": "5d3a5020-24d8-40a9-b0b3-44fa32517226",
             "simpsonsworld_id": 299613763656,
@@ -1209,8 +1243,12 @@
             "season": 4,
             "episode": 8,
             "release_date": "1992-11-12",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "Conan O'Brien"
+            ],
             "description": "Bart falls in love with the girl who moves in next door, only to find that she prefers the school bully.",
             "disneyplus_id": "ca3bcaa1-7de1-4a36-b493-92db5ade62a6",
             "simpsonsworld_id": 273542211871,
@@ -1222,8 +1260,12 @@
             "season": 4,
             "episode": 9,
             "release_date": "1992-11-19",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Homer and Barney vie for Springfield's lucrative snow plowing business.",
             "disneyplus_id": "4534ec67-6d1f-48ad-b286-43e1cc108d3c",
             "simpsonsworld_id": 273544259768,
@@ -1235,8 +1277,12 @@
             "season": 4,
             "episode": 10,
             "release_date": "1992-12-03",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Jeff Martin"
+            ],
             "description": "Marge recounts how Lisa first spoke as the family awaits baby Maggie's first word.",
             "disneyplus_id": "0cf6e0b2-0c75-4106-93a2-efc89238c60c",
             "simpsonsworld_id": 288026691837,
@@ -1248,8 +1294,13 @@
             "season": 4,
             "episode": 11,
             "release_date": "1192-12-17",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Gary Apple",
+                "Michael Carrington"
+            ],
             "description": "Homer suffers a heart attack and hires Dr. Nick Riviera to perform a delicate triple bypass operation.",
             "disneyplus_id": "2299137d-d5f0-4488-8b35-bfcd5e15dedd",
             "simpsonsworld_id": 273548355538,
@@ -1261,8 +1312,12 @@
             "season": 4,
             "episode": 12,
             "release_date": "1993-01-14",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore"
+            ],
+            "writers": [
+                "Conan O'Brien'"
+            ],
             "description": "An unscrupulous profiteer sells the people of Springfield on a defective monorail system, with Homer as the conductor.",
             "disneyplus_id": "fc04c428-5f24-4c42-a419-1d1dda6db8dd",
             "simpsonsworld_id": 306386499796,
@@ -1274,8 +1329,12 @@
             "season": 4,
             "episode": 13,
             "release_date": "1993-01-21",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Carlos Baeza"
+            ],
+            "writers": [
+                "David M. Stern"
+            ],
             "description": "Selma decides to take her dead aunt's advice and have children before it is too late.",
             "disneyplus_id": "f2c8d63e-df66-419c-af18-5500e71f6d77",
             "simpsonsworld_id": 310386755912,
@@ -1287,8 +1346,12 @@
             "season": 4,
             "episode": 14,
             "release_date": "1993-02-04",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jeff Lynch"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Bart tires of Homer's lack of interest in him and chooses another father from the Bigger Brother program.  Lisa struggles to kick the habit of dialing a 900 number.",
             "disneyplus_id": "7225aa46-1c9a-4a64-8a39-116dd909fc0a",
             "simpsonsworld_id": 274103363992,
@@ -1300,8 +1363,12 @@
             "season": 4,
             "episode": 15,
             "release_date": "1993-02-11",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "Frank Mula"
+            ],
             "description": "Lisa feels pity for Ralph, a nerdy classmate, and gives him a card on Valentine's Day. But to her horror, Ralph develops a crush on her.",
             "disneyplus_id": "24614fa3-99fe-4898-9dff-80ef324eb72f",
             "simpsonsworld_id": 274107459686,
@@ -1313,8 +1380,12 @@
             "season": 4,
             "episode": 16,
             "release_date": "1993-02-18",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "David M. Stern"
+            ],
             "description": "Marge convinces Homer he may have a drinking problem. Lisa plots to humiliate Bart with her science project after he ruins an experiment.",
             "disneyplus_id": "3bb045c7-34fd-45cb-98c2-b72e8db1ccba",
             "simpsonsworld_id": 277249603926,
@@ -1326,8 +1397,13 @@
             "season": 4,
             "episode": 17,
             "release_date": "1993-03-11",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Jay Kogen",
+                "Wallace Wolodarsky"
+            ],
             "description": "Homer is elected union leader at the power plant and tries to save the dental plan so he will not have to pay for Lisa's new braces.",
             "disneyplus_id": "e8b46e3c-2e23-42b8-aed6-136763d57c71",
             "simpsonsworld_id": 357630019692,
@@ -1339,8 +1415,12 @@
             "season": 4,
             "episode": 18,
             "release_date": "1993-04-01",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Carlos Baeza"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Family and friends reminisce about Homer's life after Bart's April Fools' Day prank sends him to the hospital.",
             "disneyplus_id": "db1dbdfe-ce8d-4bd5-8471-68c776549ac1",
             "simpsonsworld_id": 305670723781,
@@ -1352,8 +1432,12 @@
             "season": 4,
             "episode": 19,
             "release_date": "1993-04-15",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore"
+            ],
+            "writers": [
+                "Adam I. Lapidus"
+            ],
             "description": "Using Grandpa as a front, Lisa and Bart write their own \"Itchy and Scratchy\" cartoons.",
             "disneyplus_id": "a5a0f5e2-1972-4360-8ec3-7c1374319a1a",
             "simpsonsworld_id": 288029763650,
@@ -1365,8 +1449,12 @@
             "season": 4,
             "episode": 20,
             "release_date": "1993-04-29",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jeff Lynch"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Lisa seeks to end a local holiday in which snakes are chased into town and beaten with sticks.  Bart is expelled from school by Principal Skinner.",
             "disneyplus_id": "9ccf6860-afd1-4db1-8ea7-afe4f5dcbde9",
             "simpsonsworld_id": 288129091929,
@@ -1378,8 +1466,13 @@
             "season": 4,
             "episode": 21,
             "release_date": "1993-05-06",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Bill Oakley",
+                "Josh Weinstein"
+            ],
             "description": "Marge is jailed when she is convicted of stealing from Apu's convenience store.",
             "disneyplus_id": "d02ae0e2-fcf2-43c0-b34a-372808d5dfd2",
             "simpsonsworld_id": 299606595657,
@@ -1391,8 +1484,12 @@
             "season": 4,
             "episode": 22,
             "release_date": "1993-05-13",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Bart, Lisa and a group of celebrities help Krusty turn his career around after his television show is canceled.",
             "disneyplus_id": "5c868b0d-b9d4-48a7-b40a-1027f81154db",
             "simpsonsworld_id": 274256963874,
@@ -1404,8 +1501,12 @@
             "season": 5,
             "episode": 1,
             "release_date": "1993-09-30",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Jeff Martin"
+            ],
             "description": "Homer recounts his phenomenal rise to superstardom as a member of the barbershop quartet, The Be Sharps.",
             "disneyplus_id": "39346307-4dbb-45e8-a765-4ed555bb1e03",
             "simpsonsworld_id": 305674307809,
@@ -1417,8 +1518,12 @@
             "season": 5,
             "episode": 2,
             "release_date": "1993-10-07",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Sideshow Bob terrorizes Bart after he is paroled from prison.",
             "disneyplus_id": "1640880f-154b-4c5e-94fe-cb86bb7e6970",
             "simpsonsworld_id": 305674819788,
@@ -1430,8 +1535,12 @@
             "season": 5,
             "episode": 3,
             "release_date": "1993-10-14",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Conan O'Brien"
+            ],
             "description": "Homer enrolls in a nuclear physics class at Springfield University and convinces three nerdy classmates to help him pull off a prank.",
             "disneyplus_id": "166f1ff9-be98-453d-a3cd-6d80943efff3",
             "simpsonsworld_id": 280399427649,
@@ -1443,8 +1552,12 @@
             "season": 5,
             "episode": 4,
             "release_date": "1993-10-21",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "The Simpsons find Mr. Burns' long-lost childhood teddy bear.",
             "disneyplus_id": "39559a2c-6bec-48fc-b080-be4a7c3e4045",
             "simpsonsworld_id": 279714371653,
@@ -1456,8 +1569,17 @@
             "season": 5,
             "episode": 5,
             "release_date": "1993-10-28",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Conan O'Brien",
+                "Greg Daniels",
+                "Dan McGrath",
+                "Bill Oakley",
+                "Josh Weinstein",
+                "Bill Canterbury"
+            ],
             "description": "In a ghoulish gallery, Bart hosts three bloodcurdling tales of Halloween horror.",
             "disneyplus_id": "33dfa7a1-fe6f-4466-a87d-9bf43a8be7cd",
             "simpsonsworld_id": 275206211805,
@@ -1469,8 +1591,12 @@
             "season": 5,
             "episode": 6,
             "release_date": "1993-11-04",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Bill Canterbury"
+            ],
             "description": "Marge joins divorcee Ruth Powers for a wild night on the town, only to discover that her friend is driving a stolen vehicle.",
             "disneyplus_id": "fd7b6365-b333-487e-8057-66544129d162",
             "simpsonsworld_id": 294777411510,
@@ -1482,8 +1608,12 @@
             "season": 5,
             "episode": 7,
             "release_date": "1993-11-11",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "George Meyer"
+            ],
             "description": "The host of a self-help workshop convinces the people of Springfield they should emulate Bart's uninhibited personality.",
             "disneyplus_id": "eed49f33-ea03-401f-9afa-abc8591c290d",
             "simpsonsworld_id": 275202627817,
@@ -1495,8 +1625,12 @@
             "season": 5,
             "episode": 8,
             "release_date": "1993-11-18",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jeffrey Lynch"
+            ],
+            "writers": [
+                "Dan McGrath"
+            ],
             "description": "Bart inadvertently joins the Junior Campers, and during a rafting trip, he becomes lost at sea with Homer and Ned Flanders.",
             "disneyplus_id": "01cec0e3-c895-478a-ac26-e90a34cf7c32",
             "simpsonsworld_id": 288056387698,
@@ -1508,8 +1642,12 @@
             "season": 5,
             "episode": 9,
             "release_date": "1993-12-09",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Carlos Baeza"
+            ],
+            "writers": [
+                "Frank Mula"
+            ],
             "description": "Homer is attracted to a sexy co-worker with a personality identical to his own.",
             "disneyplus_id": "53840a89-3296-4b9d-bbbd-cb80eba9af3f",
             "simpsonsworld_id": 275201091952,
@@ -1521,8 +1659,13 @@
             "season": 5,
             "episode": 10,
             "release_date": "1993-12-16",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "Bill Oakley",
+                "Josh Weinstein"
+            ],
             "description": "Marge becomes addicted to playing slot machines after the town of Springfield legalizes gambling.",
             "disneyplus_id": "129fb45a-e1f4-4f42-9abb-cd1e62a91eda",
             "simpsonsworld_id": 305659459565,
@@ -1534,8 +1677,12 @@
             "season": 5,
             "episode": 11,
             "release_date": "1994-01-06",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Homer takes the law into his own hands after Springfield is victimized by a cat burglar.",
             "disneyplus_id": "3f69d304-f5b4-4b72-aca9-cbc0395a0ee6",
             "simpsonsworld_id": 305677891810,
@@ -1547,8 +1694,12 @@
             "season": 5,
             "episode": 12,
             "release_date": "1994-02-03",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Susie Detter"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Bart becomes an instant celebrity after he ad-libs a line during a sketch on the \"Krusty the Klown Show.\"",
             "disneyplus_id": "639a5d21-7c16-43fb-87ce-7df70e57177e",
             "simpsonsworld_id": 302789187885,
@@ -1560,8 +1711,12 @@
             "season": 5,
             "episode": 13,
             "release_date": "1994-02-10",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Greg Daniels"
+            ],
             "description": "Apu offers the Simpsons his services as valet after he is fired from the Kwik-E-Mart for selling rancid meat.",
             "disneyplus_id": "ae3d982a-e7ec-43fe-93dd-0884be9d751a",
             "simpsonsworld_id": 279716931614,
@@ -1573,8 +1728,13 @@
             "season": 5,
             "episode": 14,
             "release_date": "1994-02-17",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jeffrey Lynch"
+            ],
+            "writers": [
+                "Bill Oakley",
+                "Josh Weinstein"
+            ],
             "description": "Lisa manufactures her own talking doll for little girls.",
             "disneyplus_id": "a4153020-a361-466d-8c1e-dfdc32f43501",
             "simpsonsworld_id": 274260035625,
@@ -1586,8 +1746,12 @@
             "season": 5,
             "episode": 15,
             "release_date": "1994-02-24",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "David Mirkin"
+            ],
             "description": "NASA scientists train Homer to become the first average American in space, with near disastrous results.",
             "disneyplus_id": "0743fa0a-ddd3-4591-96f1-1a419e19b30e",
             "simpsonsworld_id": 275720259883,
@@ -1599,8 +1763,12 @@
             "season": 5,
             "episode": 16,
             "release_date": "1994-03-17",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "David Richardson"
+            ],
             "description": "Flanders is horrified to discover he has become Homer's best friend.",
             "disneyplus_id": "a7f65f67-17f0-483c-bd70-a15d4050d877",
             "simpsonsworld_id": 310398019629,
@@ -1612,8 +1780,12 @@
             "season": 5,
             "episode": 17,
             "release_date": "1994-03-31",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Bart wins a full grown African elephant as part of a radio contest.",
             "disneyplus_id": "980ff0ba-e78c-41cf-8e83-5b7a91f4d3c9",
             "simpsonsworld_id": 275726403611,
@@ -1625,8 +1797,12 @@
             "season": 5,
             "episode": 18,
             "release_date": "1994-04-14",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Jace Richdale"
+            ],
             "description": "Mr. Burns chooses Bart as the heir to his vast fortune.",
             "disneyplus_id": "c4e4a495-db5f-4fee-9314-0866330c664b",
             "simpsonsworld_id": 283747395787,
@@ -1638,8 +1814,13 @@
             "season": 5,
             "episode": 19,
             "release_date": "1994-04-28",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Bill Oakley",
+                "Josh Weinstein"
+            ],
             "description": "Bart suffers enormous guilt after Skinner is fired from his job as school principal.",
             "disneyplus_id": "bedacca5-03b3-4b55-8fa6-7f542cd53e3a",
             "simpsonsworld_id": 274260035741,
@@ -1651,8 +1832,12 @@
             "season": 5,
             "episode": 20,
             "release_date": "1994-05-05",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jeffrey Lynch"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Only Bart can clear Mayor Quimby's nephew of an assault charge, but he fears that identifying himself as a witness will mean expulsion for skipping class.",
             "disneyplus_id": "b151afad-24f5-457b-9457-26eb53022331",
             "simpsonsworld_id": 278796355962,
@@ -1664,8 +1849,13 @@
             "season": 5,
             "episode": 21,
             "release_date": "1994-05-12",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wes Archer"
+            ],
+            "writers": [
+                "Bill Oakley",
+                "Josh Weinstein"
+            ],
             "description": "Grampa and Mr. Burns vie for Mrs. Bouvier's hand in marriage.  Bart purchases a worthless Itchy and Scratchy animation cell.",
             "disneyplus_id": "e38cf670-0fdc-4ca8-9095-51296ffc7a16",
             "simpsonsworld_id": 305681987583,
@@ -1677,8 +1867,12 @@
             "season": 5,
             "episode": 22,
             "release_date": "1994-05-19",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Carlos Baeza"
+            ],
+            "writers": [
+                "Greg Daniels"
+            ],
             "description": "Marge kicks Homer out of the house after she discovers that he revealed her personal secrets to an adult education class.",
             "disneyplus_id": "e38cf670-0fdc-4ca8-9095-51296ffc7a16",
             "simpsonsworld_id": 279720003973,
@@ -1851,7 +2045,7 @@
                 "Wes Archer"
             ],
             "writers": [
-                "Bill Okaley",
+                "Bill Oakley",
                 "Josh Weinstein"
             ],
             "description": "While selling a homemade tonic guaranteed to increase sexual desire in men, Grampa reveals that Homer's conception was accidental.",
@@ -1869,7 +2063,7 @@
                 "Mark Kirkland"
             ],
             "writers": [
-                "Dvid Sacks"
+                "David Sacks"
             ],
             "description": "Marge seeks professional help from a psychiatrist after realizing she is afraid to fly.",
             "disneyplus_id": "8575c33f-e73d-40a8-8fa2-c91b65a9710f",
@@ -4194,8 +4388,15 @@
             "season": 13,
             "episode": 1,
             "release_date": "2001-11-06",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Joel H. Cohen",
+                "John Frink",
+                "Don Payne",
+                "Carolyn Omine"
+            ],
             "description": "On Halloween, the Simpsons are menaced by a computer controlling an automated house; a gypsy curses Homer; Lisa and Bart find themselves in a Harry Potter-like adventure.",
             "disneyplus_id": "49a883f7-1af9-43fd-a5ea-21d9336cae3a",
             "simpsonsworld_id": 307115075729,
@@ -4207,8 +4408,13 @@
             "season": 13,
             "episode": 2,
             "release_date": "2001-11-11",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "George Meyer",
+                "Mike Scully"
+            ],
             "description": "A stern judge rules that Homer and Bart are to be tethered together, and later, Homer and Marge are declared bad parents and placed in old-fashioned wooden stocks.",
             "disneyplus_id": "27398ce7-345a-47bf-a24a-92495aefdf61",
             "simpsonsworld_id": 307116099877,
@@ -4220,8 +4426,12 @@
             "season": 13,
             "episode": 3,
             "release_date": "2001-11-18",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jen Kamerman"
+            ],
+            "writers": [
+                "Dana Gould"
+            ],
             "description": "Moe turns the bar into a pretentious hang-out for Springfield's 'beautiful people,' forcing Homer to start a bar of his own inside his garage.",
             "disneyplus_id": "7aa1e458-2d84-462b-944e-fdea6ba7d0c9",
             "simpsonsworld_id": 300917827935,
@@ -4233,8 +4443,12 @@
             "season": 13,
             "episode": 4,
             "release_date": "2001-12-02",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Lance Kramer"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "When Mr. Burns falls for an attractive traffic cop many years his junior, he enlists Homer's help in romancing her.",
             "disneyplus_id": "615f5d50-9053-4a52-9d28-7ee007c4fd6f",
             "simpsonsworld_id": 301344323882,
@@ -4246,8 +4460,12 @@
             "season": 13,
             "episode": 5,
             "release_date": "2001-12-09",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Ian Maxtone-Graham"
+            ],
             "description": "When placed under hypnosis, Homer struggles with a repressed memory-which leads to a shocking discovery.",
             "disneyplus_id": "b3a80310-5278-48b4-bcdf-7640e6ef6d76",
             "simpsonsworld_id": 302898755902,
@@ -4259,8 +4477,12 @@
             "season": 13,
             "episode": 6,
             "release_date": "2001-12-16",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Bill reiberger"
+            ],
             "description": "As Christmas approaches... Lisa searches for a new religion after Mr. Burns takes over her church and runs it like a corporation.",
             "disneyplus_id": "1e576683-d666-4616-ade0-e434176e3d27",
             "simpsonsworld_id": 288120899968,
@@ -4272,8 +4494,12 @@
             "season": 13,
             "episode": 7,
             "release_date": "2002-01-06",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Joel H. Cohen"
+            ],
             "description": "A social worker attempts to transform the family into a functional, cooperative unit... until Homer's other wife shows up unexpectedly.",
             "disneyplus_id": "6d9cec94-bed0-4dba-8171-af100d77e381",
             "simpsonsworld_id": 283083843778,
@@ -4285,8 +4511,12 @@
             "season": 13,
             "episode": 8,
             "release_date": "2002-01-20",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Carolyn Omine"
+            ],
             "description": "After Springfield wins the title of World's Fattest Town, Marge launches an anti-sugar crusade, and sugar is banned from the city.",
             "disneyplus_id": "065b54df-f644-47c3-a829-38392e7d5a42",
             "simpsonsworld_id": 302893635523,
@@ -4298,8 +4528,12 @@
             "season": 13,
             "episode": 9,
             "release_date": "2002-01-27",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Nancy Kruse"
+            ],
+            "writers": [
+                "Matt Selman"
+            ],
             "description": "When Homer has to have his jaw wired shut, he discovers the joys of listening, but Marge finds that a well-behaved Homer isn't what she really wanted.",
             "disneyplus_id": "cebdc2b8-429b-450f-ad2a-3d9f892c9a7a",
             "simpsonsworld_id": 310440003514,
@@ -4311,8 +4545,12 @@
             "season": 13,
             "episode": 10,
             "release_date": "2002-02-10",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Lauren MacMullen"
+            ],
+            "writers": [
+                "Tim Long"
+            ],
             "description": "Marge's ex-boyfriend, now one of the world's richest men, offers Homer a million dollars in exchange for a weekend with her, to see what 'might have been.'",
             "disneyplus_id": "cae89847-9de4-454f-9df4-8f90066e1424",
             "simpsonsworld_id": 301684803770,
@@ -4324,8 +4562,13 @@
             "season": 13,
             "episode": 11,
             "release_date": "2002-02-17",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Michael Polcino"
+            ],
+            "writers": [
+                "John Frink",
+                "Don Payne"
+            ],
             "description": "Bart travels to Canada to win back the heart of Rainier Wolfcastle's daughter after she runs off with Milhouse.",
             "disneyplus_id": "ab9a7c27-a859-433d-9cae-ee11d5561f5a",
             "simpsonsworld_id": 307122755675,
@@ -4337,8 +4580,12 @@
             "season": 13,
             "episode": 12,
             "release_date": "2002-02-24",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Bart befriends an aging movie cowboy who begins drinking heavily when asked to appear on Krusty's television show.",
             "disneyplus_id": "ca10983a-ae5b-4017-86f2-8a869f1224ae",
             "simpsonsworld_id": 302899267542,
@@ -4350,8 +4597,12 @@
             "season": 13,
             "episode": 13,
             "release_date": "2002-03-10",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Lance Kramer"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "In an effort to win a date with a beautiful new resident at the nursing home, Grampa gets his driver's license back... and gives chase when the object of his affection leaves for Branson, Missouri.",
             "disneyplus_id": "fae2ffbc-7601-4e73-99a5-6c6309eff0e7",
             "simpsonsworld_id": 301659203973,
@@ -4363,8 +4614,14 @@
             "season": 13,
             "episode": 14,
             "release_date": "2002-03-17",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mike B. Anderson"
+            ],
+            "writers": [
+                "Andrew Kreisberg",
+                "Josh Lieb",
+                "Matt Warburton"
+            ],
             "description": "The Simpsons appear as characters in three classic tales: Homer as Odysseus leads the Greek army; Bart as Hamlet attempts to avenge the death of his father; Lisa as Joan of Arc pits the French against the English.",
             "disneyplus_id": "257a9640-b5af-4e20-a4f7-9e1d06b89186",
             "simpsonsworld_id": 310411843752,
@@ -4376,8 +4633,12 @@
             "season": 13,
             "episode": 15,
             "release_date": "2002-03-31",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Bob Bendetson"
+            ],
             "description": "When the Simpsons fly to Brazil to locate a missing orphan that Lisa has been sponsoring, Homer ends up getting kidnapped.",
             "disneyplus_id": "81943c2d-1289-4956-b555-83e291444b74",
             "simpsonsworld_id": 301665347899,
@@ -4388,8 +4649,10 @@
             "title": "Weekend at Burnsie's",
             "season": 13,
             "episode": 16,
-            "release_date": null,
-            "directors": null,
+            "release_date": "['Michael Marcantel']",
+            "directors": [
+                "Jon Vitti"
+            ],
             "writers": null,
             "description": "When Homer is attacked by crows, he's prescribed medical marijuana to help relieve the pain... leading Burns to promote his happy employee to executive vice president of the power plant.",
             "disneyplus_id": "fc64fc9f-5e54-4857-9743-ef54e7202c2e",
@@ -4401,9 +4664,14 @@
             "title": "Gump Roast",
             "season": 13,
             "episode": 17,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2002-04-21",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Deb Lacusta",
+                "Dan Castellaneta"
+            ],
             "description": "Homer is roasted at the Springfield Friar's Club, leading to recollections from the past.  But the fate of the Earth hangs in the balance when aliens Kang and Kodos make an unexpected appearance.",
             "disneyplus_id": "5b59b6e8-ebf3-48ce-b68f-43760f567b85",
             "simpsonsworld_id": 302888515845,
@@ -4414,9 +4682,13 @@
             "title": "I am Furious Yellow",
             "season": 13,
             "episode": 18,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2002-04-28",
+            "directors": [
+                "Chuck Sheetz"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Bart launches a comic book with an angry Homer as the main character, and when it proves a huge success, Homer vows to give up getting angry for Lent.",
             "disneyplus_id": "fe5e230c-1c35-4b6d-bf16-5aa29d39a7f3",
             "simpsonsworld_id": 302883907921,
@@ -4427,9 +4699,13 @@
             "title": "The Sweetest Apu",
             "season": 13,
             "episode": 19,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2002-05-05",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "When Manjula kicks Apu out of the house for cheating on her, Homer and Marge search for a way to reunite the couple.",
             "disneyplus_id": "a5adee2e-50dc-431a-8419-42734f3c1f74",
             "simpsonsworld_id": 288131139601,
@@ -4440,9 +4716,13 @@
             "title": "Little Girl in the Big Ten",
             "season": 13,
             "episode": 20,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2002-05-12",
+            "directors": [
+                "Lauren MacMullan"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Lisa is overjoyed when she befriends some college students; Bart becomes a boy-in-a-plastic-bubble after he's bitten by a Chinese mosquito.",
             "disneyplus_id": "9d9a1112-0d2c-47c0-b92c-6fb298dd107d",
             "simpsonsworld_id": 310416963509,
@@ -4453,9 +4733,13 @@
             "title": "Frying Game",
             "season": 13,
             "episode": 21,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2002-05-19",
+            "directors": [
+                "Michael Polcino"
+            ],
+            "writers": [
+                "John Swartzwelder"
+            ],
             "description": "Homer and Marge become murder suspects after an elderly shut-in the couple befriended is found dead.",
             "disneyplus_id": "2ade0011-4a83-40a1-b5ff-9b47e3cbe4b3",
             "simpsonsworld_id": 301664323751,
@@ -4466,9 +4750,13 @@
             "title": "Papa's Got a Brand New Badge",
             "season": 13,
             "episode": 22,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2002-05-22",
+            "directors": [
+                "Pete Michels"
+            ],
+            "writers": [
+                "Dana Gould"
+            ],
             "description": "When Wiggum and his men prove ineffective in controlling a citywide riot, townspeople begin to feel unsafe... until Homer forms his own police force.",
             "disneyplus_id": "7d8a03ea-c828-488a-ad85-258dd82ce9ca",
             "simpsonsworld_id": 302880835773,
