@@ -86,8 +86,8 @@ episodes:
   season: 2
   episode: 8
   release_date: 1990-12-06
-  directors:
-  writers:
+  directors: ["Wesley Meyer Archer"]
+  writers: ["Jay Kogen", "Wallace Wolodarsky"]
   description: Bart is determined to leap a gorge on his skateboard after witnessing
     the death defying stunts of a real daredevil.
   disneyplus_id: 9f790394-88b9-48ac-970c-18d32de46342
@@ -122,8 +122,8 @@ episodes:
   season: 2
   episode: 11
   release_date: 1991-01-24
-  directors:
-  writers:
+  directors: ["Wesley M. Archer"]
+  writers: ["Nell Scovell"]
   description: Homer believes he has only twenty-four hours to live after he eats
     an improperly prepared blowfish.
   disneyplus_id: 28244e58-a5dd-4260-a8be-13e2a34d0ba9
@@ -134,8 +134,8 @@ episodes:
   season: 2
   episode: 12
   release_date: 1991-01-31
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["Al Jean", "Mike Reiss", "Sam Simon"]
   description: Marge recounts to her children how she and Homer first met and fell
     in love.
   disneyplus_id: 1fd08344-aa39-42f3-a056-662aa4835f0f
@@ -146,8 +146,8 @@ episodes:
   season: 2
   episode: 13
   release_date: 1991-02-07
-  directors:
-  writers:
+  directors: ["Rich Moore"]
+  writers: ["Steve Pepoon"]
   description: Lisa disapproves when Homer has cable television installed illegally
     into their home.
   disneyplus_id: fb653641-23b8-4e9b-a547-0d195f78c33c
@@ -158,8 +158,8 @@ episodes:
   season: 2
   episode: 14
   release_date: 1991-02-14
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["David M. Stern"]
   description: Homer arranges a date between Principal Skinner and Marge's sister,
     Selma.
   disneyplus_id: ce071635-1151-49b0-9168-eda9b55880fa
@@ -170,8 +170,8 @@ episodes:
   season: 2
   episode: 15
   release_date: 1991-02-21
-  directors:
-  writers:
+  directors: ['W.M. "Bud" Archer']
+  writers: ["Jeff Martin"]
   description: Homer locates his long lost half brother Herb and discovers that he
     is rich.
   disneyplus_id: 78ae94ea-6ac6-4d34-b1a9-031a324f447a
@@ -182,8 +182,8 @@ episodes:
   season: 2
   episode: 16
   release_date: 1991-03-07
-  directors:
-  writers:
+  directors: ["Jim Reardon"]
+  writers: ["Jon Vitti"]
   description: Bart must help train Santa's Little Helper to pass an obedience course
     or Homer will give the dog away.
   disneyplus_id: ab2e3441-cb90-4cee-ab57-6f20fa1bfdac
@@ -194,8 +194,8 @@ episodes:
   season: 2
   episode: 17
   release_date: 1991-03-28
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["Jay Kogen", "Wallace Wolodarsky"]
   description: Grampa Simpson falls in love... and inherits a fortune.
   disneyplus_id: b847307a-cb9d-494a-bb98-12a764168288
   simpsonsworld_id: 263504963955

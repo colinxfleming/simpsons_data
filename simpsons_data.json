@@ -403,8 +403,13 @@
             "season": 2,
             "episode": 8,
             "release_date": "1990-12-06",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wesley Meyer Archer"
+            ],
+            "writers": [
+                "Jay Kogen",
+                "Wallace Wolodarsky"
+            ],
             "description": "Bart is determined to leap a gorge on his skateboard after witnessing the death defying stunts of a real daredevil.",
             "disneyplus_id": "9f790394-88b9-48ac-970c-18d32de46342",
             "simpsonsworld_id": 260539459702,
@@ -454,8 +459,12 @@
             "season": 2,
             "episode": 11,
             "release_date": "1991-01-24",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Wesley M. Archer"
+            ],
+            "writers": [
+                "Nell Scovell"
+            ],
             "description": "Homer believes he has only twenty-four hours to live after he eats an improperly prepared blowfish.",
             "disneyplus_id": "28244e58-a5dd-4260-a8be-13e2a34d0ba9",
             "simpsonsworld_id": 260548675839,
@@ -473,8 +482,14 @@
             "season": 2,
             "episode": 12,
             "release_date": "1991-01-31",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Al Jean",
+                "Mike Reiss",
+                "Sam Simon"
+            ],
             "description": "Marge recounts to her children how she and Homer first met and fell in love.",
             "disneyplus_id": "1fd08344-aa39-42f3-a056-662aa4835f0f",
             "simpsonsworld_id": 260549187876,
@@ -488,8 +503,12 @@
             "season": 2,
             "episode": 13,
             "release_date": "1991-02-07",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Rich Moore"
+            ],
+            "writers": [
+                "Steve Pepoon"
+            ],
             "description": "Lisa disapproves when Homer has cable television installed illegally into their home.",
             "disneyplus_id": "fb653641-23b8-4e9b-a547-0d195f78c33c",
             "simpsonsworld_id": 260820547692,
@@ -503,8 +522,12 @@
             "season": 2,
             "episode": 14,
             "release_date": "1991-02-14",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "David M. Stern"
+            ],
             "description": "Homer arranges a date between Principal Skinner and Marge's sister, Selma.",
             "disneyplus_id": "ce071635-1151-49b0-9168-eda9b55880fa",
             "simpsonsworld_id": 263496771968,
@@ -516,8 +539,12 @@
             "season": 2,
             "episode": 15,
             "release_date": "1991-02-21",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "W.M. \"Bud\" Archer"
+            ],
+            "writers": [
+                "Jeff Martin"
+            ],
             "description": "Homer locates his long lost half brother Herb and discovers that he is rich.",
             "disneyplus_id": "78ae94ea-6ac6-4d34-b1a9-031a324f447a",
             "simpsonsworld_id": 1094123587812,
@@ -531,8 +558,12 @@
             "season": 2,
             "episode": 16,
             "release_date": "1991-03-07",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "Jim Reardon"
+            ],
+            "writers": [
+                "Jon Vitti"
+            ],
             "description": "Bart must help train Santa's Little Helper to pass an obedience course or Homer will give the dog away.",
             "disneyplus_id": "ab2e3441-cb90-4cee-ab57-6f20fa1bfdac",
             "simpsonsworld_id": 272034883946,
@@ -547,8 +578,13 @@
             "season": 2,
             "episode": 17,
             "release_date": "1991-03-28",
-            "directors": null,
-            "writers": null,
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Jay Kogen",
+                "Wallace Wolodarsky"
+            ],
             "description": "Grampa Simpson falls in love... and inherits a fortune.",
             "disneyplus_id": "b847307a-cb9d-494a-bb98-12a764168288",
             "simpsonsworld_id": 263504963955,
@@ -10173,9 +10209,13 @@
             "title": "Bart's Not Dead",
             "season": 30,
             "episode": 1,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2018-09-30",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Stephanie Gillis"
+            ],
             "description": "Bart's cover for his lie backfires.",
             "disneyplus_id": "3abea375-9c5d-4b5d-8e7f-16818897c8a5",
             "simpsonsworld_id": null,
@@ -10186,9 +10226,14 @@
             "title": "Heartbreak Hotel",
             "season": 30,
             "episode": 2,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2018-10-07",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Renee Ridgeley",
+                "Matt Selman"
+            ],
             "description": "Homer and Marge go on an amazing race type show where they are eliminated immediately.",
             "disneyplus_id": "7c3f3732-8a93-4a58-ab07-f658a8b5ff65",
             "simpsonsworld_id": null,
@@ -10199,9 +10244,15 @@
             "title": "My Way or the Highway to Heaven",
             "season": 30,
             "episode": 3,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2018-10-14",
+            "directors": [
+                "Rob Oliver"
+            ],
+            "writers": [
+                "Dan Castellaneta",
+                "Deb Lacusta",
+                "Vince Waldron"
+            ],
             "description": "The Simpsons explore three ways to get into heaven.",
             "disneyplus_id": "b1053f70-abf6-4fb3-a55b-6413e7cd45f8",
             "simpsonsworld_id": null,
@@ -10212,9 +10263,13 @@
             "title": "Treehouse of Horror XXIX",
             "season": 30,
             "episode": 4,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2018-10-21",
+            "directors": [
+                "Matthew Faughnan"
+            ],
+            "writers": [
+                "Joel H. Cohen"
+            ],
             "description": "The Simpsons battle spores from space and Grampa goes to a Jurassic Park-style senior home.",
             "disneyplus_id": "0b0b2d05-b113-4d25-b232-849b47bfe6cd",
             "simpsonsworld_id": null,
@@ -10225,9 +10280,13 @@
             "title": "Baby You Can't Drive My Car",
             "season": 30,
             "episode": 5,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2018-11-04",
+            "directors": [
+                "Timothy Bailey"
+            ],
+            "writers": [
+                "Rob LaZebnik"
+            ],
             "description": "Marge and Homer work together at a cool tech company.",
             "disneyplus_id": "00a1d721-7669-4ee2-8da5-799f84ae2d90",
             "simpsonsworld_id": null,
@@ -10238,9 +10297,13 @@
             "title": "From Russia Without Love",
             "season": 30,
             "episode": 6,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2018-11-11",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Michael Ferris"
+            ],
             "description": "Bart orders a Russian bride for Moe. She turns Moe's life around, and he falls in love.",
             "disneyplus_id": "c96aa7e3-f5d8-4b8e-aee2-a7c23cee6c55",
             "simpsonsworld_id": null,
@@ -10251,9 +10314,14 @@
             "title": "Werking Mom",
             "season": 30,
             "episode": 7,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2018-11-18",
+            "directors": [
+                "Michael Polcino"
+            ],
+            "writers": [
+                "Carolyn Omine",
+                "Robin Sayers"
+            ],
             "description": "Marge becomes a successful Tupperware saleswoman because customers think she's a man in drag.",
             "disneyplus_id": "84953856-8319-4600-8072-799c2e1e32c4",
             "simpsonsworld_id": null,
@@ -10264,9 +10332,13 @@
             "title": "Krusty the Clown",
             "season": 30,
             "episode": 8,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2018-11-25",
+            "directors": [
+                "Matthew Faughnan"
+            ],
+            "writers": [
+                "Ryan Koh"
+            ],
             "description": "Homer becomes an internet recapper while Krusty joins the circus.",
             "disneyplus_id": "b5aeb3d3-3cc3-4e91-a32a-1b33b683b4f9",
             "simpsonsworld_id": null,
@@ -10277,9 +10349,13 @@
             "title": "Daddicus Finch",
             "season": 30,
             "episode": 9,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2018-12-02",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Al Jean"
+            ],
             "description": "Lisa reads \"To Kill a Mockingbird\" and observes similarities between her dad and Atticus Finch.",
             "disneyplus_id": "057a8476-019d-4196-8601-38ba7aa0fcad",
             "simpsonsworld_id": null,
@@ -10290,9 +10366,15 @@
             "title": "'Tis the 30th Season",
             "season": 30,
             "episode": 10,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2018-12-09",
+            "directors": [
+                "Lance Kramer"
+            ],
+            "writers": [
+                "Jeff Westbrook",
+                "John Frink",
+                "Joel H. Cohen"
+            ],
             "description": "The Simpsons try to spend a relaxing Florida Christmas.",
             "disneyplus_id": "6676b4c4-75d0-4d1f-8384-e5da1fb4ec2c",
             "simpsonsworld_id": null,
@@ -10303,9 +10385,13 @@
             "title": "Mad About the Toy",
             "season": 30,
             "episode": 11,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-01-06",
+            "directors": [
+                "Rob Oliver"
+            ],
+            "writers": [
+                "Michael Price"
+            ],
             "description": "Grampa learns a startling secret from his past. It takes him to Texas to find a long-lost life.",
             "disneyplus_id": "9595ca10-574c-4a98-9d06-d3a3d9cfa9ff",
             "simpsonsworld_id": null,
@@ -10316,9 +10402,13 @@
             "title": "The Girl on the Bus",
             "season": 30,
             "episode": 12,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-01-13",
+            "directors": [
+                "Chris Clements"
+            ],
+            "writers": [
+                "Joel H. Cohen"
+            ],
             "description": "Lisa discovers the ideal family... and lies about her own.",
             "disneyplus_id": "381dd896-c62b-418d-8139-9901022e8c7b",
             "simpsonsworld_id": null,
@@ -10329,9 +10419,13 @@
             "title": "I'm Dancing as Fat as I Can",
             "season": 30,
             "episode": 13,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-02-10",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Jane Becker"
+            ],
             "description": "When Homer breaks a promise and binge watches a show without Marge, she is more furious than ever.",
             "disneyplus_id": "5e947ef5-874d-4e6d-8d7b-9c0f6418c95f",
             "simpsonsworld_id": null,
@@ -10342,9 +10436,13 @@
             "title": "The Clown Stays in the Picture",
             "season": 30,
             "episode": 14,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-02-17",
+            "directors": [
+                "Timothy Bailey"
+            ],
+            "writers": [
+                "Matt Selman"
+            ],
             "description": "On a podcast Krusty discusses a lost film he made in the \u201880s.",
             "disneyplus_id": "d3a79e2f-0900-427d-8a99-aed99216af5c",
             "simpsonsworld_id": null,
@@ -10355,9 +10453,15 @@
             "title": "101 Mitigations",
             "season": 30,
             "episode": 15,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-03-03",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Rob LaZebnik",
+                "Brian Kelley",
+                "Dan Vebber"
+            ],
             "description": "Homer goes on a joyride and is threatened with prison by Comic Book Guy.",
             "disneyplus_id": "cc74c61c-b33f-487b-b9bf-c78e794aadef",
             "simpsonsworld_id": null,
@@ -10368,9 +10472,13 @@
             "title": "I Want You (She's So Heavy)",
             "season": 30,
             "episode": 16,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-03-10",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Jeff Westbrook"
+            ],
             "description": "Homer gets an inguinal hernia which comes to life and tells him to take it easy.",
             "disneyplus_id": "7cfaf421-8641-4f8a-bf33-b5aa8ce65e8b",
             "simpsonsworld_id": null,
@@ -10381,9 +10489,13 @@
             "title": "E My Sports",
             "season": 30,
             "episode": 17,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-03-17",
+            "directors": [
+                "Rob Oliver"
+            ],
+            "writers": [
+                "Rob LaZebnik"
+            ],
             "description": "Bart earns money in a video game competition, and Homer becomes his coach.",
             "disneyplus_id": "54f1162d-019a-4731-a951-9f0db6abb64d",
             "simpsonsworld_id": null,
@@ -10394,9 +10506,13 @@
             "title": "Bart vs. Itchy and Scratchy",
             "season": 30,
             "episode": 18,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-03-24",
+            "directors": [
+                "Chris Clements"
+            ],
+            "writers": [
+                "Megan Amram"
+            ],
             "description": "Bart is upset to learn there is a new, all-girl version of Itchy and Scratchy.",
             "disneyplus_id": "8b656b44-85db-4ecd-bae5-a3258eb8e9f6",
             "simpsonsworld_id": null,
@@ -10407,9 +10523,13 @@
             "title": "Girl's in the Band",
             "season": 30,
             "episode": 19,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-03-31",
+            "directors": [
+                "Jennifer Moeller"
+            ],
+            "writers": [
+                "Nancy Cartwright"
+            ],
             "description": "Lisa joins an advanced youth orchestra in Capital City, throwing the family\u2019s lives into havoc.",
             "disneyplus_id": "df2fda5d-4585-424a-a2d5-35a4a5178067",
             "simpsonsworld_id": null,
@@ -10420,9 +10540,14 @@
             "title": "I'm Just a Girl Who Can't Say D'oh",
             "season": 30,
             "episode": 20,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-04-07",
+            "directors": [
+                "Michael Polcino"
+            ],
+            "writers": [
+                "Jeff Martin",
+                "Jenna Martin"
+            ],
             "description": "Marge becomes director of a local theater production.",
             "disneyplus_id": "1178d9bf-9372-4847-aee2-66e2b7aa84ad",
             "simpsonsworld_id": null,
@@ -10433,9 +10558,14 @@
             "title": "D'oh Canada",
             "season": 30,
             "episode": 21,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-04-28",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Tim Long",
+                "Miranda Thompson"
+            ],
             "description": "Lisa goes to Canada and refuses to leave. A desperate Marge tries to get her back.",
             "disneyplus_id": "1dd944b3-cda9-4ae7-8bb9-7391e793104e",
             "simpsonsworld_id": null,
@@ -10446,9 +10576,13 @@
             "title": "Woo-Hoo Dunnit?",
             "season": 30,
             "episode": 22,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-05-05",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Brian Kelley"
+            ],
             "description": "$600 theft rocks the Simpson home. A local TV crime show attempts to crack it to no avail.",
             "disneyplus_id": "106f5152-8b8a-497c-a823-b10e809f717e",
             "simpsonsworld_id": null,
@@ -10459,9 +10593,13 @@
             "title": "Crystal Blue-Haired Persuasion",
             "season": 30,
             "episode": 23,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-05-12",
+            "directors": [
+                "Matthew Faughnan"
+            ],
+            "writers": [
+                "Megan Amram"
+            ],
             "description": "Marge sells crystals and makes a fortune.",
             "disneyplus_id": "553af900-6995-420a-8230-61ae64ca9c9a",
             "simpsonsworld_id": null,
@@ -10472,9 +10610,13 @@
             "title": "The Winter of Our Monetized Content",
             "season": 31,
             "episode": 1,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-09-29",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Ryan Koh"
+            ],
             "description": "Homer and Bart become viral sensations.",
             "disneyplus_id": "ca497a6c-9cac-4e92-91a4-af95a82d5680",
             "simpsonsworld_id": null,
@@ -10485,9 +10627,13 @@
             "title": "Go Big or Go Homer",
             "season": 31,
             "episode": 2,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-10-06",
+            "directors": [
+                "Matthew Faughnan"
+            ],
+            "writers": [
+                "John Frink"
+            ],
             "description": "Homer becomes a mentor to an unstable intern who idolizes him.",
             "disneyplus_id": "523a90e8-f4fd-40c2-977a-9929b423319d",
             "simpsonsworld_id": null,
@@ -10498,9 +10644,13 @@
             "title": "The Fat Blue Line",
             "season": 31,
             "episode": 3,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-10-13",
+            "directors": [
+                "Michael Polcino"
+            ],
+            "writers": [
+                "Bill Odenkirk"
+            ],
             "description": "Fat Tony is framed, and Wiggum must exonerate him.",
             "disneyplus_id": "78b1bbea-6468-464c-a94f-5ef375db4c7b",
             "simpsonsworld_id": null,
@@ -10511,9 +10661,13 @@
             "title": "Treehouse of Horror XXX",
             "season": 31,
             "episode": 4,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-10-20",
+            "directors": [
+                "Timothy Bailey"
+            ],
+            "writers": [
+                "J. Stewart Burns"
+            ],
             "description": "This 666th episode of the Simpsons parodies spooky favorites.",
             "disneyplus_id": "bf3b47dd-1e1d-41b2-b11b-1b6d5434d23b",
             "simpsonsworld_id": null,
@@ -10524,9 +10678,13 @@
             "title": "Gorillas on the Mast",
             "season": 31,
             "episode": 5,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-11-03",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Max Cohn"
+            ],
             "description": "Homer buys a boat, and Lisa frees a whale.",
             "disneyplus_id": "3915e644-5757-4bbe-a9f8-02bdadc080be",
             "simpsonsworld_id": null,
@@ -10537,9 +10695,13 @@
             "title": "Marge the Lumberjill",
             "season": 31,
             "episode": 6,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-11-10",
+            "directors": [
+                "Rob Oliver"
+            ],
+            "writers": [
+                "Ryan Koh"
+            ],
             "description": "Marge worries that her life is boring, so she takes up timbersports.",
             "disneyplus_id": "604833fa-ba0e-49cd-9f45-6704aaeee7da",
             "simpsonsworld_id": null,
@@ -10550,9 +10712,13 @@
             "title": "Livin' la Pura Vida",
             "season": 31,
             "episode": 7,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-11-17",
+            "directors": [
+                "Timothy Bailey"
+            ],
+            "writers": [
+                "Brian Kelley"
+            ],
             "description": "On a dream Coasta Rican vacation, Homer is horrified to discover that Patty's new girlfriend is cool.",
             "disneyplus_id": "4109ff3d-6c74-41af-bfc9-5e7582b0dd40",
             "simpsonsworld_id": null,
@@ -10563,9 +10729,13 @@
             "title": "Thanksgiving of Horror",
             "season": 31,
             "episode": 8,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-11-24",
+            "directors": [
+                "Rob Oliver"
+            ],
+            "writers": [
+                "Dan Vebber"
+            ],
             "description": "Three tales of Thanksgiving terror.",
             "disneyplus_id": "ea3e5e5a-ce1c-40c1-9c03-d3beae6800e6",
             "simpsonsworld_id": null,
@@ -10576,9 +10746,14 @@
             "title": "Todd, Todd, Why Hast Thou Forsaken Me?",
             "season": 31,
             "episode": 9,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-12-01",
+            "directors": [
+                "Chris Clements"
+            ],
+            "writers": [
+                "Tim Long",
+                "Miranda Thompson"
+            ],
             "description": "Todd loses his faith in God.",
             "disneyplus_id": "dfc9fb50-95ca-4ccd-ab78-52f99bc63f94",
             "simpsonsworld_id": null,
@@ -10589,9 +10764,14 @@
             "title": "Bobby, It's Cold Outside",
             "season": 31,
             "episode": 10,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2019-12-15",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "John Frink",
+                "Jeff Westbrook"
+            ],
             "description": "Sideshow Bob returns, and Christmas is threatened.",
             "disneyplus_id": "887a8249-45d2-4648-bf8f-857068bc51ec",
             "simpsonsworld_id": null,
@@ -10602,9 +10782,13 @@
             "title": "Hail to the Teeth",
             "season": 31,
             "episode": 11,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-01-05",
+            "directors": [
+                "Mark Kirkland"
+            ],
+            "writers": [
+                "Elisabeth Kiernan Averick"
+            ],
             "description": "Marge's old suitor, Artie Ziff, returns, and he's engaged.",
             "disneyplus_id": "e790d895-efe3-4bc6-afa5-e638f558b453",
             "simpsonsworld_id": null,
@@ -10615,9 +10799,13 @@
             "title": "The Miseducation of Lisa Simpson",
             "season": 31,
             "episode": 12,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-02-16",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "J. Stewart Burns"
+            ],
             "description": "When Springfield builds a S.T.E.M school, Lisa and Bart discover the terrifying jobs of the future.",
             "disneyplus_id": "26fa2ab1-13ec-4faa-934b-e153dbed8daa",
             "simpsonsworld_id": null,
@@ -10628,9 +10816,13 @@
             "title": "Frinkcoin",
             "season": 31,
             "episode": 13,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-02-23",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Rob LaZebnik"
+            ],
             "description": "Professor Frink develops a crypto currency that makes him rich.",
             "disneyplus_id": "a4af5b0e-6078-484b-a3f9-0a70245947b7",
             "simpsonsworld_id": null,
@@ -10641,9 +10833,13 @@
             "title": "Bart the Bad Guy",
             "season": 31,
             "episode": 14,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-03-01",
+            "directors": [
+                "Jennifer Moeller"
+            ],
+            "writers": [
+                "Dan Vebber"
+            ],
             "description": "When Bart sees a superhero movie early, he blackmails the town not to spoil the ending.",
             "disneyplus_id": "d8e4279f-206e-4aef-ae5b-b93349effcc0",
             "simpsonsworld_id": null,
@@ -10654,9 +10850,13 @@
             "title": "Screenless",
             "season": 31,
             "episode": 15,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-03-08",
+            "directors": [
+                "Michael Polcino"
+            ],
+            "writers": [
+                "J. Stewart Burns"
+            ],
             "description": "The family goes without electronic devices.",
             "disneyplus_id": "1416e154-0d9c-43db-b2c3-84359f77d64d",
             "simpsonsworld_id": null,
@@ -10667,9 +10867,15 @@
             "title": "Better Off Ned",
             "season": 31,
             "episode": 16,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-03-15",
+            "directors": [
+                "Rob Oliver"
+            ],
+            "writers": [
+                "Joel H. Cohen",
+                "Jeff Westbrook",
+                "Al Jean"
+            ],
             "description": "After a prank, Ned mentors Bart, and his life greatly improves.",
             "disneyplus_id": "a65f610d-d2be-49fc-b6c7-c04e580af1a3",
             "simpsonsworld_id": null,
@@ -10680,9 +10886,13 @@
             "title": "Highway to Well",
             "season": 31,
             "episode": 17,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-03-22",
+            "directors": [
+                "Chris Clements"
+            ],
+            "writers": [
+                "Carolyn Omine"
+            ],
             "description": "Marge discovers she has a talent for healing when she works at a cannabis dispenary.",
             "disneyplus_id": "562d6a94-d1e1-4cca-8615-8dbbcbaf21d1",
             "simpsonsworld_id": null,
@@ -10693,9 +10903,14 @@
             "title": "The Incredible Lightness of Being a Baby",
             "season": 31,
             "episode": 18,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-04-19",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Tom Gammill",
+                "Max Pross"
+            ],
             "description": "Cletus becomes a helium tycoon.",
             "disneyplus_id": "f91d19d8-aeeb-4ca8-bcac-6384591148ef",
             "simpsonsworld_id": null,
@@ -10706,9 +10921,13 @@
             "title": "Warrin' Priests",
             "season": 31,
             "episode": 19,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-04-26",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "Pete Holmes"
+            ],
             "description": "Homer Pete Holmes guest stars as a mysterious new preacher.",
             "disneyplus_id": "7c6ef11c-f012-420a-95fe-27479b120221",
             "simpsonsworld_id": null,
@@ -10719,9 +10938,13 @@
             "title": "Warrin' Priests Part Two",
             "season": 31,
             "episode": 20,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-05-03",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Pete Holmes"
+            ],
             "description": "Reverend Lovejoy uncovers the truth about the popular, new preacher.",
             "disneyplus_id": "bb8d939d-007c-4627-8922-74a6e5cd7ef1",
             "simpsonsworld_id": null,
@@ -10732,9 +10955,13 @@
             "title": "The Hateful Eight-Year-Olds",
             "season": 31,
             "episode": 21,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-05-10",
+            "directors": [
+                "Jennifer Moeller"
+            ],
+            "writers": [
+                "Joel H. Cohen"
+            ],
             "description": "Lisa is trapped at the sleepover from hell.",
             "disneyplus_id": "e5cbcb10-6230-4647-9df9-db1fe728931c",
             "simpsonsworld_id": null,
@@ -10745,9 +10972,13 @@
             "title": "The Way of the Dog",
             "season": 31,
             "episode": 22,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-05-17",
+            "directors": [
+                "Matthew Faughnan"
+            ],
+            "writers": [
+                "Carolyn Omine"
+            ],
             "description": "The Simpsons explore the tragic past of Santa's Little Helper.",
             "disneyplus_id": "4e163c17-3990-4043-8439-e255f0702b0e",
             "simpsonsworld_id": null,
@@ -10758,9 +10989,13 @@
             "title": "Undercover Burns",
             "season": 32,
             "episode": 1,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-09-27",
+            "directors": [
+                "Bob Anderson"
+            ],
+            "writers": [
+                "David Cryan"
+            ],
             "description": "Mr. Burns goes undercover to see what the employees really think of him.",
             "disneyplus_id": "4b843d21-679a-4430-bf4c-039d10c31543",
             "simpsonsworld_id": null,
@@ -10771,9 +11006,13 @@
             "title": "I, Carumbus",
             "season": 32,
             "episode": 2,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-10-04",
+            "directors": [
+                "Rob Oliver"
+            ],
+            "writers": [
+                "Cesar Mazariegos"
+            ],
             "description": "The Simpson family goes to Ancient Rome.",
             "disneyplus_id": "62c69f41-41d2-46e2-a69a-434217fdd5e3",
             "simpsonsworld_id": null,
@@ -10784,9 +11023,13 @@
             "title": "Now Museum, Now You Don't",
             "season": 32,
             "episode": 3,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-10-11",
+            "directors": [
+                "Timothy Bailey"
+            ],
+            "writers": [
+                "Dan Greaney"
+            ],
             "description": "Lisa stays home from school to explore the wonders of western art.",
             "disneyplus_id": "5272f7e8-a4a8-4f47-a894-08849f51e8f4",
             "simpsonsworld_id": null,
@@ -10797,9 +11040,13 @@
             "title": "Treehouse Of Horror XXXI",
             "season": 32,
             "episode": 4,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-11-01",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Julia Prescott"
+            ],
             "description": "The annual Simpsons terror-themed trilogy.",
             "disneyplus_id": "42262a30-b359-4417-87bc-af4f9ca99a5e",
             "simpsonsworld_id": null,
@@ -10810,9 +11057,15 @@
             "title": "The 7 Beer Itch",
             "season": 32,
             "episode": 5,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-11-08",
+            "directors": [
+                "Michael Polcino"
+            ],
+            "writers": [
+                "Joel H. Cohen",
+                "John Frink",
+                "Al Jean"
+            ],
             "description": "When Marge and the kids take a seaside vacation, Homer is unwittingly tempted by a femme fatale.",
             "disneyplus_id": "ed49959a-03c6-4e14-8506-5f2b8400bd21",
             "simpsonsworld_id": null,
@@ -10823,9 +11076,13 @@
             "title": "Podcast News",
             "season": 32,
             "episode": 6,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-11-15",
+            "directors": [
+                "Matthew Faughnan"
+            ],
+            "writers": [
+                "David X. Cohen"
+            ],
             "description": "Grampa is accused of a crime in this return to the Simpsons.",
             "disneyplus_id": "b4c0c3b8-c02e-4069-b96f-2b73eb1b00a1",
             "simpsonsworld_id": null,
@@ -10836,9 +11093,13 @@
             "title": "Three Dreams Denied",
             "season": 32,
             "episode": 7,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-11-22",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Danielle Weisberg"
+            ],
             "description": "Bart becomes a voice over actor. Comic Book Guy is humiliated at Comic-Con.",
             "disneyplus_id": "068ac0b5-a3ef-4a47-adbe-c576d14ba55f",
             "simpsonsworld_id": null,
@@ -10849,9 +11110,13 @@
             "title": "The Road To Cincinnati",
             "season": 32,
             "episode": 8,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-11-29",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Jeff Westbrook"
+            ],
             "description": "Principal Skinner and Superintendent Chalmers take a road trip.",
             "disneyplus_id": "119c3f83-0141-4ba4-9041-39280a5ab7d7",
             "simpsonsworld_id": null,
@@ -10862,9 +11127,13 @@
             "title": "Sorry Not Sorry",
             "season": 32,
             "episode": 9,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-12-06",
+            "directors": [
+                "Rob Oliver"
+            ],
+            "writers": [
+                "Nell Scovell"
+            ],
             "description": "Lisa calls her teacher a hack and refuses to apologize.",
             "disneyplus_id": "f975f650-7700-4935-b396-621a6bb8e3ca",
             "simpsonsworld_id": null,
@@ -10875,9 +11144,13 @@
             "title": "A Springfield Summer Christmas for Christmas",
             "season": 32,
             "episode": 10,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2020-12-13",
+            "directors": [
+                "Timothy Bailey"
+            ],
+            "writers": [
+                "Jessica Conrad"
+            ],
             "description": "A Christmas movie comes to Springfield.",
             "disneyplus_id": "ea02692e-8b29-4d56-992f-426bfc6b5d3a",
             "simpsonsworld_id": null,
@@ -10888,9 +11161,13 @@
             "title": "The Dad-Feelings Limited",
             "season": 32,
             "episode": 11,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2021-01-03",
+            "directors": [
+                "Chris Clements"
+            ],
+            "writers": [
+                "Ryan Koh"
+            ],
             "description": "Comic book guy and his wife Kumiko debate having a baby.",
             "disneyplus_id": "76c886a1-1c77-434a-9559-f1bc84cba049",
             "simpsonsworld_id": null,
@@ -10901,9 +11178,13 @@
             "title": "Diary Queen",
             "season": 32,
             "episode": 12,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2021-02-21",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Jeff Westbrook"
+            ],
             "description": "Bart finds his old teacher\u2019s diary and learns a surprising secret.",
             "disneyplus_id": "ddba70c9-8a76-42c4-b49d-514fd2dbec8d",
             "simpsonsworld_id": null,
@@ -10914,9 +11195,13 @@
             "title": "Wad Goals",
             "season": 32,
             "episode": 13,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2021-02-28",
+            "directors": [
+                "Mike Frank Polcino"
+            ],
+            "writers": [
+                "Brian Kelley"
+            ],
             "description": "Bart becomes a successful caddy.",
             "disneyplus_id": "18b45aa7-7537-44fe-aa3e-6efe67f12150",
             "simpsonsworld_id": null,
@@ -10927,9 +11212,14 @@
             "title": "Yokel Hero",
             "season": 32,
             "episode": 14,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2021-03-07",
+            "directors": [
+                "Rob Oliver"
+            ],
+            "writers": [
+                "Jeff Martin",
+                "Samantha Martin"
+            ],
             "description": "Cletus becomes a singing sensation.",
             "disneyplus_id": "47aea404-484a-4f83-abd4-18a24da8c558",
             "simpsonsworld_id": null,
@@ -10940,9 +11230,13 @@
             "title": "Do Pizza Bots Dream Of Electric Guitars",
             "season": 32,
             "episode": 15,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2021-03-14",
+            "directors": [
+                "Jennifer Moeller"
+            ],
+            "writers": [
+                "Michael Price"
+            ],
             "description": "Homer tries to get his favorite band to reunite.",
             "disneyplus_id": "cd17413f-6dfe-4d2b-a92c-c859d3ed16a8",
             "simpsonsworld_id": null,
@@ -10953,9 +11247,13 @@
             "title": "Manger Things",
             "season": 32,
             "episode": 16,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2021-03-21",
+            "directors": [
+                "Steven Dean Moore"
+            ],
+            "writers": [
+                "Rob LaZebnik"
+            ],
             "description": "We learn a secret of Flanders\u2019 past.",
             "disneyplus_id": "ad667e50-7fb6-4b0c-89a0-181834df92c4",
             "simpsonsworld_id": null,
@@ -10966,9 +11264,13 @@
             "title": "Uncut Femmes",
             "season": 32,
             "episode": 17,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2021-03-28",
+            "directors": [
+                "Chris Clements"
+            ],
+            "writers": [
+                "Christine Nangle"
+            ],
             "description": "We learn that Chief Wiggum\u2019s wife is more than she seems.",
             "disneyplus_id": "b90eca2d-285e-4d52-996f-d57d65c2a1d3",
             "simpsonsworld_id": null,
@@ -10979,9 +11281,13 @@
             "title": "Burger Kings",
             "season": 32,
             "episode": 18,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2021-04-11",
+            "directors": [
+                "Lance Kramer"
+            ],
+            "writers": [
+                "Rob LaZebnik"
+            ],
             "description": "Mr. Burns gets into the plant-based burger business.",
             "disneyplus_id": "b7bdfed4-8fef-4225-80b1-02e490f43947",
             "simpsonsworld_id": null,
@@ -10992,9 +11298,13 @@
             "title": "Panic on the Streets of Springfield",
             "season": 32,
             "episode": 19,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2021-04-18",
+            "directors": [
+                "Matthew Nastuk"
+            ],
+            "writers": [
+                "Tim Long"
+            ],
             "description": "Lisa gets an imaginary friend who makes her feel much better about herself.",
             "disneyplus_id": "852d8315-80ba-414e-b67b-e80a5476e053",
             "simpsonsworld_id": null,
@@ -11005,9 +11315,13 @@
             "title": "Mother and Child Reunion",
             "season": 32,
             "episode": 20,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2021-05-09",
+            "directors": [
+                "Jennifer Moeller"
+            ],
+            "writers": [
+                "J. Stewart Burns"
+            ],
             "description": "Lisa makes a shocking college decision, wounding Marge. It leads to a very surprising place.",
             "disneyplus_id": "b49da137-f3d0-4d84-bd7f-4a6d304812c6",
             "simpsonsworld_id": null,
@@ -11018,9 +11332,13 @@
             "title": "The Man From G.R.A.M.P.A.",
             "season": 32,
             "episode": 21,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2021-05-16",
+            "directors": [
+                "Mike Frank Polcino"
+            ],
+            "writers": [
+                "Carolyn Omine"
+            ],
             "description": "A British secret agent comes to Springfield in search of a Russian spy.",
             "disneyplus_id": "ced76366-e9b2-4ad5-9783-e0fdb25975b6",
             "simpsonsworld_id": null,
@@ -11031,9 +11349,13 @@
             "title": "The Last Barfighter",
             "season": 32,
             "episode": 22,
-            "release_date": null,
-            "directors": null,
-            "writers": null,
+            "release_date": "2021-05-23",
+            "directors": [
+                "Timothy Bailey"
+            ],
+            "writers": [
+                "Dan Vebber"
+            ],
             "description": "Moe breaks a sacred bartender rule.",
             "disneyplus_id": "8425cef2-91ae-4d92-ba05-174dd5aa2fa8",
             "simpsonsworld_id": null,

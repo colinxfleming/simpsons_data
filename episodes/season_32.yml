@@ -3,242 +3,242 @@ episodes:
 - title: Undercover Burns
   season: 32
   episode: 1
-  release_date:
-  directors:
-  writers:
+  release_date: 2020-09-27
+  directors: ['Bob Anderson']
+  writers: ['David Cryan']
   description: Mr. Burns goes undercover to see what the employees really think of him.
   disneyplus_id: 4b843d21-679a-4430-bf4c-039d10c31543
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: I, Carumbus
   season: 32
   episode: 2
-  release_date:
-  directors:
-  writers:
+  release_date: 2020-10-04
+  directors: ['Rob Oliver']
+  writers: ['Cesar Mazariegos']
   description: The Simpson family goes to Ancient Rome.
   disneyplus_id: 62c69f41-41d2-46e2-a69a-434217fdd5e3
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: Now Museum, Now You Don't
   season: 32
   episode: 3
-  release_date:
-  directors:
-  writers:
+  release_date: 2020-10-11
+  directors: ['Timothy Bailey']
+  writers: ['Dan Greaney']
   description: Lisa stays home from school to explore the wonders of western art.
   disneyplus_id: 5272f7e8-a4a8-4f47-a894-08849f51e8f4
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: Treehouse Of Horror XXXI
   season: 32
   episode: 4
-  release_date:
-  directors:
-  writers:
+  release_date: 2020-11-01
+  directors: ['Steven Dean Moore']
+  writers: ['Julia Prescott']
   description: The annual Simpsons terror-themed trilogy.
   disneyplus_id: 42262a30-b359-4417-87bc-af4f9ca99a5e
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: false
   guest_stars:
 - title: The 7 Beer Itch
   season: 32
   episode: 5
-  release_date:
-  directors:
-  writers:
+  release_date: 2020-11-08
+  directors: ['Michael Polcino']
+  writers: ['Joel H. Cohen', 'John Frink', 'Al Jean']
   description: When Marge and the kids take a seaside vacation, Homer is unwittingly tempted by a femme fatale.
   disneyplus_id: ed49959a-03c6-4e14-8506-5f2b8400bd21
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: Podcast News
   season: 32
   episode: 6
-  release_date:
-  directors:
-  writers:
+  release_date: 2020-11-15
+  directors: ['Matthew Faughnan']
+  writers: ['David X. Cohen']
   description: Grampa is accused of a crime in this return to the Simpsons.
   disneyplus_id: b4c0c3b8-c02e-4069-b96f-2b73eb1b00a1
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: Three Dreams Denied
   season: 32
   episode: 7
-  release_date:
-  directors:
-  writers:
+  release_date: 2020-11-22
+  directors: ['Steven Dean Moore']
+  writers: ['Danielle Weisberg']
   description: Bart becomes a voice over actor. Comic Book Guy is humiliated at Comic-Con.
   disneyplus_id: 068ac0b5-a3ef-4a47-adbe-c576d14ba55f
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: The Road To Cincinnati
   season: 32
   episode: 8
-  release_date:
-  directors:
-  writers:
+  release_date: 2020-11-29
+  directors: ['Matthew Nastuk']
+  writers: ['Jeff Westbrook']
   description: Principal Skinner and Superintendent Chalmers take a road trip.
   disneyplus_id: 119c3f83-0141-4ba4-9041-39280a5ab7d7
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: Sorry Not Sorry
   season: 32
   episode: 9
-  release_date:
-  directors:
-  writers:
+  release_date: 2020-12-06
+  directors: ['Rob Oliver']
+  writers: ['Nell Scovell']
   description: Lisa calls her teacher a hack and refuses to apologize.
   disneyplus_id: f975f650-7700-4935-b396-621a6bb8e3ca
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: A Springfield Summer Christmas for Christmas
   season: 32
   episode: 10
-  release_date:
-  directors:
-  writers:
+  release_date: 2020-12-13
+  directors: ['Timothy Bailey']
+  writers: ['Jessica Conrad']
   description: A Christmas movie comes to Springfield.
   disneyplus_id: ea02692e-8b29-4d56-992f-426bfc6b5d3a
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: The Dad-Feelings Limited
   season: 32
   episode: 11
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-01-03
+  directors: ['Chris Clements']
+  writers: ['Ryan Koh']
   description: Comic book guy and his wife Kumiko debate having a baby.
   disneyplus_id: 76c886a1-1c77-434a-9559-f1bc84cba049
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: Diary Queen
   season: 32
   episode: 12
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-02-21
+  directors: ['Matthew Nastuk']
+  writers: ['Jeff Westbrook']
   description: Bart finds his old teacher’s diary and learns a surprising secret.
   disneyplus_id: ddba70c9-8a76-42c4-b49d-514fd2dbec8d
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: Wad Goals
   season: 32
   episode: 13
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-02-28
+  directors: ['Mike Frank Polcino']
+  writers: ['Brian Kelley']
   description: Bart becomes a successful caddy.
   disneyplus_id: 18b45aa7-7537-44fe-aa3e-6efe67f12150
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: Yokel Hero
   season: 32
   episode: 14
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-03-07
+  directors: ['Rob Oliver']
+  writers: ['Jeff Martin', 'Samantha Martin']
   description: Cletus becomes a singing sensation.
   disneyplus_id: 47aea404-484a-4f83-abd4-18a24da8c558
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: Do Pizza Bots Dream Of Electric Guitars
   season: 32
   episode: 15
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-03-14
+  directors: ['Jennifer Moeller']
+  writers: ['Michael Price']
   description: Homer tries to get his favorite band to reunite.
   disneyplus_id: cd17413f-6dfe-4d2b-a92c-c859d3ed16a8
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: Manger Things
   season: 32
   episode: 16
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-03-21
+  directors: ['Steven Dean Moore']
+  writers: ['Rob LaZebnik']
   description: We learn a secret of Flanders’ past.
   disneyplus_id: ad667e50-7fb6-4b0c-89a0-181834df92c4
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: Uncut Femmes
   season: 32
   episode: 17
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-03-28
+  directors: ['Chris Clements']
+  writers: ['Christine Nangle']
   description: We learn that Chief Wiggum’s wife is more than she seems.
   disneyplus_id: b90eca2d-285e-4d52-996f-d57d65c2a1d3
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: Burger Kings
   season: 32
   episode: 18
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-04-11
+  directors: ['Lance Kramer']
+  writers: ['Rob LaZebnik']
   description: Mr. Burns gets into the plant-based burger business.
   disneyplus_id: b7bdfed4-8fef-4225-80b1-02e490f43947
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: Panic on the Streets of Springfield
   season: 32
   episode: 19
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-04-18
+  directors: ['Matthew Nastuk']
+  writers: ['Tim Long']
   description: Lisa gets an imaginary friend who makes her feel much better about herself.
   disneyplus_id: 852d8315-80ba-414e-b67b-e80a5476e053
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: Mother and Child Reunion
   season: 32
   episode: 20
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-05-09
+  directors: ['Jennifer Moeller']
+  writers: ['J. Stewart Burns']
   description: Lisa makes a shocking college decision, wounding Marge. It leads to a very surprising place.
   disneyplus_id: b49da137-f3d0-4d84-bd7f-4a6d304812c6
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
 - title: The Man From G.R.A.M.P.A.
   season: 32
   episode: 21
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-05-16
+  directors: ['Mike Frank Polcino']
+  writers: ['Carolyn Omine']
   description: A British secret agent comes to Springfield in search of a Russian spy.
   disneyplus_id: ced76366-e9b2-4ad5-9783-e0fdb25975b6
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: false
   guest_stars:
 - title: The Last Barfighter
   season: 32
   episode: 22
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-05-23
+  directors: ['Timothy Bailey']
+  writers: ['Dan Vebber']
   description: Moe breaks a sacred bartender rule.
   disneyplus_id: 8425cef2-91ae-4d92-ba05-174dd5aa2fa8
-  simpsonsworld_id:
+  simpsonsworld_id: null
   good: maybe
   guest_stars:
