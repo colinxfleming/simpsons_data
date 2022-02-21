@@ -3,9 +3,9 @@ episodes:
 - title: The Falcon and the D'ohman
   season: 23
   episode: 1
-  release_date:
-  directors:
-  writers:
+  release_date: 2011-09-25
+  directors: ['Matthew Nastuk']
+  writers: ['Justin Hurwitz']
   description: Homer attempts to help a former CIA agent plagued by violent flashbacks
     from his past.
   disneyplus_id: 71b4298a-1375-487d-9f31-bdaa8cbcbc2e
@@ -15,9 +15,9 @@ episodes:
 - title: Bart Stops to Smell the Roosevelts
   season: 23
   episode: 2
-  release_date:
-  directors:
-  writers:
+  release_date: 2011-10-02
+  directors: ['Steven Dean Moore']
+  writers: ['Tim Long']
   description: Superintendant Chalmers teaches Bart about Teddy Roosevelt after personally
     taking charge of the boy's education. When Chalmers loses his job, Bart and his
     classmates attempt to get him reinstated.
@@ -28,9 +28,9 @@ episodes:
 - title: Treehouse of Horror XXII
   season: 23
   episode: 3
-  release_date:
-  directors:
-  writers:
+  release_date: 2011-10-30
+  directors: ['Matthew Faughnan']
+  writers: ['Carolyn Omine']
   description: In three terrifying Halloween tales... Homer discovers a unique way
     to communicate with his family; a spoof of 'Dexter' features Homer tricking Flanders;
     a spoof of the movie 'Avatar' features Bart as a tentacled alien.
@@ -41,9 +41,9 @@ episodes:
 - title: Replaceable You
   season: 23
   episode: 4
-  release_date:
-  directors:
-  writers:
+  release_date: 2011-11-06
+  directors: ['Mark Kirkland']
+  writers: ['Stephanie Gillis']
   description: With some help from Martin Prince, Bart constructs cute, baby seal-like
     robots that rival Lisa's entry in a science fair project; Homer ends up working
     for his new assistant.
@@ -54,9 +54,9 @@ episodes:
 - title: The Food Wife
   season: 23
   episode: 5
-  release_date:
-  directors:
-  writers:
+  release_date: 2011-11-13
+  directors: ['Timothy Bailey']
+  writers: ['Matt Selman']
   description: As Homer and Marge vie for the kids' approval... Marge, Bart and Lisa
     become successful food bloggers; Homer finds himself trapped in a meth lab after
     Marge deliberately gives him the wrong address for a restaurant.
@@ -67,9 +67,9 @@ episodes:
 - title: The Book Job
   season: 23
   episode: 6
-  release_date:
-  directors:
-  writers:
+  release_date: 2011-11-20
+  directors: ['Bob Anderson']
+  writers: ['Dan Vebber']
   description: After Lisa discovers that her favorite author doesn't exist, Homer
     forms a literary gang in hopes of writing a bestselling "tween" novel and raking
     in millions.
@@ -80,9 +80,9 @@ episodes:
 - title: The Man in the Blue Flannel Pants
   season: 23
   episode: 7
-  release_date:
-  directors:
-  writers:
+  release_date: 2011-11-27
+  directors: ['Steven Dean Moore']
+  writers: ['Jeff Westbrook']
   description: Burns appoints Homer the nuclear power plant's new account man, damning
     him to a 'Mad Men'-like existence; Lisa becomes Bart's mentor.
   disneyplus_id: cb8c182c-b6f1-4bac-b637-de92eda72767
@@ -92,9 +92,9 @@ episodes:
 - title: The Ten-Per-Cent Solution
   season: 23
   episode: 8
-  release_date:
-  directors:
-  writers:
+  release_date: 2011-12-04
+  directors: ['Michael Polcino']
+  writers: ['Deb Lacusta', 'Dan Castellaneta']
   description: After being fired from his popular kids' show, Krusty stages a comeback
     with help from an agent who's also an old flame.
   disneyplus_id: bc909c20-4bc6-47bf-a1b5-96c8ba44acb1
@@ -104,9 +104,9 @@ episodes:
 - title: Holidays Of Future Passed
   season: 23
   episode: 9
-  release_date:
-  directors:
-  writers:
+  release_date: 2011-12-11
+  directors: ['Rob Oliver']
+  writers: ['J. Stewart Burns']
   description: Thirty years in the future, Bart and Lisa attempt to bond with their
     children on Christmas; an unwed Maggie gives birth while heading home for the
     holidays.
@@ -117,9 +117,9 @@ episodes:
 - title: Politically Inept, With Homer Simpson
   season: 23
   episode: 10
-  release_date:
-  directors:
-  writers:
+  release_date: 2012-01-08
+  directors: ['Mark Kirkland']
+  writers: ['John Frink']
   description: Homer becomes a celebrity after he voices his conservative opinions
     on a cable talk show, and attempts to convince leaders of the Republican party
     to nominate singer Ted Nugent for president.
@@ -130,9 +130,9 @@ episodes:
 - title: The D'oh-cial Network
   season: 23
   episode: 11
-  release_date:
-  directors:
-  writers:
+  release_date: 2012-01-15
+  directors: ['Chris Clements']
+  writers: ['J. Stewart Burns']
   description: Lisa's idea for an online social network becomes a tremendous hit,
     but so many people become addicted to posting on the site, it leads to chaos.
   disneyplus_id: 70286e61-f44d-44d7-b054-22bc39a9c42a
@@ -142,9 +142,9 @@ episodes:
 - title: Moe Goes From Rags To Riches
   season: 23
   episode: 12
-  release_date:
-  directors:
-  writers:
+  release_date: 2012-01-29
+  directors: ['Bob Anderson']
+  writers: ['Tim Long']
   description: Moe's bar rag tells the story of his existence; Milhouse tires of taking
     abuse from Bart.
   disneyplus_id: 167bafe2-53a2-4f75-a425-11c8f6843e5f
@@ -154,9 +154,9 @@ episodes:
 - title: The Daughter Also Rises
   season: 23
   episode: 13
-  release_date:
-  directors:
-  writers:
+  release_date: 2012-02-12
+  directors: ['Chuck Sheetz']
+  writers: ['Rob LaZebnik']
   description: As Valentine's Day approaches, Marge grows concerned when Lisa finds
     a boyfriend; Bart and Milhouse set out on a 'mythbusting' mission at Springfield
     Elementary.
@@ -167,9 +167,9 @@ episodes:
 - title: At Long Last Leave
   season: 23
   episode: 14
-  release_date:
-  directors:
-  writers:
+  release_date: 2012-02-19
+  directors: ['Matthew Nastuk']
+  writers: ['Michael Price']
   description: Fed up with the family's negative impact on the city, townspeople banish
     the Simpsons from Springfield.
   disneyplus_id: 30f5a709-b305-4c61-9483-515ce22d9493
@@ -179,9 +179,9 @@ episodes:
 - title: Exit Through The Kwik-E-Mart
   season: 23
   episode: 15
-  release_date:
-  directors:
-  writers:
+  release_date: 2012-03-04
+  directors: ['Steven Dean Moore']
+  writers: ['Marc Wilmore']
   description: Bart becomes a famous street artist after he plasters Springfield with
     unflattering graffiti of Homer's likeness; Apu panics when he's forced to compete
     with a friendly grocery store chain featuring a South Pacific motif.
@@ -192,9 +192,9 @@ episodes:
 - title: How I Wet Your Mother
   season: 23
   episode: 16
-  release_date:
-  directors:
-  writers:
+  release_date: 2012-03-11
+  directors: ['Lance Kramer']
+  writers: ['Billy Kimball', 'Ian Maxtone-Graham']
   description: With help from one of Professor Frink's inventions, Marge and the kids
     enter Homer's dreams in hopes of curing him of incontinence.
   disneyplus_id: fa2585ca-1fe7-4706-80fe-acf1cf3559eb
@@ -204,9 +204,9 @@ episodes:
 - title: Them, Robot
   season: 23
   episode: 17
-  release_date:
-  directors:
-  writers:
+  release_date: 2012-03-18
+  directors: ['Michael Polcino']
+  writers: ['Michael Price']
   description: Homer becomes the last human employee at the nuclear power plant after
     Mr. Burns orders a mass firing and replaces staffers with robots.
   disneyplus_id: 63c15301-5e59-4015-82cb-44d1990674fb
@@ -216,9 +216,9 @@ episodes:
 - title: Beware My Cheating Bart
   season: 23
   episode: 18
-  release_date:
-  directors:
-  writers:
+  release_date: 2012-04-15
+  directors: ['Mark Kirkland']
+  writers: ['Ben Joseph']
   description: Bart falls for Jimbo's girlfriend Shauna; Homer buys a tricked-out
     treadmill so he can watch old episodes of a 'Lost'-like television show.
   disneyplus_id: 6e6fd589-61de-4524-b1c6-dfec86a79ca0
@@ -228,9 +228,9 @@ episodes:
 - title: A Totally Fun Thing Bart Will Never Do Again
   season: 23
   episode: 19
-  release_date:
-  directors:
-  writers:
+  release_date: 2012-04-29
+  directors: ['Chris Clements']
+  writers: ['Matt Warburton']
   description: The Simpsons vacation on a cruise liner, where Bart has so much fun
     he concocts a scheme to keep his family aboard the ship forever.
   disneyplus_id: 1cf3d987-255c-4e8a-8a7b-ff9b69efc674
@@ -240,9 +240,9 @@ episodes:
 - title: The Spy Who Learned Me
   season: 23
   episode: 20
-  release_date:
-  directors:
-  writers:
+  release_date: 2012-05-06
+  directors: ['Bob Anderson']
+  writers: ['Marc Wilmore']
   description: After being injured at work, Homer is given eight weeks of paid vacation,
     and decides to keep the news secret from his family; Bart gets Nelson hooked on
     Krustyburgers so he'll gain weight and stop picking on him.
@@ -253,9 +253,9 @@ episodes:
 - title: Ned 'n Edna's Blend Agenda
   season: 23
   episode: 21
-  release_date:
-  directors:
-  writers:
+  release_date: 2012-05-13
+  directors: ['Chuck Sheetz']
+  writers: ['Jeff Westbrook']
   description: Complications ensue when Flanders and Krabappel admit they're secretly
     married.
   disneyplus_id: c1b07def-9637-4b21-ba0b-445110bbb94b
@@ -265,9 +265,9 @@ episodes:
 - title: Lisa Goes Gaga
   season: 23
   episode: 22
-  release_date:
-  directors:
-  writers:
+  release_date: 2012-05-20
+  directors: ['Matthew Schofield']
+  writers: ['Tim Long']
   description: Singer Lady Gaga attempts to cheer Lisa after she's voted the most
     unpopular kid at school.
   disneyplus_id: e922e60a-ed9e-4bf7-9d0b-48e54c01622d
