@@ -71,7 +71,7 @@ episodes:
     as she grows increasingly frustrated with how the local government operates.
   disneyplus_id: 4b81e3b0-082c-4be3-8b43-8cf5304af779
   simpsonsworld_id: 1094410819778
-  good: maybe
+  good: true
   guest_stars:
 - title: Singin' in the Lane
   season: 29
@@ -83,7 +83,7 @@ episodes:
     team back together again, but they soon face a team of arrogant millionaires.
   disneyplus_id: 5c73167e-6f2a-4d75-a7ef-c1ee5b718a20
   simpsonsworld_id: 1099353155881
-  good: maybe
+  good: false
   guest_stars:
 - title: Mr. Lisa's Opus
   season: 29
@@ -107,7 +107,7 @@ episodes:
     the hopes of finding him.
   disneyplus_id: c1493562-a725-40ea-bc09-bb73cd2687f2
   simpsonsworld_id: 1113094211783
-  good: maybe
+  good: false
   guest_stars:
 - title: Haw-Haw Land
   season: 29
