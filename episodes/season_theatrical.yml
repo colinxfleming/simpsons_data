@@ -3,9 +3,9 @@ episodes:
 - title: The Longest Daycare
   season: 25
   episode: 25
-  release_date:
-  directors:
-  writers:
+  release_date: 2012-07-13
+  directors: David Silverman
+  writers: ["James L. Brooks", "Matt Groening", "Al Jean", "David Mirkin", "Michael Price", "Joel H. Cohen"]
   description: 'A theatrical short that premiered July 13, 2012, attached to the theatrical
     release of Ice Age: Continental Drift.  It was nominated for an Academy Award
     for Best Animated Short.'
@@ -28,22 +28,22 @@ episodes:
 - title: The Simpsons in Plusaversary
   season: 99
   episode: 2
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-11-12
+  directors: David Silverman
+  writers: ["Joel H. Cohen", "Jessica Conrad", "Al Jean", "Loni Steele Sosthand", "Dan Vebber"]
   description: The Simpsons host a Disney+ Day party and everyone is on the list... except
     Homer. With friends from across the service and music fit for a Disney princess,
     Plusaversary is Springfield’s event of the year.
   disneyplus_id: d19da874-da2d-4dcd-978b-efb00befce1b
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: 
 - title: Maggie Simpson in Playdate with Destiny
   season: 99
   episode: 3
-  release_date:
-  directors:
-  writers:
+  release_date: 2020-02-29
+  directors: David Silverman
+  writers: ["Al Jean", "Tom Gammill", "Max Pross", "James L. Brooks", "Matt Groening", "Michael Price", "Matt Selman", "David Silverman"]
   description: When Maggie Simpson is rescued by a cute young baby from playground peril, it's
     girl meets boy, girl loses boy, guess what happens next?
   disneyplus_id: f02f6d69-5f8d-4087-a8a8-e94bdc4015ec
@@ -53,9 +53,9 @@ episodes:
 - title: The Good, the Bart, and the Loki
   season: 99
   episode: 4
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-07-07
+  directors: David Silverman
+  writers: ["Elisabeth Kiernan Averick", "Jessica Conrad", "John Frink", "Al Jean", "Jeff Westbrook"]
   description: "Banished from Asgard once again, Loki must face his toughest opponents yet:
     the Simpsons and Springfield's mightiest heroes. The God of Mischief teams up with Bart
     Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe
@@ -63,13 +63,13 @@ episodes:
   disneyplus_id: 3b9fa824-8d1c-48f5-af02-3b7b8c9d910d
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Tom Hiddleston"]
 - title: Maggie Simpson in The Force Awakens from Its Nap
   season: 99
   episode: 5
-  release_date:
-  directors:
-  writers:
+  release_date: 2021-05-04
+  directors: David Silverman
+  writers: ["Joel H. Cohen","Al Jean", "Michael Price"]
   description: In a daycare far, far away... but still in Springfield, Maggie is on an epic
     quest for her stolen pacifier. Her adventure brings her face-to-face with young Padawans,
     Sith Lords, familiar droids, Rebel scum, and an ultimate battle against the Dark Side,
@@ -78,3 +78,36 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
+- title: When Billie Met Lisa
+  season: 99 
+  episode: 6 
+  release_date: 2022-04-22 
+  directors: David Silverman 
+  writers: ["Elisabeth Kiernan Averick", "Broti Gupta", "Al Jean","Cesar Mazariegos", "David Mirkin"] 
+  description: 
+  disneyplus_id: 
+  simpsonsworld_id: 
+  good: maybe 
+  guest_stars: ["Billie Eilish", "Finneas O'Connell"] 
+ - title: Welcome to the Club 
+  season: 99 
+  episode: 7 
+  release_date: 2022-09-08 
+  directors: David Silverman 
+  writers: ["J. Stewart Burns", "Joel H. Cohen", "Al Jean","Christine Nangle", "Loni Steele Sosthand"]
+  description: 
+  disneyplus_id: 
+  simpsonsworld_id: 
+  good: maybe 
+  guest_stars: ["Tom Hiddleston"] 
+  - title: The Simpsons Meet the Bocellis in "Feliz Navidad" 
+  season: 99 
+  episode: 8 
+  release_date: 2022-12-15 
+  directors: 	David Silverman 
+  writers: ["Joel H. Cohen", "Al Jean", "Ryan Koh", "David Mirkin"] 
+  description: 
+  disneyplus_id:
+  simpsonsworld_id: 
+  good: maybe 
+  guest_stars: ["Andrea Bocelli", "Matteo Bocelli", "Virginia Bocelli"] 
