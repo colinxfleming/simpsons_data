@@ -10,7 +10,7 @@ episodes:
     and must rely on Lisa to use magic to help Homer afford the cure.
   disneyplus_id: 62eb0b5e-cc71-44d4-9179-4fc9709badc1
   simpsonsworld_id: 1075435075944
-  good: maybe
+  good: false
   guest_stars:
 - title: Springfield Splendor
   season: 29
@@ -22,7 +22,7 @@ episodes:
     a successful graphic novel.
   disneyplus_id: df3b5ca2-828d-4685-b0a2-7fca3b905044
   simpsonsworld_id: 1080357443795
-  good: maybe
+  good: false
   guest_stars:
 - title: Whistler's Father
   season: 29
@@ -34,7 +34,7 @@ episodes:
     to start her on the path to becoming a baby celebrity.
   disneyplus_id: f522c362-baa4-45a8-9dbb-e7c54e856648
   simpsonsworld_id: 1073411651711
-  good: maybe
+  good: false
   guest_stars:
 - title: Treehouse of Horror XXVIII
   season: 29
@@ -59,7 +59,7 @@ episodes:
     say about him after he receives a new hearing aid.
   disneyplus_id: 85c7dab6-27a8-4532-a64a-b1e8efac6aa4
   simpsonsworld_id: 1088584771605
-  good: maybe
+  good: false
   guest_stars:
 - title: The Old Blue Mayor She Ain't What She Used to Be
   season: 29
@@ -71,7 +71,7 @@ episodes:
     as she grows increasingly frustrated with how the local government operates.
   disneyplus_id: 4b81e3b0-082c-4be3-8b43-8cf5304af779
   simpsonsworld_id: 1094410819778
-  good: maybe
+  good: true
   guest_stars:
 - title: Singin' in the Lane
   season: 29
@@ -83,7 +83,7 @@ episodes:
     team back together again, but they soon face a team of arrogant millionaires.
   disneyplus_id: 5c73167e-6f2a-4d75-a7ef-c1ee5b718a20
   simpsonsworld_id: 1099353155881
-  good: maybe
+  good: false
   guest_stars:
 - title: Mr. Lisa's Opus
   season: 29
@@ -107,7 +107,7 @@ episodes:
     the hopes of finding him.
   disneyplus_id: c1493562-a725-40ea-bc09-bb73cd2687f2
   simpsonsworld_id: 1113094211783
-  good: maybe
+  good: false
   guest_stars:
 - title: Haw-Haw Land
   season: 29
