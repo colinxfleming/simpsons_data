@@ -1,3 +1,3 @@
 pyyaml
-black==24.3.0
+black==26.3.1
 pytest
