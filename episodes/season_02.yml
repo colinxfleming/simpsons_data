@@ -7,7 +7,7 @@ episodes:
   directors: ["David Silverman"]
   writers: ["David M. Stern"]
   description: Bart must pass a critical history test or he will be held back a grade.
-  disneyplus_id: 4050d194-f1a6-47d4-bc1b-76b8245ed113
+  disneyplus_id: bab658ed-26c7-4ad2-a149-25906a6328a1
   simpsonsworld_id: 260539459671
   good: false
   guest_stars: []
@@ -19,7 +19,7 @@ episodes:
   writers: ["Jon Vitti"]
   description: Homer's life changes dramatically when he purchases a miracle hair
     growth formula.
-  disneyplus_id: 243f60de-a36e-49ad-add0-dfc14531cafd
+  disneyplus_id: df7c7fb3-4b0c-4ccb-a2d5-56c2b3c99e42
   simpsonsworld_id: 260539971564
   good: true
   guest_stars: ["Harvey Fierstein"]
@@ -31,7 +31,7 @@ episodes:
   writers: ["John Swartzwelder", "Jay Kogen", "Wallace Wolodarsky", "Sam Simon"]
   description: The Simpsons tell three bloodcurdling tales of horror on Halloween
     night.
-  disneyplus_id: 4ec3dd31-0428-40c2-b1e0-b052dfc53fe0
+  disneyplus_id: e7b385fe-ec23-491c-93bb-e2cbc2dc8f10
   simpsonsworld_id: 260538435884
   good: true
   guest_stars: ["James Earl Jones"]
@@ -43,7 +43,7 @@ episodes:
   writers: ["Sam Simon", "John Swartzwelder"]
   description: Homer supports Mr. Burns in his bid for governor, but Marge remains
     loyal to Burns's political opposition.
-  disneyplus_id: de06551c-30d7-44ef-b000-05e29c00eed6
+  disneyplus_id: c09de019-e50f-4bf8-a923-df84a716e20a
   simpsonsworld_id: 260537411822
   good: true
   guest_stars: []
@@ -54,7 +54,7 @@ episodes:
   directors: ["Mark Kirkland"]
   writers: ["Ken Levine", "David Isaacs"]
   description: Homer becomes the official mascot for a major league baseball team.
-  disneyplus_id: ebf614c8-eefe-4cc3-8b26-d898f40faad0
+  disneyplus_id: 3f44b3b3-bfcc-418f-b752-f67e9535c2e3
   simpsonsworld_id: 260538435888
   good: true
   guest_stars: ["Tony Bennett", "Tom Poston", "Daryl L. Coley", "Kevin Levine"]
@@ -66,7 +66,7 @@ episodes:
   writers: ["Jeff Martin"]
   description: Homer and Ned Flanders pressure their sons to win a miniature golf
     championship.
-  disneyplus_id: 142af74a-1149-493c-ad2b-a283c98db66d
+  disneyplus_id: 553dee8f-bae7-4853-97b3-ec29759c451d
   simpsonsworld_id: 260539459670
   good: true
   guest_stars: ["Michael Bell"]
@@ -78,7 +78,7 @@ episodes:
   writers: ["George Meyer"]
   description: Bart learns the true meaning of Thanksgiving when he runs away from
     home after having an argument with Lisa.
-  disneyplus_id: f4dc6ce1-cb9d-49e3-b4d4-2e5f50549812
+  disneyplus_id: 9cf83e89-718c-4246-99d6-715157011758
   simpsonsworld_id: 260539459701
   good: false
   guest_stars: ["Greg Berg", "Carol Kane"]
@@ -90,7 +90,7 @@ episodes:
   writers: ["Jay Kogen", "Wallace Wolodarsky"]
   description: Bart is determined to leap a gorge on his skateboard after witnessing
     the death defying stunts of a real daredevil.
-  disneyplus_id: 9f790394-88b9-48ac-970c-18d32de46342
+  disneyplus_id: 02bc9dd4-b8a1-4b84-ab15-6d3009a82a15
   simpsonsworld_id: 260539459702
   good: true
   guest_stars: []
@@ -102,7 +102,7 @@ episodes:
   writers: ["John Swartzwelder"]
   description: Marge initiates a protest movement against gratuitous violence on television
     when Maggie begins acting aggressively after viewing Itchy and Scratchy cartoons.
-  disneyplus_id: fd366e91-bcd5-4629-83d9-6c6f6739897c
+  disneyplus_id: 1124de7a-cb65-4ff6-b0cc-7082dd08c899
   simpsonsworld_id: 1094123075920
   good: true
   guest_stars: ["Alex Rocco"]
@@ -114,7 +114,7 @@ episodes:
   writers: ["John Swartzwelder"]
   description: When Mr. Burns hits Bart with his car, Homer is enticed by a disreputable
     lawyer to sue him.
-  disneyplus_id: bf571705-b52b-46ae-a9c1-c88d36672839
+  disneyplus_id: 4dd79aae-51a7-4ec2-bf82-379c8006f7ff
   simpsonsworld_id: 260550723760
   good: true
   guest_stars: ["Phil Hartman"]
@@ -126,7 +126,7 @@ episodes:
   writers: ["Nell Scovell"]
   description: Homer believes he has only twenty-four hours to live after he eats
     an improperly prepared blowfish.
-  disneyplus_id: 28244e58-a5dd-4260-a8be-13e2a34d0ba9
+  disneyplus_id: 35dcc15a-bf5e-4182-b3de-71d3bddc69f1
   simpsonsworld_id: 260548675839
   good: true
   guest_stars: ["Larry King", "George Takei", "Sab Shimono", "Joey Miyashima", "Diane Tanaka"]
@@ -138,7 +138,7 @@ episodes:
   writers: ["Al Jean", "Mike Reiss", "Sam Simon"]
   description: Marge recounts to her children how she and Homer first met and fell
     in love.
-  disneyplus_id: 1fd08344-aa39-42f3-a056-662aa4835f0f
+  disneyplus_id: b4500802-696f-48c0-b0ed-39f11649415d
   simpsonsworld_id: 260549187876
   good: false
   guest_stars: ["Jon Lovitz"]
@@ -150,7 +150,7 @@ episodes:
   writers: ["Steve Pepoon"]
   description: Lisa disapproves when Homer has cable television installed illegally
     into their home.
-  disneyplus_id: fb653641-23b8-4e9b-a547-0d195f78c33c
+  disneyplus_id: cca6b4eb-973a-47be-99c0-4dc920481d04
   simpsonsworld_id: 260820547692
   good: true
   guest_stars: ["Phil Hartman"]
@@ -162,7 +162,7 @@ episodes:
   writers: ["David M. Stern"]
   description: Homer arranges a date between Principal Skinner and Marge's sister,
     Selma.
-  disneyplus_id: ce071635-1151-49b0-9168-eda9b55880fa
+  disneyplus_id: 7b38e358-c147-47d5-a9b1-79d9ff099088
   simpsonsworld_id: 263496771968
   good: true
   guest_stars: []
@@ -174,7 +174,7 @@ episodes:
   writers: ["Jeff Martin"]
   description: Homer locates his long lost half brother Herb and discovers that he
     is rich.
-  disneyplus_id: 78ae94ea-6ac6-4d34-b1a9-031a324f447a
+  disneyplus_id: 0d8baba1-0ff3-40ab-8114-736ee7c00512
   simpsonsworld_id: 1094123587812
   good: false
   guest_stars: ["Danny DeVito"]
@@ -186,7 +186,7 @@ episodes:
   writers: ["Jon Vitti"]
   description: Bart must help train Santa's Little Helper to pass an obedience course
     or Homer will give the dog away.
-  disneyplus_id: ab2e3441-cb90-4cee-ab57-6f20fa1bfdac
+  disneyplus_id: b23892a8-4b16-4d0e-a902-e526877cbcb2
   simpsonsworld_id: 272034883946
   good: true
   guest_stars: ["Tracey Ullman", "Frank Welker"]
@@ -197,7 +197,7 @@ episodes:
   directors: ["David Silverman"]
   writers: ["Jay Kogen", "Wallace Wolodarsky"]
   description: Grampa Simpson falls in love... and inherits a fortune.
-  disneyplus_id: b847307a-cb9d-494a-bb98-12a764168288
+  disneyplus_id: f37b8931-4589-4f56-8b43-d02ba99d71ee
   simpsonsworld_id: 263504963955
   good: false
   guest_stars: ["Audrey Meadows", "Phil Hartman"]
@@ -210,7 +210,7 @@ episodes:
   description: Marge renews her interest in becoming an artist after Homer finds an
     old painting of Ringo Starr in the attic.  Mr. Burns commissions Marge to paint
     a portrait of him.
-  disneyplus_id: 8cf507bf-2b25-45d7-84d4-e3f668a68f37
+  disneyplus_id: 31f4ddf0-af8a-4469-81c9-fe10aff47cde
   simpsonsworld_id: 1094212163883
   good: true
   guest_stars: ["Ringo Starr", "Jon Lovitz"]
@@ -222,7 +222,7 @@ episodes:
   writers:
   description: Lisa develops a crush on her substitute teacher, Mr. Bergstrom.  Bergstrom
     tells Homer he must learn to act as a positive role model for his daughter.
-  disneyplus_id: 33c5ea7a-09ac-4513-b471-29289dbbc1f9
+  disneyplus_id: ffe1f80b-fe09-45d1-9be5-57768493b99b
   simpsonsworld_id: 288011331912
   good: true
   guest_stars: ["Dustin Hoffman"]
@@ -235,7 +235,7 @@ episodes:
   description: Marge insists Homer accompany her for a weekend of marriage counseling
     at a wooded retreat, but Homer takes advantage of the location to attempt to catch
     a legendary catfish.
-  disneyplus_id: ac3d5ea1-e473-4a79-bfaf-a496a79b2a3b
+  disneyplus_id: 70c75f4a-bc8c-4d3d-bc1d-c7996246245c
   simpsonsworld_id: 272040003661
   good: true
   guest_stars: []
@@ -247,7 +247,7 @@ episodes:
   writers:
   description: Bart and his friends pool their money to purchase the first issue of
     "Radioactive Man" comics, but then cannot decide who gets to keep it.
-  disneyplus_id: a1394377-1c23-458d-b91b-18ff12018d47
+  disneyplus_id: 5fc5d318-3c12-4379-b23d-c2e5885091e3
   simpsonsworld_id: 310368835964
   good: true
   guest_stars: ["Cloris Leachman", "Daniel Stern"]
@@ -259,7 +259,7 @@ episodes:
   writers:
   description: Homer expects a generous gift in return when he donates Bart's blood
     to an ailing Mr. Burns.
-  disneyplus_id: cd94c4b6-8f87-4df0-b709-190eb4f84964
+  disneyplus_id: 3018ded6-c4fa-4adf-a10c-3e69557dacf4
   simpsonsworld_id: 272041539932
   good: true
   guest_stars: []
