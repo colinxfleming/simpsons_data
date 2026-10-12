@@ -33,7 +33,7 @@ episodes:
   simpsonsworld_id: null
   good: maybe
   guest_stars: []
-- title: Treehouse Of Horror XXXI
+- title: Treehouse of Horror XXXI
   season: 32
   episode: 4
   release_date: 2020-11-01
@@ -77,7 +77,7 @@ episodes:
   simpsonsworld_id: null
   good: maybe
   guest_stars: ["Ben Platt", "Paul Rudd"]
-- title: The Road To Cincinnati
+- title: The Road to Cincinnati
   season: 32
   episode: 8
   release_date: 2020-11-29
@@ -154,7 +154,7 @@ episodes:
   simpsonsworld_id: null
   good: maybe
   guest_stars: ["Albert Brooks"]
-- title: Do Pizza Bots Dream Of Electric Guitars
+- title: Do Pizza Bots Dream of Electric Guitars
   season: 32
   episode: 15
   release_date: 2021-03-14
@@ -220,7 +220,7 @@ episodes:
   simpsonsworld_id: null
   good: maybe
   guest_stars: ["Werner Herzog", "Nate Silver", "George Stephanopoulos"]
-- title: The Man From G.R.A.M.P.A.
+- title: The Man from G.R.A.M.P.A.
   season: 32
   episode: 21
   release_date: 2021-05-16

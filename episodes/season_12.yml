@@ -33,7 +33,7 @@ episodes:
   simpsonsworld_id: 306934851515
   good: false
   guest_stars: ["Drew Barrymore", "Stephen King", "Joe Mantegna", "Jay Mohr", "Amy Tan", "John Updike"]
-- title: Lisa the Treehugger
+- title: Lisa the Tree Hugger
   season: 12
   episode: 4
   release_date: 2000-11-19
@@ -154,7 +154,7 @@ episodes:
   simpsonsworld_id: 310437443723
   good: true
   guest_stars: ["'N Sync", "Tony Battaglia", "Ben Bledsoe", "Michael \"J\" Horn", "Marc Terenzi"]
-- title: Hungry Hungry Homer
+- title: Hungry, Hungry Homer
   season: 12
   episode: 15
   release_date: 2001-03-04
@@ -165,7 +165,7 @@ episodes:
   simpsonsworld_id: 307850819931
   good: true
   guest_stars: ["Stacy Keach", "Marcia Wallace"]
-- title: Bye Bye Nerdy
+- title: Bye, Bye, Nerdie
   season: 12
   episode: 16
   release_date: 2001-03-11
@@ -198,7 +198,7 @@ episodes:
   simpsonsworld_id: 302842947994
   good: false
   guest_stars: ["Joe Mantegna", "Frankie Muniz"]
-- title: I'm Goin' to Praise Land
+- title: I'm Goin' to Praiseland
   season: 12
   episode: 19
   release_date: 2001-05-06

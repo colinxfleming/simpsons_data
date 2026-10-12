@@ -1,6 +1,6 @@
 ---
 episodes:
-- title: Bart Gets an F
+- title: Bart Gets an "F"
   season: 2
   episode: 1
   release_date: 1990-10-11
@@ -165,7 +165,7 @@ episodes:
   simpsonsworld_id: 1094123587812
   good: false
   guest_stars: ["Danny DeVito"]
-- title: Bart's Dog Gets an F
+- title: Bart's Dog Gets an 'F'
   season: 2
   episode: 16
   release_date: 1991-03-07
@@ -234,7 +234,7 @@ episodes:
 - title: Blood Feud
   season: 2
   episode: 22
-  release_date: 1991-06-11
+  release_date: 1991-07-11
   directors: ["David Silverman"]
   writers: ["George Meyer"]
   description: When Bart donates his blood and saves Mr. Burns, Homer is upset that Burns sends him nothing more than a thank-you note. Homer writes an angry letter in response, then thinks better of it, but discovers to his alarm that Bart has already mailed it. Homer tries to recover the letter, but fails, and a furious Mr. Burns reads the letter and vows revenge.

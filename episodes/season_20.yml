@@ -66,7 +66,7 @@ episodes:
   simpsonsworld_id: 310541891517
   good: false
   guest_stars: ["Merl Reagle", "Will Shortz", "Scott Thompson", "Marcia Wallace"]
-- title: Mypods and Boomsticks
+- title: MyPods and Boomsticks
   season: 20
   episode: 7
   release_date: 2008-11-30
@@ -176,7 +176,7 @@ episodes:
   simpsonsworld_id: 273066051746
   good: maybe
   guest_stars: []
-- title: The Good, The Sad, and The Drugly
+- title: The Good, the Sad and the Drugly
   season: 20
   episode: 17
   release_date: 2009-04-19
@@ -220,7 +220,7 @@ episodes:
   simpsonsworld_id: 273732163923
   good: maybe
   guest_stars: ["Jodie Foster"]
-- title: Coming To Homerica
+- title: Coming to Homerica
   season: 20
   episode: 21
   release_date: 2009-05-17

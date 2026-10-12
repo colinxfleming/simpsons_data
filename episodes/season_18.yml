@@ -22,7 +22,7 @@ episodes:
   simpsonsworld_id: 283202115995
   good: false
   guest_stars: ["Larina Jean Adamson", "The White Stripes"]
-- title: Please Homer, Don't Hammer 'em
+- title: Please Homer, Don't Hammer 'Em
   season: 18
   episode: 3
   release_date: 2006-09-24
@@ -55,7 +55,7 @@ episodes:
   simpsonsworld_id: 283080259896
   good: false
   guest_stars: ["Maurice LaMarche", "Kiefer Sutherland"]
-- title: Moe 'N' a Lisa
+- title: Moe'N'a Lisa
   season: 18
   episode: 6
   release_date: 2006-11-19
@@ -66,7 +66,7 @@ episodes:
   simpsonsworld_id: 307167299594
   good: false
   guest_stars: ["Michael Chabon", "Jonathan Franzen", "J. K. Simmons", "Gore Vidal", "Tom Wolfe"]
-- title: Ice Cream of Margie (With the Light Blue Hair)
+- title: Ice Cream of Margie (with the Light Blue Hair)
   season: 18
   episode: 7
   release_date: 2006-11-26
@@ -110,7 +110,7 @@ episodes:
   simpsonsworld_id: 283764803572
   good: false
   guest_stars: ["Dana Gould", "Maurice LaMarche", "Sab Shimono"]
-- title: Revenge is a Dish Best Served Three Times
+- title: Revenge Is a Dish Best Served Three Times
   season: 18
   episode: 11
   release_date: 2007-01-28
@@ -154,7 +154,7 @@ episodes:
   simpsonsworld_id: 307175491532
   good: false
   guest_stars: ["Peter Bogdanovich", "Andy Dick", "James Patterson", "Meg Ryan", "Stephen Sondheim", "Marcia Wallace"]
-- title: Rome-old and Juli-eh
+- title: Rome-Old and Juli-Eh
   season: 18
   episode: 15
   release_date: 2007-03-11
@@ -209,7 +209,7 @@ episodes:
   simpsonsworld_id: 310491203943
   good: false
   guest_stars: []
-- title: Stop Or My Dog Will Shoot
+- title: Stop! Or My Dog Will Shoot!
   season: 18
   episode: 20
   release_date: 2007-05-13

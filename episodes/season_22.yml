@@ -11,7 +11,7 @@ episodes:
   simpsonsworld_id: 263519811935
   good: maybe
   guest_stars: ["Jemaine Clement", "Ira Glass", "Stephen Hawking", "Bret McKenzie", "Lea Michele", "Cory Monteith", "Amber Riley"]
-- title: Loan-A-Lisa
+- title: Loan-a-Lisa
   season: 22
   episode: 2
   release_date: 2010-10-03
@@ -22,7 +22,7 @@ episodes:
   simpsonsworld_id: 263525955686
   good: maybe
   guest_stars: ["Terry W. Greene", "Chris Hansen", "Muhammad Yunus", "Mark Zuckerberg"]
-- title: Money Bart
+- title: MoneyBart
   season: 22
   episode: 3
   release_date: 2010-10-10
@@ -66,7 +66,7 @@ episodes:
   simpsonsworld_id: 263544387571
   good: maybe
   guest_stars: ["Terry W. Greene"]
-- title: How Munched is that Birdie in the Window?
+- title: How Munched Is That Birdie in the Window?
   season: 22
   episode: 7
   release_date: 2010-11-28
@@ -99,7 +99,7 @@ episodes:
   simpsonsworld_id: 263572035826
   good: false
   guest_stars: ["Jon Hamm", "Joe Mantegna"]
-- title: Moms I'd Like To Forget
+- title: Moms I'd Like to Forget
   season: 22
   episode: 10
   release_date: 2011-01-09
@@ -176,7 +176,7 @@ episodes:
   simpsonsworld_id: 254821955889
   good: maybe
   guest_stars: ["Tommy Chong", "Cheech Marin"]
-- title: Love is a Many Strangled Thing
+- title: Love Is a Many Strangled Thing
   season: 22
   episode: 17
   release_date: 2011-03-27
@@ -198,7 +198,7 @@ episodes:
   simpsonsworld_id: 254866499808
   good: maybe
   guest_stars: ["David Copperfield", "Ricky Jay", "Penn Jillette", "Martin Landau", "Jack McBrayer", "Teller"]
-- title: The Housewives of Fat Tony
+- title: The Real Housewives of Fat Tony
   season: 22
   episode: 19
   release_date: 2011-05-01
@@ -231,7 +231,7 @@ episodes:
   simpsonsworld_id: 254880835816
   good: maybe
   guest_stars: ["Albert Brooks"]
-- title: The Ned-liest Catch
+- title: The Ned-Liest Catch
   season: 22
   episode: 22
   release_date: 2011-05-22

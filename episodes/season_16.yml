@@ -187,7 +187,7 @@ episodes:
   simpsonsworld_id: 264207427808
   good: false
   guest_stars: ["Albert Brooks", "Marcia Wallace"]
-- title: A Star is Torn
+- title: A Star Is Torn
   season: 16
   episode: 18
   release_date: 2005-05-08
@@ -209,7 +209,7 @@ episodes:
   simpsonsworld_id: 264217155650
   good: false
   guest_stars: ["Baha Men", "Los Lobos"]
-- title: The Father, The Son, and The Holy Guest Star
+- title: The Father, the Son, and the Holy Guest Star
   season: 16
   episode: 20
   release_date: 2005-05-15
@@ -220,7 +220,7 @@ episodes:
   simpsonsworld_id: 264455235845
   good: false
   guest_stars: ["Liam Neeson", "Marcia Wallace"]
-- title: Home Away From Homer
+- title: Home Away from Homer
   season: 16
   episode: 21
   release_date: 2005-05-15

@@ -22,7 +22,7 @@ episodes:
   simpsonsworld_id: 221293123693
   good: false
   guest_stars: ["Elvis Costello", "Mick Jagger", "Lenny Kravitz", "Tom Petty", "Keith Richards", "Brian Setzer", "Marcia Wallace"]
-- title: Bart vs. Lisa vs. 3rd Grade
+- title: Bart vs. Lisa vs. the Third Grade
   season: 14
   episode: 3
   release_date: 2002-11-17
@@ -88,7 +88,7 @@ episodes:
   simpsonsworld_id: 221531715548
   good: true
   guest_stars: ["Elliott Gould"]
-- title: The Strong Arms of The Ma
+- title: The Strong Arms of the Ma
   season: 14
   episode: 9
   release_date: 2003-02-02
@@ -132,7 +132,7 @@ episodes:
   simpsonsworld_id: 221698627830
   good: false
   guest_stars: ["George Plimpton"]
-- title: A Star is Born-Again
+- title: A Star Is Born-Again
   season: 14
   episode: 13
   release_date: 2003-03-02
@@ -143,7 +143,7 @@ episodes:
   simpsonsworld_id: 221695043703
   good: false
   guest_stars: ["James L. Brooks", "Helen Fielding", "Gene Merlino", "Marisa Tomei", "Marcia Wallace"]
-- title: Mr. Spritz Goes To Washington
+- title: Mr. Spritz Goes to Washington
   season: 14
   episode: 14
   release_date: 2003-03-09
@@ -165,7 +165,7 @@ episodes:
   simpsonsworld_id: 221696067982
   good: true
   guest_stars: []
-- title: "'Scuse Me While I Miss The Sky"
+- title: '''Scuse Me While I Miss the Sky'
   season: 14
   episode: 16
   release_date: 2003-03-30
