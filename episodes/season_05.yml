@@ -8,7 +8,7 @@ episodes:
   writers: ["Jeff Martin"]
   description: Homer recounts his phenomenal rise to superstardom as a member of the
     barbershop quartet, The Be Sharps.
-  disneyplus_id: 39346307-4dbb-45e8-a765-4ed555bb1e03
+  disneyplus_id: 97b07f43-87f7-4391-b6d1-f62eeb994af9
   simpsonsworld_id: 305674307809
   good: false
   guest_stars:
@@ -19,7 +19,7 @@ episodes:
   directors: ["Rich Moore"]
   writers: ["Jon Vitti"]
   description: Sideshow Bob terrorizes Bart after he is paroled from prison.
-  disneyplus_id: 1640880f-154b-4c5e-94fe-cb86bb7e6970
+  disneyplus_id: 1198c86c-019d-4a4c-b111-f7fa32aca469
   simpsonsworld_id: 305674819788
   good: true
   guest_stars:
@@ -31,7 +31,7 @@ episodes:
   writers: ["Conan O'Brien"]
   description: Homer enrolls in a nuclear physics class at Springfield University
     and convinces three nerdy classmates to help him pull off a prank.
-  disneyplus_id: 166f1ff9-be98-453d-a3cd-6d80943efff3
+  disneyplus_id: 319434f5-d0fc-4e4d-89a5-ce50601402a0
   simpsonsworld_id: 280399427649
   good: true
   guest_stars:
@@ -42,7 +42,7 @@ episodes:
   directors: ["Wes Archer"]
   writers: ["John Swartzwelder"]
   description: The Simpsons find Mr. Burns' long-lost childhood teddy bear.
-  disneyplus_id: 39559a2c-6bec-48fc-b080-be4a7c3e4045
+  disneyplus_id: 9d7f9bc8-5d00-442f-a3b8-34f54be24386
   simpsonsworld_id: 279714371653
   good: true
   guest_stars:
@@ -54,7 +54,7 @@ episodes:
   writers: ["Conan O'Brien", "Greg Daniels", "Dan McGrath", "Bill Oakley", "Josh Weinstein", "Bill Canterbury"]
   description: In a ghoulish gallery, Bart hosts three bloodcurdling tales of Halloween
     horror.
-  disneyplus_id: 33dfa7a1-fe6f-4466-a87d-9bf43a8be7cd
+  disneyplus_id: 930db0aa-62a5-4a3d-8dd0-ef600b5dc516
   simpsonsworld_id: 275206211805
   good: true
   guest_stars:
@@ -66,7 +66,7 @@ episodes:
   writers: ["Bill Canterbury"]
   description: Marge joins divorcee Ruth Powers for a wild night on the town, only
     to discover that her friend is driving a stolen vehicle.
-  disneyplus_id: fd7b6365-b333-487e-8057-66544129d162
+  disneyplus_id: 2805959a-adef-46e9-a247-e4a4e6aa912e
   simpsonsworld_id: 294777411510
   good: true
   guest_stars:
@@ -78,7 +78,7 @@ episodes:
   writers: ["George Meyer"]
   description: The host of a self-help workshop convinces the people of Springfield
     they should emulate Bart's uninhibited personality.
-  disneyplus_id: eed49f33-ea03-401f-9afa-abc8591c290d
+  disneyplus_id: ac6a1521-da17-4ed2-9ef1-63e44b811503
   simpsonsworld_id: 275202627817
   good: true
   guest_stars:
@@ -90,7 +90,7 @@ episodes:
   writers: ["Dan McGrath"]
   description: Bart inadvertently joins the Junior Campers, and during a rafting trip,
     he becomes lost at sea with Homer and Ned Flanders.
-  disneyplus_id: 01cec0e3-c895-478a-ac26-e90a34cf7c32
+  disneyplus_id: edd3685d-9e65-4500-948e-f74f13e8349e
   simpsonsworld_id: 288056387698
   good: true
   guest_stars:
@@ -102,7 +102,7 @@ episodes:
   writers: ["Frank Mula"]
   description: Homer is attracted to a sexy co-worker with a personality identical
     to his own.
-  disneyplus_id: 53840a89-3296-4b9d-bbbd-cb80eba9af3f
+  disneyplus_id: 8b3a1e9c-5501-4d7f-9dab-d2681284d618
   simpsonsworld_id: 275201091952
   good: true
   guest_stars:
@@ -114,7 +114,7 @@ episodes:
   writers: ["Bill Oakley", "Josh Weinstein"]
   description: Marge becomes addicted to playing slot machines after the town of Springfield
     legalizes gambling.
-  disneyplus_id: 129fb45a-e1f4-4f42-9abb-cd1e62a91eda
+  disneyplus_id: 643aa3ba-6a8a-412d-abfb-2f3b25d84cb1
   simpsonsworld_id: 305659459565
   good: true
   guest_stars:
@@ -126,7 +126,7 @@ episodes:
   writers: ["John Swartzwelder"]
   description: Homer takes the law into his own hands after Springfield is victimized
     by a cat burglar.
-  disneyplus_id: 3f69d304-f5b4-4b72-aca9-cbc0395a0ee6
+  disneyplus_id: 25318604-f3ec-4560-806e-d68836bdf3bc
   simpsonsworld_id: 305677891810
   good: true
   guest_stars:
@@ -138,7 +138,7 @@ episodes:
   writers: ["John Swartzwelder"]
   description: Bart becomes an instant celebrity after he ad-libs a line during a
     sketch on the "Krusty the Klown Show."
-  disneyplus_id: 639a5d21-7c16-43fb-87ce-7df70e57177e
+  disneyplus_id: 67a5d4cb-a640-4978-a8c3-03a2832b9fc3
   simpsonsworld_id: 302789187885
   good: true
   guest_stars:
@@ -150,7 +150,7 @@ episodes:
   writers: ["Greg Daniels"]
   description: Apu offers the Simpsons his services as valet after he is fired from
     the Kwik-E-Mart for selling rancid meat.
-  disneyplus_id: ae3d982a-e7ec-43fe-93dd-0884be9d751a
+  disneyplus_id: 4f67af48-7163-43a2-b273-3af670a2eff3
   simpsonsworld_id: 279716931614
   good: false
   guest_stars:
@@ -161,7 +161,7 @@ episodes:
   directors: ["Jeffrey Lynch"]
   writers: ["Bill Oakley", "Josh Weinstein"]
   description: Lisa manufactures her own talking doll for little girls.
-  disneyplus_id: a4153020-a361-466d-8c1e-dfdc32f43501
+  disneyplus_id: bbc99e64-154c-4e2e-a4cc-57bd769cd9cd
   simpsonsworld_id: 274260035625
   good: true
   guest_stars:
@@ -173,7 +173,7 @@ episodes:
   writers: ["David Mirkin"]
   description: NASA scientists train Homer to become the first average American in
     space, with near disastrous results.
-  disneyplus_id: 0743fa0a-ddd3-4591-96f1-1a419e19b30e
+  disneyplus_id: fe31de9a-3bfd-4a39-90ab-71bcf4e26907
   simpsonsworld_id: 275720259883
   good: true
   guest_stars:
@@ -184,7 +184,7 @@ episodes:
   directors: ["Wes Archer"]
   writers: ["David Richardson"]
   description: Flanders is horrified to discover he has become Homer's best friend.
-  disneyplus_id: a7f65f67-17f0-483c-bd70-a15d4050d877
+  disneyplus_id: 4113698a-3b34-4646-8a75-236f9979ef3e
   simpsonsworld_id: 310398019629
   good: true
   guest_stars:
@@ -195,7 +195,7 @@ episodes:
   directors: ["Jim Reardon"]
   writers: ["John Swartzwelder"]
   description: Bart wins a full grown African elephant as part of a radio contest.
-  disneyplus_id: 980ff0ba-e78c-41cf-8e83-5b7a91f4d3c9
+  disneyplus_id: 170dc337-51a7-42b7-84ff-3f54079ffd30
   simpsonsworld_id: 275726403611
   good: true
   guest_stars:
@@ -206,7 +206,7 @@ episodes:
   directors: ["Mark Kirkland"]
   writers: ["Jace Richdale"]
   description: Mr. Burns chooses Bart as the heir to his vast fortune.
-  disneyplus_id: c4e4a495-db5f-4fee-9314-0866330c664b
+  disneyplus_id: 50f3cee0-364f-475c-ae3c-6554bcaf9c57
   simpsonsworld_id: 283747395787
   good: false
   guest_stars:
@@ -218,7 +218,7 @@ episodes:
   writers: ["Bill Oakley", "Josh Weinstein"]
   description: Bart suffers enormous guilt after Skinner is fired from his job as
     school principal.
-  disneyplus_id: bedacca5-03b3-4b55-8fa6-7f542cd53e3a
+  disneyplus_id: 423cb235-0481-4a71-959b-ad3c9f3075aa
   simpsonsworld_id: 274260035741
   good: true
   guest_stars:
@@ -231,7 +231,7 @@ episodes:
   description: Only Bart can clear Mayor Quimby's nephew of an assault charge, but
     he fears that identifying himself as a witness will mean expulsion for skipping
     class.
-  disneyplus_id: b151afad-24f5-457b-9457-26eb53022331
+  disneyplus_id: a5165211-2353-4c85-a322-2acf8da14b61
   simpsonsworld_id: 278796355962
   good: true
   guest_stars:
@@ -243,7 +243,7 @@ episodes:
   writers: ["Bill Oakley", "Josh Weinstein"]
   description: Grampa and Mr. Burns vie for Mrs. Bouvier's hand in marriage.  Bart
     purchases a worthless Itchy and Scratchy animation cell.
-  disneyplus_id: e38cf670-0fdc-4ca8-9095-51296ffc7a16
+  disneyplus_id: 95202804-3bca-4c02-8469-993506d8ccb1
   simpsonsworld_id: 305681987583
   good: true
   guest_stars:
@@ -255,7 +255,7 @@ episodes:
   writers: ["Greg Daniels"]
   description: Marge kicks Homer out of the house after she discovers that he revealed
     her personal secrets to an adult education class.
-  disneyplus_id: e38cf670-0fdc-4ca8-9095-51296ffc7a16
+  disneyplus_id: f398a9ce-1e2b-4bf1-bf22-82679c0532e2
   simpsonsworld_id: 279720003973
   good: true
   guest_stars:
