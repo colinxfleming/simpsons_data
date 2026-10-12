@@ -11134,28 +11134,6 @@
             ]
         },
         {
-            "title": "The Longest Daycare",
-            "season": 25,
-            "episode": 25,
-            "release_date": "2012-07-13",
-            "directors": [
-                "David Silverman"
-            ],
-            "writers": [
-                "James L. Brooks",
-                "Matt Groening",
-                "Al Jean",
-                "David Mirkin",
-                "Michael Price",
-                "Joel H. Cohen"
-            ],
-            "description": "In this Oscar-nominated short from The Simpsons, Maggie must navigate an eventful first day at daycare. When Marge drops her off at the Ayn Rand School for Tots, Maggie is diagnosed with average intelligence. Barred from the scholarly gifted children, she longs to escape from her glue-guzzling classmates. But when a lonely caterpillar befriends her, she makes it her mission to save it from a ruthless butterfly-smashing toddler.",
-            "disneyplus_id": "066a121a-a89a-44a8-9f2d-56b21f0c7241",
-            "simpsonsworld_id": 588949571786,
-            "good": false,
-            "guest_stars": []
-        },
-        {
             "title": "Clown in the Dumps",
             "season": 26,
             "episode": 1,
@@ -16266,23 +16244,24 @@
             ]
         },
         {
-            "title": "The Simpsons in Plusaversary",
+            "title": "The Longest Daycare",
             "season": 99,
             "episode": 2,
-            "release_date": "2021-11-12",
+            "release_date": "2012-07-13",
             "directors": [
                 "David Silverman"
             ],
             "writers": [
-                "Joel H. Cohen",
-                "Jessica Conrad",
+                "James L. Brooks",
+                "Matt Groening",
                 "Al Jean",
-                "Loni Steele Sosthand",
-                "Dan Vebber"
+                "David Mirkin",
+                "Michael Price",
+                "Joel H. Cohen"
             ],
-            "description": "The Simpsons host a Disney+ Day party and everyone is on the list... except Homer. With friends from across the service and music fit for a Disney princess, Plusaversary is Springfield's event of the year.",
-            "disneyplus_id": "3c791468-6f02-4c33-bbff-ee4b54ef8feb",
-            "simpsonsworld_id": null,
+            "description": "In this Oscar-nominated short from The Simpsons, Maggie must navigate an eventful first day at daycare. When Marge drops her off at the Ayn Rand School for Tots, Maggie is diagnosed with average intelligence. Barred from the scholarly gifted children, she longs to escape from her glue-guzzling classmates. But when a lonely caterpillar befriends her, she makes it her mission to save it from a ruthless butterfly-smashing toddler.",
+            "disneyplus_id": "066a121a-a89a-44a8-9f2d-56b21f0c7241",
+            "simpsonsworld_id": 588949571786,
             "good": false,
             "guest_stars": []
         },
@@ -16311,9 +16290,28 @@
             "guest_stars": []
         },
         {
-            "title": "The Good, the Bart, and the Loki",
+            "title": "Maggie Simpson in The Force Awakens from Its Nap",
             "season": 99,
             "episode": 4,
+            "release_date": "2021-05-04",
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Joel H. Cohen",
+                "Al Jean",
+                "Michael Price"
+            ],
+            "description": "In a daycare far, far away... but still in Springfield, Maggie is on an epic quest for her stolen pacifier. Her adventure brings her face-to-face with young Padawans, Sith Lords, familiar droids, Rebel scum, and an ultimate battle against the Dark Side, in this original short celebrating the Star Wars galaxy.",
+            "disneyplus_id": "8ca133cb-d680-45f7-ba51-fc7c92c61db0",
+            "simpsonsworld_id": null,
+            "good": false,
+            "guest_stars": []
+        },
+        {
+            "title": "The Good, the Bart, and the Loki",
+            "season": 99,
+            "episode": 5,
             "release_date": "2021-07-07",
             "directors": [
                 "David Silverman"
@@ -16335,28 +16333,193 @@
             ]
         },
         {
-            "title": "Maggie Simpson in The Force Awakens from Its Nap",
+            "title": "The Simpsons in Plusaversary",
             "season": 99,
-            "episode": 5,
-            "release_date": "2021-05-04",
+            "episode": 6,
+            "release_date": "2021-11-12",
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Joel H. Cohen",
+                "Jessica Conrad",
+                "Al Jean",
+                "Loni Steele Sosthand",
+                "Dan Vebber"
+            ],
+            "description": "The Simpsons host a Disney+ Day party and everyone is on the list... except Homer. With friends from across the service and music fit for a Disney princess, Plusaversary is Springfield's event of the year.",
+            "disneyplus_id": "3c791468-6f02-4c33-bbff-ee4b54ef8feb",
+            "simpsonsworld_id": null,
+            "good": false,
+            "guest_stars": []
+        },
+        {
+            "title": "Te Deseo Lo Mejor",
+            "season": 99,
+            "episode": 7,
+            "release_date": "2021-12-24",
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Al Jean",
+                "Joel H. Cohen",
+                "Ryan Koh",
+                "Christine Nangle"
+            ],
+            "description": "Bad Bunny counsels Homer and Marge in the new music video for his single \"Te Deseo Lo Mejor.\"",
+            "disneyplus_id": "4d935ff3-aa17-4e11-975a-30009a09b359",
+            "simpsonsworld_id": null,
+            "good": false,
+            "guest_stars": [
+                "Bad Bunny"
+            ]
+        },
+        {
+            "title": "When Billie Met Lisa",
+            "season": 99,
+            "episode": 8,
+            "release_date": "2022-04-22",
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Elisabeth Kiernan Averick",
+                "Broti Gupta",
+                "Al Jean",
+                "Cesar Mazariegos",
+                "David Mirkin"
+            ],
+            "description": "While searching for a quiet place to practice her saxophone, Lisa Simpson is discovered by GRAMMY\u00ae Award-winning and chart-topping artists Billie Eilish and Finneas O'Connell. Billie invites Lisa to her studio for a special jam session she'll never forget.",
+            "disneyplus_id": "ea439976-b9b0-4ac6-b79f-77c7b1a709da",
+            "simpsonsworld_id": null,
+            "good": false,
+            "guest_stars": [
+                "Sunkrish Bala",
+                "Billie Eilish",
+                "Finneas O'Connell"
+            ]
+        },
+        {
+            "title": "Welcome to the Club",
+            "season": 99,
+            "episode": 9,
+            "release_date": "2022-09-08",
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "J. Stewart Burns",
+                "Joel H. Cohen",
+                "Al Jean",
+                "Christine Nangle",
+                "Loni Steele Sosthand"
+            ],
+            "description": "It's Disney+ Day and Lisa Simpson has her heart set on the ultimate princess transformation. After meeting some of Disney's most notorious villains, Lisa is surprised to learn being bad just might be more fun.",
+            "disneyplus_id": "1d60097d-e7a1-4fe2-8fe1-038f5f46d709",
+            "simpsonsworld_id": null,
+            "good": false,
+            "guest_stars": [
+                "Tom Hiddleston"
+            ]
+        },
+        {
+            "title": "The Simpsons Meet the Bocellis in Feliz Navidad",
+            "season": 99,
+            "episode": 10,
+            "release_date": "2022-12-15",
             "directors": [
                 "David Silverman"
             ],
             "writers": [
                 "Joel H. Cohen",
                 "Al Jean",
-                "Michael Price"
+                "Ryan Koh",
+                "David Mirkin"
             ],
-            "description": "In a daycare far, far away... but still in Springfield, Maggie is on an epic quest for her stolen pacifier. Her adventure brings her face-to-face with young Padawans, Sith Lords, familiar droids, Rebel scum, and an ultimate battle against the Dark Side, in this original short celebrating the Star Wars galaxy.",
-            "disneyplus_id": "8ca133cb-d680-45f7-ba51-fc7c92c61db0",
+            "description": "This Christmas, Homer surprises Marge with the ultimate gift: an unforgettable performance from Italian opera superstar Andrea Bocelli and his children Matteo and Virginia.",
+            "disneyplus_id": "1dcf7fc2-0989-44eb-992c-938c07a1c26f",
+            "simpsonsworld_id": null,
+            "good": false,
+            "guest_stars": [
+                "Andrea Bocelli",
+                "Matteo Bocelli",
+                "Virginia Bocelli"
+            ]
+        },
+        {
+            "title": "Maggie Simpson in Rogue Not Quite One",
+            "season": 99,
+            "episode": 11,
+            "release_date": "2023-05-04",
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Al Jean",
+                "Ryan Koh",
+                "Loni Steele Sosthand",
+                "Dan Vebber",
+                "Jeff Westbrook"
+            ],
+            "description": "On their way to daycare, Homer loses track of Maggie who hops in Grogu's hovering pram for a hyperspace-hopping adventure across the galaxy. Facing a squadron of Imperial TIE fighters, Maggie brings the battle to Springfield in this epic short celebrating all things Star Wars.",
+            "disneyplus_id": "13c6353b-7794-420c-9a84-831b4943d271",
             "simpsonsworld_id": null,
             "good": false,
             "guest_stars": []
         },
         {
+            "title": "May the 12th Be With You",
+            "season": 99,
+            "episode": 12,
+            "release_date": "2024-05-10",
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "Joel H. Cohen",
+                "Al Jean",
+                "Ryan Koh",
+                "David Mirkin",
+                "Jeff Westbrook"
+            ],
+            "description": "It's Mother's Day and Marge Simpson joins the moms of Disney+ on a special holiday outing that turns into an epic galactic adventure filled with heroes, villains, and Stewie from Family Guy.",
+            "disneyplus_id": "28a4c172-5dda-460f-a7e0-98d29c5b3d7f",
+            "simpsonsworld_id": null,
+            "good": false,
+            "guest_stars": [
+                "Maurice LaMarche",
+                "Seth MacFarlane",
+                "Carolyn Omine"
+            ]
+        },
+        {
+            "title": "The Most Wonderful Time of the Year",
+            "season": 99,
+            "episode": 13,
+            "release_date": "2024-10-11",
+            "directors": [
+                "David Silverman"
+            ],
+            "writers": [
+                "J. Stewart Burns",
+                "Dan Greaney",
+                "Broti Gupta",
+                "Al Jean"
+            ],
+            "description": "Sideshow Bob teams up with the most infamous villains of Disney+ to share the true meaning of the Halloween season. Filled with music, mayhem, and madness, this short from \"The Simpsons\" is simply to die for. Some flashing lights sequences or patterns may affect photosensitive viewers.",
+            "disneyplus_id": "3839790c-c962-4d61-a5f8-ba2350a83f47",
+            "simpsonsworld_id": null,
+            "good": false,
+            "guest_stars": [
+                "Kelsey Grammer",
+                "Maurice LaMarche"
+            ]
+        },
+        {
             "title": "O C'mon All Ye Faithful",
             "season": 99,
-            "episode": 6,
+            "episode": 14,
             "release_date": "2024-12-17",
             "directors": [
                 "Debbie Bruce Mahan",
@@ -16379,7 +16542,7 @@
         {
             "title": "The Past and the Furious",
             "season": 99,
-            "episode": 7,
+            "episode": 15,
             "release_date": "2025-02-12",
             "directors": [
                 "Mike Frank Polcino"
@@ -16398,7 +16561,7 @@
         {
             "title": "Yellow Planet",
             "season": 99,
-            "episode": 8,
+            "episode": 16,
             "release_date": "2025-04-22",
             "directors": [
                 "Timothy Bailey"
@@ -16415,64 +16578,80 @@
             ]
         },
         {
-            "title": "The Simpsons",
+            "title": "The Simpsons Yule Log",
             "season": 99,
-            "episode": 9,
-            "release_date": "2024-12-17",
+            "episode": 17,
+            "release_date": "2025-12-22",
+            "directors": [],
+            "writers": [],
+            "description": "D'oh D'oh D'oh! It's the holiday season in Springfield, so grab a Flaming Moe (egg nog) and cozy up in front of a fake fireplace with your favorite TV family. Mmm... holiday nostalgia.",
+            "disneyplus_id": "e04cc982-370f-4b16-96c4-73218b8bb168",
+            "simpsonsworld_id": null,
+            "good": false,
+            "guest_stars": []
+        },
+        {
+            "title": "Extreme Makeover: Homer Edition",
+            "season": 99,
+            "episode": 18,
+            "release_date": "2026-06-17",
             "directors": [
-                "Debbie Bruce Mahan",
+                "Matthew Nastuk",
+                "Timothy Bailey"
+            ],
+            "writers": [
+                "Michael Price",
+                "Nick Dahan"
+            ],
+            "description": "In this Disney+ exclusive double-episode, Homer and Marge's fun couples' date night goes off the rails when Marge learns Homer left the kids unsupervised with only the doorbell camera as a babysitter. Frustrated with her imperfect husband, a tipsy Marge stirs up a trilogy of fantasies of a different Homer. The special guest stars Betty Gilpin, with musical guests Laufey, and Tegan and Sara.",
+            "disneyplus_id": "1173a9d5-2521-4f37-b6a1-cddbd20fb393",
+            "simpsonsworld_id": null,
+            "good": false,
+            "guest_stars": [
+                "Betty Gilpin",
+                "Jon Hamm",
+                "Laufey",
+                "Tegan and Sara"
+            ]
+        },
+        {
+            "title": "Simpsley",
+            "season": 99,
+            "episode": 19,
+            "release_date": "2026-07-03",
+            "directors": [
+                "Debbie Bruce Mahan"
+            ],
+            "writers": [
+                "Cesar Mazariegos"
+            ],
+            "description": "When penniless con-artist Marge Bouvier is sent to Italy to convince wealthy sap Seymour Skinner to come home, she's tempted by the trappings of his affluent lifestyle. But there's a big fat fly in the ointment: Skinners' clingy, dim-witted mooch of a houseguest, Homer Simpsley. Lies, lust, and Italian lira abound in this Disney+ exclusive Simpsons noir.",
+            "disneyplus_id": "bc7b17f1-bf0b-46f8-8654-d67354c6c268",
+            "simpsonsworld_id": null,
+            "good": false,
+            "guest_stars": []
+        },
+        {
+            "title": "Yellow Mirror",
+            "season": 99,
+            "episode": 20,
+            "release_date": "2026-08-26",
+            "directors": [
                 "Matthew Faughnan"
             ],
             "writers": [
-                "Carolyn Omine"
+                "Carolyn Omine",
+                "Kai Omine"
             ],
-            "description": "Celebrate the holidays in Springfield with the first ever Simpsons double-episode, streaming exclusively on Disney+. When famed British mentalist Derren Brown arrives in Springfield for a holiday experiment, things go ho-ho-horribly awry, as Homer gets hypnotized and believes he is Santa Claus. A cheery chain-reaction is set off throughout the town, causing everyone to question what they believe and to explore the meaning of \"miracle.\" Featuring musical performances by Patti LaBelle and Pentatonix, this holiday special event marks the 35th anniversary of The Simpsons original Christmas special, \"Simpsons Roasting on an Open Fire.\"",
-            "disneyplus_id": "ed114092-e308-46da-8a7c-04272cce1e45",
+            "description": "A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre in this Disney+ exclusive episode.",
+            "disneyplus_id": "5acb669f-c090-4b00-8dfd-36710909ee1d",
             "simpsonsworld_id": null,
             "good": false,
             "guest_stars": [
-                "Derren Brown",
-                "Patti LaBelle",
-                "Pentatonix",
-                "Kara Talve"
-            ]
-        },
-        {
-            "title": "The Simpsons",
-            "season": 99,
-            "episode": 10,
-            "release_date": "2025-02-12",
-            "directors": [
-                "Mike Frank Polcino"
-            ],
-            "writers": [
-                "Rob LaZebnik"
-            ],
-            "description": "In this Disney+ exclusive episode of The Simpsons, Lisa struggles with Springfield's barren landscape and is transported back in time to 1923. There, she discovers that the Springfield Mini Moose, once a keystone species, were driven to extinction in 1925, leading to the town's environmental collapse. Lisa teams up with a young Monty Burns to protect the moose and restore balance to the ecosystem, but her actions unintentionally help shape Burns into the ruthless tycoon he becomes.",
-            "disneyplus_id": "c27f4ec6-3cf9-485c-9b40-9f0d0fba639d",
-            "simpsonsworld_id": null,
-            "good": false,
-            "guest_stars": [
-                "Joseph Gordon-Levitt"
-            ]
-        },
-        {
-            "title": "The Simpsons",
-            "season": 99,
-            "episode": 11,
-            "release_date": "2025-04-22",
-            "directors": [
-                "Timothy Bailey"
-            ],
-            "writers": [
-                "J. Stewart Burns"
-            ],
-            "description": "In this Disney+ exclusive episode of The Simpsons, the family is reimagined as animals in a nature mockumentary. Narrated in the style of National Geographic, the episode follows Homer and Marge as whales from different species drawn together by instinct, Bart as a newly hatched iguana fighting to survive against relentless predators, and Lisa as a finch leading her flock toward innovation. As each character faces the challenges of the natural world, familiar faces from Springfield appear in unexpected ways, bringing a fresh perspective to the struggle for survival in the wild.",
-            "disneyplus_id": "7624fc2b-178e-460c-ab85-9af4ced2e510",
-            "simpsonsworld_id": null,
-            "good": false,
-            "guest_stars": [
-                "Hugh Bonneville"
+                "Patti Harrison",
+                "Demi Moore",
+                "Kai Omine",
+                "David Silverman"
             ]
         }
     ]
