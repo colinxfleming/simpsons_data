@@ -9,7 +9,7 @@ episodes:
   description: On Halloween... Flanders can predict when people will die; in Victorian
     London, Lisa and Bart hunt for a killer; the Simpsons take a fantastic voyage
     after Mr. Burns swallows a miniaturized Maggie.
-  disneyplus_id:
+  disneyplus_id: c429b0e4-1b04-412a-8a91-cfc895957778
   simpsonsworld_id: 256741955834
   good: true
   guest_stars: []
@@ -22,7 +22,7 @@ episodes:
   description: Marge enters a bakeoff competition, but ends up sabotaging the other
     entries; Bart decides to live the life of a swinger after discovering Playdude
     magazine.
-  disneyplus_id:
+  disneyplus_id: f9055ee7-d0ce-4d6b-8003-603f7119a500
   simpsonsworld_id: 257840195722
   good: false
   guest_stars: ["Thomas Pynchon", "James Caan"]
@@ -35,7 +35,7 @@ episodes:
   description: Lisa becomes self-conscious about her weight after kids at school make
     fun of her posterior;  Marge takes bully Nelson Muntz under her wing ... much
     to Bart's horror.
-  disneyplus_id:
+  disneyplus_id: b78a5b3e-131e-4487-b343-2bb35b1a9fca
   simpsonsworld_id: 256764995911
   good: false
   guest_stars: []
@@ -48,7 +48,7 @@ episodes:
   description: Marge wonders if she made the right choices in life after she encounters
     a successful high school classmate who has traveled the world as a television
     news reporter.
-  disneyplus_id:
+  disneyplus_id: b517fdd3-3189-4110-9917-e648c31d5bd3
   simpsonsworld_id: 256753731544
   good: false
   guest_stars: ["Kim Cattrall"]
@@ -60,7 +60,7 @@ episodes:
   writers: ["Joel H. Cohen"]
   description: Homer builds a nuclear reactor for Lisa's science project; Bart makes
     money creating his own line of t-shirts.
-  disneyplus_id:
+  disneyplus_id: 09381a61-ed4c-452c-95f1-e36ef5e6ae5c
   simpsonsworld_id: 256759363799
   good: false
   guest_stars: ["Eric Idle"]
@@ -72,7 +72,7 @@ episodes:
   writers: ["Marc Wilmore"]
   description: Homer and Grampa smuggle drugs out of Canada after Mr. Burns terminates
     his company's employee prescription drug program.
-  disneyplus_id:
+  disneyplus_id: ae268e71-20aa-49d3-87f7-d4f12ec2a848
   simpsonsworld_id: 1094235715818
   good: false
   guest_stars: []
@@ -85,7 +85,7 @@ episodes:
   description: Homer mortgages his house to save Moe's bar, but Marge ends up taking
     control of the business and spends so much time with Moe that Homer fears his
     marriage is in trouble.
-  disneyplus_id:
+  disneyplus_id: 3553ae10-e608-47ba-9b2a-570edc31272d
   simpsonsworld_id: 256807491582
   good: false
   guest_stars: []
@@ -98,7 +98,7 @@ episodes:
   description: After teaching famous athletes some victory dance moves, Homer is chosen
     to produce the Super Bowl half-time show; Flanders makes a movie featuring violent
     reenactments of biblical events.
-  disneyplus_id:
+  disneyplus_id: 7afae618-eda9-4d62-b319-5e1549330665
   simpsonsworld_id: 256813635887
   good: false
   guest_stars: ["Tom Brady", "LeBron James", "Michelle Kwan", "Yao Ming", "Warren Sapp"]
@@ -110,7 +110,7 @@ episodes:
   writers: ["Matt Selman"]
   description: After sneaking off to a rap concert, Bart fakes his own kidnapping
     and inadvertently implicates Milhouse's father in the 'crime.'
-  disneyplus_id:
+  disneyplus_id: 8f461ce8-913e-40cb-8459-21759162c436
   simpsonsworld_id: 256798275935
   good: false
   guest_stars: ["50 Cent", "Dana Gould"]
@@ -123,7 +123,7 @@ episodes:
   description: When tourists shun Springfield, the town legalizes gay marriage in
     hopes of reversing the dire economic slowdown - and Homer makes money by becoming
     an ordained minister.
-  disneyplus_id:
+  disneyplus_id: 6f65b25b-f866-4ab6-81c5-ae962d9ca2c8
   simpsonsworld_id: 256822339660
   good: false
   guest_stars: []
@@ -135,7 +135,7 @@ episodes:
   writers: ["Jeff Westbrook"]
   description: After Bart torments his sister during a school field trip, Lisa gets
     a restraining order; Homer takes a job as a greeter at a local mega-store.
-  disneyplus_id:
+  disneyplus_id: 3ca17e3f-266c-41bf-a238-23d01ca8fe78
   simpsonsworld_id: 256825923849
   good: false
   guest_stars: ["Gary Busey", "Jane Maczmarek"]
@@ -147,7 +147,7 @@ episodes:
   writers: ["Dana Gould"]
   description: Homer pretends to be Selma's husband when Selma travels to China to
     adopt a baby.
-  disneyplus_id:
+  disneyplus_id: 0691785f-6390-4530-9df1-ed232c34a735
   simpsonsworld_id: 264432707575
   good: false
   guest_stars: ["Robert Wagner", "Lucy Liu"]
@@ -159,7 +159,7 @@ episodes:
   writers: ["Tim Long"]
   description: Bart and Lisa attempt to save Homer and Marge's marriage after Homer
     spends the family's savings on a recreational vehicle.
-  disneyplus_id:
+  disneyplus_id: fefe91f7-3f0e-4e9d-8845-971446735b7e
   simpsonsworld_id: 264432707841
   good: false
   guest_stars: []
@@ -171,7 +171,7 @@ episodes:
   writers: ["Bill Odenkirk"]
   description: Homer becomes a prison snitch after he's convicted of breaking an outdated
     law; Lisa and Bart discover that Snowball II has a secret life.
-  disneyplus_id:
+  disneyplus_id: ab7739e8-d519-459f-9793-f3ea610c0fcf
   simpsonsworld_id: 260844611804
   good: true
   guest_stars: ["Frank Gehry", "Charles Napier", "Joe Mantegna"]
@@ -184,7 +184,7 @@ episodes:
   description: Using Professor Frink's astrological projection machine, Bart and Lisa
     peer into the future, where Bart breaks Lisa's heart by taking away her scholarship
     to Yale.
-  disneyplus_id:
+  disneyplus_id: 39b6efe6-0ee6-44fe-b4df-6b5f8e326486
   simpsonsworld_id: 260841027999
   good: false
   guest_stars: ["Amy Poehler", "John DiMaggio"]
@@ -197,7 +197,7 @@ episodes:
   description: Homer ends up in a mental institution after Marge grows convinced the
     contractor he befriended is a figment of his imagination; Marge allows Santa's
     Little Helper to stay at Grampa's retirement home.
-  disneyplus_id:
+  disneyplus_id: 9f72e0ec-2169-4d25-a628-0f0debd78649
   simpsonsworld_id: 260835395771
   good: false
   guest_stars: ["Stephen Hawking", "Ray Romano"]
@@ -209,7 +209,7 @@ episodes:
   writers: ["Ian Maxtone-Graham"]
   description: Bart has a heart attack after he becomes addicted to junk food; the
     Simpsons turn the house into a youth hostel, which is soon overrun by German backpackers.
-  disneyplus_id:
+  disneyplus_id: 7774ac95-799b-45b3-ac70-d51f28913b91
   simpsonsworld_id: 264207427808
   good: false
   guest_stars: ["Albert Brooks"]
@@ -221,7 +221,7 @@ episodes:
   writers: ["Carolyn Omine"]
   description: Homer behaves like a domineering stage mom after Lisa achieves fame
     by appearing in a singing competition on The Krusty the Clown Show.
-  disneyplus_id:
+  disneyplus_id: 52b10646-d3fe-48e3-aac6-c36eb43bd39a
   simpsonsworld_id: 264212035982
   good: false
   guest_stars: ["Fantasia Barrino"]
@@ -233,7 +233,7 @@ episodes:
   writers: ["Don Payne"]
   description: Homer is declared a prophet after he convinces everyone in town that
     the end of the world is at hand.
-  disneyplus_id:
+  disneyplus_id: 44f42fdc-72ea-4485-a962-7037b22ed2dd
   simpsonsworld_id: 264217155650
   good: false
   guest_stars:
@@ -245,7 +245,7 @@ episodes:
   writers: ["Matt Warburton"]
   description: After Bart gets expelled, he's enrolled in Catholic school, where he
     befriends a priest who wants to convert him and Homer to Catholicism.
-  disneyplus_id:
+  disneyplus_id: 941112e9-dc05-4a56-b712-5c6e285ed4a1
   simpsonsworld_id: 264455235845
   good: false
   guest_stars: ["Liam Neeson"]
@@ -258,7 +258,7 @@ episodes:
   description: Flanders feels like a fool after sorority girls run an adult Web site
     from his house without his knowledge, so he and the boys move away from Springfield...
     to a town where everyone looks like a Hummel figurine.
-  disneyplus_id:
+  disneyplus_id: 7babab57-edff-4cb9-a428-b292eb5a8dd6
   simpsonsworld_id: 264560707993
   good: false
   guest_stars: ["Jason Bateman"]

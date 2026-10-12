@@ -8,7 +8,7 @@ episodes:
   writers: ["Mimi Pond"]
   description: Homer decides to gamble on a "hunch" at the dog track when his annual
     Christmas bonus is canceled.
-  disneyplus_id: 79529cd0-f1cf-4eec-8b1d-ea1e1b76043b
+  disneyplus_id: ffb14e5a-38db-4522-a559-3cfa52bcf4df
   simpsonsworld_id: 273376835817
   good: false
   guest_stars: []
@@ -20,7 +20,7 @@ episodes:
   writers: ["Jon Vitti"]
   description: Bart is believed to be a genius after he switches I.Q. tests with brainy
     Martin Prince.
-  disneyplus_id: 250ca502-751e-4b37-a465-f8b518d76ced
+  disneyplus_id: 425579ff-353b-4de6-969c-b942402a4496
   simpsonsworld_id: 283744835990
   good: false
   guest_stars: []
@@ -32,7 +32,7 @@ episodes:
   writers: ["Jay Kogen", "Wallace Wolodarsky"]
   description: Fired from his job at the Nuclear Power Plant, Homer decides to embark
     on a campaign to make all of Springfield safer.
-  disneyplus_id: 0e8e7f27-0ab2-495f-8254-d99d3c53ce4f
+  disneyplus_id: b922e442-278f-41a8-b9f8-bd750f3f0e16
   simpsonsworld_id: 273381443699
   good: false
   guest_stars: ["Sam McMurray", "Christopher Collins"]
@@ -45,7 +45,7 @@ episodes:
   description: After attending the annual company picnic, Homer becomes jealous of
     fellow employees with 'normal' families.  He decides to enlist the aid of psychologist
     Marvin Monroe to treat his wife and children.
-  disneyplus_id: 5e837a36-5db0-451c-82d3-0cca1490f784
+  disneyplus_id: 6539c3cc-235f-4c80-b074-07eac29261fb
   simpsonsworld_id: 273392195780
   good: true
   guest_stars: []
@@ -57,7 +57,7 @@ episodes:
   writers: ["John Swartzwelder"]
   description: Grandpa Simpson aids Bart in his war against a school bully and his
     gang.
-  disneyplus_id: 051c32fc-0d9a-4bee-a960-9c6ab85eccdb
+  disneyplus_id: 84a26dec-4825-4a8d-aa15-715f033b6afc
   simpsonsworld_id: 300934723994
   good: false
   guest_stars: []
@@ -68,7 +68,7 @@ episodes:
   directors: ["Wesley Archer"]
   writers: ["Al Jean", "Mike Reiss"]
   description: Lisa befriends a saxophone player when she develops a case of the blues.
-  disneyplus_id: d7502c3a-a254-451a-bdc0-b57e67b1ace4
+  disneyplus_id: 642f0a83-1778-4cf6-8c16-a57067ad30cb
   simpsonsworld_id: 273391683535
   good: false
   guest_stars: ["Ron Taylor", "Susan Blu", "Miriam Flynn"]
@@ -80,7 +80,7 @@ episodes:
   writers: ["John Swartzwelder"]
   description: Homer is mistaken for Bigfoot when he takes his family on a trip into
     the wilderness in their new camper.
-  disneyplus_id: 8d4aad23-2222-4980-af9b-729bc8159898
+  disneyplus_id: b299a1fa-4cb5-4490-a981-b8e866373b0e
   simpsonsworld_id: 273396803837
   good: false
   guest_stars: ["Albert Brooks"]
@@ -92,7 +92,7 @@ episodes:
   writers: ["Al Jean", "Mike Reiss", "Sam Simon", "Matt Groening"]
   description: Bart attempts to impress his new friends by vandalizing a statue of
     the town's founding father, Jebediah Springfield.
-  disneyplus_id: 8868eddb-224d-4df4-93c2-145abd60270d
+  disneyplus_id: d19b515c-af5a-4fd7-9275-6dea2a37acb4
   simpsonsworld_id: 305663555641
   good: true
   guest_stars: []
@@ -104,7 +104,7 @@ episodes:
   writers: ["John Swartzwelder"]
   description: Marge contemplates having an affair with a local womanizer after Homer
     selfishly buys her a bowling ball for her birthday.
-  disneyplus_id: 6303b4c8-5e65-46a0-bd51-6460bba86e8e
+  disneyplus_id: bfbb4120-f1e8-4793-8626-1967d698474a
   simpsonsworld_id: 280384579592
   good: false
   guest_stars: ["Albert Brooks"]
@@ -117,7 +117,7 @@ episodes:
   description: Bart photographs Homer with belly-dancer Princess Kashmir.  Marge will
     only forgive her husband when he proves to Bart that all women are not merely
     sexual objects.
-  disneyplus_id: 084078a6-9f7e-4468-8b33-48ce7fb5c7c0
+  disneyplus_id: be633e7d-70a6-49ff-8f92-7be7ea234917
   simpsonsworld_id: 275197507879
   good: false
   guest_stars: ["Sam McMurray"]
@@ -129,7 +129,7 @@ episodes:
   writers: ["George Meyer", "Sam Simon", "John Swartzwelder", "Jon Vitti"]
   description: To Homer's delight, Bart is sent to France for the summer as part of
     a student exchange program.
-  disneyplus_id: 01937c40-fe95-4e8f-aa0d-3933ee3ba378
+  disneyplus_id: 93f41b46-bb3b-44eb-a512-f06f1173f85d
   simpsonsworld_id: 306382403766
   good: true
   guest_stars: ["Christian Coffinet"]
@@ -141,7 +141,7 @@ episodes:
   writers: ["Jay Kogen", "Wallace Wolodarsky"]
   description: When Homer positively identifies Krusty the Clown as an armed robber,
     Bart attempts to clear his idol's name.
-  disneyplus_id: 829bc530-f7b3-459d-bac1-dc92672c9138
+  disneyplus_id: fbb3ac7f-c929-4a3b-b59d-496abdab6bf4
   simpsonsworld_id: 288019523914
   good: true
   guest_stars: ["Kelsey Grammer"]
@@ -153,7 +153,7 @@ episodes:
   writers: ["Matt Groening", "Sam Simon"]
   description: Marge and Homer unwittingly leave their children in the care of a villainous
     babysitter when they attempt to rekindle their marriage.
-  disneyplus_id: 332f91c5-2de7-40d2-ac02-9de76820f4f6
+  disneyplus_id: f68e6cce-9582-44d6-9f25-07fa7ddf7dd8
   simpsonsworld_id: 274504771647
   good: false
   guest_stars: ["Penny Marshall", "Hank Azaria", "Christoper Collins", "June Foray", "Paul Wilson"]

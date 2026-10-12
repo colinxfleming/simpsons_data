@@ -7,7 +7,7 @@ episodes:
   directors: ['Bob Anderson']
   writers: ['Stephanie Gillis']
   description: Bart's cover for his lie backfires.
-  disneyplus_id: 3abea375-9c5d-4b5d-8e7f-16818897c8a5
+  disneyplus_id: 75da373e-6af9-473a-a745-2bf6a711747c
   simpsonsworld_id: null
   good: false
   guest_stars:
@@ -18,7 +18,7 @@ episodes:
   directors: ['Steven Dean Moore']
   writers: ['Renee Ridgeley', 'Matt Selman']
   description: Homer and Marge go on an amazing race type show where they are eliminated immediately.
-  disneyplus_id: 7c3f3732-8a93-4a58-ab07-f658a8b5ff65
+  disneyplus_id: ea21c090-f915-4625-b5a4-d2e068644e10
   simpsonsworld_id: null
   good: false
   guest_stars:
@@ -29,7 +29,7 @@ episodes:
   directors: ['Rob Oliver']
   writers: ['Dan Castellaneta', 'Deb Lacusta', 'Vince Waldron']
   description: The Simpsons explore three ways to get into heaven.
-  disneyplus_id: b1053f70-abf6-4fb3-a55b-6413e7cd45f8
+  disneyplus_id: 37df3a07-1d18-49b9-98e0-199ae187c758
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -40,7 +40,7 @@ episodes:
   directors: ['Matthew Faughnan']
   writers: ['Joel H. Cohen']
   description: The Simpsons battle spores from space and Grampa goes to a Jurassic Park-style senior home.
-  disneyplus_id: 0b0b2d05-b113-4d25-b232-849b47bfe6cd
+  disneyplus_id: 2a843004-24b9-495c-84aa-9fe95761d405
   simpsonsworld_id: null
   good: false
   guest_stars:
@@ -51,7 +51,7 @@ episodes:
   directors: ['Timothy Bailey']
   writers: ['Rob LaZebnik']
   description: Marge and Homer work together at a cool tech company.
-  disneyplus_id: 00a1d721-7669-4ee2-8da5-799f84ae2d90
+  disneyplus_id: 071b06da-2137-485d-a8c9-0d7f59b29e22
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -62,7 +62,7 @@ episodes:
   directors: ['Matthew Nastuk']
   writers: ['Michael Ferris']
   description: Bart orders a Russian bride for Moe. She turns Moe's life around, and he falls in love.
-  disneyplus_id: c96aa7e3-f5d8-4b8e-aee2-a7c23cee6c55
+  disneyplus_id: 0d8803ee-b0cf-4e72-95cf-cdc0d901941e
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -73,7 +73,7 @@ episodes:
   directors: ['Michael Polcino']
   writers: ['Carolyn Omine', 'Robin Sayers']
   description: Marge becomes a successful Tupperware saleswoman because customers think she's a man in drag.
-  disneyplus_id: 84953856-8319-4600-8072-799c2e1e32c4
+  disneyplus_id: 9640b024-3c8b-436f-b294-620f21ee87c8
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -84,7 +84,7 @@ episodes:
   directors: ['Matthew Faughnan']
   writers: ['Ryan Koh']
   description: Homer becomes an internet recapper while Krusty joins the circus.
-  disneyplus_id: b5aeb3d3-3cc3-4e91-a32a-1b33b683b4f9
+  disneyplus_id: 46e47b8b-d396-40d7-bd9a-d0be34d1f0fe
   simpsonsworld_id: null
   good: false
   guest_stars:
@@ -95,7 +95,7 @@ episodes:
   directors: ['Steven Dean Moore']
   writers: ['Al Jean']
   description: Lisa reads "To Kill a Mockingbird" and observes similarities between her dad and Atticus Finch.
-  disneyplus_id: 057a8476-019d-4196-8601-38ba7aa0fcad
+  disneyplus_id: c2e87774-50de-4efd-8a20-38796d6ec13a
   simpsonsworld_id: null
   good: false
   guest_stars:
@@ -106,7 +106,7 @@ episodes:
   directors: ['Lance Kramer']
   writers: ['Jeff Westbrook', 'John Frink', 'Joel H. Cohen']
   description: The Simpsons try to spend a relaxing Florida Christmas.
-  disneyplus_id: 6676b4c4-75d0-4d1f-8384-e5da1fb4ec2c
+  disneyplus_id: 2cb01074-e67f-4056-92d8-88ae04d069a8
   simpsonsworld_id: null
   good: false
   guest_stars:
@@ -117,7 +117,7 @@ episodes:
   directors: ['Rob Oliver']
   writers: ['Michael Price']
   description: Grampa learns a startling secret from his past. It takes him to Texas to find a long-lost life.
-  disneyplus_id: 9595ca10-574c-4a98-9d06-d3a3d9cfa9ff
+  disneyplus_id: fe00c56e-4605-4c54-86ae-95acdff97476
   simpsonsworld_id: null
   good: true
   guest_stars:
@@ -128,7 +128,7 @@ episodes:
   directors: ['Chris Clements']
   writers: ['Joel H. Cohen']
   description: Lisa discovers the ideal family... and lies about her own.
-  disneyplus_id: 381dd896-c62b-418d-8139-9901022e8c7b
+  disneyplus_id: b0e8c490-1524-419a-8e46-916ab0881bcf
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -139,7 +139,7 @@ episodes:
   directors: ['Matthew Nastuk']
   writers: ['Jane Becker']
   description: When Homer breaks a promise and binge watches a show without Marge, she is more furious than ever.
-  disneyplus_id: 5e947ef5-874d-4e6d-8d7b-9c0f6418c95f
+  disneyplus_id: b4df0712-0464-4ea1-87b9-8da177d6cfa2
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -150,7 +150,7 @@ episodes:
   directors: ['Timothy Bailey']
   writers: ['Matt Selman']
   description: On a podcast Krusty discusses a lost film he made in the ‘80s.
-  disneyplus_id: d3a79e2f-0900-427d-8a99-aed99216af5c
+  disneyplus_id: aea5b264-8c6e-47db-8b42-0a4ba1706571
   simpsonsworld_id: null
   good: false
   guest_stars:
@@ -161,7 +161,7 @@ episodes:
   directors: ['Mark Kirkland']
   writers: ['Rob LaZebnik', 'Brian Kelley', 'Dan Vebber']
   description: Homer goes on a joyride and is threatened with prison by Comic Book Guy.
-  disneyplus_id: cc74c61c-b33f-487b-b9bf-c78e794aadef
+  disneyplus_id: 5932553b-bdb2-4b9e-ac98-a474bfc863fe
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -172,7 +172,7 @@ episodes:
   directors: ['Steven Dean Moore']
   writers: ['Jeff Westbrook']
   description: Homer gets an inguinal hernia which comes to life and tells him to take it easy.
-  disneyplus_id: 7cfaf421-8641-4f8a-bf33-b5aa8ce65e8b
+  disneyplus_id: 8313809f-268c-404e-abf6-a09c3b361cc2
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -183,7 +183,7 @@ episodes:
   directors: ['Rob Oliver']
   writers: ['Rob LaZebnik']
   description: Bart earns money in a video game competition, and Homer becomes his coach.
-  disneyplus_id: 54f1162d-019a-4731-a951-9f0db6abb64d
+  disneyplus_id: 5cc89f2f-c9ee-4fbf-9e32-a90bcbc8b653
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -194,7 +194,7 @@ episodes:
   directors: ['Chris Clements']
   writers: ['Megan Amram']
   description: Bart is upset to learn there is a new, all-girl version of Itchy and Scratchy.
-  disneyplus_id: 8b656b44-85db-4ecd-bae5-a3258eb8e9f6
+  disneyplus_id: dde3348d-88e0-43d2-a182-c86b21f6ed50
   simpsonsworld_id: null
   good: false
   guest_stars:
@@ -205,7 +205,7 @@ episodes:
   directors: ['Jennifer Moeller']
   writers: ['Nancy Cartwright']
   description: Lisa joins an advanced youth orchestra in Capital City, throwing the family’s lives into havoc.
-  disneyplus_id: df2fda5d-4585-424a-a2d5-35a4a5178067
+  disneyplus_id: db78ac4a-5ab7-4c39-b6ff-cb59318b1523
   simpsonsworld_id: null
   good: true
   guest_stars:
@@ -216,7 +216,7 @@ episodes:
   directors: ['Michael Polcino']
   writers: ['Jeff Martin', 'Jenna Martin']
   description: Marge becomes director of a local theater production.
-  disneyplus_id: 1178d9bf-9372-4847-aee2-66e2b7aa84ad
+  disneyplus_id: 516e492e-a924-40ff-ae4e-d23b823f66e2
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -227,7 +227,7 @@ episodes:
   directors: ['Matthew Nastuk']
   writers: ['Tim Long', 'Miranda Thompson']
   description: Lisa goes to Canada and refuses to leave. A desperate Marge tries to get her back.
-  disneyplus_id: 1dd944b3-cda9-4ae7-8bb9-7391e793104e
+  disneyplus_id: b9ad416c-8a62-4ece-aa0b-222949b03a24
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -238,7 +238,7 @@ episodes:
   directors: ['Steven Dean Moore']
   writers: ['Brian Kelley']
   description: $600 theft rocks the Simpson home. A local TV crime show attempts to crack it to no avail.
-  disneyplus_id: 106f5152-8b8a-497c-a823-b10e809f717e
+  disneyplus_id: 4bfe9a07-377e-4f75-a18f-48c8d6e2acc0
   simpsonsworld_id: null
   good: false
   guest_stars:
@@ -249,7 +249,7 @@ episodes:
   directors: ['Matthew Faughnan']
   writers: ['Megan Amram']
   description: Marge sells crystals and makes a fortune.
-  disneyplus_id: 553af900-6995-420a-8230-61ae64ca9c9a
+  disneyplus_id: 2443582d-7871-4182-ac09-5ad0ba4241f0
   simpsonsworld_id: null
   good: false
   guest_stars:
