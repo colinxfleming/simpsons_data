@@ -8,7 +8,7 @@ episodes:
   writers:
   description: In a world of magic, Marge's mother is transformed into an Ice Walker
     and must rely on Lisa to use magic to help Homer afford the cure.
-  disneyplus_id: 62eb0b5e-cc71-44d4-9179-4fc9709badc1
+  disneyplus_id: 3d01352c-298a-4989-b731-037c76723bd7
   simpsonsworld_id: 1075435075944
   good: false
   guest_stars:
@@ -20,7 +20,7 @@ episodes:
   writers:
   description: Marge and Lisa decide to turns an unpleasant experience Lisa had into
     a successful graphic novel.
-  disneyplus_id: df3b5ca2-828d-4685-b0a2-7fca3b905044
+  disneyplus_id: deb0534a-f902-4d07-adaa-a684909ab9fa
   simpsonsworld_id: 1080357443795
   good: false
   guest_stars:
@@ -32,7 +32,7 @@ episodes:
   writers:
   description: Homer stumbles upon Maggie's incredible talent for whistling and decides
     to start her on the path to becoming a baby celebrity.
-  disneyplus_id: f522c362-baa4-45a8-9dbb-e7c54e856648
+  disneyplus_id: d21e9d5e-bcb7-43fe-a481-7ba9778a72fe
   simpsonsworld_id: 1073411651711
   good: false
   guest_stars:
@@ -45,7 +45,7 @@ episodes:
   description: Maggie's body is overwhelmed by the malice of an ancient demon; in
     an alternate dimension, Lisa stumbles upon a disturbingly perfect version of her
     family.
-  disneyplus_id: c415a80c-dba0-4de1-84c8-723fa242a525
+  disneyplus_id: f7afb747-ca04-43f5-86a4-1fb49ac87992
   simpsonsworld_id: 1078509635693
   good: false
   guest_stars:
@@ -57,7 +57,7 @@ episodes:
   writers:
   description: Grampa Simpson is finally able to hear the various things that people
     say about him after he receives a new hearing aid.
-  disneyplus_id: 85c7dab6-27a8-4532-a64a-b1e8efac6aa4
+  disneyplus_id: c3032318-9534-4d0a-9fde-b8fa73149315
   simpsonsworld_id: 1088584771605
   good: false
   guest_stars:
@@ -69,7 +69,7 @@ episodes:
   writers:
   description: Marge decides to enter the race to become the next mayor of Springfield
     as she grows increasingly frustrated with how the local government operates.
-  disneyplus_id: 4b81e3b0-082c-4be3-8b43-8cf5304af779
+  disneyplus_id: 17596c52-12a8-4a76-8029-4a60e0ca6c59
   simpsonsworld_id: 1094410819778
   good: true
   guest_stars:
@@ -81,7 +81,7 @@ episodes:
   writers:
   description: Homer and the guys try helping Moe cheer up by getting their old bowling
     team back together again, but they soon face a team of arrogant millionaires.
-  disneyplus_id: 5c73167e-6f2a-4d75-a7ef-c1ee5b718a20
+  disneyplus_id: 577678ca-5b02-4104-ad51-81f0fefb7776
   simpsonsworld_id: 1099353155881
   good: false
   guest_stars:
@@ -93,7 +93,7 @@ episodes:
   writers:
   description: In the future, Lisa works on writing her Harvard college application
     essay by reflecting on how certain disappointing birthdays made her who she is.
-  disneyplus_id: 2bbb56ca-eee0-4959-b1bd-518503bacd06
+  disneyplus_id: f4dbc711-c255-45f3-a134-71d1538e325b
   simpsonsworld_id: 1108700739531
   good: maybe
   guest_stars:
@@ -105,7 +105,7 @@ episodes:
   writers:
   description: When Bart suddenly disappears, the town organizes a search party in
     the hopes of finding him.
-  disneyplus_id: c1493562-a725-40ea-bc09-bb73cd2687f2
+  disneyplus_id: c883acfc-c701-4ce2-86ed-4a987004d9a3
   simpsonsworld_id: 1113094211783
   good: false
   guest_stars:
@@ -117,7 +117,7 @@ episodes:
   writers:
   description: While the Simpson family attends a STEM conference, Lisa becomes attracted
     to a pianist and Bart learns about his natural talent for chemistry.
-  disneyplus_id: a8ede7e7-a35f-4b09-b6bb-331796f1344e
+  disneyplus_id: ada70e64-4986-48c5-baa8-0a90cf5dde7a
   simpsonsworld_id: 1131039811958
   good: maybe
   guest_stars:
@@ -129,7 +129,7 @@ episodes:
   writers:
   description: When Mr. Burns begins to worry that the world is coming to an end,
     he starts testing all of the residents of to figure out who would be worth saving.
-  disneyplus_id: 4ac1a815-2066-44e9-b1ae-a90028b40078
+  disneyplus_id: d1d6b346-e020-42b7-b2e3-0877dadd08b2
   simpsonsworld_id: 1136372803875
   good: maybe
   guest_stars:
@@ -140,7 +140,7 @@ episodes:
   directors:
   writers:
   description: Homer learns to love a piece of art.
-  disneyplus_id: 94a1ceb3-ad15-42f3-adcd-92183c27caaf
+  disneyplus_id: 2874a052-b76e-4ee3-9c11-34e84ec34ceb
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -151,7 +151,7 @@ episodes:
   directors:
   writers:
   description: The Simpsons visit their old apartment and remember the days without their kids.
-  disneyplus_id: 144bb57c-9b2d-4ec0-9815-ab6aef446b46
+  disneyplus_id: 13347997-2853-4e7b-8b52-62611513b189
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -162,7 +162,7 @@ episodes:
   directors:
   writers:
   description: Due to a general fear of clowns, Krusty can no longer do his job.
-  disneyplus_id: b39ae395-33c3-482a-9583-3dcea6e42473
+  disneyplus_id: d214d62c-90a0-4ddc-8438-31429ee5d4f0
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -173,7 +173,7 @@ episodes:
   directors:
   writers:
   description: Bart tries to conquer Homer with help from a book.
-  disneyplus_id: 9045ffae-7815-447b-833c-b5e04fc16a06
+  disneyplus_id: 1e733c96-48fa-4aa8-b91d-3b8bc72f0b64
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -184,7 +184,7 @@ episodes:
   directors:
   writers:
   description: Moe inherits a mattress business from his father.
-  disneyplus_id: 665a15a4-6cb1-4dda-842c-2b064e272fec
+  disneyplus_id: e22f9e4a-ca07-4824-b3c2-3f84b8e67460
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -195,7 +195,7 @@ episodes:
   directors:
   writers:
   description: The family goes to New Orleans where they try to recover from various traumas.
-  disneyplus_id: aca8364d-d82c-49f3-a9ba-d7f963e04daa
+  disneyplus_id: 56795fdf-0508-4bc0-8838-474ec4707c72
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -206,7 +206,7 @@ episodes:
   directors:
   writers:
   description: Grampa is about to die when he reveals a terrible secret.
-  disneyplus_id: 37eeaacc-1476-42f5-9374-59d6bd3ebbac
+  disneyplus_id: e4f01fb7-5c93-4941-8b16-1192590ce0e9
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -217,7 +217,7 @@ episodes:
   directors:
   writers:
   description: Flanders loses his business and works with Homer at the plant.
-  disneyplus_id: f509e8af-0f86-4c74-87ed-81b96b3c6dac
+  disneyplus_id: 190fc340-15dc-40c9-8cd9-f772d5478052
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -228,7 +228,7 @@ episodes:
   directors:
   writers:
   description: The Simpsons visit Denmark and everyone but Homer falls in love with the happy country.
-  disneyplus_id: b86d94e2-6991-463d-a0eb-0125d1aa4e8d
+  disneyplus_id: 72925079-d023-480c-8a62-1c628b0dc482
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -239,7 +239,7 @@ episodes:
   directors:
   writers:
   description: Bart is struck by lightning and has horrible dreams.
-  disneyplus_id: 00e15f02-f80c-473c-b8ee-94dad1ba4a8b
+  disneyplus_id: 4c2000cd-d195-48a6-b266-2ebd31f4bb9a
   simpsonsworld_id: null
   good: maybe
   guest_stars:

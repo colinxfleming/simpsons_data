@@ -9,7 +9,7 @@ episodes:
   description: 'A theatrical short that premiered July 13, 2012, attached to the theatrical
     release of Ice Age: Continental Drift.  It was nominated for an Academy Award
     for Best Animated Short.'
-  disneyplus_id:
+  disneyplus_id: 066a121a-a89a-44a8-9f2d-56b21f0c7241
   simpsonsworld_id: 588949571786
   good: maybe
   guest_stars:
@@ -21,7 +21,7 @@ episodes:
   writers:
   description: After Homer accidentally pollutes the town's water supply, Springfield is
     encased by a giant dome by the EPA and the Simpsons family are declared fugitives.
-  disneyplus_id: f1d4d070-76e9-4889-94c2-c8883b2b875a
+  disneyplus_id: 21cdf36d-d3ba-49f6-9dc6-b9d4e2a8be85
   simpsonsworld_id:
   good: maybe
   guest_stars:
@@ -34,7 +34,7 @@ episodes:
   description: The Simpsons host a Disney+ Day party and everyone is on the list... except
     Homer. With friends from across the service and music fit for a Disney princess,
     Plusaversary is Springfield’s event of the year.
-  disneyplus_id: d19da874-da2d-4dcd-978b-efb00befce1b
+  disneyplus_id: 3c791468-6f02-4c33-bbff-ee4b54ef8feb
   simpsonsworld_id:
   good: maybe
   guest_stars:
@@ -46,7 +46,7 @@ episodes:
   writers:
   description: When Maggie Simpson is rescued by a cute young baby from playground peril, it's
     girl meets boy, girl loses boy, guess what happens next?
-  disneyplus_id: f02f6d69-5f8d-4087-a8a8-e94bdc4015ec
+  disneyplus_id: 6ea838b5-b5ac-45e0-8980-881d906a91a0
   simpsonsworld_id:
   good: maybe
   guest_stars:
@@ -60,7 +60,7 @@ episodes:
     the Simpsons and Springfield's mightiest heroes. The God of Mischief teams up with Bart
     Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe
     of Super Heroes and villains."
-  disneyplus_id: 3b9fa824-8d1c-48f5-af02-3b7b8c9d910d
+  disneyplus_id: 3ffb8049-a23a-4251-b0f6-8a70386919e2
   simpsonsworld_id:
   good: maybe
   guest_stars:
@@ -74,7 +74,7 @@ episodes:
     quest for her stolen pacifier. Her adventure brings her face-to-face with young Padawans,
     Sith Lords, familiar droids, Rebel scum, and an ultimate battle against the Dark Side,
     in this original short celebrating the Star Wars galaxy.
-  disneyplus_id: d2343d55-e0e3-436f-acbd-fc0003406eca
+  disneyplus_id: 8ca133cb-d680-45f7-ba51-fc7c92c61db0
   simpsonsworld_id:
   good: maybe
   guest_stars:

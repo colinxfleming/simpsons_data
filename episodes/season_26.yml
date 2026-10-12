@@ -7,7 +7,7 @@ episodes:
   directors:
   writers:
   description: 'The unthinkable happens: a Springfield resident dies.'
-  disneyplus_id: 254b91ea-02ed-4b16-aa4e-03b594b89288
+  disneyplus_id: 53d99c8c-f2bf-42e3-a39d-25c3a78ba8f6
   simpsonsworld_id: 334920771636
   good: false
   guest_stars:
@@ -18,7 +18,7 @@ episodes:
   directors:
   writers:
   description: Homer and Bart set sail on the relation ship.
-  disneyplus_id: 6a793d21-929a-410a-8615-3f4444970e19
+  disneyplus_id: 268c9b6f-90cd-4efb-bdb0-fbe7972192b9
   simpsonsworld_id: 346737219924
   good: false
   guest_stars:
@@ -29,7 +29,7 @@ episodes:
   directors:
   writers:
   description: Marge opens a sandwich shop.
-  disneyplus_id: c8a58eb9-dbab-471a-86b3-a04bc34c2cff
+  disneyplus_id: a33ac72d-b065-4e14-bd5a-fc5634704176
   simpsonsworld_id: 340536899599
   good: false
   guest_stars:
@@ -41,7 +41,7 @@ episodes:
   writers:
   description: Don't miss the all-new, spooktacular Halloween special, "Treehouse
     of Horror XXV."
-  disneyplus_id: 54d99d91-e952-4ff5-baf8-9eef1a054885
+  disneyplus_id: 03520dbb-7647-4532-bf8b-daedd7f7e60f
   simpsonsworld_id: 344255555880
   good: false
   guest_stars:
@@ -53,7 +53,7 @@ episodes:
   writers:
   description: An all-new episode featuring guest voice Jane Fonda, whose character
     falls for Mr. Burns.
-  disneyplus_id: 0d02c072-ec15-4e51-b0eb-b0a8c683abd7
+  disneyplus_id: 70ba2cc1-a928-4337-8a71-27854635baab
   simpsonsworld_id: 351437379941
   good: false
   guest_stars:
@@ -64,7 +64,7 @@ episodes:
   directors:
   writers:
   description: The Simpsons travel to the 31st century.
-  disneyplus_id: 4374e696-9cb9-4e95-b906-e623ad31593a
+  disneyplus_id: 447ac9be-61c4-489f-89d2-610280bfdf6b
   simpsonsworld_id: 355593283530
   good: false
   guest_stars:
@@ -76,7 +76,7 @@ episodes:
   writers:
   description: Bart faces a tough test at school when he gets a new teacher, Mr. Lassen,
     who vows to crush his spirit.
-  disneyplus_id: 34716532-5c16-4b0a-97fd-d71a2807f87a
+  disneyplus_id: 766cf165-80f7-416f-9f04-adf0592779fe
   simpsonsworld_id: 359228483622
   good: false
   guest_stars:
@@ -87,7 +87,7 @@ episodes:
   directors:
   writers:
   description: Homer forms a cover band with some of the other dads in town.
-  disneyplus_id: a1ed36d5-3086-49b8-b83e-2d20e72fa12b
+  disneyplus_id: a1b657ff-b3a6-48ad-853b-6f1e37df0034
   simpsonsworld_id: 362239555757
   good: false
   guest_stars:
@@ -98,7 +98,7 @@ episodes:
   directors:
   writers:
   description: Marge doesn't approve of Homer's Christmas spirits.
-  disneyplus_id: 16914d01-b98b-4cf2-8904-36bd8f651e8f
+  disneyplus_id: 3226b602-4604-44d9-8aae-24f942332a86
   simpsonsworld_id: 368212547872
   good: false
   guest_stars:
@@ -109,7 +109,7 @@ episodes:
   directors:
   writers:
   description: An amusement park ride lands the Simpsons in outer space..
-  disneyplus_id: ea171ef8-0dab-48f9-bec1-491775080bc4
+  disneyplus_id: ff5b9228-0a84-46e3-a533-bdf11af0ea6e
   simpsonsworld_id: 379818563729
   good: false
   guest_stars:
@@ -120,7 +120,7 @@ episodes:
   directors:
   writers:
   description: Bart and Homer become BFF's.
-  disneyplus_id: b30df722-986c-46ba-8e51-be92095b6e17
+  disneyplus_id: 28555ec5-bff6-4090-9e3d-94ea18e09e14
   simpsonsworld_id: 383002179865
   good: maybe
   guest_stars:
@@ -131,7 +131,7 @@ episodes:
   directors:
   writers:
   description: Homer becomes muse to Elon Musk.
-  disneyplus_id: 2ee937da-4304-4ca5-868d-472e189d942d
+  disneyplus_id: dd3b0d68-02e1-4cf3-967e-4d2498841a58
   simpsonsworld_id: 388773443652
   good: maybe
   guest_stars:
@@ -142,7 +142,7 @@ episodes:
   directors:
   writers:
   description: Springfield gets a new town anthem.
-  disneyplus_id: 645c035f-4f8f-4422-884e-333889eae9f4
+  disneyplus_id: 3c8269c2-2247-4315-980a-e4fb61eca95e
   simpsonsworld_id: 395694659511
   good: maybe
   guest_stars:
@@ -153,7 +153,7 @@ episodes:
   directors:
   writers:
   description: Marge trades in her mom-chauffeur hat for a real one.
-  disneyplus_id: ff549ddd-2534-4769-9c8e-940e46363649
+  disneyplus_id: dfeffe22-a559-4d29-9cc7-5ce38bccea09
   simpsonsworld_id: 399385667625
   good: maybe
   guest_stars:
@@ -164,7 +164,7 @@ episodes:
   directors:
   writers:
   description: Moe plots revenge over Nigerian e-mail scam.
-  disneyplus_id: 77a22172-c5a9-4c80-b5ff-3d8fe21ecc3b
+  disneyplus_id: a9763912-a014-4ab8-a7fc-608cfd9e0653
   simpsonsworld_id: 406163011894
   good: maybe
   guest_stars:
@@ -175,7 +175,7 @@ episodes:
   directors:
   writers:
   description: The Springfield congregation turns to gambling to repair the church.
-  disneyplus_id: 7571103b-40e7-4456-80b6-4d1856bc73b0
+  disneyplus_id: b3af44fc-7d67-4882-af47-27ef72040759
   simpsonsworld_id: 410018371522
   good: true
   guest_stars:
@@ -187,7 +187,7 @@ episodes:
   writers:
   description: When Duffman undergoes hip replacement surgery and retires, the company
     sets up a reality show competition to find his replacement.
-  disneyplus_id: 8a3b1f5a-338d-4a7c-afcf-e3bb3933d0bb
+  disneyplus_id: 0e30fc74-0497-4df2-88a4-da458f254433
   simpsonsworld_id: 420981315819
   good: false
   guest_stars:
@@ -199,7 +199,7 @@ episodes:
   writers:
   description: Bart lies about being involved in a bulldozer crash, so Marge decides
     to follow him everywhere until he confesses.
-  disneyplus_id: 7570ff99-2fd0-47a3-b275-404c5b96cc10
+  disneyplus_id: 2daafb0c-a8ef-4081-8edf-f334dd7ed303
   simpsonsworld_id: 430426691868
   good: false
   guest_stars:
@@ -212,7 +212,7 @@ episodes:
   description: When Homer gets an old film roll developed, the family takes a trip
     down memory lane to see the origins of how Bart and Lisa first started fighting
     with each other.
-  disneyplus_id: 240cf703-b203-40ce-83b3-150fa2bc7b06
+  disneyplus_id: d23e6d6b-c390-4ff3-9c0d-139b5b26d40e
   simpsonsworld_id: 434682947703
   good: maybe
   guest_stars:
@@ -224,7 +224,7 @@ episodes:
   writers:
   description: The Simpsons learn about Grampa's days in the Air Force, and Bart takes
     up smoking to impress Milhouse's Dutch cousin.
-  disneyplus_id: 6398510e-4e51-4a48-a538-5781de70918b
+  disneyplus_id: af4b8581-d13a-4efe-a74c-f5e3fede042b
   simpsonsworld_id: 438408259807
   good: false
   guest_stars:
@@ -236,7 +236,7 @@ episodes:
   writers:
   description: After Bart gets bullied at the school dance, Marge convinces the town
     to pass anti-bullying legislation.
-  disneyplus_id: 677ab214-4cde-4a05-8767-369f7a59be8c
+  disneyplus_id: 68cedb52-7da6-457f-a0ed-a8d617fb0e8d
   simpsonsworld_id: 442879555692
   good: false
   guest_stars:
@@ -248,7 +248,7 @@ episodes:
   writers:
   description: When a modernized Springfield Elementary has a technical meltdown,
     Lisa transforms it into a Waldorf school.
-  disneyplus_id: ee46a17f-b96f-4db1-b8bf-0e25d09f9a59
+  disneyplus_id: 3628c251-dbbf-47b4-8acd-7a709b9eb4cc
   simpsonsworld_id: 446649411760
   good: false
   guest_stars:

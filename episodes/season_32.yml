@@ -7,7 +7,7 @@ episodes:
   directors: ['Bob Anderson']
   writers: ['David Cryan']
   description: Mr. Burns goes undercover to see what the employees really think of him.
-  disneyplus_id: 4b843d21-679a-4430-bf4c-039d10c31543
+  disneyplus_id: fbdfba59-a2c8-430c-b942-0f89963e86ce
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -18,7 +18,7 @@ episodes:
   directors: ['Rob Oliver']
   writers: ['Cesar Mazariegos']
   description: The Simpson family goes to Ancient Rome.
-  disneyplus_id: 62c69f41-41d2-46e2-a69a-434217fdd5e3
+  disneyplus_id: 57e7e711-99df-4925-97ec-f4941d050e27
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -29,7 +29,7 @@ episodes:
   directors: ['Timothy Bailey']
   writers: ['Dan Greaney']
   description: Lisa stays home from school to explore the wonders of western art.
-  disneyplus_id: 5272f7e8-a4a8-4f47-a894-08849f51e8f4
+  disneyplus_id: 28280b19-bca7-4111-9f3e-ede7fd31d7b0
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -40,7 +40,7 @@ episodes:
   directors: ['Steven Dean Moore']
   writers: ['Julia Prescott']
   description: The annual Simpsons terror-themed trilogy.
-  disneyplus_id: 42262a30-b359-4417-87bc-af4f9ca99a5e
+  disneyplus_id: 7c61ce77-1364-458a-900b-8dae4b0d2702
   simpsonsworld_id: null
   good: false
   guest_stars:
@@ -51,7 +51,7 @@ episodes:
   directors: ['Michael Polcino']
   writers: ['Joel H. Cohen', 'John Frink', 'Al Jean']
   description: When Marge and the kids take a seaside vacation, Homer is unwittingly tempted by a femme fatale.
-  disneyplus_id: ed49959a-03c6-4e14-8506-5f2b8400bd21
+  disneyplus_id: 7f6e513f-68fe-4804-b8d8-4efd587f95ca
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -62,7 +62,7 @@ episodes:
   directors: ['Matthew Faughnan']
   writers: ['David X. Cohen']
   description: Grampa is accused of a crime in this return to the Simpsons.
-  disneyplus_id: b4c0c3b8-c02e-4069-b96f-2b73eb1b00a1
+  disneyplus_id: 9666221a-68b7-4511-9794-d53bdaebdf4b
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -73,7 +73,7 @@ episodes:
   directors: ['Steven Dean Moore']
   writers: ['Danielle Weisberg']
   description: Bart becomes a voice over actor. Comic Book Guy is humiliated at Comic-Con.
-  disneyplus_id: 068ac0b5-a3ef-4a47-adbe-c576d14ba55f
+  disneyplus_id: ce60d4b0-7fc4-4553-9824-a12173a7868d
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -84,7 +84,7 @@ episodes:
   directors: ['Matthew Nastuk']
   writers: ['Jeff Westbrook']
   description: Principal Skinner and Superintendent Chalmers take a road trip.
-  disneyplus_id: 119c3f83-0141-4ba4-9041-39280a5ab7d7
+  disneyplus_id: c76c8e2f-f1de-4ec7-8f53-edcb85e17291
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -95,7 +95,7 @@ episodes:
   directors: ['Rob Oliver']
   writers: ['Nell Scovell']
   description: Lisa calls her teacher a hack and refuses to apologize.
-  disneyplus_id: f975f650-7700-4935-b396-621a6bb8e3ca
+  disneyplus_id: 74e1050f-5345-49e6-a541-9854e299afaa
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -106,7 +106,7 @@ episodes:
   directors: ['Timothy Bailey']
   writers: ['Jessica Conrad']
   description: A Christmas movie comes to Springfield.
-  disneyplus_id: ea02692e-8b29-4d56-992f-426bfc6b5d3a
+  disneyplus_id: e6dd8f35-4a4a-4a7b-8259-cb66aa89db84
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -117,7 +117,7 @@ episodes:
   directors: ['Chris Clements']
   writers: ['Ryan Koh']
   description: Comic book guy and his wife Kumiko debate having a baby.
-  disneyplus_id: 76c886a1-1c77-434a-9559-f1bc84cba049
+  disneyplus_id: 536155b3-3e43-4a07-a00f-e409db6a5024
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -128,7 +128,7 @@ episodes:
   directors: ['Matthew Nastuk']
   writers: ['Jeff Westbrook']
   description: Bart finds his old teacher’s diary and learns a surprising secret.
-  disneyplus_id: ddba70c9-8a76-42c4-b49d-514fd2dbec8d
+  disneyplus_id: cd34a074-04b6-48e0-93e5-2f6d71d861c9
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -139,7 +139,7 @@ episodes:
   directors: ['Mike Frank Polcino']
   writers: ['Brian Kelley']
   description: Bart becomes a successful caddy.
-  disneyplus_id: 18b45aa7-7537-44fe-aa3e-6efe67f12150
+  disneyplus_id: 614b4d73-44a0-415c-87b3-ad4879857028
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -150,7 +150,7 @@ episodes:
   directors: ['Rob Oliver']
   writers: ['Jeff Martin', 'Samantha Martin']
   description: Cletus becomes a singing sensation.
-  disneyplus_id: 47aea404-484a-4f83-abd4-18a24da8c558
+  disneyplus_id: b3d107d8-80b1-478a-b9ae-5bcd207cec0e
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -161,7 +161,7 @@ episodes:
   directors: ['Jennifer Moeller']
   writers: ['Michael Price']
   description: Homer tries to get his favorite band to reunite.
-  disneyplus_id: cd17413f-6dfe-4d2b-a92c-c859d3ed16a8
+  disneyplus_id: 76541b74-59b7-48c8-b346-491815ac6e7d
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -172,7 +172,7 @@ episodes:
   directors: ['Steven Dean Moore']
   writers: ['Rob LaZebnik']
   description: We learn a secret of Flanders’ past.
-  disneyplus_id: ad667e50-7fb6-4b0c-89a0-181834df92c4
+  disneyplus_id: a3821408-d594-4cee-9bb3-2c643cf38525
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -183,7 +183,7 @@ episodes:
   directors: ['Chris Clements']
   writers: ['Christine Nangle']
   description: We learn that Chief Wiggum’s wife is more than she seems.
-  disneyplus_id: b90eca2d-285e-4d52-996f-d57d65c2a1d3
+  disneyplus_id: efd0357e-374d-4717-8a97-120b79888ca3
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -194,7 +194,7 @@ episodes:
   directors: ['Lance Kramer']
   writers: ['Rob LaZebnik']
   description: Mr. Burns gets into the plant-based burger business.
-  disneyplus_id: b7bdfed4-8fef-4225-80b1-02e490f43947
+  disneyplus_id: e64e3341-2ba9-4fd0-aa0f-d65236e06dff
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -205,7 +205,7 @@ episodes:
   directors: ['Matthew Nastuk']
   writers: ['Tim Long']
   description: Lisa gets an imaginary friend who makes her feel much better about herself.
-  disneyplus_id: 852d8315-80ba-414e-b67b-e80a5476e053
+  disneyplus_id: a7c6201c-28d6-4bcc-b0b0-caeac4d45003
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -216,7 +216,7 @@ episodes:
   directors: ['Jennifer Moeller']
   writers: ['J. Stewart Burns']
   description: Lisa makes a shocking college decision, wounding Marge. It leads to a very surprising place.
-  disneyplus_id: b49da137-f3d0-4d84-bd7f-4a6d304812c6
+  disneyplus_id: 07bd8183-1bb0-40b2-8e49-dd6f4c44f4e6
   simpsonsworld_id: null
   good: maybe
   guest_stars:
@@ -227,7 +227,7 @@ episodes:
   directors: ['Mike Frank Polcino']
   writers: ['Carolyn Omine']
   description: A British secret agent comes to Springfield in search of a Russian spy.
-  disneyplus_id: ced76366-e9b2-4ad5-9783-e0fdb25975b6
+  disneyplus_id: 02c46eb0-6052-4b57-9d64-b506b091f9df
   simpsonsworld_id: null
   good: false
   guest_stars:
@@ -238,7 +238,7 @@ episodes:
   directors: ['Timothy Bailey']
   writers: ['Dan Vebber']
   description: Moe breaks a sacred bartender rule.
-  disneyplus_id: 8425cef2-91ae-4d92-ba05-174dd5aa2fa8
+  disneyplus_id: b55d9399-97ee-48f5-a039-80a6ea5c6a2e
   simpsonsworld_id: null
   good: maybe
   guest_stars:
