@@ -4,274 +4,274 @@ episodes:
   season: 8
   episode: 1
   release_date: 1996-10-27
-  directors:
-  writers:
+  directors: ["Mike B. Anderson"]
+  writers: ["Ken Keeler", "Dan Greaney", "David X. Cohen"]
   description: In this annual terror-themed trilogy, Bart and Lisa discover an evil creature living in the attic, Lisa inadvertently creates a miniature civilization, and aliens Kang and Kodos run for President of the United States.
   disneyplus_id: 46269d62-c1e4-4d89-bbdb-2adc9dedc283
   simpsonsworld_id: 299625027835
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman"]
 - title: You Only Move Twice
   season: 8
   episode: 2
   release_date: 1996-11-03
-  directors:
-  writers:
+  directors: ["Mike B. Anderson"]
+  writers: ["John Swartzwelder"]
   description: Homer gets a new job and the family moves--only to find out his new employer is an evil millionaire intent on ruling the world.
   disneyplus_id: d4dd1da4-4c48-4366-a300-02a0cf7e0d74
   simpsonsworld_id: 306390595776
   good: true
-  guest_stars:
+  guest_stars: ["Albert Brooks", "Sally Stevens"]
 - title: The Homer They Fall
   season: 8
   episode: 3
   release_date: 1996-11-10
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["Jonathan Collier"]
   description: Homer displays an amazing ability to take a punch, which spurs Moe to urge Homer to become a professional boxer. But when Homer is about to be killed by heavyweight champion Drederick Tatum, Moe decides they've had enough.
   disneyplus_id: b740a3d0-2acc-4296-a8c1-4f0493c684a1
   simpsonsworld_id: 288058947803
   good: true
-  guest_stars:
+  guest_stars: ["Michael Buffer", "Sally Stevens", "Paul Winfield"]
 - title: Burns, Baby Burns
   season: 8
   episode: 4
   release_date: 1996-11-17
-  directors:
-  writers:
+  directors: ["Jim Reardon"]
+  writers: ["Ian Maxtone-Graham"]
   description: The Simpsons are amazed to discover that Mr. Burns has a long-lost son, Larry. Mr. Burns is slow to embrace his offspring, and despite Homer's best attempts, they do not reconcile.
   disneyplus_id: 92d75b51-bcf2-4bb7-ab52-9c61301f6425
   simpsonsworld_id: 299622467514
   good: false
-  guest_stars:
+  guest_stars: ["Rodney Dangerfield"]
 - title: Bart After Dark
   season: 8
   episode: 5
   release_date: 1996-11-24
-  directors:
-  writers:
+  directors: ["Dominic Polcino"]
+  writers: ["Richard Appel"]
   description: Bart gets a job at the Maison Derriere, an after-hours club of ill repute, much to Marge's chagrin.
   disneyplus_id: b1290101-5abc-4365-9c7d-ee9efd8a6a20
   simpsonsworld_id: 294789699801
   good: true
-  guest_stars:
+  guest_stars: []
 - title: A Milhouse Divided
   season: 8
   episode: 6
   release_date: 1996-12-01
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Steve Tompkins"]
   description: Milhouse's parents reveal they are divorcing. Homer becomes concerned that his own marriage is in trouble, but breathes easier when Marge agrees to renew their vows.
   disneyplus_id: 94c604c5-ab4e-49b9-98b8-5773f17f6b29
   simpsonsworld_id: 277025347786
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Lisa's Date with Density
   season: 8
   episode: 7
   release_date: 1996-12-15
-  directors:
-  writers:
+  directors: ["Susie Dietter"]
+  writers: ["Mike Scully"]
   description: Against all her best instincts, Lisa has a puppy-love romance with bully Nelson Muntz. Meanwhile, Homer's use of a telephone auto-dialer runs him afoul of the law.
   disneyplus_id: ed874333-2aa7-4763-bf91-2c357418b18f
   simpsonsworld_id: 306394691862
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Hurricane Neddy
   season: 8
   episode: 8
   release_date: 1996-12-29
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["Steve Young"]
   description: A hurricane blows through Springfield, destroying Ned Flanders' home, but leaving the Simpsons unscathed. The pious Ned is so outraged by the unfairness of this that he winds up in an asylum.
   disneyplus_id: 44249fb0-0c23-4848-848a-c47f59516e11
   simpsonsworld_id: 436250179702
   good: true
-  guest_stars:
+  guest_stars: ["Jon Lovitz"]
 - title: El Viaje Misterioso de Nuestro Jomer (The Mysterious Voyage of Homer)
   season: 8
   episode: 9
   release_date: 1997-01-05
-  directors:
-  writers:
+  directors: ["Jim Reardon"]
+  writers: ["Ken Keeler"]
   description: Homer eats some ultra-hot chili, which immerses him in an out-of body experience reminiscent of Carlos Castaneda. In Homer's vision, a talking coyote urges Homer to find his soul mate, which, after several false starts, he finally does.
   disneyplus_id: ad16a3e7-996d-43c8-8f83-543ead34c6f0
   simpsonsworld_id: 436252739905
   good: true
-  guest_stars:
+  guest_stars: ["Johnny Cash"]
 - title: The Springfield Files
   season: 8
   episode: 10
   release_date: 1997-01-12
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Reid Harrison"]
   description: Homer sees an extraterrestrial, but no one in town believes him. He camps out with Bart, and they discover the surprising truth.
   disneyplus_id: ec08080c-ea45-4f8b-8a04-3c0e3fc5c29a
   simpsonsworld_id: 436259395954
   good: true
-  guest_stars:
+  guest_stars: ["Gillian Anderson", "David Duchovny", "Leonard Nimoy"]
 - title: The Twisted World of Marge Simpson
   season: 8
   episode: 11
   release_date: 1997-01-19
-  directors:
-  writers:
+  directors: ["Chuck Sheetz"]
+  writers: ["Jennifer Crittenden"]
   description: Marge starts a pretzel franchise, but her attempts to make money are thwarted by a group of women known as the Springfield Investorettes. To help his wife, Homer recruits the assistance of mob boss Fat Tony.
   disneyplus_id: 4fdbae8c-a853-49c1-aff2-97aacf896128
   simpsonsworld_id: 436264515927
   good: true
-  guest_stars:
+  guest_stars: ["Joe Mantegna", "Jack Lemmon", "Marcia Wallace"]
 - title: Mountain of Madness
   season: 8
   episode: 12
   release_date: 1997-02-02
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["John Swartzwelder"]
   description: Mr. Burns orders his employees to attend a survivalist company retreat. An avalanche traps Homer and Mr. Burns together in a small mountainside cabin.
   disneyplus_id: cb021763-c34e-49bc-84e5-8b88b87cb21c
   simpsonsworld_id: 436267075791
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Simpsoncalifragilisticexpiala(Annoyed Grunt)cious
   season: 8
   episode: 13
   release_date: 1997-02-07
-  directors:
-  writers:
+  directors: ["Chuck Sheetz"]
+  writers: ["Al Jean", "Mike Reiss"]
   description: Marge's hair begins to fall out from the stress of raising her children. A singing nanny, Shary Bobbins, mysteriously arrives to help.
   disneyplus_id: 7c5c17d7-6427-47b2-bcac-07c3a931f04e
   simpsonsworld_id: 436271683676
   good: true
-  guest_stars:
+  guest_stars: []
 - title: The Itchy and Scratchy and Poochie Show
   season: 8
   episode: 14
   release_date: 1997-02-09
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["David X. Cohen"]
   description: Attempting to update the appeal of Itchy & Scratchy cartoons, their writers add a new character. Their creation--a hip, surfboarding dog--is voiced by none other than Homer Simpson.
   disneyplus_id: 0f88daf9-0cee-4a33-b03d-70e26d9bfd67
   simpsonsworld_id: 436278339668
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Alex Rocco"]
 - title: Homer's Phobia
   season: 8
   episode: 15
   release_date: 1997-02-16
-  directors:
-  writers:
+  directors: ["Mike B. Anderson"]
+  writers: ["Ron Hauge"]
   description: Homer begins to suspect that Bart is gay. When a visit to a steel mill to boost Bart's manliness backfires, Homer takes his son on a camping trip to "straighten him out."
   disneyplus_id: 0d509fd4-fd09-4145-bacc-c4a2146cb519
   simpsonsworld_id: 436284995621
   good: true
-  guest_stars:
+  guest_stars: ["John Waters"]
 - title: Brother from Another Series
   season: 8
   episode: 16
   release_date: 1997-02-23
-  directors:
-  writers:
+  directors: ["Pete Michels"]
+  writers: ["Ken Keeler"]
   description: Bart's nemesis Sideshow Bob returns, this time with his evil brother, Cecil. Though Bob has reformed, Cecil attempts to blow up the Springfield dam, only to be foiled as his brother has so many times.
   disneyplus_id: 1f799367-0650-46c4-aff1-719fa8a5f53c
   simpsonsworld_id: 436296259771
   good: true
-  guest_stars:
+  guest_stars: ["Kelsey Grammer", "David Hyde Pierce", "Marcia Wallace"]
 - title: My Sister, My Sitter
   season: 8
   episode: 17
   release_date: 1997-03-02
-  directors:
-  writers:
+  directors: ["Jim Reardon"]
+  writers: ["Dan Greaney"]
   description: Homer and Marge go out, and because Lisa is more responsible, they put her in charge of Bart. Under her care, the disgruntled Bart nearly kills himself.
   disneyplus_id: ec9f054c-6f43-4cd9-bd00-c5e0f108666c
   simpsonsworld_id: 436301891875
   good: false
-  guest_stars:
+  guest_stars: []
 - title: Homer vs. the Eighteenth Amendment
   season: 8
   episode: 18
   release_date: 1997-03-16
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["John Swartzwelder"]
   description: A St. Patrick's Day riot leads Springfield to reinstate Prohibition. Homer becomes a notorious bootlegger known as the Beer Baron.
   disneyplus_id: e0027686-129a-4ae0-a381-0dc09c412073
   simpsonsworld_id: 436402755605
   good: true
-  guest_stars:
+  guest_stars: ["Joe Mantegna", "Dave Thomas"]
 - title: Grade School Confidential
   season: 8
   episode: 19
   release_date: 1997-04-06
-  directors:
-  writers:
+  directors: ["Susie Dietter"]
+  writers: ["Rachel Pulido"]
   description: Bart's principal and his teacher begin a secret romance. When Bart reveals it to the world, the two of them nearly lose their jobs.
   disneyplus_id: 227aebbd-637e-4cc9-81e2-fea3a3c54821
   simpsonsworld_id: 436412995642
   good: true
-  guest_stars:
+  guest_stars: ["Michael Dees", "Marcia Wallace"]
 - title: The Canine Mutiny
   season: 8
   episode: 20
   release_date: 1997-04-13
-  directors:
-  writers:
+  directors: ["Dominic Polcino"]
+  writers: ["Ron Hauge"]
   description: Bart's new dog, Laddie, is so impressive that Bart gives away Santa's Little Helper. When Bart decides to get his old dog back, he discovers that Santa's Little Helper is now living with a blind man who doesn't want to give him up.
   disneyplus_id: 8af05db5-f015-4fed-8121-e4cf6d92ffe2
   simpsonsworld_id: 436370499586
   good: false
-  guest_stars:
+  guest_stars: ["Frank Welker"]
 - title: The Old Man and the Lisa
   season: 8
   episode: 21
   release_date: 1997-04-20
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["John Swartzwelder"]
   description: Mr. Burns loses all his money and must move into the decrepit Springfield Retirement Castle. Vowing to make back his fortune, Mr. Burns does it--with Lisa's help--through recycling.
   disneyplus_id: f7ec15a7-c67c-4d7f-900e-25e8a7b993e7
   simpsonsworld_id: 436383811985
   good: true
-  guest_stars:
+  guest_stars: ["Bret Hart"]
 - title: In Marge We Trust
   season: 8
   episode: 22
   release_date: 1997-04-27
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Donick Cary"]
   description: Marge attempts to assist Reverend Lovejoy and becomes more popular with his congregation than the Reverend is. Meanwhile, Homer is befuddled by his apparent likeness on a box of Japanese dish soap.
   disneyplus_id: cd91282a-5ac2-4f01-849f-46b12a6363a4
   simpsonsworld_id: 436438595644
   good: true
-  guest_stars:
+  guest_stars: ["Denice Kumagai", "Karen Maruyama", "Sab Shimono", "Gedde Watanabe", "Frank Welker"]
 - title: Homer's Enemy
   season: 8
   episode: 23
   release_date: 1997-05-04
-  directors:
-  writers:
+  directors: ["Jim Reardon"]
+  writers: ["John Swartzwelder"]
   description: A new employee at the nuclear plant, Frank Grimes, is disgusted by Homer's laziness and popularity. Grimes' spite gets the better of him, but Homer is never aware of just how much he was hated.
   disneyplus_id: 552059b8-b6cb-41c2-a280-2579a62cb085
   simpsonsworld_id: 436466755640
   good: true
-  guest_stars:
+  guest_stars: ["Frank Welker"]
 - title: The Simpsons Spin-Off Showcase
   season: 8
   episode: 24
   release_date: 1997-05-11
-  directors:
-  writers:
+  directors: ["Neil Affleck"]
+  writers: ["Ken Keeler", "David X. Cohen", "Dan Greaney", "Steve Tompkins"]
   description: In this trilogy of Simpsons spin-offs that never made it, Chief Wiggum gets his own cop show, Grampa's spirit inhabits the Love Tester at Moe's, and the family gets a smarmy variety show--complete with a new Lisa.
   disneyplus_id: dbd52560-ec6c-422e-81aa-fe399fb67a8b
   simpsonsworld_id: 436481091875
   good: false
-  guest_stars:
+  guest_stars: ["Tim Conway", "Phil Hartman", "Gailard Sartain"]
 - title: The Secret War of Lisa Simpson
   season: 8
   episode: 25
   release_date: 1997-05-18
-  directors:
-  writers:
+  directors: ["Mike B. Anderson"]
+  writers: ["Richard Appel"]
   description: A destructive prank gets Bart sent to a military school. Lisa joins as well, but is intimidated by a difficult physical test.
   disneyplus_id: e72f8937-9ab0-4c9d-abca-d4f6659bfd9f
   simpsonsworld_id: 1071844931909
   good: true
-  guest_stars:
+  guest_stars: ["Willem Dafoe", "Marcia Wallace"]

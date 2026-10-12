@@ -4,241 +4,241 @@ episodes:
   season: 24
   episode: 1
   release_date: 2012-09-30
-  directors: ['Bob Anderson']
-  writers: ['Tim Long']
+  directors: ["Bob Anderson"]
+  writers: ["Tim Long"]
   description: Bart realizes that the girls he's liked all dump him within a week. To prove he can be loved, he journeys to New York and seeks out a former flame. Meanwhile, Marge and Lisa's search for cheap culture leads them to perform impromptu Shakespeare in the park.
   disneyplus_id: b7201254-d47d-4892-a608-ba4e56d8a35b
   simpsonsworld_id: 221691971633
   good: false
-  guest_stars:
+  guest_stars: ["Ken Burns", "Zooey Deschanel", "Sarah Michelle Gellar", "Anne Hathaway", "Maurice LaMarche", "Don Pardo", "Natalie Portman", "Kevin Michael Richardson", "Al Roker", "Sarah Silverman", "Marcia Wallace"]
 - title: Treehouse of Horror XXIII
   season: 24
   episode: 2
   release_date: 2012-10-07
-  directors: ['Steven Dean Moore']
-  writers: ['David Mandel', 'Brian Kelley']
+  directors: ["Steven Dean Moore"]
+  writers: ["David Mandel", "Brian Kelley"]
   description: A search for the Higgs Boson creates a black hole that sucks in Springfield until it is stopped by a most unlikely hero. Found footage reveals a demonic deal from the Simpsons' past comes back to terrorize them in the present and Bart learns what life would have been like if Homer hadn't taken Marge to the prom. Also, the end of the world as foretold by the ancient Mayans.
   disneyplus_id: ef15a22a-5b19-4040-8407-08c3bfef9924
   simpsonsworld_id: 221695555645
   good: true
-  guest_stars:
+  guest_stars: ["Jon Lovitz", "Marcia Wallace"]
 - title: Adventures in Baby-getting
   season: 24
   episode: 3
   release_date: 2012-11-04
-  directors: ['Rob Oliver']
-  writers: ['Bill Odenkirk']
+  directors: ["Rob Oliver"]
+  writers: ["Bill Odenkirk"]
   description: A sinkhole destroys Marge's car and when she gets a more compact replacement she realizes she wants a baby. Meanwhile, Lisa mysteriously vanishes every day after school and the only clue is "boxing wizards".
   disneyplus_id: a49a06dc-847b-43c8-931f-8eaf13d64366
   simpsonsworld_id: 221688899646
   good: false
-  guest_stars:
+  guest_stars: ["Jeff Gordon"]
 - title: Gone Abie Gone
   season: 24
   episode: 4
   release_date: 2012-11-11
-  directors: ['Matthew Nastuk']
-  writers: ['Joel H. Cohen']
+  directors: ["Matthew Nastuk"]
+  writers: ["Joel H. Cohen"]
   description: Grampa disappears, and while trying to find him they learn he had a second wife.
   disneyplus_id: 9a072ccb-b195-4aea-928e-79ba5ce5e224
   simpsonsworld_id: 221688899887
   good: false
-  guest_stars:
+  guest_stars: ["Marvin Hamlisch", "Anika Noni Rose", "Jennifer Tilly"]
 - title: Penny-Wiseguys
   season: 24
   episode: 5
   release_date: 2012-11-18
-  directors: ['Mark Kirkland']
-  writers: ['Michael Price']
+  directors: ["Mark Kirkland"]
+  writers: ["Michael Price"]
   description: Fat Tony names his accountant head of the mob, and then asks him to kill members of the gang. Meanwhile, vegetarian Lisa starts eating bugs, until she realizes they are a gateway to shrimp.
   disneyplus_id: a973f0b2-9152-42a9-a51d-ed758f53d2cd
   simpsonsworld_id: 221694531617
   good: true
-  guest_stars:
+  guest_stars: ["Steve Carell", "Terry W. Greene", "Joe Mantegna", "Alex Trebek"]
 - title: A Tree Grows in Springfield
   season: 24
   episode: 6
   release_date: 2012-11-25
-  directors: ['Timothy Bailey']
-  writers: ['Stephanie Gillis']
+  directors: ["Timothy Bailey"]
+  writers: ["Stephanie Gillis"]
   description: A depressed Homer wins a myPad and the tablet changes his life--until it breaks. Then he receives new hope from a most unlikely source.
   disneyplus_id: 9b362253-5787-464b-b314-f4f899c0c58a
   simpsonsworld_id: 229733443727
   good: false
-  guest_stars:
+  guest_stars: ["Kelsey Grammer", "Marcia Wallace"]
 - title: The Day the Earth Stood Cool
   season: 24
   episode: 7
   release_date: 2012-12-09
-  directors: ['Matthew Faughnan']
-  writers: ['Matt Selman']
+  directors: ["Matthew Faughnan"]
+  writers: ["Matt Selman"]
   description: Portland comes to Springfield in the form of Homer's new hipster neighbors. While Homer loves the designer donuts, Marge is none too crazy about the breast-feeding mafia.
   disneyplus_id: 4dc59433-30c8-44e8-abbd-61befb85003b
   simpsonsworld_id: 222374467937
   good: false
-  guest_stars:
+  guest_stars: ["Fred Armisen", "Carrie Brownstein", "Colin Meloy", "Patton Oswalt", "Marcia Wallace"]
 - title: To Cur, With Love
   season: 24
   episode: 8
   release_date: 2012-12-16
-  directors: ['Steven Dean Moore']
-  writers: ['Carolyn Omine']
+  directors: ["Steven Dean Moore"]
+  writers: ["Carolyn Omine"]
   description: While playing a civilization-building Internet game, Homer loses the family dog. Grampa reveals that Homer himself had a dog as a boy--one that he had to give up.
   disneyplus_id: ffc1af04-6262-4323-969a-61a1466c30ac
   simpsonsworld_id: 222491715618
   good: maybe
-  guest_stars:
+  guest_stars: []
 - title: Homer Goes to Prep School
   season: 24
   episode: 9
   release_date: 2013-01-06
-  directors: ['Mark Kirkland']
-  writers: ['Brian Kelley']
+  directors: ["Mark Kirkland"]
+  writers: ["Brian Kelley"]
   description: A trip to a childrens' playhouse turns into a near-death experience for Homer. He meets preppers who help him get ready for the imminent end of the world.
   disneyplus_id: 42b2510b-9a19-4c0a-93b9-035029b1702f
   simpsonsworld_id: 1094312515873
   good: false
-  guest_stars:
+  guest_stars: ["Maurice LaMarche", "Tom Waits"]
 - title: A Test Before Trying
   season: 24
   episode: 10
   release_date: 2013-01-13
-  directors: ['Chris Clements']
-  writers: ['Joel H. Cohen']
+  directors: ["Chris Clements"]
+  writers: ["Joel H. Cohen"]
   description: Bart must pass a test to save Springfield Elementary. Meanwhile, Homer finds a working parking meter and uses it to steal quarters beyond his wildest dreams.
   disneyplus_id: e71772f8-9b90-4cdc-a632-2ec49a4a7238
   simpsonsworld_id: 222388291945
   good: true
-  guest_stars:
+  guest_stars: ["Valerie Harper", "Marcia Wallace"]
 - title: The Changing of the Guardian
   season: 24
   episode: 11
   release_date: 2013-01-27
-  directors: ['Bob Anderson']
-  writers: ['Rob LaZebnik']
+  directors: ["Bob Anderson"]
+  writers: ["Rob LaZebnik"]
   description: Marge and Homer nearly suffocate in a revolving door during a tornado. They realize they do not have suitable guardians for their children.
   disneyplus_id: 3e3022f9-b8c7-4768-841f-8cd383608aaf
   simpsonsworld_id: 257684035668
   good: maybe
-  guest_stars:
+  guest_stars: ["Danny DeVito", "Terry W. Greene", "Rashida Jones"]
 - title: Love is a Many-Splintered Thing
   season: 24
   episode: 12
   release_date: 2013-02-10
-  directors: ['Michael Polcino']
-  writers: ['Tim Long']
+  directors: ["Mike Frank Polcino"]
+  writers: ["Tim Long"]
   description: Love is a Many-Splintered Thing. Bart looks back at love from middle age in this homage to Annie Hall.
   disneyplus_id: 4663923b-b408-4bb3-92e5-9ebdeccb05ae
   simpsonsworld_id: 257681987573
   good: maybe
-  guest_stars:
+  guest_stars: ["Robert A. Caro", "Benedict Cumberbatch", "Zooey Deschanel", "Max Weinberg"]
 - title: Hardly Kirk-ing
   season: 24
   episode: 13
   release_date: 2013-02-17
-  directors: ['Matthew Nastuk']
-  writers: ['Tom Gammill', 'Max Pross']
+  directors: ["Matthew Nastuk"]
+  writers: ["Tom Gammill", "Max Pross"]
   description: Bart and Milhouse discover that they can convince everyone Milhouse is his dad. Meanwhile, Homer discovers a hidden talent for finding hidden pictures.
   disneyplus_id: 3ab864df-697f-41e7-ae9f-0ad6fec3b103
   simpsonsworld_id: 257686595928
   good: maybe
-  guest_stars:
+  guest_stars: ["Kevin Michael Richardson"]
 - title: Gorgeous Grampa
   season: 24
   episode: 14
   release_date: 2013-03-03
-  directors: ['Chuck Sheetz']
-  writers: ['Matt Selman']
+  directors: ["Chuck Sheetz"]
+  writers: ["Matt Selman"]
   description: The Simpsons discover Grampa was a "bad guy" pro wrestler in the '50s. Then they are alarmed to see Bart begin to adopt Grampa's worst qualities.
   disneyplus_id: 270cddb5-ae5e-4f22-986b-9d59ad2111e6
   simpsonsworld_id: 257687107857
   good: maybe
-  guest_stars:
+  guest_stars: []
 - title: Black-Eyed, Please
   season: 24
   episode: 15
   release_date: 2013-03-10
-  directors: ['Matthew Schofield']
-  writers: ['John Frink']
+  directors: ["Matthew Schofield"]
+  writers: ["John Frink"]
   description: Lisa gets picked on by a bully who happens to be her teacher, and cannot figure out the reason why. Meanwhile, Flanders finally gets fed up and punches Homer in the eye--then desperately begs his neighboreeno for forgiveness Homer won't provide.
   disneyplus_id: 47af67d2-e7b6-4f95-98ac-6da8309ef295
   simpsonsworld_id: 257689667578
   good: maybe
-  guest_stars:
+  guest_stars: ["Richard Dawkins", "Tina Fey", "Marcia Wallace"]
 - title: Dark Knight Court
   season: 24
   episode: 16
   release_date: 2013-03-17
-  directors: ['Mark Kirkland']
-  writers: ['Billy Kimball', 'Ian Maxtone-Graham']
+  directors: ["Mark Kirkland"]
+  writers: ["Billy Kimball", "Ian Maxtone-Graham"]
   description: Springfield's Easter is ruined by a prank and all fingers point to Bart. It is up to Lisa to save her brother, in a student court presided over by Attorney General Janet Reno. Meanwhile, inspired by an old comic book, Mr. Burns becomes an ineffectual superhero--fruit bat man.
   disneyplus_id: 95256888-0f8d-4980-bc2a-ec7656f272b8
   simpsonsworld_id: 257714243647
   good: maybe
-  guest_stars:
+  guest_stars: ["Michael Dees", "Janet Reno", "Maggy Reno Hurchalla"]
 - title: What Animated Women Want
   season: 24
   episode: 17
   release_date: 2013-04-14
-  directors: ['Steven Dean Moore']
-  writers: ['J. Stewart Burns']
+  directors: ["Steven Dean Moore"]
+  writers: ["J. Stewart Burns"]
   description: A fight during a long-planned lunch prompts Homer to learn the four f's of dealing with a woman. Meanwhile Milhouse discovers the secret to Lisa's heart in an old black-and-white film.
   disneyplus_id: 73a2c90e-f551-429f-b4f8-9c04ee997cf9
   simpsonsworld_id: 1094243907551
   good: maybe
-  guest_stars:
+  guest_stars: ["Bryan Cranston", "Maurice LaMarche", "Aaron Paul", "Wanda Sykes", "George Takei", "Marcia Wallace"]
 - title: Pulpit Friction
   season: 24
   episode: 18
   release_date: 2013-04-28
-  directors: ['Chris Clements']
-  writers: ['Bill Odenkirk']
+  directors: ["Chris Clements"]
+  writers: ["Bill Odenkirk"]
   description: After a terrifying bedbug scare, a new teacher comes to Springfield Presbylutheran and wins the congregation's affections--sending Reverend Lovejoy into the unholy world of hot tub sales.
   disneyplus_id: 512ce114-2f2d-4fdb-88bd-5a6751f6462b
   simpsonsworld_id: 257728579751
   good: maybe
-  guest_stars:
+  guest_stars: ["Edward Norton", "Susie Stevens"]
 - title: Whiskey Business
   season: 24
   episode: 19
   release_date: 2013-05-05
-  directors: ['Matthew Nastuk']
-  writers: ['Valentina L. Garza']
+  directors: ["Matthew Nastuk"]
+  writers: ["Valentina L. Garza"]
   description: A suicide attempt gone awry prompts Marge to buy Moe a fancy new suit to improve his outlook on life. He starts a homemade bourbon brewery and gets an IPO at the Springfield stock exchange -- then loses the suit that got him there.
   disneyplus_id: 80644bf4-18ff-44e7-9a9d-35ac709a5df7
   simpsonsworld_id: 257737283653
   good: maybe
-  guest_stars:
+  guest_stars: ["Tony Bennett", "Kevin Michael Richardson", "Sonny Rollins", "Ron Taylor"]
 - title: The Fabulous Faker Boy
   season: 24
   episode: 20
   release_date: 2013-05-12
-  directors: ['Bob Anderson']
-  writers: ['Brian McConnachie']
+  directors: ["Bob Anderson"]
+  writers: ["Brian McConnachie"]
   description: Bart takes piano lessons because his teacher is a beautiful young girl. But he disappoints his mother with his lack of talent at a recital. Meanwhile, Homer loses his top two hairs and becomes completely bald.
   disneyplus_id: 15c88f3c-b1e6-4e5c-abe6-6c38575acb5b
   simpsonsworld_id: 257760323921
   good: maybe
-  guest_stars:
+  guest_stars: ["Justin Bieber", "Bill Hader", "Jane Krakowski", "Patrick Stewart"]
 - title: The Saga of Carl
   season: 24
   episode: 21
   release_date: 2013-05-19
-  directors: ['Chuck Sheetz']
-  writers: ['Eric Kaplan']
+  directors: ["Chuck Sheetz"]
+  writers: ["Eric Kaplan"]
   description: When the guys split a winning lottery ticket, they are stunned when Carl disappears with the money. In tracking him down, they discover surprising secrets about his past.
   disneyplus_id: 1c50979f-f6ae-4423-84ef-994f265ad68a
   simpsonsworld_id: 257753667515
   good: true
-  guest_stars:
+  guest_stars: ["Sigur Rós"]
 - title: Dangers on a Train
   season: 24
   episode: 22
   release_date: 2013-05-19
-  directors: ['Steven Dean Moore']
-  writers: ['Michael Price']
+  directors: ["Steven Dean Moore"]
+  writers: ["Michael Price"]
   description: When Marge tries to buy Homer snack cakes for their anniversary, she winds up meeting a married man who shares a common love of British Television. Ignorant of all, Homer attempts to secretly construct a romantic anniversary train in the Simpsons back yard.
   disneyplus_id: 5ee81233-f579-4ae7-a150-24b942a2da1b
   simpsonsworld_id: 257768003795
   good: maybe
-  guest_stars:
+  guest_stars: ["Lisa Lampanelli", "Seth MacFarlane"]

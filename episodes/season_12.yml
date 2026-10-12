@@ -4,167 +4,167 @@ episodes:
   season: 12
   episode: 1
   release_date: 2000-11-01
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Rob LaZebnik", "John Frink", "Don Payne", "Carolyn Omine"]
   description: Homer's horoscope foretells his death; Lisa frees a dolphin from Marineland who banishes humans to the sea and takes over the land for dolphins; the Simpsons live out Grimm's fairy tales.
   disneyplus_id: c09e15a4-7f84-4230-aade-41bb52d736ab
   simpsonsworld_id: 294765123660
   good: false
-  guest_stars:
+  guest_stars: ["Frank Welker"]
 - title: A Tale of Two Springfields
   season: 12
   episode: 2
   release_date: 2000-11-05
-  directors:
-  writers:
+  directors: ["Shaun Cashman"]
+  writers: ["John Swartzwelder"]
   description: A new area code for half of Springfield leads to great divisions in the town. A wall goes up and only the music of The Who can bring it down.
   disneyplus_id: 927e2db3-96ce-4175-af6c-49a562ae6190
   simpsonsworld_id: 300911171880
   good: true
-  guest_stars:
+  guest_stars: ["Gary Coleman", "Marcia Wallace", "Frank Welker", "The Who"]
 - title: Insane Clown Poppy
   season: 12
   episode: 3
   release_date: 2000-11-12
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["John Frink", "Don Payne"]
   description: Krusty the Clown discovers he has a daughter he never knew about. To win her love, he must get back a violin from mobster Fat Tony.
   disneyplus_id: 8e1f4c78-8fa1-4409-8b74-1abc0c266dd5
   simpsonsworld_id: 306934851515
   good: false
-  guest_stars:
+  guest_stars: ["Drew Barrymore", "Stephen King", "Joe Mantegna", "Jay Mohr", "Amy Tan", "John Updike"]
 - title: Lisa the Treehugger
   season: 12
   episode: 4
   release_date: 2000-11-19
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Matt Selman"]
   description: Lisa develops a crush on an older boy who is an environmental activist. To prevent a Redwood tree from being cut down, she starts to live in it, but through a series of misunderstandings, the forest is nearly turned into an amusement park.
   disneyplus_id: 9d8ae087-2af6-4f15-8e38-b9678e403eab
   simpsonsworld_id: 306939971530
   good: false
-  guest_stars:
+  guest_stars: ["Joshua Jackson"]
 - title: Homer vs. Dignity
   season: 12
   episode: 5
   release_date: 2000-11-26
-  directors:
-  writers:
+  directors: ["Neil Affleck"]
+  writers: ["Rob LaZebnik"]
   description: Mr. Burns decides to make Homer do awful things for the sheer sport of it. But Homer draws the line when he is told to dress as Santa and ruin a Thanksgiving parade.
   disneyplus_id: 884797da-5ca2-4d61-96ba-ac0cbd8807c0
   simpsonsworld_id: 311670339999
   good: false
-  guest_stars:
+  guest_stars: ["Leeza Gibbons", "Marcia Wallace"]
 - title: The Computer Wore Menace Shoes
   season: 12
   episode: 6
   release_date: 2000-12-03
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["John Swartzwelder"]
   description: Homer becomes an internet blogger who anonymously tells the truth about the powerful and famous. It lands him on a secret island from which he must escape, in a satire of the cult '60s series, "The Prisoner."
   disneyplus_id: cba9cda0-55d8-4996-a11c-3dabf5fb8ccb
   simpsonsworld_id: 302843971598
   good: false
-  guest_stars:
+  guest_stars: ["Patrick McGoohan", "Marcia Wallace"]
 - title: The Great Money Caper
   season: 12
   episode: 7
   release_date: 2000-12-10
-  directors:
-  writers:
+  directors: ["Mike Frank Polcino"]
+  writers: ["Carolyn Omine"]
   description: After attending a magic show, Bart and Homer start conning Springfield residents out of their money. To teach them a lesson, Marge decides to grift the grifters.
   disneyplus_id: fb060c9d-8aeb-43f8-b26a-b580b4111d85
   simpsonsworld_id: 304456259863
   good: true
-  guest_stars:
+  guest_stars: ["Edward Norton"]
 - title: Skinner's Sense of Snow
   season: 12
   episode: 8
   release_date: 2000-12-17
-  directors:
-  writers:
+  directors: ["Lance Kramer"]
+  writers: ["Tim Long"]
   description: An unexpected snowstorm traps the children of Springfield elementary inside their school, where Bart leads a revolt against the principal. Homer and Flanders attempt to rescue the children, but get trapped in Ned's car and begin to hallucinate.
   disneyplus_id: 20e593b8-5940-49b6-8e0e-9fab8fac501a
   simpsonsworld_id: 307850819951
   good: false
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: HOMR
   season: 12
   episode: 9
   release_date: 2001-01-07
-  directors:
-  writers:
+  directors: ["Mike B. Anderson"]
+  writers: ["Al Jean"]
   description: In this Emmy-winning episode, Homer undergoes a medical treatment to make himself smarter. The new, more intelligent Homer becomes a better friend to Lisa, but the rest of his life worsens, and he decides to return to his normal, dimwitted self- but leaves behind a message of hope for Lisa.
   disneyplus_id: 75b13b8a-867d-4256-a83c-0f08fc3d0d3e
   simpsonsworld_id: 306945603638
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Pokey Mom
   season: 12
   episode: 10
   release_date: 2001-01-14
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["Tom Martin"]
   description: Marge befriends a convict who is an incredible artist. She invites him to live in the house, at the same time that Homer starts a chiropractic business and earns the enmity of others in the profession.
   disneyplus_id: 39c87f08-5327-4160-ae3c-0f5af2c489dd
   simpsonsworld_id: 302844995961
   good: false
-  guest_stars:
+  guest_stars: ["Michael Keaton", "Charles Napier", "Robert Schimmel", "Bruce Vilanch", "Marcia Wallace"]
 - title: Worst Episode Ever
   season: 12
   episode: 11
   release_date: 2001-02-04
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Larry Doyle"]
   description: After Comic Book Guy has a heart attack, he turns the store over to Bart and Milhouse. They discover Comic Book Guy's collection of secretly recorded videotapes, while Comic Book Guy begins a torrid romance with Principal Skinner's mother.
   disneyplus_id: 74420502-f0be-4655-ad7a-8f9e30cd7005
   simpsonsworld_id: 310459971509
   good: true
-  guest_stars:
+  guest_stars: ["Tom Savini"]
 - title: Tennis the Menace
   season: 12
   episode: 12
   release_date: 2001-02-11
-  directors:
-  writers:
+  directors: ["Jen Kamerman"]
+  writers: ["Ian Maxtone-Graham"]
   description: Homer installs a tennis court with the money he was going to use to pay Grampa's funeral expenses. Bart and Marge become a successful doubles tennis team, which leads Homer to grow jealous of his own son.
   disneyplus_id: d73bbe8e-5510-4f64-8f46-c4e2f5783260
   simpsonsworld_id: 300916291603
   good: false
-  guest_stars:
+  guest_stars: ["Andre Agassi", "Pete Sampras", "Marcia Wallace", "Serena Williams", "Venus Williams"]
 - title: Day of the Jackanapes
   season: 12
   episode: 13
   release_date: 2001-02-18
-  directors:
-  writers:
+  directors: ["Michael Marcantel"]
+  writers: ["Al Jean"]
   description: Sideshow Bob returns and attempts to use Bart as a living bomb to kill Krusty the Clown. But when Krusty pays an emotional tribute to Bob on his show, Bob relents and must stop his boy-bomb.
   disneyplus_id: c4dfcad2-16ef-459e-9431-3028502c480b
   simpsonsworld_id: 307106883649
   good: false
-  guest_stars:
+  guest_stars: ["Gary Coleman", "Kelsey Grammer"]
 - title: New Kids on the Blecch
   season: 12
   episode: 14
   release_date: 2001-02-25
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Tim Long"]
   description: Bart becomes a member of a boy band which grows incredibly popular. Then the boys are stunned to learn they are being used as pawns by the United States Navy.
   disneyplus_id: 5371e47c-8fcb-4930-a796-d748a0555c1d
   simpsonsworld_id: 310437443723
   good: true
-  guest_stars:
+  guest_stars: ["'N Sync", "Tony Battaglia", "Ben Bledsoe", "Michael \"J\" Horn", "Marc Terenzi"]
 - title: Hungry Hungry Homer
   season: 12
   episode: 15
   release_date: 2001-03-04
-  directors:
-  writers:
+  directors: ["Nancy Kruse"]
+  writers: ["John Swartzwelder"]
   description: After spending a day at an amusement park for children, Blockoland, Homer learns the local minor league baseball team is secretly planning to move to Albuquerque. To stop them Homer stages a hunger strike.
   disneyplus_id: 3747fe1b-5b74-4bb9-be70-db26a8bfa301
   simpsonsworld_id: 307850819931
   good: true
-  guest_stars:
+  guest_stars: ["Stacy Keach", "Marcia Wallace"]
 - title: Bye Bye Nerdy
   season: 12
   episode: 16
@@ -175,7 +175,7 @@ episodes:
   disneyplus_id: 13a045c8-254b-4ef8-99df-2eddbb0fa183
   simpsonsworld_id: 302846019892
   good: false
-  guest_stars:
+  guest_stars: ["Kathy Griffin", "Jan Hooks", "Marcia Wallace"]
 - title: Simpson Safari
   season: 12
   episode: 17
@@ -186,7 +186,7 @@ episodes:
   disneyplus_id: 5e0845ce-5089-45f7-8c77-8c5f2563a462
   simpsonsworld_id: 302845507908
   good: false
-  guest_stars:
+  guest_stars: ["Frank Welker"]
 - title: Trilogy of Error
   season: 12
   episode: 18
@@ -197,7 +197,7 @@ episodes:
   disneyplus_id: c43da8e7-465a-43b3-88cd-107c6b2d4dfa
   simpsonsworld_id: 302842947994
   good: false
-  guest_stars:
+  guest_stars: ["Joe Mantegna", "Frankie Muniz"]
 - title: I'm Goin' to Praise Land
   season: 12
   episode: 19
@@ -208,18 +208,18 @@ episodes:
   disneyplus_id: d4cda6e9-f385-453e-b0fe-a2b070646a89
   simpsonsworld_id: 302848579632
   good: true
-  guest_stars:
+  guest_stars: ["Shawn Colvin", "Marcia Wallace"]
 - title: Children of a Lesser Clod
   season: 12
   episode: 20
   release_date: 2001-05-13
-  directors: ["Mike Polcino"]
+  directors: ["Mike Frank Polcino"]
   writers: ["Al Jean"]
   description: After injuring his leg playing YMCA basketball, Homer sets up a day care center. He earns the love of the town - but not his own son and daughter.
   disneyplus_id: 98c477e5-a326-492e-b43c-0df34879fc71
   simpsonsworld_id: 301652547508
   good: false
-  guest_stars:
+  guest_stars: []
 - title: Simpsons Tall Tales
   season: 12
   episode: 21
@@ -230,4 +230,4 @@ episodes:
   disneyplus_id: a65827d4-e377-4781-bb88-8e376a2d010d
   simpsonsworld_id: 301685315594
   good: false
-  guest_stars:
+  guest_stars: ["Marcia Wallace", "Frank Welker"]

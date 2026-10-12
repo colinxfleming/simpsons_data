@@ -4,230 +4,230 @@ episodes:
   season: 29
   episode: 1
   release_date: 2017-10-01
-  directors:
-  writers:
+  directors: ["Rob Oliver"]
+  writers: ["Brian Kelley"]
   description: In a world of fantasy the peasant Simpson family struggles with Marge's mother's illness. Meanwhile Lisa's magic powers lead to her capture.
   disneyplus_id: 3d01352c-298a-4989-b731-037c76723bd7
   simpsonsworld_id: 1075435075944
   good: false
-  guest_stars:
+  guest_stars: ["Billy Boyd", "Nikolaj Coster-Waldau"]
 - title: Springfield Splendor
   season: 29
   episode: 2
   release_date: 2017-10-08
-  directors:
-  writers:
+  directors: ["Matthew Faughnan"]
+  writers: ["Tim Long", "Miranda Thompson"]
   description: Lisa and Marge team up on a graphic novel which becomes a musical. Marge receives all the credit and Lisa is humiliated.
   disneyplus_id: deb0534a-f902-4d07-adaa-a684909ab9fa
   simpsonsworld_id: 1080357443795
   good: false
-  guest_stars:
+  guest_stars: ["Alison Bechdel", "Rachel Bloom", "Roz Chast", "Dan Harmon", "Kipp Lennon", "Marjane Satrapi", "Martin Short"]
 - title: Whistler's Father
   season: 29
   episode: 3
   release_date: 2017-10-15
-  directors:
-  writers:
+  directors: ["Matthew Faughnan"]
+  writers: ["Tom Gammill", "Max Pross"]
   description: Maggie reveals a hidden talent and Grampa tries to exploit it. Marge gets a job as a decorator for the mob.
   disneyplus_id: d21e9d5e-bcb7-43fe-a481-7ba9778a72fe
   simpsonsworld_id: 1073411651711
   good: false
-  guest_stars:
+  guest_stars: ["Nick Fascitelli", "Valerie Harper", "Joe Mantegna"]
 - title: Treehouse of Horror XXVIII
   season: 29
   episode: 4
   release_date: 2017-10-22
-  directors:
-  writers:
+  directors: ["Timothy Bailey"]
+  writers: ["John Frink"]
   description: The Simpsons become Halloween candy; Maggie requires an exorcism; Lisa gets a better life if buttons are sewn on her eyes and Homer discovers the most delicious food of all.
   disneyplus_id: f7afb747-ca04-43f5-86a4-1fb49ac87992
   simpsonsworld_id: 1078509635693
   good: false
-  guest_stars:
+  guest_stars: ["Mario Batali", "Ben Daniels", "William Friedkin", "Neil Gaiman"]
 - title: Grampy Can Ya Hear Me
   season: 29
   episode: 5
   release_date: 2017-11-05
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["Bill Odenkirk"]
   description: Grampa gets a hearing aid which tells him more about the world than he wants to know. Skinner learns that his mother shattered his boyhood dream.
   disneyplus_id: c3032318-9534-4d0a-9fde-b8fa73149315
   simpsonsworld_id: 1088584771605
   good: false
-  guest_stars:
+  guest_stars: []
 - title: The Old Blue Mayor She Ain't What She Used to Be
   season: 29
   episode: 6
   release_date: 2017-11-12
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Tom Gammill", "Max Pross"]
   description: After the ancient Springfield monorail runs amok, Marge becomes mayor and vows to put out the long-burning tire fire.
   disneyplus_id: 17596c52-12a8-4a76-8029-4a60e0ca6c59
   simpsonsworld_id: 1094410819778
   good: true
-  guest_stars:
+  guest_stars: ["Carolyn Omine"]
 - title: Singin' in the Lane
   season: 29
   episode: 7
   release_date: 2017-11-19
-  directors:
-  writers:
+  directors: ["Mike Frank Polcino"]
+  writers: ["Ryan Koh"]
   description: Homer's bowling team reunites. Their friendship is tested with Moe, their coach.
   disneyplus_id: 577678ca-5b02-4104-ad51-81f0fefb7776
   simpsonsworld_id: 1099353155881
   good: false
-  guest_stars:
+  guest_stars: []
 - title: Mr. Lisa's Opus
   season: 29
   episode: 8
   release_date: 2017-12-03
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Al Jean"]
   description: A look at Lisa's life from talking toddler to college-bound. Plus Homer enters a 12-step plan.
   disneyplus_id: f4dbc711-c255-45f3-a134-71d1538e325b
   simpsonsworld_id: 1108700739531
   good: maybe
-  guest_stars:
+  guest_stars: ["Kat Dennings", "Valerie Harper", "Norman Lear", "Kipp Lennon", "Jon Lovitz"]
 - title: Gone Boy
   season: 29
   episode: 9
   release_date: 2017-12-10
-  directors:
-  writers:
+  directors: ["Rob Oliver"]
+  writers: ["John Frink"]
   description: Bart disappears and the whole town can't find him. Then he is located by a vengeful Sideshow Bob.
   disneyplus_id: c883acfc-c701-4ce2-86ed-4a987004d9a3
   simpsonsworld_id: 1113094211783
   good: false
-  guest_stars:
+  guest_stars: ["Kelsey Grammer", "Valerie Harper", "Shaquille O'Neal"]
 - title: Haw-Haw Land
   season: 29
   episode: 10
   release_date: 2018-01-07
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["Tim Long", "Miranda Thompson"]
   description: Lisa meets a jazz-addicted boy and must choose between him and Nelson. Meanwhile, Bart takes up chemistry, but to what end?
   disneyplus_id: ada70e64-4986-48c5-baa8-0a90cf5dde7a
   simpsonsworld_id: 1131039811958
   good: maybe
-  guest_stars:
+  guest_stars: ["Ed Sheeran"]
 - title: Fink Gets Testy
   season: 29
   episode: 11
   release_date: 2018-01-14
-  directors:
-  writers:
+  directors: ["Chris Clements"]
+  writers: ["Dan Vebber"]
   description: Burns fears the end of the world and builds a cosmic ark. When he tests the town for worthiness, Marge is dismayed when Bart comes out on the bottom.
   disneyplus_id: d1d6b346-e020-42b7-b2e3-0877dadd08b2
   simpsonsworld_id: 1136372803875
   good: maybe
-  guest_stars:
+  guest_stars: ["Valerie Harper", "Maurice LaMarche"]
 - title: Homer Is Where the Art Isn't
   season: 29
   episode: 12
   release_date: 2018-03-18
-  directors:
-  writers:
+  directors: ["Timothy Bailey"]
+  writers: ["Kevin Curran"]
   description: Homer learns to love a piece of art. Then it's stolen and he's blamed.
   disneyplus_id: 2874a052-b76e-4ee3-9c11-34e84ec34ceb
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Bill Hader", "Cecily Strong"]
 - title: 3 Scenes Plus a Tag from a Marriage
   season: 29
   episode: 13
   release_date: 2018-03-25
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Tom Gammill", "Max Pross"]
   description: The Simpsons visit their old apartment and remember the days without their kids. And we learn a surprising secret from Lisa's birth.
   disneyplus_id: 13347997-2853-4e7b-8b52-62611513b189
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["John Baldessari", "Kevin Pollak", "J. K. Simmons"]
 - title: Fears of a Clown
   season: 29
   episode: 14
   release_date: 2018-04-01
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Michael Price"]
   description: Due to a general fear of clowns, Krusty can no longer do his job. He tries to get work as a serious actor. Meanwhile Bart undergoes therapy for serial pranking.
   disneyplus_id: d214d62c-90a0-4ddc-8438-31429ee5d4f0
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Andy Daly", "Damian Kulash", "Jon Lovitz", "Jackie Mason", "Tim Nordwind"]
 - title: No Good Read Goes Unpunished
   season: 29
   episode: 15
   release_date: 2018-04-08
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["Jeff Westbrook"]
   description: Bart tries to conquer Homer with help from a book. Marge discovers a childhood classic she loved does not translate well to these times.
   disneyplus_id: 1e733c96-48fa-4aa8-b91d-3b8bc72f0b64
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Daniel Radcliffe", "Jimmy O. Yang"]
 - title: King Leer
   season: 29
   episode: 16
   release_date: 2018-04-15
-  directors:
-  writers:
+  directors: ["Chris Clements"]
+  writers: ["Daniel Furlong", "Zach Posner"]
   description: Moe inherits a mattress business from his father, then lands in an all-out war with his siblings.
   disneyplus_id: e22f9e4a-ca07-4824-b3c2-3f84b8e67460
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Ray Liotta", "Debi Mazar", "Jonathan Schmock"]
 - title: Lisa Gets the Blues
   season: 29
   episode: 17
   release_date: 2018-04-22
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["David Silverman", "Brian Kelley"]
   description: Lisa gets the yips and Bart gets Annie'd. They go to New Orleans to recover.
   disneyplus_id: 56795fdf-0508-4bc0-8838-474ec4707c72
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Trombone Shorty"]
 - title: Forgive and Regret
   season: 29
   episode: 18
   release_date: 2018-04-29
-  directors:
-  writers:
+  directors: ["Rob Oliver"]
+  writers: ["Bill Odenkirk"]
   description: Grampa is about to die when he reveals a terrible secret. Homer struggles with how to forgive him.
   disneyplus_id: e4f01fb7-5c93-4941-8b16-1192590ce0e9
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Glenn Close", "Caitlin Parrott"]
 - title: Left Behind
   season: 29
   episode: 19
   release_date: 2018-05-06
-  directors:
-  writers:
+  directors: ["Lance Kramer"]
+  writers: ["Al Jean", "Joel H. Cohen", "John Frink"]
   description: Flanders loses his job and works with Homer at the plant. Homer prays for him to be fired.
   disneyplus_id: 190fc340-15dc-40c9-8cd9-f772d5478052
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Michael Dees", "Marcia Wallace"]
 - title: Throw Grampa from the Dane
   season: 29
   episode: 20
   release_date: 2018-05-13
-  directors:
-  writers:
+  directors: ["Mike Frank Polcino"]
+  writers: ["Rob LaZebnik"]
   description: The Simpsons visit Denmark and everyone but Homer falls in love with the happy country. Meanwhile Grampa needs a serious operation.
   disneyplus_id: 72925079-d023-480c-8a62-1c628b0dc482
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Sidse Babett Knudsen"]
 - title: Flanders' Ladder
   season: 29
   episode: 21
   release_date: 2018-05-20
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["J. Stewart Burns"]
   description: Bart is struck by lightning and has horrible dreams. Maude Flanders returns to seek her revenge.
   disneyplus_id: 4c2000cd-d195-48a6-b266-2ebd31f4bb9a
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Jackie Mason"]

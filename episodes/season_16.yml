@@ -10,7 +10,7 @@ episodes:
   disneyplus_id: c429b0e4-1b04-412a-8a91-cfc895957778
   simpsonsworld_id: 256741955834
   good: true
-  guest_stars: []
+  guest_stars: ["Marie Cain"]
 - title: All's Fair in Oven War
   season: 16
   episode: 2
@@ -21,7 +21,7 @@ episodes:
   disneyplus_id: f9055ee7-d0ce-4d6b-8003-603f7119a500
   simpsonsworld_id: 257840195722
   good: false
-  guest_stars: ["Thomas Pynchon", "James Caan"]
+  guest_stars: ["James Caan", "Thomas Pynchon", "Marcia Wallace"]
 - title: Sleeping with the Enemy
   season: 16
   episode: 3
@@ -32,7 +32,7 @@ episodes:
   disneyplus_id: b78a5b3e-131e-4487-b343-2bb35b1a9fca
   simpsonsworld_id: 256764995911
   good: false
-  guest_stars: []
+  guest_stars: ["Marcia Wallace"]
 - title: She Used to Be My Girl
   season: 16
   episode: 4
@@ -43,7 +43,7 @@ episodes:
   disneyplus_id: b517fdd3-3189-4110-9917-e648c31d5bd3
   simpsonsworld_id: 256753731544
   good: false
-  guest_stars: ["Kim Cattrall"]
+  guest_stars: ["Kim Cattrall", "Michael Dees"]
 - title: Fat Man and Little Boy
   season: 16
   episode: 5
@@ -54,7 +54,7 @@ episodes:
   disneyplus_id: 09381a61-ed4c-452c-95f1-e36ef5e6ae5c
   simpsonsworld_id: 256759363799
   good: false
-  guest_stars: ["Eric Idle"]
+  guest_stars: ["Terry W. Greene", "Eric Idle"]
 - title: Midnight Rx
   season: 16
   episode: 6
@@ -87,7 +87,7 @@ episodes:
   disneyplus_id: 7afae618-eda9-4d62-b319-5e1549330665
   simpsonsworld_id: 256813635887
   good: false
-  guest_stars: ["Tom Brady", "LeBron James", "Michelle Kwan", "Yao Ming", "Warren Sapp"]
+  guest_stars: ["Tom Brady", "LeBron James", "Michelle Kwan", "Warren Sapp", "Yao Ming"]
 - title: Pranksta Rap
   season: 16
   episode: 9
@@ -109,7 +109,7 @@ episodes:
   disneyplus_id: 6f65b25b-f866-4ab6-81c5-ae962d9ca2c8
   simpsonsworld_id: 256822339660
   good: false
-  guest_stars: []
+  guest_stars: ["Marcia Wallace"]
 - title: On a Clear Day I Can't See My Sister
   season: 16
   episode: 11
@@ -120,7 +120,7 @@ episodes:
   disneyplus_id: 3ca17e3f-266c-41bf-a238-23d01ca8fe78
   simpsonsworld_id: 256825923849
   good: false
-  guest_stars: ["Gary Busey", "Jane Maczmarek"]
+  guest_stars: ["Gary Busey", "Jane Kaczmarek", "Marcia Wallace"]
 - title: Goo Goo Gai Pan
   season: 16
   episode: 12
@@ -131,7 +131,7 @@ episodes:
   disneyplus_id: 0691785f-6390-4530-9df1-ed232c34a735
   simpsonsworld_id: 264432707575
   good: false
-  guest_stars: ["Robert Wagner", "Lucy Liu"]
+  guest_stars: ["Lucy Liu", "Robert Wagner"]
 - title: Mobile Homer
   season: 16
   episode: 13
@@ -153,7 +153,7 @@ episodes:
   disneyplus_id: ab7739e8-d519-459f-9793-f3ea610c0fcf
   simpsonsworld_id: 260844611804
   good: true
-  guest_stars: ["Frank Gehry", "Charles Napier", "Joe Mantegna"]
+  guest_stars: ["Frank Gehry", "Joe Mantegna", "Charles Napier"]
 - title: Future-Drama
   season: 16
   episode: 15
@@ -164,7 +164,7 @@ episodes:
   disneyplus_id: 39b6efe6-0ee6-44fe-b4df-6b5f8e326486
   simpsonsworld_id: 260841027999
   good: false
-  guest_stars: ["Amy Poehler", "John DiMaggio"]
+  guest_stars: ["John DiMaggio", "Amy Poehler", "Marcia Wallace"]
 - title: Don't Fear the Roofer
   season: 16
   episode: 16
@@ -186,7 +186,7 @@ episodes:
   disneyplus_id: 7774ac95-799b-45b3-ac70-d51f28913b91
   simpsonsworld_id: 264207427808
   good: false
-  guest_stars: ["Albert Brooks"]
+  guest_stars: ["Albert Brooks", "Marcia Wallace"]
 - title: A Star is Torn
   season: 16
   episode: 18
@@ -208,18 +208,18 @@ episodes:
   disneyplus_id: 44f42fdc-72ea-4485-a962-7037b22ed2dd
   simpsonsworld_id: 264217155650
   good: false
-  guest_stars:
+  guest_stars: ["Baha Men", "Los Lobos"]
 - title: The Father, The Son, and The Holy Guest Star
   season: 16
   episode: 20
   release_date: 2005-05-15
-  directors: ["Michael Polcino"]
+  directors: ["Mike Frank Polcino"]
   writers: ["Matt Warburton"]
   description: Willie releases rats at the Medieval festival, Bart is blamed. He goes to Catholic school, where he befriends a cool priest named Father Sean and, to Marge's dismay, considers converting.
   disneyplus_id: 941112e9-dc05-4a56-b712-5c6e285ed4a1
   simpsonsworld_id: 264455235845
   good: false
-  guest_stars: ["Liam Neeson"]
+  guest_stars: ["Liam Neeson", "Marcia Wallace"]
 - title: Home Away From Homer
   season: 16
   episode: 21

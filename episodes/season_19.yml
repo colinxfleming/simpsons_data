@@ -4,8 +4,8 @@ episodes:
   season: 19
   episode: 1
   release_date: 2007-09-23
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["Joel H. Cohen"]
   description: Homer is thrilled to ride on Mr. Burns' private plane to Chicago. It inspires him to get a life coach and apply for a new job.
   disneyplus_id: 5f4f913e-b85f-408f-90c6-d5afc40c62b7
   simpsonsworld_id: 292943427892
@@ -15,8 +15,8 @@ episodes:
   season: 19
   episode: 2
   release_date: 2007-09-30
-  directors:
-  writers:
+  directors: ["Mike Frank Polcino"]
+  writers: ["Carolyn Omine"]
   description: Homer discovers when lying flat on his back he has a beautiful singing voice. He becomes targeted for death by a mysterious groupie.
   disneyplus_id: 74e0ce11-b5b9-4bfe-af81-222d7a317f1e
   simpsonsworld_id: 350651459856
@@ -26,8 +26,8 @@ episodes:
   season: 19
   episode: 3
   release_date: 2007-10-07
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Stephanie Gillis"]
   description: Homer becomes a tow truck driver to the consternation of others. Meanwhile Marge tries raising Maggie with a controversial child-rearing approach.
   disneyplus_id: f8fefa6b-2784-48f1-bb9d-9f29ec90c95c
   simpsonsworld_id: 292968003585
@@ -37,19 +37,19 @@ episodes:
   season: 19
   episode: 4
   release_date: 2007-10-14
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["Dana Gould"]
   description: Marge goes to the bank and is enmeshed in a robbery. She befriends the robber then has second thoughts.
   disneyplus_id: 1c274f52-48c7-4748-8645-20219a520052
   simpsonsworld_id: 310455875747
   good: maybe
-  guest_stars: ["Steve Buschemi", "Ted Nugent", "Julia Louis-Dreyfus"]
+  guest_stars: ["Steve Buscemi", "Julia Louis-Dreyfus", "Ted Nugent"]
 - title: Treehouse of Horror XVIII
   season: 19
   episode: 5
   release_date: 2007-11-04
-  directors:
-  writers:
+  directors: ["Chuck Sheetz"]
+  writers: ["Marc Wilmore"]
   description: Bart befriends an alien only to discover he has evil intents; Marge and Homer, unbeknownst to the others, are professional assassins; Flanders opens a Christian alternative to Halloween haunted houses.
   disneyplus_id: d63b842e-1ec3-4f23-afc0-73c6df3829df
   simpsonsworld_id: 302852163741
@@ -59,8 +59,8 @@ episodes:
   season: 19
   episode: 6
   release_date: 2007-11-11
-  directors:
-  writers:
+  directors: ["Lance Kramer"]
+  writers: ["Mick Kelly"]
   description: Milhouse's parents disappear on a cruise. Meanwhile Homer gets in trouble with Marge because he can't remember the color of her eyes.
   disneyplus_id: ca71046e-d9ff-4f46-9b4c-163d076832fe
   simpsonsworld_id: 302855747799
@@ -70,30 +70,30 @@ episodes:
   season: 19
   episode: 7
   release_date: 2007-11-18
-  directors:
-  writers:
+  directors: ["Nancy Kruse"]
+  writers: ["Matt Selman"]
   description: A new friendlier comic book store opens in Springfield and Comic Book Guy is aghast. Marge becomes a successful businesswoman and Homer is afraid he will dump her.
   disneyplus_id: 21a3fc48-1c03-4b68-b701-11e5ee100236
   simpsonsworld_id: 294772803561
   good: maybe
-  guest_stars: ["Alan Moore", "Art Spiegelman", "Dan Clowes", "Jack Black", "Maurice LaMarche"]
+  guest_stars: ["Jack Black", "Daniel Clowes", "Maurice LaMarche", "Sang Am Lee", "Alan Moore", "Art Spiegelman"]
 - title: Funeral for a Fiend
   season: 19
   episode: 8
   release_date: 2007-11-25
-  directors:
-  writers:
+  directors: ["Rob Oliver"]
+  writers: ["Michael Price"]
   description: After another of his attempts to kill the Simpsons is foiled, Sideshow Bob is put on trial; during the proceedings Bart accidentally kills his old nemesis.
   disneyplus_id: 6f916487-509a-4a89-b64c-405838490726
   simpsonsworld_id: 310458947589
   good: maybe
-  guest_stars: ["Kelsey Grammer", "David Hyde Pierce", "John Mahoney", "Keith Olbermann"]
+  guest_stars: ["Kelsey Grammer", "John Mahoney", "Keith Olbermann", "David Hyde Pierce"]
 - title: Eternal Moonshine of the Simpson Mind
   season: 19
   episode: 9
   release_date: 2007-12-16
-  directors:
-  writers:
+  directors: ["Chuck Sheetz"]
+  writers: ["J. Stewart Burns"]
   description: In this Emmy-winning episode, Homer cannot remember the events of the previous night, when something terrible happened to Marge and his family disappeared.
   disneyplus_id: 0851cfc9-f99b-49f6-ac88-5d3dba39b664
   simpsonsworld_id: 302847555877
@@ -103,30 +103,30 @@ episodes:
   season: 19
   episode: 10
   release_date: 2008-01-06
-  directors:
-  writers:
+  directors: ["Mike Frank Polcino"]
+  writers: ["Michael Price"]
   description: Springfield gets the first in the nation primary and Ralph runs for president, promising to make America great again.
   disneyplus_id: 24c66db4-ce68-455c-ae36-79e967581487
   simpsonsworld_id: 307179075535
   good: maybe
-  guest_stars: ["Jon Stewart", "Dan Rather"]
+  guest_stars: ["Dan Rather", "Jon Stewart"]
 - title: That 90's Show
   season: 19
   episode: 11
   release_date: 2008-01-27
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["Matt Selman"]
   description: In this flashback to the era when Homer and Marge were together before Bart was born, Marge is attracted to her professor and Homer sings in a grunge band, Sadgasm.
   disneyplus_id: b71c8a15-6c06-41b2-a043-83944994ae90
   simpsonsworld_id: 299664963588
   good: maybe
-  guest_stars: ["Kurt Loder", "Weird Al Yankovic"]
+  guest_stars: ["Michael Dees", "Kurt Loder", "\"Weird Al\" Yankovic"]
 - title: Love, Springfieldian Style
   season: 19
   episode: 12
   release_date: 2008-02-17
-  directors:
-  writers:
+  directors: ["Raymond S. Persi"]
+  writers: ["Don Payne"]
   description: In this Valentine's-themed show, the Simpsons explore the twisted romantic lives of Bonnie and Clyde, Sid and Nancy and Lady and the Tramp.
   disneyplus_id: 118c784d-2c9b-4a9e-b9b8-b609d403e1e4
   simpsonsworld_id: 310471235766
@@ -136,30 +136,30 @@ episodes:
   season: 19
   episode: 13
   release_date: 2008-03-02
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Joel H. Cohen"]
   description: Bart befriends a cool older kid only to discover he is a plant working for Principal Skinner.
   disneyplus_id: 5a4ae7a8-4729-4f23-ba89-209ab70a465d
   simpsonsworld_id: 302849603730
   good: maybe
-  guest_stars: ["Topher Grace", "Terry Gross"]
+  guest_stars: ["Topher Grace", "Terry Gross", "Marcia Wallace"]
 - title: Dial 'N' for Nerder
   season: 19
   episode: 14
   release_date: 2008-03-09
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["Carolyn Omine", "William Wright"]
   description: Bart and Lisa are afraid they have killed Martin Prince. Meanwhile Marge employs a reality TV show to discover if Homer is cheating on his diet.
   disneyplus_id: e8fda88c-f52c-464b-83b9-e8f065411edc
   simpsonsworld_id: 302849091724
   good: maybe
-  guest_stars: []
+  guest_stars: ["Marcia Wallace"]
 - title: Smoke on the Daughter
   season: 19
   episode: 15
   release_date: 2008-03-30
-  directors:
-  writers:
+  directors: ["Lance Kramer"]
+  writers: ["Billy Kimball"]
   description: Lisa takes ballet and becomes addicted to second-hand smoke. Meanwhile Homer and Bart make jerky.
   disneyplus_id: 01136086-4939-4540-8084-e24885f73cc6
   simpsonsworld_id: 310477379554
@@ -169,19 +169,19 @@ episodes:
   season: 19
   episode: 16
   release_date: 2008-04-13
-  directors:
-  writers:
+  directors: ["Chris Clements"]
+  writers: ["Reid Harrison"]
   description: Homer's former protege Lurleen Lumpkin returns with her no-good hamboning father in tow.
   disneyplus_id: 33075a8b-b029-4c8a-a5da-79d8fb3af2d2
   simpsonsworld_id: 283768387739
   good: maybe
-  guest_stars: ["Beverly D'Angelo", "Natalie Maines", "Martie Maguire", "Emily Strayer"]
+  guest_stars: ["Beverly D'Angelo", "Dixie Chicks"]
 - title: Apocalypse Cow
   season: 19
   episode: 17
   release_date: 2008-04-27
-  directors:
-  writers:
+  directors: ["Nancy Kruse"]
+  writers: ["Jeff Westbrook"]
   description: With the help of Cletus' daughter Mary, Bart raises a prize calf only to be terrified when it is sold for slaughter.
   disneyplus_id: f8d77648-1c10-4b47-9a9a-013e3f647bc0
   simpsonsworld_id: 302847555768
@@ -191,8 +191,8 @@ episodes:
   season: 19
   episode: 18
   release_date: 2008-05-04
-  directors:
-  writers:
+  directors: ["Chuck Sheetz"]
+  writers: ["Daniel Chun"]
   description: Lisa enters a film in the Sundance festival under the Chalmskin production banner. The documentary proves embarrassing to her family.
   disneyplus_id: 1b0ffd5c-dfb2-4cf4-b944-f474317ff536
   simpsonsworld_id: 283769923976
@@ -202,19 +202,19 @@ episodes:
   season: 19
   episode: 19
   release_date: 2008-05-11
-  directors:
-  writers:
+  directors: ["Mike B. Anderson", "Ralph Sosa"]
+  writers: ["Joel H. Cohen"]
   description: Homer's mother returns to him for good--then dies. To cope with his grief he tries to honor her unusual last wishes.
   disneyplus_id: 3081af81-05a0-467c-a387-1f42c980e064
   simpsonsworld_id: 299670083511
   good: maybe
-  guest_stars: ["Glenn Close", "Lance Armstrong"]
+  guest_stars: ["Lance Armstrong", "Glenn Close"]
 - title: All About Lisa
   season: 19
   episode: 20
   release_date: 2008-05-18
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["John Frink"]
   description: The season ends with Mr. Burns losing a penny, just as it began with him finding one. We see the rise of Lisa as Krusty's assistant, narrated by Mel.
   disneyplus_id: 47767129-69e7-4bec-9b8b-11771decedc4
   simpsonsworld_id: 294774851723

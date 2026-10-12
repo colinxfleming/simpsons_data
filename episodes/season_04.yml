@@ -10,7 +10,7 @@ episodes:
   disneyplus_id: ccad196d-c2fc-4238-bbbc-ff5bd29524c5
   simpsonsworld_id: 279133251579
   good: true
-  guest_stars:
+  guest_stars: ["Gene Merlino", "Marcia Wallace"]
 - title: A Streetcar Named Marge
   season: 4
   episode: 2
@@ -21,7 +21,7 @@ episodes:
   disneyplus_id: c3eab1b4-bd46-4de4-b7ff-712b86a3f741
   simpsonsworld_id: 273537603751
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Jon Lovitz"]
 - title: Homer the Heretic
   season: 4
   episode: 3
@@ -32,7 +32,7 @@ episodes:
   disneyplus_id: 2302e73c-b1bf-4157-9e1b-2613252d6c7a
   simpsonsworld_id: 279137859827
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Lisa the Beauty Queen
   season: 4
   episode: 4
@@ -43,7 +43,7 @@ episodes:
   disneyplus_id: 60fb9545-f761-4900-802e-e441763d12b9
   simpsonsworld_id: 273537603930
   good: true
-  guest_stars:
+  guest_stars: ["Bob Hope"]
 - title: Treehouse of Horror III
   season: 4
   episode: 5
@@ -54,7 +54,7 @@ episodes:
   disneyplus_id: 142453dc-a6e6-430d-96fe-6bcfa0b7c228
   simpsonsworld_id: 305668675610
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: 'Itchy and Scratchy: The Movie'
   season: 4
   episode: 6
@@ -65,18 +65,18 @@ episodes:
   disneyplus_id: ad45a494-af56-4a7e-bf54-4d19db1978d2
   simpsonsworld_id: 278803011830
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: Marge Gets a Job
   season: 4
   episode: 7
   release_date: 1992-11-05
-  directors: ["Jeff Lynch"]
+  directors: ["Jeffrey Lynch"]
   writers: ["Bill Oakley", "Josh Weinstein"]
   description: Marge gets a job at the nuclear plant, where Mr. Burns develops a crush on her. He kidnaps her idol, Tom Jones, in a futile attempt to win her away from Homer. Meanwhile, Bart becomes the boy who cried "wolf" - literally
   disneyplus_id: 29ec635b-c0fa-4bd2-b573-1899555280e9
   simpsonsworld_id: 299613763656
   good: false
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Tom Jones", "Marcia Wallace"]
 - title: New Kid on the Block
   season: 4
   episode: 8
@@ -87,7 +87,7 @@ episodes:
   disneyplus_id: 6ba3bd0a-dba5-4202-83ac-9fe7e2d3ca0b
   simpsonsworld_id: 273542211871
   good: false
-  guest_stars:
+  guest_stars: ["Sara Gilbert", "Phil Hartman", "Pamela Reed"]
 - title: Mr. Plow
   season: 4
   episode: 9
@@ -98,7 +98,7 @@ episodes:
   disneyplus_id: 33937a54-358c-4ba7-b5bb-09ccc836b414
   simpsonsworld_id: 273544259768
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Linda Ronstadt", "Adam West"]
 - title: Lisa's First Word
   season: 4
   episode: 10
@@ -109,7 +109,7 @@ episodes:
   disneyplus_id: 122baebc-ff2c-486e-b2cf-647f398c0195
   simpsonsworld_id: 288026691837
   good: false
-  guest_stars:
+  guest_stars: ["Elizabeth Taylor"]
 - title: Homer's Triple Bypass
   season: 4
   episode: 11
@@ -120,18 +120,18 @@ episodes:
   disneyplus_id: d3e7e021-55ad-4a03-b743-9557a4589caf
   simpsonsworld_id: 273548355538
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Marge vs. the Monorail
   season: 4
   episode: 12
   release_date: 1993-01-14
   directors: ["Rich Moore"]
-  writers: ["Conan O'Brien'"]
+  writers: ["Conan O'Brien"]
   description: A fast-talking con man, Lyle Lanley, sells the people of Springfield a monorail, and Homer is thrilled to be the conductor. Marge warns that the monorail is a mistake, and is proven correct when it speeds out of control, with a VIP passenger aboard.
   disneyplus_id: 2361cbc4-30c9-4167-9fb8-e645126c0aee
   simpsonsworld_id: 306386499796
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Leonard Nimoy"]
 - title: Selma's Choice
   season: 4
   episode: 13
@@ -142,18 +142,18 @@ episodes:
   disneyplus_id: 4710cd38-4082-4d2a-b463-03e442a5943f
   simpsonsworld_id: 310386755912
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Michele Pillar"]
 - title: Brother from the Same Planet
   season: 4
   episode: 14
   release_date: 1993-02-04
-  directors: ["Jeff Lynch"]
+  directors: ["Jeffrey Lynch"]
   writers: ["Jon Vitti"]
   description: When Homer is late picking Bart up from soccer, Bart decides to get a "Big Brother" who'll take care of him. Out of jealousy, Homer gets a "Little Brother," and then gets in a knock-down drag-out fight with Bart's Big Brother. Meanwhile, Lisa runs up a huge phone bill calling a 900 line run by a teen film star.
   disneyplus_id: 19d050bd-44fa-4648-97f4-139e0a6c78c6
   simpsonsworld_id: 274103363992
   good: false
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Marcia Wallace"]
 - title: I Love Lisa
   season: 4
   episode: 15
@@ -164,7 +164,7 @@ episodes:
   disneyplus_id: 59169e02-ac53-47cf-b290-f4376d547c2b
   simpsonsworld_id: 274107459686
   good: true
-  guest_stars:
+  guest_stars: ["Michael Carrington"]
 - title: Duffless
   season: 4
   episode: 16
@@ -175,7 +175,7 @@ episodes:
   disneyplus_id: 6ecdddff-fe72-41f4-b9a5-83f175e25cac
   simpsonsworld_id: 277249603926
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Kipp Lennon", "Marcia Wallace"]
 - title: Last Exit to Springfield
   season: 4
   episode: 17
@@ -186,7 +186,7 @@ episodes:
   disneyplus_id: 9d226852-79cc-49b9-a997-91efe74758ae
   simpsonsworld_id: 357630019692
   good: true
-  guest_stars:
+  guest_stars: ["Joyce Brothers"]
 - title: 'So It''s Come to This: A Simpsons Clip Show'
   season: 4
   episode: 18
@@ -197,7 +197,7 @@ episodes:
   disneyplus_id: 11568b6a-0c38-47f8-ba6b-256a303fbe86
   simpsonsworld_id: 305670723781
   good: false
-  guest_stars:
+  guest_stars: []
 - title: The Front
   season: 4
   episode: 19
@@ -208,18 +208,18 @@ episodes:
   disneyplus_id: 719ea3e6-873d-4675-90ad-e95475895b4c
   simpsonsworld_id: 288029763650
   good: true
-  guest_stars:
+  guest_stars: ["Brooke Shields"]
 - title: Whacking Day
   season: 4
   episode: 20
   release_date: 1993-04-29
-  directors: ["Jeff Lynch"]
+  directors: ["Jeffrey Lynch"]
   writers: ["John Swartzwelder"]
   description: Springfield engages in an annual ritual of whacking at snakes with sticks - a ritual Lisa is determined to stop. Meanwhile, Bart is kicked out of school after a prank and home-schooled by Marge.
   disneyplus_id: 5f2bbb35-63c0-469c-87c5-58c1c4c41bf8
   simpsonsworld_id: 288129091929
   good: true
-  guest_stars:
+  guest_stars: ["Gene Merlino", "Barry White"]
 - title: Marge in Chains
   season: 4
   episode: 21
@@ -230,7 +230,7 @@ episodes:
   disneyplus_id: 6146a1d9-d187-437d-980f-a3e8be40064f
   simpsonsworld_id: 299606595657
   good: false
-  guest_stars:
+  guest_stars: ["David Crosby", "Phil Hartman"]
 - title: Krusty Gets Kancelled
   season: 4
   episode: 22
@@ -241,4 +241,4 @@ episodes:
   disneyplus_id: 56295362-761c-41b6-8225-477de55d070e
   simpsonsworld_id: 274256963874
   good: true
-  guest_stars:
+  guest_stars: ["Johnny Carson", "Hugh Hefner", "Bette Midler", "Luke Perry", "Red Hot Chili Peppers", "Elizabeth Taylor", "Marcia Wallace", "Barry White"]

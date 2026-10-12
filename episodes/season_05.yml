@@ -10,7 +10,7 @@ episodes:
   disneyplus_id: 97b07f43-87f7-4391-b6d1-f62eeb994af9
   simpsonsworld_id: 305674307809
   good: false
-  guest_stars:
+  guest_stars: ["David Crosby", "The Dapper Dans", "George Harrison"]
 - title: Cape Feare
   season: 5
   episode: 2
@@ -21,7 +21,7 @@ episodes:
   disneyplus_id: 1198c86c-019d-4a4c-b111-f7fa32aca469
   simpsonsworld_id: 305674819788
   good: true
-  guest_stars:
+  guest_stars: ["Kelsey Grammer", "Marcia Wallace"]
 - title: Homer Goes to College
   season: 5
   episode: 3
@@ -32,7 +32,7 @@ episodes:
   disneyplus_id: 319434f5-d0fc-4e4d-89a5-ce50601402a0
   simpsonsworld_id: 280399427649
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Rosebud
   season: 5
   episode: 4
@@ -43,7 +43,7 @@ episodes:
   disneyplus_id: 9d7f9bc8-5d00-442f-a3b8-34f54be24386
   simpsonsworld_id: 279714371653
   good: true
-  guest_stars:
+  guest_stars: ["Ramones"]
 - title: Treehouse of Horror IV
   season: 5
   episode: 5
@@ -54,7 +54,7 @@ episodes:
   disneyplus_id: 930db0aa-62a5-4a3d-8dd0-ef600b5dc516
   simpsonsworld_id: 275206211805
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Frank Welker"]
 - title: Marge on the Lam
   season: 5
   episode: 6
@@ -65,7 +65,7 @@ episodes:
   disneyplus_id: 2805959a-adef-46e9-a247-e4a4e6aa912e
   simpsonsworld_id: 294777411510
   good: true
-  guest_stars:
+  guest_stars: ["George Fenneman", "Phil Hartman", "Pamela Reed"]
 - title: Bart's Inner Child
   season: 5
   episode: 7
@@ -76,7 +76,7 @@ episodes:
   disneyplus_id: ac6a1521-da17-4ed2-9ef1-63e44b811503
   simpsonsworld_id: 275202627817
   good: true
-  guest_stars:
+  guest_stars: ["Albert Brooks", "James Brown", "Phil Hartman", "Marcia Wallace"]
 - title: Boy-Scoutz 'N the Hood
   season: 5
   episode: 8
@@ -87,7 +87,7 @@ episodes:
   disneyplus_id: edd3685d-9e65-4500-948e-f74f13e8349e
   simpsonsworld_id: 288056387698
   good: true
-  guest_stars:
+  guest_stars: ["Ernest Borgnine", "Marcia Wallace"]
 - title: The Last Temptation of Homer
   season: 5
   episode: 9
@@ -98,7 +98,7 @@ episodes:
   disneyplus_id: 8b3a1e9c-5501-4d7f-9dab-d2681284d618
   simpsonsworld_id: 275201091952
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Werner Klemperer", "Michelle Pfeiffer", "Marcia Wallace"]
 - title: "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)"
   season: 5
   episode: 10
@@ -109,7 +109,7 @@ episodes:
   disneyplus_id: 643aa3ba-6a8a-412d-abfb-2f3b25d84cb1
   simpsonsworld_id: 305659459565
   good: true
-  guest_stars:
+  guest_stars: ["Gerry Cooney", "Robert Goulet"]
 - title: Homer the Vigilante
   season: 5
   episode: 11
@@ -120,18 +120,18 @@ episodes:
   disneyplus_id: 25318604-f3ec-4560-806e-d68836bdf3bc
   simpsonsworld_id: 305677891810
   good: true
-  guest_stars:
+  guest_stars: ["Sam Neill"]
 - title: Bart Gets Famous
   season: 5
   episode: 12
   release_date: 1994-02-03
-  directors: ["Susie Detter"]
+  directors: ["Susie Dietter"]
   writers: ["John Swartzwelder"]
   description: Bart sneaks away from a field trip into the studio of Krusty the Clown, who hires him as an assistant. Bart gets a part on a sketch, but inadvertently messes it up, saying "I didn't do it," a catchphrase which catapults him to celebrity and an appearance on "Late Night with Conan O'Brien."
   disneyplus_id: 67a5d4cb-a640-4978-a8c3-03a2832b9fc3
   simpsonsworld_id: 302789187885
   good: true
-  guest_stars:
+  guest_stars: ["Conan O'Brien", "Marcia Wallace"]
 - title: Homer and Apu
   season: 5
   episode: 13
@@ -142,7 +142,7 @@ episodes:
   disneyplus_id: 4f67af48-7163-43a2-b273-3af670a2eff3
   simpsonsworld_id: 279716931614
   good: false
-  guest_stars:
+  guest_stars: ["Michael Carrington", "James Woods"]
 - title: Lisa vs. Malibu Stacy
   season: 5
   episode: 14
@@ -153,18 +153,18 @@ episodes:
   disneyplus_id: bbc99e64-154c-4e2e-a4cc-57bd769cd9cd
   simpsonsworld_id: 274260035625
   good: true
-  guest_stars:
+  guest_stars: ["Kathleen Turner"]
 - title: Deep Space Homer
   season: 5
   episode: 15
   release_date: 1994-02-24
-  directors: ["Wes Archer"]
+  directors: ["Carlos Baeza"]
   writers: ["David Mirkin"]
   description: In an attempt to send an average man into space, Homer and Barney are recruited as astronauts. Homer is sent into orbit on a voyage with Apollo 11 veteran Buzz Aldrin. Homer saves the mission from disaster, but is dismayed when all the credit goes to an inanimate carbon rod.
   disneyplus_id: fe31de9a-3bfd-4a39-90ab-71bcf4e26907
   simpsonsworld_id: 275720259883
   good: true
-  guest_stars:
+  guest_stars: ["Buzz Aldrin", "James Taylor"]
 - title: Homer Loves Flanders
   season: 5
   episode: 16
@@ -175,7 +175,7 @@ episodes:
   disneyplus_id: 4113698a-3b34-4646-8a75-236f9979ef3e
   simpsonsworld_id: 310398019629
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Bart Gets an Elephant
   season: 5
   episode: 17
@@ -186,7 +186,7 @@ episodes:
   disneyplus_id: 170dc337-51a7-42b7-84ff-3f54079ffd30
   simpsonsworld_id: 275726403611
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Burns' Heir
   season: 5
   episode: 18
@@ -197,7 +197,7 @@ episodes:
   disneyplus_id: 50f3cee0-364f-475c-ae3c-6554bcaf9c57
   simpsonsworld_id: 283747395787
   good: false
-  guest_stars:
+  guest_stars: ["Phil Hartman"]
 - title: Sweet Seymour Skinner's Baadasssss Song
   season: 5
   episode: 19
@@ -208,7 +208,7 @@ episodes:
   disneyplus_id: 423cb235-0481-4a71-959b-ad3c9f3075aa
   simpsonsworld_id: 274260035741
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace", "Frank Welker"]
 - title: The Boy Who Knew Too Much
   season: 5
   episode: 20
@@ -219,7 +219,7 @@ episodes:
   disneyplus_id: a5165211-2353-4c85-a322-2acf8da14b61
   simpsonsworld_id: 278796355962
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Marcia Wallace"]
 - title: Lady Bouvier's Lover
   season: 5
   episode: 21
@@ -230,7 +230,7 @@ episodes:
   disneyplus_id: 95202804-3bca-4c02-8469-993506d8ccb1
   simpsonsworld_id: 305681987583
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Kipp Lennon"]
 - title: Secrets of a Successful Marriage
   season: 5
   episode: 22
@@ -241,4 +241,4 @@ episodes:
   disneyplus_id: f398a9ce-1e2b-4bf1-bf22-82679c0532e2
   simpsonsworld_id: 279720003973
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Marcia Wallace"]

@@ -4,164 +4,164 @@ episodes:
   season: 37
   episode: 1
   release_date: 2025-09-28
-  directors:
-  writers:
+  directors: ["Gabriel DeFrancesco"]
+  writers: ["Jessica Conrad"]
   description: When Lisa starts wearing Marge's "vintage" clothes from the 90's, she's welcomed into the school's super-elite fashion club. But as they run out of retro looks, the funky fashionistas become obsessed with getting more...by hook or by crook.
   disneyplus_id: a704c4f3-8d5f-4ea2-9152-5c2a23d0d542
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Paul Brittain", "Cole Escola", "David Herman", "Stephanie Hsu"]
 - title: Keep Chalm and Gary On
   season: 37
   episode: 2
   release_date: 2025-10-05
-  directors:
-  writers:
+  directors: ["Timothy Bailey"]
+  writers: ["Christine Nangle"]
   description: Homer gets Superintendent Chalmers a job at the power plant. There, Chalmers discovers huge, mutated snails that produce valuable slime, launching his new career as a man-o-sphere guru.
   disneyplus_id: 78da1894-6082-410b-b426-a8fa0fd3c407
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Rosalie Chiang", "Cole Escola", "Adam Pally", "Kerry Washington"]
 - title: Treehouse of Horror XXXVI
   season: 37
   episode: 3
   release_date: 2025-10-19
-  directors:
-  writers:
+  directors: ["Matthew Faughnan"]
+  writers: ["Broti Gupta", "Michael Price", "Dan Greaney"]
   description: In this year's installment of the annual fright-fest, the town is menaced by a mysterious, murdering monster from out of the sewers; Krusty has a demonic special guest on his live Halloween special; and we go a thousand years into Springfield's poseable plastic, post-apocalyptic future.
   disneyplus_id: 88deb7db-0ac4-47a4-b576-5c2dc25f23ef
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Ike Barinholtz", "Viola Davis", "Idris Elba", "Matt Groening", "Michael Keaton"]
 - title: Men Behaving Manly
   season: 37
   episode: 4
   release_date: 2025-10-26
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["John Frink"]
   description: Springfield's men are in crisis.
   disneyplus_id: e6fd1200-f426-4a7e-876d-eea3dbb0300d
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Albert Brooks", "Maurice LaMarche"]
 - title: Bad Boys...For Life?
   season: 37
   episode: 5
   release_date: 2025-11-02
-  directors:
-  writers:
+  directors: ["Eric Koenig"]
+  writers: ["Al Jean"]
   description: Is Bart Simpson truly a bad seed? Homer and Marge must find out once and for good.
   disneyplus_id: fa5dbf98-2be6-48b0-ac47-75276f01d556
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Troy Baker", "Maurice LaMarche", "Matthew Modine", "Suzie Yeung"]
 - title: Bart 'n' Frink
   season: 37
   episode: 6
   release_date: 2025-11-09
-  directors:
-  writers:
+  directors: ["Rob Oliver"]
+  writers: ["Brian Kelley"]
   description: When Bart becomes Professor Frink's lab assistant, the Simpsons are thrown into a world of tech billionaires determined to live forever, with the future of the internet at stake.
   disneyplus_id: 088cdce1-721a-47b9-9b03-759f668a8a69
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Rosalie Chiang", "Glenn Howerton", "Danny Pudi"]
 - title: Sashes to Sashes
   season: 37
   episode: 7
   release_date: 2025-11-16
-  directors:
-  writers:
+  directors: ["Mike Frank Polcino"]
+  writers: ["Ryan Koh"]
   description: Bart runs against Mayor Quimby's son for student council president, while Lisa learns troubling secrets about the Quimby clan...and about the Simpsons.
   disneyplus_id: 72450db7-edcc-49da-8149-8a8d26577d9d
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Carrie Coon", "Cole Escola", "Brendan Gleeson", "Domhnall Gleeson", "Christine Nangle"]
 - title: The Day of the Jack-up
   season: 37
   episode: 8
   release_date: 2025-11-23
-  directors:
-  writers:
+  directors: ["Mike Frank Polcino"]
+  writers: ["Joel H. Cohen"]
   description: After a mysterious buyer purchases every ticket for the KPOP concert Lisa wants to go to, the Simpsons have to figure out the identity of this evil ticket reseller. Or do they? (Yes, they do.)
   disneyplus_id: 51407ebe-2bb0-4d9a-b502-abc223055856
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Paget Brewster", "Symone Holliday", "Courtney Rosemont"]
 - title: Aunt Misbehavin'
   season: 37
   episode: 9
   release_date: 2025-11-30
-  directors:
-  writers:
+  directors: ["Gabriel DeFrancesco"]
+  writers: ["Juliet Kaufman"]
   description: 'Patty and Bart team up for the ultimate prank: getting Homer declared legally dead. To their chagrin, Homer loves being officially dead -- which leads to Patty and Selma having a huge fight and Patty moving away to "Palm Springfield."'
   disneyplus_id: e109c451-f1f0-4ee9-ba91-0dfb755bfb69
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Mike Cullen", "Gary Janetti", "Stephen Tobolowsky"]
 - title: Guess Who's Coming to Skinner
   season: 37
   episode: 10
   release_date: 2025-12-07
-  directors:
-  writers:
+  directors: ["Rob Oliver"]
+  writers: ["John Frink"]
   description: When Principal Skinner discovers that one of his students is a runaway who has been living in the school library, he has to take the snarky, difficult kid into his home and is forced into a role he never expected or wanted -- being a parent.
   disneyplus_id: d29bf736-1c0d-439f-a1ad-e8fbb0d8bc95
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Kieran Culkin", "Karen Gillan", "Kurtwood Smith", "Barry Sonnenfeld", "Kerry Washington"]
 - title: Parahormonal Activity
   season: 37
   episode: 11
   release_date: 2025-12-14
-  directors:
-  writers:
+  directors: ["Chris Clements"]
+  writers: ["Loni Steele Sosthand"]
   description: Set in the near future, Marge is competently coping with the hormonal onslaught hitting her now teenage kids when she's suddenly struck by a big life change of her own, leaving Homer as the last sane person in the house...or is he?
   disneyplus_id: c663f72a-e8e7-48fe-b1f3-b159b7752149
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Lindsay Lohan", "Jon Lovitz"]
 - title: '"The Fall Guy-Yi-Yi!"'
   season: 37
   episode: 12
   release_date: 2025-12-28
-  directors:
-  writers:
+  directors: ["Timothy Bailey"]
+  writers: ["Cesar Mazariegos"]
   description: Homer revitalizes Bumblebee Man's career when he becomes his secret stuntman. But how much punishment can a Stunt-Bee take before it starts to sting?
   disneyplus_id: 234d20c9-b0e1-4390-ab51-0ae17ba5ab0a
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Patricia Acevedo", "Alejandro González Iñárritu", "Johnny Knoxville", "Los Tigres Del Norte", "Claudia Motta", "Humberto Velez"]
 - title: Seperance
   season: 37
   episode: 13
   release_date: 2026-01-04
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Jeff Westbrook"]
   description: Homer's enthusiasm skills land him a job at a secretive company with a mind-altering agenda.
   disneyplus_id: a47ffc27-689a-48d4-86aa-b9b33407cfec
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Zach Cherry", "Julianne Moore"]
 - title: Irrational Treasure
   season: 37
   episode: 14
   release_date: 2026-02-15
-  directors:
-  writers:
+  directors: ["Debbie Bruce Mahan"]
+  writers: ["Christine Nangle"]
   description: Marge's crusade to get the family dog in better shape leads to her entering Santa's Little Helper in canine agility competitions and a trip to the National Dog Show in Philadelphia. There, Marge and Homer suddenly find themselves -- and the dog -- mixed up in a historical conspiracy adventure worthy of a "National Treasure" movie.
   disneyplus_id: ce7533b5-245c-4060-9f68-5859ae1c4782
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Kevin Bacon", "Boyz II Men", "Quinta Brunson", "Taylor Dearden", "Charles Hofer", "Katherine LaNasa", "Christine Nangle", "Questlove", "Noah Wyle"]
 - title: Homer? A Cracker Bro?
   season: 37
   episode: 15
   release_date: 2026-02-15
-  directors:
-  writers:
+  directors: ["Chris Clements"]
+  writers: ["Ryan Koh"]
   description: Homer strikes up an unlikely friendship with Kirk Van Houten, which leads them to launching a hugely successful business venture together -- a "crumbless" cracker that sweeps the nation. But when Kirk's darkest secrets are revealed, Homer has to choose between his family and his fortune...and may just end up going to jail!
   disneyplus_id: 8aacfac0-2120-4343-b971-c9aed10cced2
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Michael Stipe"]

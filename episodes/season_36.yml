@@ -4,197 +4,197 @@ episodes:
   season: 36
   episode: 1
   release_date: 2024-09-29
-  directors:
-  writers:
+  directors: ["Rob Oliver"]
+  writers: ["Jessica Conrad"]
   description: Bart celebrates a birthday that will change his life forever.
   disneyplus_id: 5d481922-46e1-468a-ba2f-361466dbc983
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["John Cena", "Danny DeVito", "Tom Hanks", "Joel McHale", "Conan O'Brien", "Mark Proksch", "Seth Rogen", "Amy Sedaris"]
 - title: The Yellow Lotus
   season: 36
   episode: 2
   release_date: 2024-10-06
-  directors:
-  writers:
+  directors: ["Matthew Faughnan"]
+  writers: ["Loni Steele Sosthand"]
   description: The Simpsons encounter death on vacation at a high-end resort.
   disneyplus_id: 680de725-403e-417c-8afb-dfb7973f99ed
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Chloe Fineman", "Kelsey Grammer", "Jay Pharoah", "Kara Talve"]
 - title: Desperately Seeking Lisa
   season: 36
   episode: 3
   release_date: 2024-10-20
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Tim Long"]
   description: Lisa has a blazing misadventure in the dark world of Capital City's downtown art scene.
   disneyplus_id: 6a23e0db-8765-4100-94dc-aa292558d958
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Griffin Dunne", "Richard E. Grant", "Tracy Letts", "Molly Shannon"]
 - title: Shoddy Heat
   season: 36
   episode: 4
   release_date: 2024-10-27
-  directors:
-  writers:
+  directors: ["Gabriel DeFrancesco"]
+  writers: ["Jeff Westbrook"]
   description: An unearthed corpse opens up a cold case from Springfield in the 1980s... as well as a steamy relationship between young Grampa and Agnes Skinner.
   disneyplus_id: 08df8a71-e159-4a97-8bb1-4f9012918466
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Topher Grace"]
 - title: Treehouse of Horror XXXV
   season: 36
   episode: 5
   release_date: 2024-11-03
-  directors:
-  writers:
+  directors: ["Timothy Bailey"]
+  writers: ["Rob LaZebnik", "Dan Vebber", "Matt Selman"]
   description: Giant monsters created by political rage threaten to tear the town apart, a Victorian Mr. Burns is jump-scared on Thanksgiving by the ghosts of his abused workers, and Homer bonds with a pair of extra-terrestrial jeans in an unforgettable stop-motion adventure that can only be called... Denim.
   disneyplus_id: a0a9c906-5fb3-44f0-9e03-71083d816ff5
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Juan Carlos Enriquez", "Jorge R. Gutierrez", "Rob LaZebnik", "Tim Yoon"]
 - title: Women in Shorts
   season: 36
   episode: 6
   release_date: 2024-11-10
-  directors:
-  writers:
+  directors: ["Eric Koenig"]
+  writers: ["Christine Nangle"]
   description: Girls just want to have funny.
   disneyplus_id: 652543f6-7a41-4124-a9f0-7251cb5ff465
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Christine Nangle", "Ruth Reichl", "Renee Ridgeley", "Kerry Washington"]
 - title: 'Treehouse of Horror Presents: Simpsons Wicked This Way Comes'
   season: 36
   episode: 7
   release_date: 2024-11-24
-  directors:
-  writers:
+  directors: ["Debbie Bruce Mahan"]
+  writers: ["Jessica Conrad"]
   description: A tattooed man at a mysterious night circus transports Lisa into three strange stories from the innocent 1950s, the chilling retro-present, and a brutalist future where prestige TV rules the world.
   disneyplus_id: 93ca2c47-263a-4165-bd4a-684f3be3befa
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Andy Serkis"]
 - title: Convenience Airways
   season: 36
   episode: 8
   release_date: 2024-12-08
-  directors:
-  writers:
+  directors: ["Rob Oliver"]
+  writers: ["Loni Steele Sosthand"]
   description: The Simpsons are trapped on a flight with the most unruly passengers in America.
   disneyplus_id: ac20d797-790f-4524-9a6c-6756852d71ac
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Kate Berlant", "John Early", "Jay Pharoah", "John Pirruccello"]
 - title: Homer and Her Sisters
   season: 36
   episode: 9
   release_date: 2024-12-15
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Nick Dahan"]
   description: After a fight in an escape room, Krusty's truth-telling Aunt fixes Homer's relationship with Patty and Selma.
   disneyplus_id: 5018b37b-3599-4726-89ae-4a75d81ab30f
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Ike Barinholtz", "Susie Essman", "Jay Pharoah"]
 - title: The Man Who Flew Too Much
   season: 36
   episode: 10
   release_date: 2024-12-22
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Al Jean"]
   description: The new and improved Pin Pals travel to Capital City for their first ever state bowling championship.
   disneyplus_id: deb6b9b2-2bc4-4653-b1dc-dcc8fa3a57f7
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Glenn Close"]
 - title: Bottle Episode
   season: 36
   episode: 11
   release_date: 2024-12-29
-  directors:
-  writers:
+  directors: ["Gabriel DeFrancesco"]
+  writers: ["Rob LaZebnik", "Johnny LaZebnik"]
   description: Marge and Smithers team up to become wine-forging Robin Hoods.
   disneyplus_id: 066a2a43-af1a-4d04-94eb-424ab63a2574
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Robert Parker"]
 - title: The Flandshees of Innersimpson
   season: 36
   episode: 12
   release_date: 2025-03-30
-  directors:
-  writers:
+  directors: ["Chris Clements"]
+  writers: ["Dan Vebber"]
   description: Bart dips his toe into the world of celebrity DJ-ing, and Homer finally pushes Flanders too far.
   disneyplus_id: 14552ae4-a7bf-4dcc-9949-13cf6352af3f
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Rachel Bloom", "Jane Kaczmarek", "Fiona Shaw"]
 - title: The Last Man Expanding
   season: 36
   episode: 13
   release_date: 2025-04-06
-  directors:
-  writers:
+  directors: ["Timothy Bailey"]
+  writers: ["J. Stewart Burns"]
   description: Springfield becomes hooked on a miracle weight loss drug... all except Homer.
   disneyplus_id: 344c3f71-25ab-46ad-95e3-cacce88b9d49
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Sidse Babett Knudsen", "Joe Mantegna"]
 - title: P.S. I Hate You
   season: 36
   episode: 14
   release_date: 2025-04-13
-  directors:
-  writers:
+  directors: ["Mike Frank Polcino"]
+  writers: ["Cesar Mazariegos"]
   description: Marge's "nice-lady" reputation is on the line when an unknown blackmailer threatens to expose the angry woman she is inside.
   disneyplus_id: 23f729f3-b54c-4ae7-9ebb-d262a8c37324
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Beverly D'Angelo", "Jon Lovitz", "Tim Meadows"]
 - title: Abe League of Their Moe
   season: 36
   episode: 15
   release_date: 2025-04-27
-  directors:
-  writers:
+  directors: ["Rob Oliver"]
+  writers: ["Joel H. Cohen"]
   description: After Grampa and Moe recruit a Macedonian slugger to play in Springfield, it strains their friendship and the very integrity of baseball.
   disneyplus_id: 3bb4c27d-e97d-468f-8ecc-95b933b36121
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Kevin Burkhardt", "Jamie Demetriou", "Steve Gelbs", "Kevin Millar", "Kelena Neskoska", "Navena Neskoska", "Naum Neskoski", "Jimmy \"Jomboy\" O'Brien", "Chris Rock", "Kara Talve", "Danny Trejo"]
 - title: Stew Lies
   season: 36
   episode: 16
   release_date: 2025-05-04
-  directors:
-  writers:
+  directors: ["Debbie Bruce Mahan"]
+  writers: ["Broti Gupta"]
   description: Homer reinvigorates a celebrity chef's lost passion for food -- with some help from the mob.
   disneyplus_id: 079a559a-5aef-49b9-89be-2f23e18e3073
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["John DiMaggio", "Maurice LaMarche", "Joe Mantegna", "Angelo Moore"]
 - title: Full Heart, Empty Pool
   season: 36
   episode: 17
   release_date: 2025-05-11
-  directors:
-  writers:
+  directors: ["Chris Clements"]
+  writers: ["Jeff Westbrook"]
   description: Homer and Grampa team up to create a new sport that rivals pickleball, until Homer kicks Grampa off the team.
   disneyplus_id: 79ae80cc-2cc2-4c3d-9d22-44b8a429a528
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Blake Griffin", "Andrew Luck", "Megan Rapinoe", "Robert Smigel", "Rick Steves"]
 - title: Estranger Things
   season: 36
   episode: 18
   release_date: 2025-05-18
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Tim Long"]
   description: When Bart & Lisa stop watching Itchy & Scratchy together, Marge fears that they'll start to drift apart... but she has no idea how bad things are about to get!
   disneyplus_id: f13dda7c-0ea5-4639-a87e-2f76c099cf16
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Zooey Deschanel", "Gary LeRoi Gray", "Max Greenfield", "Sarah McLachlan"]

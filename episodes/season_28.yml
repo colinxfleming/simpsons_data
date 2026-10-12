@@ -4,230 +4,230 @@ episodes:
   season: 28
   episode: 1
   release_date: 2016-09-25
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Tom Gammill", "Max Pross"]
   description: 'When Springfield is burned to the ground, the Simpsons beg Mr. Burns to fund its rebuilding. Burns agrees -- with one condition: he gets to put on a variety show at the Springfield Bowl.'
   disneyplus_id: 2255dd8d-1ea8-4299-a608-d1588048fed9
   simpsonsworld_id: 1066704963871
   good: false
-  guest_stars:
+  guest_stars: ["Amy Schumer", "Pendleton Ward"]
 - title: Friends and Family
   season: 28
   episode: 2
   release_date: 2016-10-02
-  directors:
-  writers:
+  directors: ["Lance Kramer"]
+  writers: ["J. Stewart Burns"]
   description: Mr. Burns hires the Simpsons to play his live-in virtual reality family, but excludes Homer so that he may play dad. Now alone, Homer finds a new best friend in girl-next-door Julia, who eats, drinks and thinks like him.
   disneyplus_id: 35af7ab3-49d5-4583-87a2-9b8bb4ca28cd
   simpsonsworld_id: 1064038980002
   good: false
-  guest_stars:
+  guest_stars: ["Allison Janney"]
 - title: The Town
   season: 28
   episode: 3
   release_date: 2016-10-09
-  directors:
-  writers:
+  directors: ["Rob Oliver"]
+  writers: ["Dave King"]
   description: After Homer catches Bart rooting for Springfield's football rival, the Boston Americans, he plans a family "hate-cation" trip to Boston in an attempt to show Bart that Boston is a terrible city.
   disneyplus_id: b2eca623-a2ff-4abf-835f-f699f3289f7a
   simpsonsworld_id: 1064043075512
   good: false
-  guest_stars:
+  guest_stars: ["Bill Burr", "Michael Chiklis", "Rachel Dratch", "Doris Kearns Goodwin", "Dana Gould", "Mike Mitchell", "Jason Nash"]
 - title: Treehouse of Horror XXVII
   season: 28
   episode: 4
   release_date: 2016-10-16
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Joel H. Cohen"]
   description: In the midst of a major drought, Mr. Burns introduces a Hunger Games-style contest in which Springfield's children fight each other for a day in Burns' personal reservoir. Meanwhile, Lisa's imaginary best friend, Rachel, is jealous of Lisa's real best friends and starts killing them. Moe tells Bart that the barflies are actually covert agents and that Bart should join their team in Homer's place.
   disneyplus_id: 386e8572-7b7d-4391-9775-6a5caeb7f3d1
   simpsonsworld_id: 1063870531930
   good: false
-  guest_stars:
+  guest_stars: ["Drew Carey", "Donald Fagen", "Kelsey Grammer", "Maurice LaMarche", "Judith Owen", "Sarah Silverman"]
 - title: Trust but Clarify
   season: 28
   episode: 5
   release_date: 2016-10-23
-  directors:
-  writers:
+  directors: ["Mike Frank Polcino"]
+  writers: ["Harry Shearer"]
   description: Kent Brockman is fired for stretching the truth. Meanwhile Bart and Lisa investigate Krusty's suspicious new snack.
   disneyplus_id: dc825724-3a81-4a56-9815-72aeace2eff1
   simpsonsworld_id: 1064042051872
   good: maybe
-  guest_stars:
+  guest_stars: ["Dan Rather"]
 - title: There Will Be Buds
   season: 28
   episode: 6
   release_date: 2016-11-06
-  directors:
-  writers:
+  directors: ["Matthew Faughnan"]
+  writers: ["Matt Selman"]
   description: Kirk and Homer coach lacrosse. This leads to a falling out where Homer must find a sad, lonely Kirk.
   disneyplus_id: 9fffdcfd-ac92-444e-a308-1b9d467c211d
   simpsonsworld_id: 1064041539874
   good: maybe
-  guest_stars:
+  guest_stars: []
 - title: Havana Wild Weekend
   season: 28
   episode: 7
   release_date: 2016-11-13
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["Deb Lacusta", "Dan Castellaneta", "Peter Tilden"]
   description: The Simpsons look to Cuba for better medical care for Grampa. He is rejuvenated by riding the perfectly preserved 1950s cars in Havana.
   disneyplus_id: fb0a60e4-0557-4607-b9f2-81a1289059d6
   simpsonsworld_id: 1064044099513
   good: maybe
-  guest_stars:
+  guest_stars: ["Stacy Keach", "Deb Lacusta"]
 - title: Dad Behavior
   season: 28
   episode: 8
   release_date: 2016-11-20
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Ryan Koh"]
   description: Homer finds an app that does all his chores for him. Having outsourced his fatherly duties, he finds he is losing Bart from his life.
   disneyplus_id: e9af592b-245c-4f53-a87b-2b6956cdf6fb
   simpsonsworld_id: 1064046147533
   good: maybe
-  guest_stars:
+  guest_stars: ["Matt Leinart"]
 - title: The Last Traction Hero
   season: 28
   episode: 9
   release_date: 2016-12-04
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["Bill Odenkirk"]
   description: Homer's injuries leave Marge lonely for companionship.
   disneyplus_id: c9c6c527-79e0-43b8-a33a-340a2196ce0f
   simpsonsworld_id: 1064046147517
   good: maybe
-  guest_stars:
+  guest_stars: []
 - title: The Nightmare After Krustmas
   season: 28
   episode: 10
   release_date: 2016-12-11
-  directors:
-  writers:
+  directors: ["Rob Oliver"]
+  writers: ["Jeff Westbrook"]
   description: Krusty tries to impress his daughter as they spend Christmas with the Simpsons. Meanwhile, Reverend Lovejoy seeks converts after church attendance plummets, and Maggie is haunted by a spooky Christmas toy.
   disneyplus_id: a33ad801-0290-464f-ac1b-dc51becfe57d
   simpsonsworld_id: 1064045635565
   good: maybe
-  guest_stars:
+  guest_stars: ["Wayne Gretzky", "Theo Jansen", "Natasha Lyonne", "Jackie Mason"]
 - title: Pork and Burns
   season: 28
   episode: 11
   release_date: 2017-01-08
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Rob LaZebnik"]
   description: Marge adopts a Japanese system for tidiness. Homer gets a service animal also known as...the amazing spider pig.
   disneyplus_id: 72ece727-3cee-496c-a0ce-e83e0f308226
   simpsonsworld_id: 1070436931706
   good: maybe
-  guest_stars:
+  guest_stars: ["Joyce Carol Oates", "Michael York"]
 - title: Fatzcarraldo
   season: 28
   episode: 14
   release_date: 2017-02-12
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["Michael Price"]
   description: Homer rediscovers a chili dog joint he loved as a kid. When it closes he takes it on a quixotic freeway chase through Springfield.
   disneyplus_id: ad9e761d-6247-4faa-8c15-8cec7a53b04a
   simpsonsworld_id: 1064044611770
   good: maybe
-  guest_stars:
+  guest_stars: ["Glenn Close"]
 - title: The Cad and the Hat
   season: 28
   episode: 15
   release_date: 2017-02-19
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Ron Zimmerman"]
   description: Lisa gets a new hat that boosts her self confidence. So Bart makes the hat disappear. Meanwhile Homer discusses chess with world champion Magnus Carlsen.
   disneyplus_id: 0d042f21-2933-48cb-bbed-7978df1cc089
   simpsonsworld_id: 1064044611752
   good: maybe
-  guest_stars:
+  guest_stars: ["Magnus Carlsen", "Seth Green", "Patton Oswalt"]
 - title: Kamp Krustier
   season: 28
   episode: 16
   release_date: 2017-03-05
-  directors:
-  writers:
+  directors: ["Rob Oliver"]
+  writers: ["David M. Stern"]
   description: The Simpsons return to Kamp Krusty to cure the children's trauma. Homer discovers abstinence makes him incredibly productive.
   disneyplus_id: 046f4df9-3c8f-4e97-8177-9a3da8fc7dfc
   simpsonsworld_id: 1064043587996
   good: maybe
-  guest_stars:
+  guest_stars: ["Lizzy Caplan", "Michael Sheen"]
 - title: 22 for 30
   season: 28
   episode: 17
   release_date: 2017-03-12
-  directors:
-  writers:
+  directors: ["Chris Clements"]
+  writers: ["Joel H. Cohen"]
   description: Bart becomes involved in a point shaving scandal in a parody of the "30 for 30" films. Only intervention from an unexpected source can save him.
   disneyplus_id: 04f1bf2a-2a9b-4103-9ca5-501ef512fd3a
   simpsonsworld_id: 1064044099732
   good: maybe
-  guest_stars:
+  guest_stars: ["Stephen Curry", "Earl Mann", "Joe Mantegna"]
 - title: A Father's Watch
   season: 28
   episode: 18
   release_date: 2017-03-19
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["Simon Rich"]
   description: Homer opens a trophy store to cater to overpraised kids. Meanwhile Bart gets a treasured watch from Grampa.
   disneyplus_id: 127e581a-09ca-4baa-ade7-9b1e459d9ab2
   simpsonsworld_id: 1064046659528
   good: maybe
-  guest_stars:
+  guest_stars: ["Vanessa Bayer", "Brian Posehn", "Rob Riggle", "Adam Silver"]
 - title: The Caper Chase
   season: 28
   episode: 19
   release_date: 2017-04-02
-  directors:
-  writers:
+  directors: ["Lance Kramer"]
+  writers: ["Jeff Westbrook"]
   description: Frustrated by efforts to start a nuclear training program at Yale, Mr. Burns starts his own university. Homer becomes a star teacher and goes to work for a mysterious billionaire.
   disneyplus_id: 57c599b2-c273-4da7-a11f-1837aba3fdd4
   simpsonsworld_id: 1064044611790
   good: maybe
-  guest_stars:
+  guest_stars: ["Jason Alexander", "Ken Jennings", "Stan Lee", "Robert McKee", "Suze Orman", "Neil deGrasse Tyson"]
 - title: Looking for Mr. Goodbart
   season: 28
   episode: 20
   release_date: 2017-04-30
-  directors:
-  writers:
+  directors: ["Mike Frank Polcino"]
+  writers: ["Carolyn Omine"]
   description: Bart befriends generous elderly ladies while Lisa and Homer get caught up in a Pokémon Go style game. Then one of Bart's elderly friends goes missing and he needs Lisa to help find her.
   disneyplus_id: 1d9d2728-0bba-4242-b841-98e6ff3c5d22
   simpsonsworld_id: 1064046659522
   good: maybe
-  guest_stars:
+  guest_stars: ["Valerie Harper", "Kipp Lennon", "Jennifer Saunders"]
 - title: Moho House
   season: 28
   episode: 21
   release_date: 2017-05-07
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Jeff Martin"]
   description: Moe is bankrolled to open a swanky private club. It clarifies once and for all his relationship with Homer and Midge, er Marge.
   disneyplus_id: bcf45952-04ea-4be9-a387-7ce81cc108db
   simpsonsworld_id: 1064045635817
   good: maybe
-  guest_stars:
+  guest_stars: ["Valerie Harper", "Michael York"]
 - title: Dogtown
   season: 28
   episode: 22
   release_date: 2017-05-21
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["J. Stewart Burns"]
   description: Homer must choose between his dog and ol' Gil. Of course he chooses his dog, and his act inspires Springfield to become the dog-friendliest town in America.
   disneyplus_id: 8c88a547-b33a-41ac-af7c-deece74dd238
   simpsonsworld_id: 1064045635799
   good: maybe
-  guest_stars:
+  guest_stars: ["Michael York"]
 - title: The Great Phatsby Parts 1 & 2
   season: 28
   episode: 1213
   release_date: 2017-01-15
-  directors:
-  writers:
+  directors: ["Chris Clements", "Timothy Bailey"]
+  writers: ["Dan Greaney", "Matt Selman"]
   description: In this hour-long hip hop tribute to the Great Gatsby Burns loses his money to a rap billionaire and seeks his revenge. Meanwhile Smithers heads deep into the Canadian wilderness in search of ice.
   disneyplus_id: 58054258-cdb0-44b5-b01e-8c805d0aa10f
   simpsonsworld_id: 1077274179891
   good: maybe
-  guest_stars:
+  guest_stars: ["Charles Barkley", "Phil LaMarr", "Jim Beanz", "V. Bozeman", "Charlean Carmon", "Keegan-Michael Key", "Sally Stevens", "Destiny Torres", "Common", "Snoop Dogg", "Taraji P. Henson", "RZA"]

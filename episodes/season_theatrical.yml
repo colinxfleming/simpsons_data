@@ -4,131 +4,131 @@ episodes:
   season: 25
   episode: 25
   release_date: 2012-07-13
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["James L. Brooks", "Matt Groening", "Al Jean", "David Mirkin", "Michael Price", "Joel H. Cohen"]
   description: In this Oscar-nominated short from The Simpsons, Maggie must navigate an eventful first day at daycare. When Marge drops her off at the Ayn Rand School for Tots, Maggie is diagnosed with average intelligence. Barred from the scholarly gifted children, she longs to escape from her glue-guzzling classmates. But when a lonely caterpillar befriends her, she makes it her mission to save it from a ruthless butterfly-smashing toddler.
   disneyplus_id: 066a121a-a89a-44a8-9f2d-56b21f0c7241
   simpsonsworld_id: 588949571786
   good: maybe
-  guest_stars:
+  guest_stars: []
 - title: The Simpsons Movie
   season: 99
   episode: 1
   release_date: 2007-07-27
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["James L. Brooks", "Matt Groening", "Al Jean", "Ian Maxtone-Graham", "George Meyer", "David Mirkin", "Mike Reiss", "Mike Scully", "Matt Selman", "John Swartzwelder", "Jon Vitti"]
   description: After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons family are declared fugitives.
   disneyplus_id: 21cdf36d-d3ba-49f6-9dc6-b9d4e2a8be85
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Albert Brooks", "Green Day", "Tom Hanks", "Joe Mantegna", "Phil Rosenthal", "Marcia Wallace"]
 - title: The Simpsons in Plusaversary
   season: 99
   episode: 2
   release_date: 2021-11-12
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["Joel H. Cohen", "Jessica Conrad", "Al Jean", "Loni Steele Sosthand", "Dan Vebber"]
   description: The Simpsons host a Disney+ Day party and everyone is on the list... except Homer. With friends from across the service and music fit for a Disney princess, Plusaversary is Springfield's event of the year.
   disneyplus_id: 3c791468-6f02-4c33-bbff-ee4b54ef8feb
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: []
 - title: Maggie Simpson in Playdate with Destiny
   season: 99
   episode: 3
   release_date: 2020-03-06
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["Al Jean", "Tom Gammill", "Max Pross", "James L. Brooks", "Matt Groening", "Michael Price", "Matt Selman", "David Silverman"]
   description: It seemed like just another day at the park for Maggie Simpson. But when Maggie faces playground peril, a heroic young baby whisks her from danger -- and steals her heart. After a blissful first playdate, Maggie can't wait to see her new baby beau again the following day, but things don't go exactly as planned. Will fate (or Homer) get in her way?
   disneyplus_id: 6ea838b5-b5ac-45e0-8980-881d906a91a0
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: []
 - title: The Good, the Bart, and the Loki
   season: 99
   episode: 4
   release_date: 2021-07-07
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["Elisabeth Kiernan Averick", "Jessica Conrad", "John Frink", "Al Jean", "Jeff Westbrook"]
   description: 'Banished from Asgard once again, Loki must face his toughest opponents yet: the Simpsons and Springfield''s mightiest heroes. The God of Mischief teams up with Bart Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe of Super Heroes and villains. Some flashing lights sequences or patterns may affect photosensitive viewers.'
   disneyplus_id: 3ffb8049-a23a-4251-b0f6-8a70386919e2
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Maurice LaMarche", "Tom Hiddleston"]
 - title: Maggie Simpson in The Force Awakens from Its Nap
   season: 99
   episode: 5
   release_date: 2021-05-04
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["Joel H. Cohen", "Al Jean", "Michael Price"]
   description: In a daycare far, far away... but still in Springfield, Maggie is on an epic quest for her stolen pacifier. Her adventure brings her face-to-face with young Padawans, Sith Lords, familiar droids, Rebel scum, and an ultimate battle against the Dark Side, in this original short celebrating the Star Wars galaxy.
   disneyplus_id: 8ca133cb-d680-45f7-ba51-fc7c92c61db0
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: []
 - title: O C'mon All Ye Faithful
   season: 99
   episode: 6
   release_date: 2024-12-17
-  directors:
-  writers:
+  directors: ["Debbie Bruce Mahan", "Matthew Faughnan"]
+  writers: ["Carolyn Omine"]
   description: Celebrate the holidays in Springfield with the first ever Simpsons double-episode, streaming exclusively on Disney+. When famed British mentalist Derren Brown arrives in Springfield for a holiday experiment, things go ho-ho-horribly awry, as Homer gets hypnotized and believes he is Santa Claus. A cheery chain-reaction is set off throughout the town, causing everyone to question what they believe and to explore the meaning of "miracle." Featuring musical performances by Patti LaBelle and Pentatonix, this holiday special event marks the 35th anniversary of The Simpsons original Christmas special, "Simpsons Roasting on an Open Fire."
   disneyplus_id: ed114092-e308-46da-8a7c-04272cce1e45
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Derren Brown", "Patti LaBelle", "Pentatonix", "Kara Talve"]
 - title: The Past and the Furious
   season: 99
   episode: 7
   release_date: 2025-02-12
-  directors:
-  writers:
+  directors: ["Mike Frank Polcino"]
+  writers: ["Rob LaZebnik"]
   description: In this Disney+ exclusive episode of The Simpsons, Lisa struggles with Springfield's barren landscape and is transported back in time to 1923. There, she discovers that the Springfield Mini Moose, once a keystone species, were driven to extinction in 1925, leading to the town's environmental collapse. Lisa teams up with a young Monty Burns to protect the moose and restore balance to the ecosystem, but her actions unintentionally help shape Burns into the ruthless tycoon he becomes.
   disneyplus_id: c27f4ec6-3cf9-485c-9b40-9f0d0fba639d
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Joseph Gordon-Levitt"]
 - title: Yellow Planet
   season: 99
   episode: 8
   release_date: 2025-04-22
-  directors:
-  writers:
+  directors: ["Timothy Bailey"]
+  writers: ["J. Stewart Burns"]
   description: In this Disney+ exclusive episode of The Simpsons, the family is reimagined as animals in a nature mockumentary. Narrated in the style of National Geographic, the episode follows Homer and Marge as whales from different species drawn together by instinct, Bart as a newly hatched iguana fighting to survive against relentless predators, and Lisa as a finch leading her flock toward innovation. As each character faces the challenges of the natural world, familiar faces from Springfield appear in unexpected ways, bringing a fresh perspective to the struggle for survival in the wild.
   disneyplus_id: 7624fc2b-178e-460c-ab85-9af4ced2e510
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Hugh Bonneville"]
 - title: The Simpsons
   season: 99
   episode: 9
   release_date: 2024-12-17
-  directors:
-  writers:
+  directors: ["Debbie Bruce Mahan", "Matthew Faughnan"]
+  writers: ["Carolyn Omine"]
   description: Celebrate the holidays in Springfield with the first ever Simpsons double-episode, streaming exclusively on Disney+. When famed British mentalist Derren Brown arrives in Springfield for a holiday experiment, things go ho-ho-horribly awry, as Homer gets hypnotized and believes he is Santa Claus. A cheery chain-reaction is set off throughout the town, causing everyone to question what they believe and to explore the meaning of "miracle." Featuring musical performances by Patti LaBelle and Pentatonix, this holiday special event marks the 35th anniversary of The Simpsons original Christmas special, "Simpsons Roasting on an Open Fire."
   disneyplus_id: ed114092-e308-46da-8a7c-04272cce1e45
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Derren Brown", "Patti LaBelle", "Pentatonix", "Kara Talve"]
 - title: The Simpsons
   season: 99
   episode: 10
   release_date: 2025-02-12
-  directors:
-  writers:
+  directors: ["Mike Frank Polcino"]
+  writers: ["Rob LaZebnik"]
   description: In this Disney+ exclusive episode of The Simpsons, Lisa struggles with Springfield's barren landscape and is transported back in time to 1923. There, she discovers that the Springfield Mini Moose, once a keystone species, were driven to extinction in 1925, leading to the town's environmental collapse. Lisa teams up with a young Monty Burns to protect the moose and restore balance to the ecosystem, but her actions unintentionally help shape Burns into the ruthless tycoon he becomes.
   disneyplus_id: c27f4ec6-3cf9-485c-9b40-9f0d0fba639d
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Joseph Gordon-Levitt"]
 - title: The Simpsons
   season: 99
   episode: 11
   release_date: 2025-04-22
-  directors:
-  writers:
+  directors: ["Timothy Bailey"]
+  writers: ["J. Stewart Burns"]
   description: In this Disney+ exclusive episode of The Simpsons, the family is reimagined as animals in a nature mockumentary. Narrated in the style of National Geographic, the episode follows Homer and Marge as whales from different species drawn together by instinct, Bart as a newly hatched iguana fighting to survive against relentless predators, and Lisa as a finch leading her flock toward innovation. As each character faces the challenges of the natural world, familiar faces from Springfield appear in unexpected ways, bringing a fresh perspective to the struggle for survival in the wild.
   disneyplus_id: 7624fc2b-178e-460c-ab85-9af4ced2e510
   simpsonsworld_id:
   good: maybe
-  guest_stars:
+  guest_stars: ["Hugh Bonneville"]

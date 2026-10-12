@@ -12,7 +12,7 @@ episodes:
   disneyplus_id: not-ported-over
   simpsonsworld_id: 272234051980
   good: false
-  guest_stars: ["Michael Jackson"]
+  guest_stars: ["Michael Jackson", "Kipp Lennon"]
 - title: Mr. Lisa Goes to Washington
   season: 3
   episode: 2
@@ -45,7 +45,7 @@ episodes:
   disneyplus_id: fe2f004f-55bd-4355-a6f8-9dfc19b00e31
   simpsonsworld_id: 288015427922
   good: true
-  guest_stars: ["Phil Hartman", "Joe Mantegna", "Neil Patrick Harris"]
+  guest_stars: ["Neil Patrick Harris", "Phil Hartman", "Joe Mantegna", "Marcia Wallace"]
 - title: Homer Defined
   season: 3
   episode: 5
@@ -56,7 +56,7 @@ episodes:
   disneyplus_id: 7a1389f2-c391-4b2c-aa3c-2e862cc79c68
   simpsonsworld_id: 256843843704
   good: true
-  guest_stars: ["Jon Lovitz", "Magic Johnson", "Chick Hearn"]
+  guest_stars: ["Chick Hearn", "Magic Johnson", "Jon Lovitz"]
 - title: Like Father, Like Clown
   season: 3
   episode: 6
@@ -78,7 +78,7 @@ episodes:
   disneyplus_id: dca71177-218c-48b3-ae3f-872450a41cb3
   simpsonsworld_id: 272054339616
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: Lisa's Pony
   season: 3
   episode: 8
@@ -89,7 +89,7 @@ episodes:
   disneyplus_id: f65a488a-f6dc-41dc-9583-7b1118979c38
   simpsonsworld_id: 310374467809
   good: false
-  guest_stars: ["Frank Welker"]
+  guest_stars: ["Marcia Wallace", "Frank Welker"]
 - title: Saturdays of Thunder
   season: 3
   episode: 9
@@ -100,7 +100,7 @@ episodes:
   disneyplus_id: 0f39cdce-a9a8-44d8-87cb-d37d97314517
   simpsonsworld_id: 256898115598
   good: true
-  guest_stars: ["Phil Hartman"]
+  guest_stars: ["Phil Hartman", "Larry McKay"]
 - title: Flaming Moe's
   season: 3
   episode: 10
@@ -111,7 +111,7 @@ episodes:
   disneyplus_id: 7ead2b86-cd77-4b37-8aca-8206282a605f
   simpsonsworld_id: 305663555961
   good: true
-  guest_stars: ["Steven Tyler", "Tom Hamilton", "Joey Kramer", "Joe Perry", "Brad Whitford", "Phil Hartman"]
+  guest_stars: ["Aerosmith", "Phil Hartman", "Kipp Lennon", "Marcia Wallace"]
 - title: Burns Verkaufen der Kraftwerk
   season: 3
   episode: 11
@@ -133,7 +133,7 @@ episodes:
   disneyplus_id: afe8ec1f-6d74-4a9c-bee3-2373f4631ae4
   simpsonsworld_id: 299618371603
   good: false
-  guest_stars:
+  guest_stars: []
 - title: Radio Bart
   season: 3
   episode: 13
@@ -144,7 +144,7 @@ episodes:
   disneyplus_id: 76120671-cef8-470a-b7d9-06146877139e
   simpsonsworld_id: 272052803895
   good: true
-  guest_stars: ["Sting"]
+  guest_stars: ["Sting", "Marcia Wallace"]
 - title: Lisa the Greek
   season: 3
   episode: 14
@@ -177,7 +177,7 @@ episodes:
   disneyplus_id: 6e20bebb-f5a8-45fe-a4b8-4e32ec35feaf
   simpsonsworld_id: 272228931984
   good: true
-  guest_stars: []
+  guest_stars: ["Marcia Wallace"]
 - title: Homer at the Bat
   season: 3
   episode: 17
@@ -188,7 +188,7 @@ episodes:
   disneyplus_id: 09d5f03b-39f2-4b0b-b217-7de21f38145d
   simpsonsworld_id: 310380099768
   good: true
-  guest_stars: ["Roger Clemens", "Mike Scioscia", "Don Mattingly", "Steve Sax", "Ozzie Smith", "Wade Boggs", "Darryl Strawberry", "Ken Griffey, Jr.", "José Canseco", "Terry Cashman"]
+  guest_stars: ["Wade Boggs", "Jose Canseco", "Roger Clemens", "Terry Cashman", "Ken Griffey Jr.", "Don Mattingly", "Steve Sax", "Mike Scioscia", "Ozzie Smith", "Darryl Strawberry"]
 - title: Separate Vocations
   season: 3
   episode: 18
@@ -199,7 +199,7 @@ episodes:
   disneyplus_id: f7584904-5af8-4dd3-97b7-5649a783d23b
   simpsonsworld_id: 263513155607
   good: true
-  guest_stars: ["Steve Allen"]
+  guest_stars: ["Steve Allen", "Marcia Wallace"]
 - title: Dog of Death
   season: 3
   episode: 19
@@ -254,7 +254,7 @@ episodes:
   disneyplus_id: 22005dd4-66bd-49a3-914b-2eddb6eeabde
   simpsonsworld_id: 280393283967
   good: true
-  guest_stars: ["Kimmy Robertson", "Phil Hartman"]
+  guest_stars: ["Phil Hartman", "Kimmy Robertson", "Marcia Wallace"]
 - title: Brother, Can You Spare Two Dimes?
   season: 3
   episode: 24

@@ -4,52 +4,52 @@ episodes:
   season: 22
   episode: 1
   release_date: 2010-09-26
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["Tim Long"]
   description: Lisa gets a dream week at arts camp where her counselors are Flight of the Conchords, then finds her return to the real world is more than a little disheartening. Meanwhile, Krusty discovers winning the Nobel Peace prize is not what it seems, and he must fight for his freedom in the World Court.
   disneyplus_id: 6c4e0f6c-73ec-4275-acb8-3626593bfd9b
   simpsonsworld_id: 263519811935
   good: maybe
-  guest_stars: ["Jermaine Clement", "Bret McKenzie", "Lea Michele", "Cory Monteith", "Amber Riley", "Ira Glass", "Stephen Hawking"]
+  guest_stars: ["Jemaine Clement", "Ira Glass", "Stephen Hawking", "Bret McKenzie", "Lea Michele", "Cory Monteith", "Amber Riley"]
 - title: Loan-A-Lisa
   season: 22
   episode: 2
   release_date: 2010-10-03
-  directors:
-  writers:
+  directors: ["Matthew Faughnan"]
+  writers: ["Valentina L. Garza"]
   description: Grampa decides to give each of the Simpsons their inheritance early. Homer discovers he can live the high life buying and returning luxury items without paying for them. Lisa uses her money to secretly finance Nelson's bike pimpery.
   disneyplus_id: 3207b108-2e39-4c59-b320-f0319ffb199a
   simpsonsworld_id: 263525955686
   good: maybe
-  guest_stars: ["Mark Zuckerberg", "Chris Hansen", "Muhammad Yunus"]
+  guest_stars: ["Terry W. Greene", "Chris Hansen", "Muhammad Yunus", "Mark Zuckerberg"]
 - title: Money Bart
   season: 22
   episode: 3
   release_date: 2010-10-10
-  directors:
-  writers:
+  directors: ["Nancy Kruse"]
+  writers: ["Tim Long"]
   description: Lisa coaches Bart's little league team to beef up her extracurricular-activities résumé, but her academic approach to the game takes some of the fun out of it for Bart.
   disneyplus_id: 54a4caa1-6b9a-4627-a83e-c7fad2abb70b
   simpsonsworld_id: 263531587720
   good: maybe
-  guest_stars: ["Mike Scioscia", "Bill James"]
+  guest_stars: ["Bill James", "Mike Scioscia"]
 - title: Treehouse of Horror XXI
   season: 22
   episode: 4
   release_date: 2010-11-07
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["Joel H. Cohen"]
   description: In this annual terror-filled trilogy, the old board games in the Simpson attic come to life and wreak havoc in Springfield, Marge and Homer's romantic cruise is interrupted by a mysterious, handsome stranger who Homer believes is trying to kill them, and Lisa falls in love with a tweenage vampire, only to run afoul of his old-school vampire father.
   disneyplus_id: c59ba97e-30ac-4505-8f9d-f81a6c650ed8
   simpsonsworld_id: 263577155794
   good: false
-  guest_stars: ["Daniel Radcliffe", "Hugh Laurie"]
+  guest_stars: ["Hugh Laurie", "Daniel Radcliffe"]
 - title: Lisa Simpson, This Isn't Your Life
   season: 22
   episode: 5
   release_date: 2010-11-14
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Joel H. Cohen"]
   description: A trip to Marge's childhood home leads Lisa to discover that Marge was once an excellent student like her, until she met Homer. Meanwhile, Bart accidentally beats up Nelson and becomes the school bully--much to his chagrin.
   disneyplus_id: a76e4387-4749-43e8-8f18-b3a14881fa62
   simpsonsworld_id: 263540291528
@@ -59,41 +59,41 @@ episodes:
   season: 22
   episode: 6
   release_date: 2010-11-21
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Michael Price"]
   description: During a "housecat flu" scare, Mr. Burns is startled to discover that everyone in town hates him. He tries to take his own life, but fails, losing his memory in the process. The townspeople use the opportunity to seek revenge on him for the harm he has inflicted upon them through the years.
   disneyplus_id: af64af68-8b76-4d30-aa0e-1dbaeefc6427
   simpsonsworld_id: 263544387571
   good: maybe
-  guest_stars: []
+  guest_stars: ["Terry W. Greene"]
 - title: How Munched is that Birdie in the Window?
   season: 22
   episode: 7
   release_date: 2010-11-28
-  directors:
-  writers:
+  directors: ["Mike Frank Polcino"]
+  writers: ["Kevin Curran"]
   description: A storm blows a pigeon through the Simpsons' window, and Bart makes it his pet. He nurses it back to health, and when he is approached by Moe to turn it into a racing pigeon he has to make a difficult decision.
   disneyplus_id: 08f22d3b-b7be-4653-9f89-aa52c9eb496b
   simpsonsworld_id: 263545923923
   good: maybe
-  guest_stars: ["Danica Patrick", "Rachel Weisz"]
+  guest_stars: ["Gregg Berger", "Danica Patrick", "Marcia Wallace", "Rachel Weisz"]
 - title: The Fight Before Christmas
   season: 22
   episode: 8
   release_date: 2010-12-05
-  directors:
-  writers:
+  directors: ["Bob Anderson", "Matthew Schofield"]
+  writers: ["Deb Lacusta", "Dan Castellaneta"]
   description: Bart heads to a surprisingly downsized North Pole to get a toy he wants; Marge attempts to kill Hitler at Christmas, Martha Stewart takes over the Simpson family holiday, and Katy Perry performs with the Simpsons--in puppet form for the first time ever.
   disneyplus_id: 2df85751-4c7d-470f-a164-5fb66d4048d4
   simpsonsworld_id: 263551043814
   good: maybe
-  guest_stars: ["Martha Stewart", "Katy Perry"]
+  guest_stars: ["Katy Perry", "Martha Stewart"]
 - title: Donnie Fatso
   season: 22
   episode: 9
   release_date: 2010-12-12
-  directors:
-  writers:
+  directors: ["Ralph Sosa"]
+  writers: ["Chris Cluess"]
   description: When Homer runs afoul of tough new ordinances that take effect January 1, he goes undercover with the mob to shorten his sentence. He finds that the Springfield Mafia is much more welcoming and lovable than he ever would have suspected.
   disneyplus_id: a7c3ca07-9783-41c4-8d80-21c478aa38d6
   simpsonsworld_id: 263572035826
@@ -103,142 +103,142 @@ episodes:
   season: 22
   episode: 10
   release_date: 2011-01-09
-  directors:
-  writers:
+  directors: ["Chris Clements"]
+  writers: ["Brian Kelley"]
   description: A war between the fourth and fifth graders leads Bart to discover an unusual scar on his wrist. Learning the secret of its origin unlocks a secret from Marge's past. Bart's journey to the truth takes him to Comic Book Guy, and a Fourth of July long ago gone horribly wrong.
   disneyplus_id: f3f8f345-49fb-46f8-9163-09f2195fd58d
   simpsonsworld_id: 256848451515
   good: maybe
-  guest_stars: []
+  guest_stars: ["Marcia Wallace"]
 - title: Flaming Moe
   season: 22
   episode: 11
   release_date: 2011-01-16
-  directors:
-  writers:
+  directors: ["Chuck Sheetz"]
+  writers: ["Matt Selman"]
   description: To impress Mr. Burns, Smithers helps Moe turn his tavern into a gay bar that caters to men who are less than perfect. Meanwhile, a substitute music teacher becomes the passion of Principal Skinner's life. Moe enjoys his new clientele so much he considers running for city council. Meanwhile, Principal Skinner must choose between his career and a free-spirited substitute music teacher.
   disneyplus_id: d4b64f0f-c352-4ef8-ad49-777b695586a5
   simpsonsworld_id: 263579715535
   good: maybe
-  guest_stars: ["Alyson Hannigan", "Kristen Wiig", "Scott Thompson"]
+  guest_stars: ["Alyson Hannigan", "Scott Thompson", "Kristen Wiig"]
 - title: Homer the Father
   season: 22
   episode: 12
   release_date: 2011-01-23
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["Joel H. Cohen"]
   description: Homer becomes obsessed with a cheesy '80s sitcom and tries to apply its outdated lessons to his own relationship with Bart. A disgruntled Bart is driven straight into the arms of Chinese nuclear spies.
   disneyplus_id: d55ae112-96ec-49cd-947e-0c971dcbb5e2
   simpsonsworld_id: 256851523744
   good: maybe
-  guest_stars: ["James Lipton", "David Mamet", "Michael Paul Chan", "Garry Marshall"]
+  guest_stars: ["Michael Paul Chan", "James Lipton", "David Mamet", "Garry Marshall"]
 - title: The Blue and the Gray
   season: 22
   episode: 13
   release_date: 2011-02-13
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["Rob LaZebnik"]
   description: When Marge decides to "go gray" with her hair, she is startled by the reaction of her friends and family. Meanwhile, Homer becomes a "wing man", first to Moe, then to every single guy in town.
   disneyplus_id: 2038b6b0-8515-4af8-9cde-5967e6fbf7f8
   simpsonsworld_id: 254809667917
   good: maybe
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: 'Angry Dad: The Movie'
   season: 22
   episode: 14
   release_date: 2011-02-20
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["John Frink"]
   description: Bart makes an animated short film which is surprisingly nominated for every major Hollywood award. When Homer tries to seize credit for the film, it starts a battle between the two that climaxes onstage at the Academy Awards.
   disneyplus_id: 9725b041-f80b-44d4-befe-99cef5fdb723
   simpsonsworld_id: 254814275630
   good: true
-  guest_stars:
+  guest_stars: ["Halle Berry", "Russell Brand", "Ricky Gervais", "Terry W. Greene", "Maurice LaMarche", "Nick Park", "J. B. Smoove"]
 - title: The Scorpion's Tale
   season: 22
   episode: 15
   release_date: 2011-03-06
-  directors:
-  writers:
+  directors: ["Matthew Schofield"]
+  writers: ["Billy Kimball", "Ian Maxtone-Graham"]
   description: Lisa discovers a miraculous drug that can cure crankiness in old people. Bart starts illegally selling it to Springfield seniors, only to discover it has a horrifying side effect.
   disneyplus_id: bae5fd2f-dc1f-4008-9df8-cb6bd7c99fce
   simpsonsworld_id: 254817859928
   good: maybe
-  guest_stars:
+  guest_stars: ["Werner Herzog", "Kevin Michael Richardson"]
 - title: A Midsummer's Nice Dreams
   season: 22
   episode: 16
   release_date: 2011-03-13
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Deb Lacusta", "Dan Castellaneta"]
   description: When Cheech and Chong split up during a performance in Springfield, Homer gets a chance to perform stoner comedy--but finds it is not the high life he imagines. Meanwhile, Marge attempts to cure the crazy Cat Lady of her hoarding.
   disneyplus_id: 64f57d9a-8e6e-4c91-818e-dd2c95caf5fb
   simpsonsworld_id: 254821955889
   good: maybe
-  guest_stars:
+  guest_stars: ["Tommy Chong", "Cheech Marin"]
 - title: Love is a Many Strangled Thing
   season: 22
   episode: 17
   release_date: 2011-03-27
-  directors:
-  writers:
+  directors: ["Mike Frank Polcino"]
+  writers: ["Bill Odenkirk"]
   description: When Homer reveals in therapy that he has strangled Bart for years, Kareem Abdul-Jabbar is brought in to effectuate a cure. Homer becomes so intimidated by his son that Bart starts to run wild, terrorizing his father and the school.
   disneyplus_id: 3ed524c3-ebe7-4b22-ac8f-4f9ce57a5ef1
   simpsonsworld_id: 254830659539
   good: maybe
-  guest_stars:
+  guest_stars: ["Kareem Abdul-Jabbar", "Kevin Michael Richardson", "Paul Rudd", "Marcia Wallace"]
 - title: The Great Simpsina
   season: 22
   episode: 18
   release_date: 2011-04-10
-  directors:
-  writers:
+  directors: ["Chris Clements"]
+  writers: ["Matt Warburton"]
   description: While trying to get rid of a wagonful of unwanted peaches, Lisa encounters an again magician who teaches her long-forgotten tricks. Then she unwittingly betrays his secret to a hated young rival.
   disneyplus_id: 9aec5ba7-1a2a-4d73-b643-62e0cc3d0812
   simpsonsworld_id: 254866499808
   good: maybe
-  guest_stars:
+  guest_stars: ["David Copperfield", "Ricky Jay", "Penn Jillette", "Martin Landau", "Jack McBrayer", "Teller"]
 - title: The Housewives of Fat Tony
   season: 22
   episode: 19
   release_date: 2011-05-01
-  directors:
-  writers:
+  directors: ["Lance Kramer"]
+  writers: ["Dick Blasucci"]
   description: Selma's behavior at the DMV leads to an unexpected romance with Fat Tony, and a trip to see Tony's relatives on the Jersey shore. Meanwhile, Lisa discovers Bart has truffle-sniffing abilities previously seen only in pigs--abilities which lead him to be exploited by his sister.
   disneyplus_id: 7dccd010-6552-404e-9827-67bb4a3dc7c4
   simpsonsworld_id: 254870083832
   good: maybe
-  guest_stars:
+  guest_stars: ["Joe Mantegna"]
 - title: Homer Scissorhands
   season: 22
   episode: 20
   release_date: 2011-05-08
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["Peter Gaffney", "Steve Viksten"]
   description: Homer discovers his natural gift for hairstyling. But he finds that the women in Springfield tell him more about their men than he wants to know. Meanwhile, Milhouse publicly declares his love for Lisa, is rejected, then is stunned to discover someone who likes him as much as he likes her. An equally stunned Lisa becomes obsessed with finding out just what Milhouse's new girlfriend sees in him.
   disneyplus_id: e88086f5-e785-4d96-bfef-3805161ddf8c
   simpsonsworld_id: 254876227684
   good: maybe
-  guest_stars:
+  guest_stars: ["Kristen Schaal", "Marcia Wallace"]
 - title: 500 Keys
   season: 22
   episode: 21
   release_date: 2011-05-15
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["John Frink"]
   description: The family discovers 500 old keys in a drawer and tries to find out what they do. Marge sets a farting novelty toy loose on the town, Homer achieves a lifelong dream as he pilots the Duff blimp, Bart is dismayed to find that every prank he tries to pull turns into a good deed, and Lisa uncovers a shocking mystery in the basement of the school.
   disneyplus_id: 1407be85-23d2-4555-95b7-b2f8ff68e3e6
   simpsonsworld_id: 254880835816
   good: maybe
-  guest_stars:
+  guest_stars: ["Albert Brooks"]
 - title: The Ned-liest Catch
   season: 22
   episode: 22
   release_date: 2011-05-22
-  directors:
-  writers:
+  directors: ["Chuck Sheetz"]
+  writers: ["Jeff Westbrook"]
   description: Ned Flanders saves Edna Krabappel's life and they begin dating. To Ned's surprise, he learns that Edna has been with many of Springfield's men, including Homer and Aerosmith drummer Joey Kramer.
   disneyplus_id: f178711e-5fdb-4b81-9d71-1b4515453093
   simpsonsworld_id: 255101507699
   good: maybe
-  guest_stars:
+  guest_stars: ["Ken Burns", "Joey Kramer", "Marcia Wallace"]
