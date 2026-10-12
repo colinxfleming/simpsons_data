@@ -3,7 +3,7 @@ episodes:
 - title: The Longest Daycare
   season: 25
   episode: 25
-  release_date:
+  release_date: 2012-07-13
   directors:
   writers:
   description: In this Oscar-nominated short from The Simpsons, Maggie must navigate an eventful first day at daycare. When Marge drops her off at the Ayn Rand School for Tots, Maggie is diagnosed with average intelligence. Barred from the scholarly gifted children, she longs to escape from her glue-guzzling classmates. But when a lonely caterpillar befriends her, she makes it her mission to save it from a ruthless butterfly-smashing toddler.
@@ -14,7 +14,7 @@ episodes:
 - title: The Simpsons Movie
   season: 99
   episode: 1
-  release_date:
+  release_date: 2007-07-27
   directors:
   writers:
   description: After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons family are declared fugitives.
@@ -25,7 +25,7 @@ episodes:
 - title: The Simpsons in Plusaversary
   season: 99
   episode: 2
-  release_date:
+  release_date: 2021-11-12
   directors:
   writers:
   description: The Simpsons host a Disney+ Day party and everyone is on the list... except Homer. With friends from across the service and music fit for a Disney princess, Plusaversary is Springfield's event of the year.
@@ -36,7 +36,7 @@ episodes:
 - title: Maggie Simpson in Playdate with Destiny
   season: 99
   episode: 3
-  release_date:
+  release_date: 2020-03-06
   directors:
   writers:
   description: It seemed like just another day at the park for Maggie Simpson. But when Maggie faces playground peril, a heroic young baby whisks her from danger -- and steals her heart. After a blissful first playdate, Maggie can't wait to see her new baby beau again the following day, but things don't go exactly as planned. Will fate (or Homer) get in her way?
@@ -47,7 +47,7 @@ episodes:
 - title: The Good, the Bart, and the Loki
   season: 99
   episode: 4
-  release_date:
+  release_date: 2021-07-07
   directors:
   writers:
   description: 'Banished from Asgard once again, Loki must face his toughest opponents yet: the Simpsons and Springfield''s mightiest heroes. The God of Mischief teams up with Bart Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe of Super Heroes and villains. Some flashing lights sequences or patterns may affect photosensitive viewers.'
@@ -55,10 +55,10 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars:
-- title: Maggie Simpson in The kens from Its Nap
+- title: Maggie Simpson in The Force Awakens from Its Nap
   season: 99
   episode: 5
-  release_date:
+  release_date: 2021-05-04
   directors:
   writers:
   description: In a daycare far, far away... but still in Springfield, Maggie is on an epic quest for her stolen pacifier. Her adventure brings her face-to-face with young Padawans, Sith Lords, familiar droids, Rebel scum, and an ultimate battle against the Dark Side, in this original short celebrating the Star Wars galaxy.
@@ -69,7 +69,7 @@ episodes:
 - title: O C'mon All Ye Faithful
   season: 99
   episode: 6
-  release_date:
+  release_date: 2024-12-17
   directors:
   writers:
   description: Celebrate the holidays in Springfield with the first ever Simpsons double-episode, streaming exclusively on Disney+. When famed British mentalist Derren Brown arrives in Springfield for a holiday experiment, things go ho-ho-horribly awry, as Homer gets hypnotized and believes he is Santa Claus. A cheery chain-reaction is set off throughout the town, causing everyone to question what they believe and to explore the meaning of "miracle." Featuring musical performances by Patti LaBelle and Pentatonix, this holiday special event marks the 35th anniversary of The Simpsons original Christmas special, "Simpsons Roasting on an Open Fire."
@@ -80,7 +80,7 @@ episodes:
 - title: The Past and the Furious
   season: 99
   episode: 7
-  release_date:
+  release_date: 2025-02-12
   directors:
   writers:
   description: In this Disney+ exclusive episode of The Simpsons, Lisa struggles with Springfield's barren landscape and is transported back in time to 1923. There, she discovers that the Springfield Mini Moose, once a keystone species, were driven to extinction in 1925, leading to the town's environmental collapse. Lisa teams up with a young Monty Burns to protect the moose and restore balance to the ecosystem, but her actions unintentionally help shape Burns into the ruthless tycoon he becomes.
@@ -91,7 +91,7 @@ episodes:
 - title: Yellow Planet
   season: 99
   episode: 8
-  release_date:
+  release_date: 2025-04-22
   directors:
   writers:
   description: In this Disney+ exclusive episode of The Simpsons, the family is reimagined as animals in a nature mockumentary. Narrated in the style of National Geographic, the episode follows Homer and Marge as whales from different species drawn together by instinct, Bart as a newly hatched iguana fighting to survive against relentless predators, and Lisa as a finch leading her flock toward innovation. As each character faces the challenges of the natural world, familiar faces from Springfield appear in unexpected ways, bringing a fresh perspective to the struggle for survival in the wild.
@@ -102,7 +102,7 @@ episodes:
 - title: The Simpsons
   season: 99
   episode: 9
-  release_date:
+  release_date: 2024-12-17
   directors:
   writers:
   description: Celebrate the holidays in Springfield with the first ever Simpsons double-episode, streaming exclusively on Disney+. When famed British mentalist Derren Brown arrives in Springfield for a holiday experiment, things go ho-ho-horribly awry, as Homer gets hypnotized and believes he is Santa Claus. A cheery chain-reaction is set off throughout the town, causing everyone to question what they believe and to explore the meaning of "miracle." Featuring musical performances by Patti LaBelle and Pentatonix, this holiday special event marks the 35th anniversary of The Simpsons original Christmas special, "Simpsons Roasting on an Open Fire."
@@ -113,7 +113,7 @@ episodes:
 - title: The Simpsons
   season: 99
   episode: 10
-  release_date:
+  release_date: 2025-02-12
   directors:
   writers:
   description: In this Disney+ exclusive episode of The Simpsons, Lisa struggles with Springfield's barren landscape and is transported back in time to 1923. There, she discovers that the Springfield Mini Moose, once a keystone species, were driven to extinction in 1925, leading to the town's environmental collapse. Lisa teams up with a young Monty Burns to protect the moose and restore balance to the ecosystem, but her actions unintentionally help shape Burns into the ruthless tycoon he becomes.
@@ -124,7 +124,7 @@ episodes:
 - title: The Simpsons
   season: 99
   episode: 11
-  release_date:
+  release_date: 2025-04-22
   directors:
   writers:
   description: In this Disney+ exclusive episode of The Simpsons, the family is reimagined as animals in a nature mockumentary. Narrated in the style of National Geographic, the episode follows Homer and Marge as whales from different species drawn together by instinct, Bart as a newly hatched iguana fighting to survive against relentless predators, and Lisa as a finch leading her flock toward innovation. As each character faces the challenges of the natural world, familiar faces from Springfield appear in unexpected ways, bringing a fresh perspective to the struggle for survival in the wild.
