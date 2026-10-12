@@ -3,7 +3,7 @@ episodes:
 - title: Monty Burns' Fleeing Circus
   season: 28
   episode: 1
-  release_date:
+  release_date: 2016-09-25
   directors:
   writers:
   description: 'When Springfield is burned to the ground, the Simpsons beg Mr. Burns to fund its rebuilding. Burns agrees -- with one condition: he gets to put on a variety show at the Springfield Bowl.'
@@ -14,7 +14,7 @@ episodes:
 - title: Friends and Family
   season: 28
   episode: 2
-  release_date:
+  release_date: 2016-10-02
   directors:
   writers:
   description: Mr. Burns hires the Simpsons to play his live-in virtual reality family, but excludes Homer so that he may play dad. Now alone, Homer finds a new best friend in girl-next-door Julia, who eats, drinks and thinks like him.
@@ -25,7 +25,7 @@ episodes:
 - title: The Town
   season: 28
   episode: 3
-  release_date:
+  release_date: 2016-10-09
   directors:
   writers:
   description: After Homer catches Bart rooting for Springfield's football rival, the Boston Americans, he plans a family "hate-cation" trip to Boston in an attempt to show Bart that Boston is a terrible city.
@@ -36,7 +36,7 @@ episodes:
 - title: Treehouse of Horror XXVII
   season: 28
   episode: 4
-  release_date:
+  release_date: 2016-10-16
   directors:
   writers:
   description: In the midst of a major drought, Mr. Burns introduces a Hunger Games-style contest in which Springfield's children fight each other for a day in Burns' personal reservoir. Meanwhile, Lisa's imaginary best friend, Rachel, is jealous of Lisa's real best friends and starts killing them. Moe tells Bart that the barflies are actually covert agents and that Bart should join their team in Homer's place.
@@ -47,7 +47,7 @@ episodes:
 - title: Trust but Clarify
   season: 28
   episode: 5
-  release_date:
+  release_date: 2016-10-23
   directors:
   writers:
   description: Kent Brockman is fired for stretching the truth. Meanwhile Bart and Lisa investigate Krusty's suspicious new snack.
@@ -58,7 +58,7 @@ episodes:
 - title: There Will Be Buds
   season: 28
   episode: 6
-  release_date:
+  release_date: 2016-11-06
   directors:
   writers:
   description: Kirk and Homer coach lacrosse. This leads to a falling out where Homer must find a sad, lonely Kirk.
@@ -69,7 +69,7 @@ episodes:
 - title: Havana Wild Weekend
   season: 28
   episode: 7
-  release_date:
+  release_date: 2016-11-13
   directors:
   writers:
   description: The Simpsons look to Cuba for better medical care for Grampa. He is rejuvenated by riding the perfectly preserved 1950s cars in Havana.
@@ -80,7 +80,7 @@ episodes:
 - title: Dad Behavior
   season: 28
   episode: 8
-  release_date:
+  release_date: 2016-11-20
   directors:
   writers:
   description: Homer finds an app that does all his chores for him. Having outsourced his fatherly duties, he finds he is losing Bart from his life.
@@ -91,7 +91,7 @@ episodes:
 - title: The Last Traction Hero
   season: 28
   episode: 9
-  release_date:
+  release_date: 2016-12-04
   directors:
   writers:
   description: Homer's injuries leave Marge lonely for companionship.
@@ -102,7 +102,7 @@ episodes:
 - title: The Nightmare After Krustmas
   season: 28
   episode: 10
-  release_date:
+  release_date: 2016-12-11
   directors:
   writers:
   description: Krusty tries to impress his daughter as they spend Christmas with the Simpsons. Meanwhile, Reverend Lovejoy seeks converts after church attendance plummets, and Maggie is haunted by a spooky Christmas toy.
@@ -113,7 +113,7 @@ episodes:
 - title: Pork and Burns
   season: 28
   episode: 11
-  release_date:
+  release_date: 2017-01-08
   directors:
   writers:
   description: Marge adopts a Japanese system for tidiness. Homer gets a service animal also known as...the amazing spider pig.
@@ -124,7 +124,7 @@ episodes:
 - title: Fatzcarraldo
   season: 28
   episode: 14
-  release_date:
+  release_date: 2017-02-12
   directors:
   writers:
   description: Homer rediscovers a chili dog joint he loved as a kid. When it closes he takes it on a quixotic freeway chase through Springfield.
@@ -135,7 +135,7 @@ episodes:
 - title: The Cad and the Hat
   season: 28
   episode: 15
-  release_date:
+  release_date: 2017-02-19
   directors:
   writers:
   description: Lisa gets a new hat that boosts her self confidence. So Bart makes the hat disappear. Meanwhile Homer discusses chess with world champion Magnus Carlsen.
@@ -146,7 +146,7 @@ episodes:
 - title: Kamp Krustier
   season: 28
   episode: 16
-  release_date:
+  release_date: 2017-03-05
   directors:
   writers:
   description: The Simpsons return to Kamp Krusty to cure the children's trauma. Homer discovers abstinence makes him incredibly productive.
@@ -157,7 +157,7 @@ episodes:
 - title: 22 for 30
   season: 28
   episode: 17
-  release_date:
+  release_date: 2017-03-12
   directors:
   writers:
   description: Bart becomes involved in a point shaving scandal in a parody of the "30 for 30" films. Only intervention from an unexpected source can save him.
@@ -168,7 +168,7 @@ episodes:
 - title: A Father's Watch
   season: 28
   episode: 18
-  release_date:
+  release_date: 2017-03-19
   directors:
   writers:
   description: Homer opens a trophy store to cater to overpraised kids. Meanwhile Bart gets a treasured watch from Grampa.
@@ -179,7 +179,7 @@ episodes:
 - title: The Caper Chase
   season: 28
   episode: 19
-  release_date:
+  release_date: 2017-04-02
   directors:
   writers:
   description: Frustrated by efforts to start a nuclear training program at Yale, Mr. Burns starts his own university. Homer becomes a star teacher and goes to work for a mysterious billionaire.
@@ -190,7 +190,7 @@ episodes:
 - title: Looking for Mr. Goodbart
   season: 28
   episode: 20
-  release_date:
+  release_date: 2017-04-30
   directors:
   writers:
   description: Bart befriends generous elderly ladies while Lisa and Homer get caught up in a Pokémon Go style game. Then one of Bart's elderly friends goes missing and he needs Lisa to help find her.
@@ -201,7 +201,7 @@ episodes:
 - title: Moho House
   season: 28
   episode: 21
-  release_date:
+  release_date: 2017-05-07
   directors:
   writers:
   description: Moe is bankrolled to open a swanky private club. It clarifies once and for all his relationship with Homer and Midge, er Marge.
@@ -212,7 +212,7 @@ episodes:
 - title: Dogtown
   season: 28
   episode: 22
-  release_date:
+  release_date: 2017-05-21
   directors:
   writers:
   description: Homer must choose between his dog and ol' Gil. Of course he chooses his dog, and his act inspires Springfield to become the dog-friendliest town in America.
@@ -223,7 +223,7 @@ episodes:
 - title: The Great Phatsby Parts 1 & 2
   season: 28
   episode: 1213
-  release_date:
+  release_date: 2017-01-15
   directors:
   writers:
   description: In this hour-long hip hop tribute to the Great Gatsby Burns loses his money to a rap billionaire and seeks his revenge. Meanwhile Smithers heads deep into the Canadian wilderness in search of ice.
