@@ -12,8 +12,8 @@ episodes:
   good: maybe
   guest_stars: ["Albert Brooks", "Green Day", "Tom Hanks", "Joe Mantegna", "Phil Rosenthal", "Marcia Wallace"]
 - title: The Longest Daycare
-  season: 25
-  episode: 25
+  season: 99
+  episode: 2
   release_date: 2012-07-13
   directors: ["David Silverman"]
   writers: ["James L. Brooks", "Matt Groening", "Al Jean", "David Mirkin", "Michael Price", "Joel H. Cohen"]
@@ -24,7 +24,7 @@ episodes:
   guest_stars: []
 - title: Maggie Simpson in Playdate with Destiny
   season: 99
-  episode: 2
+  episode: 3
   release_date: 2020-03-06
   directors: ["David Silverman"]
   writers: ["Al Jean", "Tom Gammill", "Max Pross", "James L. Brooks", "Matt Groening", "Michael Price", "Matt Selman", "David Silverman"]
@@ -35,7 +35,7 @@ episodes:
   guest_stars: []
 - title: Maggie Simpson in The Force Awakens from Its Nap
   season: 99
-  episode: 3
+  episode: 4
   release_date: 2021-05-04
   directors: ["David Silverman"]
   writers: ["Joel H. Cohen", "Al Jean", "Michael Price"]
@@ -46,7 +46,7 @@ episodes:
   guest_stars: []
 - title: The Good, the Bart, and the Loki
   season: 99
-  episode: 4
+  episode: 5
   release_date: 2021-07-07
   directors: ["David Silverman"]
   writers: ["Elisabeth Kiernan Averick", "Jessica Conrad", "John Frink", "Al Jean", "Jeff Westbrook"]
@@ -57,7 +57,7 @@ episodes:
   guest_stars: ["Maurice LaMarche", "Tom Hiddleston"]
 - title: The Simpsons in Plusaversary
   season: 99
-  episode: 5
+  episode: 6
   release_date: 2021-11-12
   directors: ["David Silverman"]
   writers: ["Joel H. Cohen", "Jessica Conrad", "Al Jean", "Loni Steele Sosthand", "Dan Vebber"]
@@ -68,7 +68,7 @@ episodes:
   guest_stars: []
 - title: Te Deseo Lo Mejor
   season: 99
-  episode: 6
+  episode: 7
   release_date: 2021-12-24
   directors: ["David Silverman"]
   writers: ["Al Jean", "Joel H. Cohen", "Ryan Koh", "Christine Nangle"]
@@ -79,7 +79,7 @@ episodes:
   guest_stars: ["Bad Bunny"]
 - title: When Billie Met Lisa
   season: 99
-  episode: 7
+  episode: 8
   release_date: 2022-04-22
   directors: ["David Silverman"]
   writers: ["Elisabeth Kiernan Averick", "Broti Gupta", "Al Jean", "Cesar Mazariegos", "David Mirkin"]
@@ -90,7 +90,7 @@ episodes:
   guest_stars: ["Sunkrish Bala", "Billie Eilish", "Finneas O'Connell"]
 - title: Welcome to the Club
   season: 99
-  episode: 8
+  episode: 9
   release_date: 2022-09-08
   directors: ["David Silverman"]
   writers: ["J. Stewart Burns", "Joel H. Cohen", "Al Jean", "Christine Nangle", "Loni Steele Sosthand"]
@@ -101,7 +101,7 @@ episodes:
   guest_stars: ["Tom Hiddleston"]
 - title: The Simpsons Meet the Bocellis in Feliz Navidad
   season: 99
-  episode: 9
+  episode: 10
   release_date: 2022-12-15
   directors: ["David Silverman"]
   writers: ["Joel H. Cohen", "Al Jean", "Ryan Koh", "David Mirkin"]
@@ -112,7 +112,7 @@ episodes:
   guest_stars: ["Andrea Bocelli", "Matteo Bocelli", "Virginia Bocelli"]
 - title: Maggie Simpson in Rogue Not Quite One
   season: 99
-  episode: 10
+  episode: 11
   release_date: 2023-05-04
   directors: ["David Silverman"]
   writers: ["Al Jean", "Ryan Koh", "Loni Steele Sosthand", "Dan Vebber", "Jeff Westbrook"]
@@ -123,7 +123,7 @@ episodes:
   guest_stars: []
 - title: May the 12th Be With You
   season: 99
-  episode: 11
+  episode: 12
   release_date: 2024-05-10
   directors: ["David Silverman"]
   writers: ["Joel H. Cohen", "Al Jean", "Ryan Koh", "David Mirkin", "Jeff Westbrook"]
@@ -134,7 +134,7 @@ episodes:
   guest_stars: ["Maurice LaMarche", "Seth MacFarlane", "Carolyn Omine"]
 - title: The Most Wonderful Time of the Year
   season: 99
-  episode: 12
+  episode: 13
   release_date: 2024-10-11
   directors: ["David Silverman"]
   writers: ["J. Stewart Burns", "Dan Greaney", "Broti Gupta", "Al Jean"]
@@ -145,7 +145,7 @@ episodes:
   guest_stars: ["Kelsey Grammer", "Maurice LaMarche"]
 - title: O C'mon All Ye Faithful
   season: 99
-  episode: 13
+  episode: 14
   release_date: 2024-12-17
   directors: ["Debbie Bruce Mahan", "Matthew Faughnan"]
   writers: ["Carolyn Omine"]
@@ -156,7 +156,7 @@ episodes:
   guest_stars: ["Derren Brown", "Patti LaBelle", "Pentatonix", "Kara Talve"]
 - title: The Past and the Furious
   season: 99
-  episode: 14
+  episode: 15
   release_date: 2025-02-12
   directors: ["Mike Frank Polcino"]
   writers: ["Rob LaZebnik"]
@@ -167,7 +167,7 @@ episodes:
   guest_stars: ["Joseph Gordon-Levitt"]
 - title: Yellow Planet
   season: 99
-  episode: 15
+  episode: 16
   release_date: 2025-04-22
   directors: ["Timothy Bailey"]
   writers: ["J. Stewart Burns"]
@@ -178,7 +178,7 @@ episodes:
   guest_stars: ["Hugh Bonneville"]
 - title: The Simpsons Yule Log
   season: 99
-  episode: 16
+  episode: 17
   release_date: 2025-12-22
   directors: []
   writers: []
@@ -189,7 +189,7 @@ episodes:
   guest_stars: []
 - title: 'Extreme Makeover: Homer Edition'
   season: 99
-  episode: 17
+  episode: 18
   release_date: 2026-06-17
   directors: ["Matthew Nastuk", "Timothy Bailey"]
   writers: ["Michael Price", "Nick Dahan"]
@@ -200,7 +200,7 @@ episodes:
   guest_stars: ["Betty Gilpin", "Jon Hamm", "Laufey", "Tegan and Sara"]
 - title: Simpsley
   season: 99
-  episode: 18
+  episode: 19
   release_date: 2026-07-03
   directors: ["Debbie Bruce Mahan"]
   writers: ["Cesar Mazariegos"]
@@ -211,7 +211,7 @@ episodes:
   guest_stars: []
 - title: Yellow Mirror
   season: 99
-  episode: 19
+  episode: 20
   release_date: 2026-08-26
   directors: ["Matthew Faughnan"]
   writers: ["Carolyn Omine", "Kai Omine"]
