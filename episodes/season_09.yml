@@ -4,274 +4,274 @@ episodes:
   season: 9
   episode: 1
   release_date: 1997-09-21
-  directors:
-  writers:
+  directors: ["Jim Reardon"]
+  writers: ["Ian Maxtone-Graham"]
   description: The Simpsons go to New York City and, while there, Homer tries to retrieve his illegally parked car, and Marge and the kids see the sights, including a Broadway musical about the Betty Ford Center.
   disneyplus_id: 8712a6eb-d508-4a33-803d-4345fcc29a7b
   simpsonsworld_id: 436516931611
   good: true
-  guest_stars:
+  guest_stars: ["Michael Dees", "Joan Kenley", "Kipp Lennon"]
 - title: The Principal and the Pauper
   season: 9
   episode: 2
   release_date: 1997-09-28
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Ken Keeler"]
   description: The people of Springfield are stunned to learn the man they believed was Seymour Skinner may not be who they thought. The man they knew as Skinner flees to Capital City until the Simpsons get him back.
   disneyplus_id: ae7b5c38-e606-4e46-9cc0-eed2086d80f8
   simpsonsworld_id: 436505155662
   good: true
-  guest_stars:
+  guest_stars: ["Martin Sheen", "Marcia Wallace"]
 - title: Lisa's Sax
   season: 9
   episode: 3
   release_date: 1997-10-19
-  directors:
-  writers:
+  directors: ["Dominic Polcino"]
+  writers: ["Al Jean"]
   description: Lisa's saxophone is destroyed and her family tells her how she came to get it. Then Homer must choose between an air conditioner and replacing Lisa's instrument.
   disneyplus_id: 384b528d-a034-4f52-b02f-1afdc37f2b85
   simpsonsworld_id: 279743555749
   good: false
-  guest_stars:
+  guest_stars: ["Fyvush Finkel"]
 - title: Treehouse of Horror VIII
   season: 9
   episode: 4
   release_date: 1997-10-26
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["Mike Scully", "David X. Cohen", "Ned Goldreyer"]
   description: In "The Homega Man," Homer must confront a post-apocalyptic Springfield. Bart becomes half-boy, half-fly in "Fly vs. Fly." And we learn a shocking secret about Marge and her sisters in "Easy-Bake Coven."
   disneyplus_id: 24c83fdd-2b42-4310-a88f-c8fa932756c9
   simpsonsworld_id: 279170627965
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: The Cartridge Family
   season: 9
   episode: 5
   release_date: 1997-11-02
-  directors:
-  writers:
+  directors: ["Pete Michels"]
+  writers: ["John Swartzwelder"]
   description: A soccer riot leads Homer to decide he needs a gun to protect his family. Marge makes him promise to get rid of it, but he defies her.
   disneyplus_id: 7ae2cf87-2c92-4464-aa22-ab36e5a437d1
   simpsonsworld_id: 302813251779
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Bart Star
   season: 9
   episode: 6
   release_date: 1997-11-09
-  directors:
-  writers:
+  directors: ["Dominic Polcino"]
+  writers: ["Donick Cary"]
   description: Bart joins a junior-league football team. When Homer becomes coach, he replaces quarterback Nelson with the less talented Bart.
   disneyplus_id: f07b4d6a-44bc-4036-8461-793fd8ba6f95
   simpsonsworld_id: 448293443714
   good: false
-  guest_stars:
+  guest_stars: ["Roy Firestone", "Mike Judge", "Joe Namath"]
 - title: The Two Mrs. Nahasapeemapetilons
   season: 9
   episode: 7
   release_date: 1997-11-16
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Richard Appel"]
   description: Apu's pre-arranged bride, Manjula, comes to Springfield. After trying to escape the match, Apu agrees to be married at the Simpsons' home.
   disneyplus_id: f35747fd-e908-4e81-ae53-cb9276d0a500
   simpsonsworld_id: 279177283545
   good: false
-  guest_stars:
+  guest_stars: ["Jan Hooks", "Andrea Martin", "Marcia Wallace"]
 - title: Lisa the Skeptic
   season: 9
   episode: 8
   release_date: 1997-11-23
-  directors:
-  writers:
+  directors: ["Neil Affleck"]
+  writers: ["David X. Cohen"]
   description: A skeleton is discovered in Springfield that seems to have come from an angel. Lisa is sure there is a rational explanation, but her beliefs are sorely tested.
   disneyplus_id: 660f35d7-69c8-4294-8084-329b9f784278
   simpsonsworld_id: 279180355540
   good: true
-  guest_stars:
+  guest_stars: ["Stephen Jay Gould", "Phil Hartman", "Marcia Wallace"]
 - title: Realty Bites
   season: 9
   episode: 9
   release_date: 1997-12-07
-  directors:
-  writers:
+  directors: ["Swinton O. Scott III"]
+  writers: ["Dan Greaney"]
   description: Marge becomes a real estate agent, but is too honest for the job. Meanwhile, Homer buys a vintage convertible at a seized-property auction.
   disneyplus_id: 262165cb-0cd1-409f-810b-4c64d04ce13c
   simpsonsworld_id: 280404547525
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman"]
 - title: Miracle on Evergreen Terrace
   season: 9
   episode: 10
   release_date: 1997-12-21
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["Ron Hauge"]
   description: When Bart burns down the Simpson Christmas tree, he refuses to admit the truth. The town takes pity on the Simpsons, then are furious when they realize they have been fooled.
   disneyplus_id: a2218e03-79ba-4ba7-a57a-a3a45d0a021e
   simpsonsworld_id: 306881091696
   good: false
-  guest_stars:
+  guest_stars: ["Alex Trebek", "Marcia Wallace"]
 - title: All Singing, All Dancing
   season: 9
   episode: 11
   release_date: 1998-01-04
-  directors:
-  writers:
+  directors: ["Mark Ervin"]
+  writers: ["Steve O'Donnell"]
   description: Homer's declared distaste for musicals prompts flashbacks to song-and-dance scenes from past episodes.
   disneyplus_id: a55fb5eb-3835-43eb-a405-735fa4a9c92b
   simpsonsworld_id: 294808131518
   good: false
-  guest_stars:
+  guest_stars: []
 - title: Bart Carny
   season: 9
   episode: 12
   release_date: 1998-01-11
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["John Swartzwelder"]
   description: The Simpsons lose their home to a crafty carnival roadie and his son. The Simpsons must then outwit the carnies to get back their home.
   disneyplus_id: 4abed4b4-683e-44f8-acac-df77116a7677
   simpsonsworld_id: 302818371931
   good: true
-  guest_stars:
+  guest_stars: ["Jim Varney"]
 - title: The Joy of Sect
   season: 9
   episode: 13
   release_date: 1998-02-08
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Steve O'Donnell"]
   description: Homer is lured into a cult that grows popular in Springfield. When Marge deprograms Homer, he gets the cult to disband.
   disneyplus_id: 5905853d-1298-422d-a56e-f96721378b63
   simpsonsworld_id: 299627075941
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: Das Bus
   season: 9
   episode: 14
   release_date: 1998-02-15
-  directors:
-  writers:
+  directors: ["Pete Michels"]
+  writers: ["David X. Cohen"]
   description: The Springfield Elementary school bus crashes, stranding the children on a deserted island. Meanwhile, Homer takes on Bill Gates and is crushed like a bug.
   disneyplus_id: 9727b41b-333f-43fd-a42f-582f80d3465d
   simpsonsworld_id: 448356931860
   good: false
-  guest_stars:
+  guest_stars: ["Phil Hartman", "James Earl Jones", "Jack Ong"]
 - title: The Last Temptation of Krusty
   season: 9
   episode: 15
   release_date: 1998-02-22
-  directors:
-  writers:
+  directors: ["Mike B. Anderson"]
+  writers: ["Donick Cary"]
   description: Krusty realizes that his material is no longer young and hip. He attempts to reconnect with his audience, but in the end reverts to his old ways.
   disneyplus_id: 7d63f1d3-69a4-4d11-8e43-b0f3ead865b1
   simpsonsworld_id: 294812739638
   good: true
-  guest_stars:
+  guest_stars: ["Bruce Baum", "Janeane Garofalo", "Bobcat Goldthwait", "Jay Leno", "Marcia Wallace", "Hank Williams Jr.", "Steven Wright"]
 - title: Dumbbell Indemnity
   season: 9
   episode: 16
   release_date: 1998-03-01
-  directors:
-  writers:
+  directors: ["Dominic Polcino"]
+  writers: ["Ron Hauge"]
   description: To support a new girlfriend, Moe attempts insurance fraud. He lets Homer take the rap for his crime, and Homer plots revenge.
   disneyplus_id: 80041fa5-5bbf-4717-a28c-7efbcca5fbc0
   simpsonsworld_id: 283910211639
   good: true
-  guest_stars:
+  guest_stars: ["Helen Hunt", "Marcia Wallace"]
 - title: Lisa the Simpson
   season: 9
   episode: 17
   release_date: 1998-03-08
-  directors:
-  writers:
+  directors: ["Susie Dietter"]
+  writers: ["Ned Goldreyer"]
   description: Lisa is horrified to learn that she might be losing her intelligence. Then she is relieved to learn that smarts in the Simpson family are passed down in a very surprising manner.
   disneyplus_id: 172517fb-b029-4548-a28d-fc417f78f26e
   simpsonsworld_id: 299651139676
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman"]
 - title: This Little Wiggy
   season: 9
   episode: 18
   release_date: 1998-03-22
-  directors:
-  writers:
+  directors: ["Neil Affleck"]
+  writers: ["Dan Greaney"]
   description: Bart befriends Ralph Wiggum and gets a master key to the town. Their explorations lead them to endanger the mayor's life.
   disneyplus_id: 0049132c-c61b-41ac-ad49-c310c738a58b
   simpsonsworld_id: 299639875678
   good: false
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Marcia Wallace"]
 - title: Simpson Tide
   season: 9
   episode: 19
   release_date: 1998-03-29
-  directors:
-  writers:
+  directors: ["Milton Gray"]
+  writers: ["Joshua Sternin", "Jennifer Ventimilia"]
   description: Homer and his friends join the Naval Reserve. Homer seizes control of a nuclear sub and causes an international incident.
   disneyplus_id: 110652b8-a7e4-46d1-8c07-500106e4356e
   simpsonsworld_id: 302809667837
   good: true
-  guest_stars:
+  guest_stars: ["Michael Carrington", "Bob Denver", "Rod Steiger"]
 - title: The Trouble with Trillions
   season: 9
   episode: 20
   release_date: 1998-04-05
-  directors:
-  writers:
+  directors: ["Swinton O. Scott III"]
+  writers: ["Ian Maxtone-Graham"]
   description: Homer's poorly-prepared tax return leads to an IRS audit. Homer helps entrap Mr. Burns and learns of the existence of a mysterious trillion-dollar bill.
   disneyplus_id: f0250cc2-4ae8-4828-9674-1acf2f084131
   simpsonsworld_id: 299644483816
   good: false
-  guest_stars:
+  guest_stars: ["Marcia Wallace", "Paul Winfield"]
 - title: Girly Edition
   season: 9
   episode: 21
   release_date: 1998-04-19
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["Larry Doyle"]
   description: Bart and Lisa land jobs doing a children's edition of the evening news. Meanwhile, Homer obtains a helper monkey, Mojo.
   disneyplus_id: a86031bb-56cd-4a23-a0a7-35f725c544cf
   simpsonsworld_id: 299672131928
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: Trash of the Titans
   season: 9
   episode: 22
   release_date: 1998-04-26
-  directors:
-  writers:
+  directors: ["Jim Reardon"]
+  writers: ["Ian Maxtone-Graham"]
   description: In the 200th episode of the series, Homer becomes the sanitation commissioner for Springfield. His ineptitude pollutes the town and leads to a drastic solution.
   disneyplus_id: 07e4335e-ad6d-4310-8c9c-524d83d3a326
   simpsonsworld_id: 307101763818
   good: true
-  guest_stars:
+  guest_stars: ["Steve Martin", "Paul McGuinness", "Susie Smith", "U2", "Marcia Wallace"]
 - title: King of the Hill
   season: 9
   episode: 23
   release_date: 1998-05-03
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["John Swartzwelder"]
   description: Homer attempts to get into shape by eating nutritional bars and working out. Overconfident in his newfound physique, Homer agrees to climb Springfield's towering Murderhorn.
   disneyplus_id: 0a6240b5-8062-434b-86f9-5fd4de8be93b
   simpsonsworld_id: 467593795648
   good: false
-  guest_stars:
+  guest_stars: ["Brendan Fraser", "Steven Weber"]
 - title: Lost Our Lisa
   season: 9
   episode: 24
   release_date: 1998-05-10
-  directors:
-  writers:
+  directors: ["Pete Michels"]
+  writers: ["Brian Scully"]
   description: Lisa gets lost in a strange part of town and Homer must get her back. Then she and Homer discover an age-old secret.
   disneyplus_id: d82ec6cf-9e38-4943-8a60-0646bf39f0ba
   simpsonsworld_id: 467595331852
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: Natural Born Kissers
   season: 9
   episode: 25
   release_date: 1998-05-17
-  directors:
-  writers:
+  directors: ["Klay Hall"]
+  writers: ["Matt Selman"]
   description: Marge and Homer discover that public canoodling restores the passion in their marriage. They are forced to flee naked across town.
   disneyplus_id: c48842be-012c-4e82-9ba2-05ca537827a9
   simpsonsworld_id: 467599939876
   good: false
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]

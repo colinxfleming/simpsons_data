@@ -10,7 +10,7 @@ episodes:
   disneyplus_id: 16d7e40c-0f0d-4532-91a6-809f20e8dc1d
   simpsonsworld_id: 300925507538
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Lisa's Rival
   season: 6
   episode: 2
@@ -21,7 +21,7 @@ episodes:
   disneyplus_id: de519244-0018-473b-aa02-a901e2677f00
   simpsonsworld_id: 278809667691
   good: false
-  guest_stars:
+  guest_stars: ["Winona Ryder"]
 - title: Another Simpsons Clip Show
   season: 6
   episode: 3
@@ -32,7 +32,7 @@ episodes:
   disneyplus_id: 9d454643-8cae-4314-84f0-7510b8de138e
   simpsonsworld_id: 300928067775
   good: false
-  guest_stars:
+  guest_stars: []
 - title: Itchy and Scratchy Land
   season: 6
   episode: 4
@@ -43,7 +43,7 @@ episodes:
   disneyplus_id: c9c1bbf7-8f00-4b48-bb93-cb41767b8f75
   simpsonsworld_id: 283752003577
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Sideshow Bob Roberts
   season: 6
   episode: 5
@@ -54,7 +54,7 @@ episodes:
   disneyplus_id: ca190cb3-6d28-47b4-b3e2-3d5040f8559b
   simpsonsworld_id: 275729987504
   good: true
-  guest_stars:
+  guest_stars: ["Henry Corden", "Dr. Demento", "Kelsey Grammer", "Phil Hartman", "Larry King", "Marcia Wallace"]
 - title: Treehouse of Horror V
   season: 6
   episode: 6
@@ -65,7 +65,7 @@ episodes:
   disneyplus_id: 00ebda11-c48f-45ee-b031-a52e9de5a20e
   simpsonsworld_id: 299597891663
   good: true
-  guest_stars:
+  guest_stars: ["James Earl Jones", "Marcia Wallace"]
 - title: Bart's Girlfriend
   season: 6
   episode: 7
@@ -76,7 +76,7 @@ episodes:
   disneyplus_id: 113943a0-6d7f-4a5a-9cc8-7092a7214a92
   simpsonsworld_id: 275744323759
   good: true
-  guest_stars:
+  guest_stars: ["Meryl Streep"]
 - title: Lisa on Ice
   season: 6
   episode: 8
@@ -87,18 +87,18 @@ episodes:
   disneyplus_id: eec508d9-beaa-4ee1-a21c-8013ea6a25cb
   simpsonsworld_id: 275746371575
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: Homer Badman
   season: 6
   episode: 9
   release_date: 1994-11-27
-  directors: ["Jeff Lynch"]
+  directors: ["Jeffrey Lynch"]
   writers: ["Greg Daniels"]
   description: While driving the Simpsons' baby-sitter home, Homer notices a gummy Venus de Milo stuck to her rear, and grabs it. His actions are mistaken for an inappropriate sexual advance, and Homer is vilified around town. Fortunately, a secret tape made by Groundskeeper Willie is able to prove Homer's innocence.
   disneyplus_id: 720e0473-d22f-4ccc-a253-9ef45e4a0a1a
   simpsonsworld_id: 275746883653
   good: true
-  guest_stars:
+  guest_stars: ["Dennis Franz"]
 - title: Grampa vs. Sexual Inadequacy
   season: 6
   episode: 10
@@ -109,7 +109,7 @@ episodes:
   disneyplus_id: 39580bea-7b8b-4441-91a2-48503a0c4e43
   simpsonsworld_id: 274264643876
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman"]
 - title: Fear of Flying
   season: 6
   episode: 11
@@ -120,7 +120,7 @@ episodes:
   disneyplus_id: 1edf6c97-e571-4ff0-af9a-afe717ff84c1
   simpsonsworld_id: 305684547546
   good: false
-  guest_stars:
+  guest_stars: ["Anne Bancroft", "Ted Danson", "Woody Harrelson", "John Ratzenberger", "Rhea Perlman", "George Wendt"]
 - title: Homer the Great
   season: 6
   episode: 12
@@ -131,7 +131,7 @@ episodes:
   disneyplus_id: 18349365-33e8-4315-bf0a-0fffa5f811d6
   simpsonsworld_id: 275745859881
   good: true
-  guest_stars:
+  guest_stars: ["Patrick Stewart"]
 - title: And Maggie Makes Three
   season: 6
   episode: 13
@@ -142,7 +142,7 @@ episodes:
   disneyplus_id: 0900024c-c1ad-4184-9f34-1ca59a35603b
   simpsonsworld_id: 278796867754
   good: false
-  guest_stars:
+  guest_stars: []
 - title: Bart's Comet
   season: 6
   episode: 14
@@ -153,7 +153,7 @@ episodes:
   disneyplus_id: 5ed53628-afff-4f08-a912-7cb68da39dce
   simpsonsworld_id: 275746883888
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Homie the Clown
   season: 6
   episode: 15
@@ -164,7 +164,7 @@ episodes:
   disneyplus_id: f6467286-a372-4daf-b34a-10879faf99b2
   simpsonsworld_id: 279723587611
   good: true
-  guest_stars:
+  guest_stars: ["Dick Cavett", "Joe Mantegna", "Johnny Unitas"]
 - title: Bart vs. Australia
   season: 6
   episode: 16
@@ -175,7 +175,7 @@ episodes:
   disneyplus_id: 3e779896-f515-4909-ad3e-08b6b75d5cac
   simpsonsworld_id: 275748931680
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman"]
 - title: Homer vs. Patty and Selma
   season: 6
   episode: 17
@@ -186,7 +186,7 @@ episodes:
   disneyplus_id: b6c47d6f-3e68-48bb-b1b4-e1bf67a53174
   simpsonsworld_id: 305686083529
   good: true
-  guest_stars:
+  guest_stars: ["Mel Brooks", "Susan Sarandon"]
 - title: A Star Is Burns
   season: 6
   episode: 18
@@ -197,7 +197,7 @@ episodes:
   disneyplus_id: ae121a94-32b1-4fb7-a43f-b7f44ee92e53
   simpsonsworld_id: 283753539580
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Maurice LaMarche", "Jon Lovitz"]
 - title: Lisa's Wedding
   season: 6
   episode: 19
@@ -208,7 +208,7 @@ episodes:
   disneyplus_id: 06297b89-6b18-46b0-b0f6-64be0fddba8d
   simpsonsworld_id: 275751491511
   good: false
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Mandy Patinkin"]
 - title: Two Dozen and One Greyhounds
   season: 6
   episode: 20
@@ -219,7 +219,7 @@ episodes:
   disneyplus_id: cf87a2a7-1a2b-484c-8e37-00c2a8e59a2a
   simpsonsworld_id: 278807107855
   good: true
-  guest_stars:
+  guest_stars: ["Frank Welker"]
 - title: The PTA Disbands
   season: 6
   episode: 21
@@ -230,18 +230,18 @@ episodes:
   disneyplus_id: e310cbe2-0e16-4788-9081-31c7957bd884
   simpsonsworld_id: 294780995610
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: "'Round Springfield"
   season: 6
   episode: 22
   release_date: 1995-04-30
   directors: ["Steven Dean Moore"]
-  writers: ["Mike Reiss", "Al Jean", "Joshua Sternin", "Jeffrey Ventimilia"]
+  writers: ["Al Jean", "Mike Reiss", "Joshua Sternin", "Jennifer Ventimilia"]
   description: Bart gets appendicitis from a box of Krusty-O's cereal. While visiting him in the hospital, Lisa is dismayed to discover that her idol, jazzman Bleeding Gums Murphy, is also being treated there. When Bleeding Gums dies, a distraught Lisa gets a local radio station to play his album in tribute.
   disneyplus_id: d608b31f-c3e1-4427-aa12-41b23172c5cd
   simpsonsworld_id: 275755587777
   good: true
-  guest_stars:
+  guest_stars: ["Steve Allen", "Phil Hartman", "Ron Taylor", "Marcia Wallace"]
 - title: The Springfield Connection
   season: 6
   episode: 23
@@ -252,7 +252,7 @@ episodes:
   disneyplus_id: a4bc1a82-2827-4946-9e1f-ff3622a0a0c2
   simpsonsworld_id: 305689155572
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Marcia Wallace"]
 - title: Lemon of Troy
   season: 6
   episode: 24
@@ -263,7 +263,7 @@ episodes:
   disneyplus_id: 8408df32-7085-47bd-a470-7d66e5439339
   simpsonsworld_id: 274269763684
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: Who Shot Mr. Burns? (Part One)
   season: 6
   episode: 25
@@ -274,4 +274,4 @@ episodes:
   disneyplus_id: 23455510-e161-4a57-ae83-5bed48f8acdf
   simpsonsworld_id: 294781507859
   good: true
-  guest_stars:
+  guest_stars: ["Tito Puente"]

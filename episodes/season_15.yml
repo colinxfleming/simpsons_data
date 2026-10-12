@@ -10,7 +10,7 @@ episodes:
   disneyplus_id: a7b1ae80-1ff8-4c28-b44b-f6baab79867b
   simpsonsworld_id: 227335747784
   good: true
-  guest_stars: ["Jerry Lewis", "Dudley Herschbach", "Jennifer Garner", "Oscar De La Hoya"]
+  guest_stars: ["Oscar De La Hoya", "Jennifer Garner", "Dudley R. Herschbach", "Jerry Lewis"]
 - title: My Mother the Carjacker
   season: 15
   episode: 2
@@ -32,7 +32,7 @@ episodes:
   disneyplus_id: 4504a138-ae29-4510-afc1-57d15078389d
   simpsonsworld_id: 227348035643
   good: false
-  guest_stars: ["Michael Moore"]
+  guest_stars: ["Michael Moore", "Marcia Wallace"]
 - title: The Regina Monologues
   season: 15
   episode: 4
@@ -43,7 +43,7 @@ episodes:
   disneyplus_id: 0cd5b799-d0b5-46ce-9f0f-59c38459a1fc
   simpsonsworld_id: 227349059824
   good: false
-  guest_stars: ["Jane Leeves", "Tony Blair", "Evan Marriott", "Ian McKellen", "J. K. Rowling"]
+  guest_stars: ["Tony Blair", "Jane Leeves", "Evan Marriott", "Ian McKellen", "J. K. Rowling"]
 - title: The Fat and the Furriest
   season: 15
   episode: 5
@@ -76,7 +76,7 @@ episodes:
   disneyplus_id: 7e68c114-fb5d-4916-a2d6-68e3b263110c
   simpsonsworld_id: 227364931670
   good: false
-  guest_stars: []
+  guest_stars: ["Jim Gilstrap"]
 - title: Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays
   season: 15
   episode: 8
@@ -87,7 +87,7 @@ episodes:
   disneyplus_id: 784d2338-5b34-45b3-9f88-f5fbfdd60312
   simpsonsworld_id: 227369027832
   good: false
-  guest_stars: []
+  guest_stars: ["Marcia Wallace"]
 - title: I, (Annoyed Grunt)-Bot
   season: 15
   episode: 9
@@ -109,7 +109,7 @@ episodes:
   disneyplus_id: 1dc7e811-07d5-45b9-ba37-a9b769b3c7ee
   simpsonsworld_id: 227378755925
   good: true
-  guest_stars: ["Tom Clancy", "Thomas Pynchon", "Mary-Kate Olsen", "Ashley Olsen"]
+  guest_stars: ["Tom Clancy", "Ashley Olsen", "Mary-Kate Olsen", "Thomas Pynchon"]
 - title: Margical History Tour
   season: 15
   episode: 11
@@ -125,13 +125,13 @@ episodes:
   season: 15
   episode: 12
   release_date: 2004-02-15
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Julie Chambers", "David Chambers"]
   description: Milhouse moves, and Bart is devastated. Meanwhile, Homer earns a small fortune as a beggar.
   disneyplus_id: 3a600427-cc57-47ed-b8ac-5ff5af39accd
   simpsonsworld_id: 227392067706
   good: true
-  guest_stars: ["Nick Bakay", "William Daniels", "Isabel Sanford", "Dick Tufeld"]
+  guest_stars: ["Nick Bakay", "William Daniels", "Isabel Sanford", "Dick Tufeld", "Marcia Wallace"]
 - title: Smart and Smarter
   season: 15
   episode: 13
@@ -164,7 +164,7 @@ episodes:
   disneyplus_id: 734c8697-8151-480b-9f2d-24381e78ba22
   simpsonsworld_id: 227399235673
   good: false
-  guest_stars:
+  guest_stars: ["Brave Combo", "Marcia Wallace"]
 - title: The Wandering Juvie
   season: 15
   episode: 16
@@ -175,7 +175,7 @@ episodes:
   disneyplus_id: 16659952-7c7c-493d-8ab4-94a47bca3b4b
   simpsonsworld_id: 227402307606
   good: true
-  guest_stars: ["Sarah Michelle Gellar", "Charles Napier", "Jane Maczmarek"]
+  guest_stars: ["Sarah Michelle Gellar", "Jane Kaczmarek", "Charles Napier", "Marcia Wallace"]
 - title: My Big Fat Geek Wedding
   season: 15
   episode: 17
@@ -186,7 +186,7 @@ episodes:
   disneyplus_id: d5ccd9a5-a64c-4dc4-89f3-91a61839147b
   simpsonsworld_id: 227423299561
   good: false
-  guest_stars: ["Matt Groening"]
+  guest_stars: ["Matt Groening", "Marcia Wallace"]
 - title: Catch 'Em If You Can
   season: 15
   episode: 18
@@ -208,7 +208,7 @@ episodes:
   disneyplus_id: ed2d530b-4a19-4179-b421-822bc9ce9e32
   simpsonsworld_id: 227327555884
   good: false
-  guest_stars: ["Nichelle Nichols"]
+  guest_stars: ["Mark Campbell", "Nichelle Nichols"]
 - title: The Way We Weren't
   season: 15
   episode: 20
@@ -230,7 +230,7 @@ episodes:
   disneyplus_id: bd2bbd84-d9a3-402a-8a2b-e151963f4e4b
   simpsonsworld_id: 227410499679
   good: false
-  guest_stars: []
+  guest_stars: ["Marcia Wallace"]
 - title: Fraudcast News
   season: 15
   episode: 22

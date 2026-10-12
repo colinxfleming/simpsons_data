@@ -10,7 +10,7 @@ episodes:
   disneyplus_id: 9a82b24b-956e-44bf-a67e-0be08740695e
   simpsonsworld_id: 305689667892
   good: true
-  guest_stars:
+  guest_stars: ["Tito Puente"]
 - title: Radioactive Man
   season: 7
   episode: 2
@@ -21,7 +21,7 @@ episodes:
   disneyplus_id: a3adcd81-248b-46b2-99de-3bb9dae32579
   simpsonsworld_id: 305693251940
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Mickey Rooney"]
 - title: Home Sweet Homediddly-Dum-Doodily
   season: 7
   episode: 3
@@ -32,18 +32,18 @@ episodes:
   disneyplus_id: f3d31d0f-c186-4e1c-9f4e-28ed9848e19c
   simpsonsworld_id: 306174019869
   good: true
-  guest_stars:
+  guest_stars: ["Joan Kenley", "Marcia Wallace", "Frank Welker"]
 - title: Bart Sells His Soul
   season: 7
   episode: 4
   release_date: 1995-10-08
-  directors: ["Wesley Archer"]
+  directors: ["Wes Archer"]
   writers: ["Greg Daniels"]
   description: After perpetrating a prank on the First Church of Springfield, Bart sells his soul to Milhouse for five dollars. Bart comes to regret his decision, and goes on a desperate quest to regain his soul. In the end, he gets it back with the help of an unexpected source.
   disneyplus_id: 614ec93f-c1b6-4af2-9f3b-87f410472f44
   simpsonsworld_id: 276972099995
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Lisa the Vegetarian
   season: 7
   episode: 5
@@ -54,7 +54,7 @@ episodes:
   disneyplus_id: 9f80c3d4-f1eb-47b2-84cd-4cef10d22bdc
   simpsonsworld_id: 276980291592
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Linda McCartney", "Paul McCartney"]
 - title: Treehouse of Horror VI
   season: 7
   episode: 6
@@ -65,7 +65,7 @@ episodes:
   disneyplus_id: 0b9658e2-05ec-48aa-b32e-1a7660bc8d64
   simpsonsworld_id: 310404163601
   good: true
-  guest_stars:
+  guest_stars: ["Paul Anka", "Marcia Wallace"]
 - title: King-Size Homer
   season: 7
   episode: 7
@@ -76,29 +76,29 @@ episodes:
   disneyplus_id: c3095ba8-2449-4c3a-891a-c0ae168f1d3d
   simpsonsworld_id: 294786627843
   good: true
-  guest_stars:
+  guest_stars: ["Joan Kenley"]
 - title: Mother Simpson
   season: 7
   episode: 8
   release_date: 1995-11-19
-  directors: ["Dominic Polcino"]
-  writers: ["Spike Feresten"]
+  directors: ["David Silverman"]
+  writers: ["Richard Appel"]
   description: Homer's mother, who abandoned him when he was young, returns to the Simpsons. The family learns that she was a radical in the 1960s who fled town after destroying Mr. Burns' germ warfare lab. Then Homer is dismayed to lose his mother, just after being united with her again.
   disneyplus_id: dfb7e3d9-1ce6-4965-b2a8-80a1001e421c
   simpsonsworld_id: 276983875726
   good: true
-  guest_stars:
+  guest_stars: ["Glenn Close", "Harry Morgan"]
 - title: Sideshow Bob's Last Gleaming
   season: 7
   episode: 9
   release_date: 1995-11-26
-  directors: ["David Silverman"]
-  writers: ["Jon Vitti"]
+  directors: ["Dominic Polcino"]
+  writers: ["Spike Feresten"]
   description: The Simpsons' nemesis, Sideshow Bob, returns to threaten Springfield with a nuclear bomb. Then Bob tries to destroy Krusty with the Wright Brothers' plane, but fails yet again.
   disneyplus_id: 387c68dd-7cbb-45e1-9cb3-6c78adcf3cec
   simpsonsworld_id: 302792771516
   good: true
-  guest_stars:
+  guest_stars: ["R. Lee Ermey", "Kelsey Grammer"]
 - title: The Simpsons 138th Episode Spectacular
   season: 7
   episode: 10
@@ -109,7 +109,7 @@ episodes:
   disneyplus_id: 96cb6ab3-0123-4701-8839-60873e860d78
   simpsonsworld_id: 324451395934
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman"]
 - title: Marge Be Not Proud
   season: 7
   episode: 11
@@ -120,7 +120,7 @@ episodes:
   disneyplus_id: f76668c6-3fba-4694-95cf-af642037230d
   simpsonsworld_id: 305669699710
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Lawrence Tierney"]
 - title: Team Homer
   season: 7
   episode: 12
@@ -131,7 +131,7 @@ episodes:
   disneyplus_id: eef59cfa-fb78-4e8e-82a6-b27d56dd4166
   simpsonsworld_id: 302792771967
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: Two Bad Neighbors
   season: 7
   episode: 13
@@ -142,7 +142,7 @@ episodes:
   disneyplus_id: 3f9dc022-3619-48c1-81b4-27fa57cf69de
   simpsonsworld_id: 276994115834
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Scenes from the Class Struggle in Springfield
   season: 7
   episode: 14
@@ -153,7 +153,7 @@ episodes:
   disneyplus_id: 260ac31f-26c1-4ce0-8688-4e3123cbca00
   simpsonsworld_id: 305694276001
   good: true
-  guest_stars:
+  guest_stars: ["Tom Kite"]
 - title: Bart the Fink
   season: 7
   episode: 15
@@ -164,7 +164,7 @@ episodes:
   disneyplus_id: dd36861f-13ee-476f-891c-29dd7750f82e
   simpsonsworld_id: 301346371709
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Bob Newhart"]
 - title: Lisa the Iconoclast
   season: 7
   episode: 16
@@ -175,7 +175,7 @@ episodes:
   disneyplus_id: 04a124f9-ae34-4f8f-bc48-cc98bdef4d62
   simpsonsworld_id: 302796355658
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Donald Sutherland", "Marcia Wallace"]
 - title: Homer the Smithers
   season: 7
   episode: 17
@@ -186,7 +186,7 @@ episodes:
   disneyplus_id: f8f7fad6-97f9-43d9-9141-19085e4f4bea
   simpsonsworld_id: 277248579634
   good: true
-  guest_stars:
+  guest_stars: []
 - title: The Day the Violence Died
   season: 7
   episode: 18
@@ -197,7 +197,7 @@ episodes:
   disneyplus_id: 86cc7ee5-6289-4aca-9c15-6ccb7ac9aa28
   simpsonsworld_id: 301668931982
   good: true
-  guest_stars:
+  guest_stars: ["Kirk Douglas", "Phil Hartman", "Alex Rocco", "Jack Sheldon", "Suzanne Somers"]
 - title: A Fish Called Selma
   season: 7
   episode: 19
@@ -208,7 +208,7 @@ episodes:
   disneyplus_id: 2d4dc7ee-3f6e-4a93-8c4f-2d5e1fc680d6
   simpsonsworld_id: 300935235544
   good: true
-  guest_stars:
+  guest_stars: ["Jeff Goldblum", "Phil Hartman"]
 - title: Bart on the Road
   season: 7
   episode: 20
@@ -219,18 +219,18 @@ episodes:
   disneyplus_id: 0df0f959-9cc2-4bc3-b955-a245519d96ed
   simpsonsworld_id: 277000259951
   good: true
-  guest_stars:
+  guest_stars: ["Jim Lau"]
 - title: 22 Short Films About Springfield
   season: 7
   episode: 21
   release_date: 1996-04-14
   directors: ["Jim Reardon"]
-  writers: ["Richard Appel", "David X. Cohen", "Jonathan Collier", "Jennifer Crittenden", "Greg Daniels", "Brent Forrester", "Rachel Pulido", "Steven Tompkins", "Bill Oakley", "Josh Weinstein", "Matt Groening"]
+  writers: ["Richard Appel", "David X. Cohen", "Jonathan Collier", "Jennifer Crittenden", "Greg Daniels", "Brent Forrester", "Rachel Pulido", "Steve Tompkins", "Bill Oakley", "Josh Weinstein", "Matt Groening"]
   description: In a series of short, interconnected stories featuring various Springfielders, we see, among other things, Principal Skinner invite Superintendent Chalmers over for dinner, Maggie get locked in a newspaper box, and Nelson the bully get a taste of his own medicine.
   disneyplus_id: ebb282e5-4c8f-47c8-b95a-6b07ba513dec
   simpsonsworld_id: 299588163608
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman"]
 - title: Raging Abe Simpson and His Grumbling Grandson in 'The Curse of the Flying
     Hellfish'
   season: 7
@@ -242,7 +242,7 @@ episodes:
   disneyplus_id: c5a8e5b1-261e-444e-9b30-81a2594cb523
   simpsonsworld_id: 279728707597
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: Much Apu About Nothing
   season: 7
   episode: 23
@@ -253,7 +253,7 @@ episodes:
   disneyplus_id: e9a2d190-5754-4f1d-9858-8f95e2adc7f0
   simpsonsworld_id: 310404675978
   good: true
-  guest_stars:
+  guest_stars: ["Joe Mantegna"]
 - title: Homerpalooza
   season: 7
   episode: 24
@@ -264,7 +264,7 @@ episodes:
   disneyplus_id: 0ee6ee08-8172-4aa2-a0ea-21605bc49c57
   simpsonsworld_id: 277008451637
   good: true
-  guest_stars:
+  guest_stars: ["Cypress Hill", "Peter Frampton", "The Smashing Pumpkins", "Sonic Youth"]
 - title: Summer of 4 Ft. 2
   season: 7
   episode: 25
@@ -275,4 +275,4 @@ episodes:
   disneyplus_id: 1b40f4a4-817f-4d39-8ebb-5037d1aa492d
   simpsonsworld_id: 277013571573
   good: true
-  guest_stars:
+  guest_stars: ["Christina Ricci", "Marcia Wallace"]

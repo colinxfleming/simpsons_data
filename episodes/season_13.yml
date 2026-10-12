@@ -10,7 +10,7 @@ episodes:
   disneyplus_id: 7da69f00-885b-4a3c-b206-6a18a7b5f77d
   simpsonsworld_id: 307115075729
   good: false
-  guest_stars:
+  guest_stars: ["Pierce Brosnan", "Matthew Perry", "Marcia Wallace"]
 - title: The Parent Rap
   season: 13
   episode: 2
@@ -21,7 +21,7 @@ episodes:
   disneyplus_id: 0662e900-a03b-4638-b665-2a0f1448b521
   simpsonsworld_id: 307116099877
   good: false
-  guest_stars:
+  guest_stars: ["Jess Harnell", "Jane Kaczmarek", "Marcia Wallace"]
 - title: Homer the Moe
   season: 13
   episode: 3
@@ -32,7 +32,7 @@ episodes:
   disneyplus_id: f7e762b6-7c69-4a37-b8c6-6342fb938319
   simpsonsworld_id: 300917827935
   good: false
-  guest_stars:
+  guest_stars: ["R.E.M."]
 - title: Hunka Hunka Burns in Love
   season: 13
   episode: 4
@@ -43,7 +43,7 @@ episodes:
   disneyplus_id: 34b0275e-d6cb-43c5-9a67-42e6f3ea515e
   simpsonsworld_id: 301344323882
   good: false
-  guest_stars:
+  guest_stars: ["Julia Louis-Dreyfus", "George Takei"]
 - title: The Blunder Years
   season: 13
   episode: 5
@@ -54,18 +54,18 @@ episodes:
   disneyplus_id: d9b395fb-a05a-411a-b295-1fb4a3093b26
   simpsonsworld_id: 302898755902
   good: false
-  guest_stars:
+  guest_stars: ["Joe Mantegna", "Paul Newman", "Judith Owen"]
 - title: She of Little Faith
   season: 13
   episode: 6
   release_date: 2001-12-16
   directors: ["Steven Dean Moore"]
-  writers: ["Bill reiberger"]
+  writers: ["Bill Freiberger"]
   description: When Homer and Bart's attempts at model rocketry go awry, they enlist the help of nerds who soup up the rocket so much it destroys the church. To raise money, Reverend Lovejoy turns his finances over to Mr. Burns, who commercializes the church so much an offended Lisa leaves and becomes a Buddhist.
   disneyplus_id: 0dcae4aa-1376-4230-a367-a3a270b66d86
   simpsonsworld_id: 288120899968
   good: true
-  guest_stars:
+  guest_stars: ["Richard Gere"]
 - title: Brawl in the Family
   season: 13
   episode: 7
@@ -76,7 +76,7 @@ episodes:
   disneyplus_id: 093d9341-813d-4bba-8484-322db5dc122c
   simpsonsworld_id: 283083843778
   good: false
-  guest_stars:
+  guest_stars: ["Jane Kaczmarek", "Delroy Lindo"]
 - title: Sweets and Sour Marge
   season: 13
   episode: 8
@@ -87,7 +87,7 @@ episodes:
   disneyplus_id: 260682b9-540c-479a-9816-6397e05dfe3d
   simpsonsworld_id: 302893635523
   good: false
-  guest_stars:
+  guest_stars: ["Ben Stiller"]
 - title: Jaws Wired Shut
   season: 13
   episode: 9
@@ -98,29 +98,29 @@ episodes:
   disneyplus_id: 55b0b1da-165d-4769-b3bd-c3c3b316b239
   simpsonsworld_id: 310440003514
   good: true
-  guest_stars:
+  guest_stars: ["Dana Gould", "John Kassir"]
 - title: Half-Decent Proposal
   season: 13
   episode: 10
   release_date: 2002-02-10
-  directors: ["Lauren MacMullen"]
+  directors: ["Lauren MacMullan"]
   writers: ["Tim Long"]
   description: Marge's old beau, Artie Ziff, now a high-tech billionaire, offers Homer a million dollars if he will let Artie spend a weekend with Marge to try to convince her he made a mistake.
   disneyplus_id: 232f30e1-fd68-4ac1-ae8b-f4f2e51c6c45
   simpsonsworld_id: 301684803770
   good: false
-  guest_stars:
+  guest_stars: ["Jon Lovitz", "Marcia Wallace"]
 - title: The Bart Wants What It Wants
   season: 13
   episode: 11
   release_date: 2002-02-17
-  directors: ["Michael Polcino"]
+  directors: ["Mike Frank Polcino"]
   writers: ["John Frink", "Don Payne"]
   description: Bart starts dating Rainier Wolfcastle's daughter, which Homer loves but Bart is not all that thrilled about. When Bart dumps her, and she starts dating Milhouse, Bart travels to Toronto to try to win her back.
   disneyplus_id: f618a0a4-30b4-4665-a3d3-439902c6f68e
   simpsonsworld_id: 307122755675
   good: false
-  guest_stars:
+  guest_stars: ["Wolfgang Puck", "Reese Witherspoon"]
 - title: The Lastest Gun in the West
   season: 13
   episode: 12
@@ -131,7 +131,7 @@ episodes:
   disneyplus_id: 5573a649-c3fc-42a1-b8f0-1e4eb02465f6
   simpsonsworld_id: 302899267542
   good: false
-  guest_stars:
+  guest_stars: ["Dennis Weaver", "Frank Welker"]
 - title: The Old Man and the Key
   season: 13
   episode: 13
@@ -142,7 +142,7 @@ episodes:
   disneyplus_id: a1364a55-526f-4453-9fd9-151cbedfa567
   simpsonsworld_id: 301659203973
   good: false
-  guest_stars:
+  guest_stars: ["Olympia Dukakis", "Bill Saluga"]
 - title: Tales From the Public Domain
   season: 13
   episode: 14
@@ -153,7 +153,7 @@ episodes:
   disneyplus_id: 8f607baf-802b-4027-919c-52d64b8399bd
   simpsonsworld_id: 310411843752
   good: false
-  guest_stars:
+  guest_stars: ["Sally Stevens"]
 - title: Blame it on Lisa
   season: 13
   episode: 15
@@ -164,7 +164,7 @@ episodes:
   disneyplus_id: d3a935e1-c542-4e0e-9881-42e209f23bbf
   simpsonsworld_id: 301665347899
   good: false
-  guest_stars:
+  guest_stars: []
 - title: Weekend at Burnsie's
   season: 13
   episode: 16
@@ -175,7 +175,7 @@ episodes:
   disneyplus_id: 81f3498b-3da5-40e8-a1c0-ecb91e207c63
   simpsonsworld_id: 310448195762
   good: true
-  guest_stars:
+  guest_stars: ["Phish"]
 - title: Gump Roast
   season: 13
   episode: 17
@@ -186,7 +186,7 @@ episodes:
   disneyplus_id: e29a9718-51aa-4691-9321-8f32425f8532
   simpsonsworld_id: 302888515845
   good: false
-  guest_stars:
+  guest_stars: []
 - title: I am Furious Yellow
   season: 13
   episode: 18
@@ -197,7 +197,7 @@ episodes:
   disneyplus_id: c7b246b0-406a-4da0-9d52-ab4a06bf97a2
   simpsonsworld_id: 302883907921
   good: true
-  guest_stars:
+  guest_stars: ["Stan Lee", "Marcia Wallace"]
 - title: The Sweetest Apu
   season: 13
   episode: 19
@@ -208,7 +208,7 @@ episodes:
   disneyplus_id: df4c4045-9160-4e94-822f-5a4d81ef9b19
   simpsonsworld_id: 288131139601
   good: false
-  guest_stars:
+  guest_stars: ["James Lipton"]
 - title: Little Girl in the Big Ten
   season: 13
   episode: 20
@@ -219,18 +219,18 @@ episodes:
   disneyplus_id: 95f522bc-bb79-4f72-b907-baf2aefc16e3
   simpsonsworld_id: 310416963509
   good: false
-  guest_stars:
+  guest_stars: ["Robert Pinsky"]
 - title: Frying Game
   season: 13
   episode: 21
   release_date: 2002-05-19
-  directors: ["Michael Polcino"]
+  directors: ["Mike Frank Polcino"]
   writers: ["John Swartzwelder"]
   description: When Homer attacks a Screamapillar living in his backyard, he is ordered to do community service, where he befriends a needy elderly woman. When she is killed, Homer is blamed for her murder and sentenced to death.
   disneyplus_id: cc90cc00-53c5-43bc-a2e0-371641f8000b
   simpsonsworld_id: 301664323751
   good: true
-  guest_stars:
+  guest_stars: ["Carmen Electra", "Frances Sternhagen"]
 - title: Papa's Got a Brand New Badge
   season: 13
   episode: 22
@@ -241,4 +241,4 @@ episodes:
   disneyplus_id: 991568f6-d881-4692-90c6-cfa959a8a50c
   simpsonsworld_id: 302880835773
   good: true
-  guest_stars:
+  guest_stars: ["Joe Mantegna", "Marcia Wallace"]

@@ -4,252 +4,252 @@ episodes:
   season: 10
   episode: 1
   release_date: 1998-08-23
-  directors:
-  writers:
+  directors: ["Dominic Polcino"]
+  writers: ["Jane O'Brien"]
   description: Lisa befriends a girl who tries to get the kids in Springfield Elementary to act older. Meanwhile, Homer attempts to start a business selling excess grease.
   disneyplus_id: a815bbf9-465e-4cd4-b178-769343cf75bc
   simpsonsworld_id: 292933187533
   good: true
-  guest_stars:
+  guest_stars: ["Lisa Kudrow"]
 - title: The Wizard of Evergreen Terrace
   season: 10
   episode: 2
   release_date: 1998-09-20
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["John Swartzwelder"]
   description: Homer is inspired to become an inventor by the example of Thomas Edison. Although he is not successful, a trip to the Edison Museum makes him feel that he is not a failure after all.
   disneyplus_id: 3cb531c9-3660-4ae0-858a-53c6f3ab40eb
   simpsonsworld_id: 473117763575
   good: true
-  guest_stars:
+  guest_stars: ["William Daniels"]
 - title: Bart the Mother
   season: 10
   episode: 3
   release_date: 1998-09-27
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["David X. Cohen"]
   description: When Bart accidentally kills another bird, he feels so guilty that he raises her eggs as his own. But when the eggs hatch, a shock awaits him.
   disneyplus_id: 9fad48bc-8b59-470e-9863-2eb1898148fa
   simpsonsworld_id: 473109571557
   good: true
-  guest_stars:
+  guest_stars: ["Phil Hartman", "Marcia Wallace"]
 - title: Treehouse of Horror IX
   season: 10
   episode: 4
   release_date: 1998-10-25
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Donick Cary", "Larry Doyle", "David X. Cohen"]
   description: Terrifying tales of Homer's hair transplant from an executed felon, Bart and Lisa sucked into an Itchy and Scratchy cartoon, and Marge's revelation that Maggie is the spawn of aliens who want their baby back.
   disneyplus_id: 017c768f-236c-4644-8b2d-9b775704cc85
   simpsonsworld_id: 473130051681
   good: true
-  guest_stars:
+  guest_stars: ["Robert Englund", "Kathie Lee Gifford", "Ed McMahon", "Regis Philbin", "Jerry Springer"]
 - title: When You Dish Upon a Star
   season: 10
   episode: 5
   release_date: 1998-11-08
-  directors:
-  writers:
+  directors: ["Pete Michels"]
+  writers: ["Richard Appel"]
   description: A parasailing mishap leads Homer to become the personal assistant for a celebrity couple. But when they don't live up to his dreams, he turns upon them.
   disneyplus_id: 7e77575e-e8ee-4626-8cfe-82e22af263f8
   simpsonsworld_id: 473147459674
   good: false
-  guest_stars:
+  guest_stars: ["Alec Baldwin", "Kim Basinger", "Brian Grazer", "Ron Howard"]
 - title: D'oh-in' in the Wind
   season: 10
   episode: 6
   release_date: 1998-11-15
-  directors:
-  writers:
+  directors: ["Mark Kirkland", "Matthew Nastuk"]
+  writers: ["Donick Cary"]
   description: Homer learns his middle name, then befriends a pair of counter-culture entrepreneurs. Homer's interference in their juice business leads them to ruin.
   disneyplus_id: 9fe9a1eb-a8d5-4c6e-a991-3d001746c7a8
   simpsonsworld_id: 473138243754
   good: false
-  guest_stars:
+  guest_stars: ["George Carlin", "Martin Mull", "Yo La Tengo"]
 - title: Lisa Gets an 'A'
   season: 10
   episode: 7
   release_date: 1998-11-22
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["Ian Maxtone-Graham"]
   description: When she is unable to study properly for a test, Lisa buys an exam from Nelson Muntz. The tainted grade she gets qualifies Springfield Elementary for extra funding, so the school bands together to cover up her misdeed.
   disneyplus_id: 1bcb7003-919f-46c1-b574-7071b6ef899a
   simpsonsworld_id: 473152579638
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: 'Homer Simpson in: ''Kidney Trouble'''
   season: 10
   episode: 8
   release_date: 1998-12-06
-  directors:
-  writers:
+  directors: ["Mike B. Anderson"]
+  writers: ["John Swartzwelder"]
   description: After a long car trip to a recreated Western town, Grampa Simpson needs a new kidney. But before he will donate his kidney to his father, Homer flees and winds up on a ship of lost souls.
   disneyplus_id: 9282e6e8-840b-4cd8-924b-a133c09ce79f
   simpsonsworld_id: 473158211896
   good: false
-  guest_stars:
+  guest_stars: []
 - title: Mayored to the Mob
   season: 10
   episode: 9
   release_date: 1998-12-20
-  directors:
-  writers:
+  directors: ["Swinton O. Scott III"]
+  writers: ["Ron Hauge"]
   description: Springfield hosts a science fiction convention which ends in a riot. Homer becomes the bodyguard to the Mayor, earning the enmity of mobster Fat Tony.
   disneyplus_id: 6a10c5eb-b4d6-43ab-8047-7ec6a5d97a53
   simpsonsworld_id: 473163843671
   good: true
-  guest_stars:
+  guest_stars: ["Mark Hamill", "Joe Mantegna", "Dick Tufeld", "Marcia Wallace"]
 - title: Viva Ned Flanders
   season: 10
   episode: 10
   release_date: 1999-01-10
-  directors:
-  writers:
+  directors: ["Neil Affleck"]
+  writers: ["David M. Stern"]
   description: Homer and Ned enjoy a bender in Las Vegas. When they awake, they are shocked to find they have two extra wives.
   disneyplus_id: b18b44be-0296-4d1a-a79b-6ebc38195ac2
   simpsonsworld_id: 473115203586
   good: false
-  guest_stars:
+  guest_stars: ["The Moody Blues", "Marcia Wallace"]
 - title: Wild Barts Can't Be Broken
   season: 10
   episode: 11
   release_date: 1999-01-17
-  directors:
-  writers:
+  directors: ["Mark Ervin"]
+  writers: ["Larry Doyle"]
   description: When Homer and his friends trash the town after the baseball team wins a championship, Springfield's children are blamed for the damage. The angry kids start a secret radio broadcast that reveals the adults' secrets to the world.
   disneyplus_id: 30be44f3-a6d4-44f0-ad0e-3ffca4a6b776
   simpsonsworld_id: 473155651508
   good: true
-  guest_stars:
+  guest_stars: ["Cyndi Lauper", "Marcia Wallace"]
 - title: Sunday, Cruddy Sunday
   season: 10
   episode: 12
   release_date: 1999-01-31
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Tom Martin", "George Meyer", "Brian Scully", "Mike Scully"]
   description: Homer and his friends travel to the Super Bowl, then discover their tickets are fakes. Meanwhile Marge and Lisa attempt to pass the time with an arts and crafts project endorsed by Vincent Price.
   disneyplus_id: 8394f610-c4d9-4668-8b72-16689853f0d4
   simpsonsworld_id: 473132611959
   good: false
-  guest_stars:
+  guest_stars: ["Troy Aikman", "Rosey Grier", "John Madden", "Dan Marino", "Dolly Parton", "Pat Summerall", "Fred Willard", "Rupert Murdoch"]
 - title: Homer to the Max
   season: 10
   episode: 13
   release_date: 1999-02-07
-  directors:
-  writers:
+  directors: ["Pete Michels"]
+  writers: ["John Swartzwelder"]
   description: A popular TV character named Homer Simpson forces our Homer to change his name. He becomes popular with hip Springfielders, who lead him to run afoul of the law.
   disneyplus_id: ee580995-8c51-4f25-bb1c-2a88fec3c0ec
   simpsonsworld_id: 473140803870
   good: false
-  guest_stars:
+  guest_stars: ["Ed Begley Jr."]
 - title: I'm with Cupid
   season: 10
   episode: 14
   release_date: 1999-02-14
-  directors:
-  writers:
+  directors: ["Bob Anderson"]
+  writers: ["Dan Greaney"]
   description: The wives of Springfield are jealous of the attention Apu lavishes on his wife Manjula. To win Marge back, Homer attempts to enlist the help of a skywriter, with painful consequences.
   disneyplus_id: c414f2be-e2a8-4dbf-a4bc-cc6dfbc46188
   simpsonsworld_id: 473104963819
   good: true
-  guest_stars:
+  guest_stars: ["Jan Hooks", "Elton John", "Marcia Wallace"]
 - title: 'Marge Simpson in: ''Screaming Yellow Honkers'''
   season: 10
   episode: 15
   release_date: 1999-02-21
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["David M. Stern"]
   description: Marge gets a huge new SUV, the Canyonero. She discovers the meaning of road rage, then must sacrifice her car to save her family.
   disneyplus_id: 4ecb2553-d22d-42f3-95e0-2145afe631da
   simpsonsworld_id: 473097795997
   good: true
-  guest_stars:
+  guest_stars: ["John Kassir", "Marcia Wallace", "Hank Williams Jr."]
 - title: Make Room for Lisa
   season: 10
   episode: 16
   release_date: 1999-02-28
-  directors:
-  writers:
+  directors: ["Matthew Nastuk"]
+  writers: ["Brian Scully"]
   description: When Homer agrees to let a telephone company put a transmitter in Lisa's room, she becomes Bart's unwanted roommate. The stress leads Lisa to a sensory deprivation tank, where she learns to appreciate her father more.
   disneyplus_id: b992a577-f47a-43eb-ad5d-466652932ac4
   simpsonsworld_id: 473093187636
   good: false
-  guest_stars:
+  guest_stars: []
 - title: Maximum Homerdrive
   season: 10
   episode: 17
   release_date: 1999-03-28
-  directors:
-  writers:
+  directors: ["Swinton O. Scott III"]
+  writers: ["John Swartzwelder"]
   description: After entering an eating contest, Homer becomes a truck driver and discovers the other truckers' shocking secret. Meanwhile, Marge and Lisa's attempts to buy a doorbell introduce them to the heroic Señor Ding-Dong.
   disneyplus_id: 7a4886ee-f74f-4bea-bf7a-2dd89a739a07
   simpsonsworld_id: 473095235738
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Simpsons Bible Stories
   season: 10
   episode: 18
   release_date: 1999-04-04
-  directors:
-  writers:
+  directors: ["Nancy Kruse"]
+  writers: ["Tim Long", "Larry Doyle", "Matt Selman"]
   description: Homer and Marge are Adam and Eve, the Springfield Elementary students must slave away for Pharaoh Skinner, and Bart and Nelson are David and Goliath.
   disneyplus_id: 85178965-f522-4335-83b9-93cff0144283
   simpsonsworld_id: 299678275566
   good: false
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: Mom and Pop Art
   season: 10
   episode: 19
   release_date: 1999-04-11
-  directors:
-  writers:
+  directors: ["Steven Dean Moore"]
+  writers: ["Al Jean"]
   description: Homer becomes a found artist, turning a failed barbecue pit into a pricey objet d'art. When his public turns on him, he floods the town to make a statement.
   disneyplus_id: 427928c5-20d0-4685-bfce-2e4cc10ac4ec
   simpsonsworld_id: 310457411688
   good: true
-  guest_stars:
+  guest_stars: ["Michael Dees", "Jasper Johns", "Isabella Rossellini", "Marcia Wallace"]
 - title: The Old Man and the 'C' Student
   season: 10
   episode: 20
   release_date: 1999-04-25
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["Julie Thacker"]
   description: As punishment for losing the Olympics for Springfield, Bart must help the city's senior citizens. Meanwhile, Homer attempts to sell springs, one of which winds up embedded in Lenny's eye.
   disneyplus_id: ccd18d2b-a340-4708-bc20-c7e60d9d5dfd
   simpsonsworld_id: 279757379586
   good: true
-  guest_stars:
+  guest_stars: ["Jack LaLanne", "NRBQ"]
 - title: Monty Can't Buy Me Love
   season: 10
   episode: 21
   release_date: 1999-05-02
-  directors:
-  writers:
+  directors: ["Mark Ervin"]
+  writers: ["John Swartzwelder"]
   description: Mr. Burns realizes that he is not as beloved as a Richard Branson-type billionaire. To get the public back on his side, Burns, with Homer's help, finds and captures the Loch Ness Monster.
   disneyplus_id: 4f77c332-5849-4011-ae0d-f129e36a6856
   simpsonsworld_id: 310427203648
   good: false
-  guest_stars:
+  guest_stars: ["Michael McKean"]
 - title: They Saved Lisa's Brain
   season: 10
   episode: 22
   release_date: 1999-05-09
-  directors:
-  writers:
+  directors: ["Pete Michels"]
+  writers: ["Matt Selman"]
   description: Lisa bands together with Springfield's other Mensa members to try to turn the town into a utopia. But they discover that genius doesn't always know what it's doing.
   disneyplus_id: 83757074-8871-46ac-a4b7-99b120ad41ae
   simpsonsworld_id: 306868803826
   good: false
-  guest_stars:
+  guest_stars: ["Stephen Hawking"]
 - title: Thirty Minutes Over Tokyo
   season: 10
   episode: 23
   release_date: 1999-05-16
-  directors:
-  writers:
+  directors: ["Jim Reardon"]
+  writers: ["Donick Cary", "Dan Greaney"]
   description: The Simpsons learn to cut corners, enabling them to afford a trip to Japan. In Japan, they lose their savings and must become contestants on a humiliating game show to earn their way back home.
   disneyplus_id: 2c420bbd-af69-4c87-ba08-2cd7d5a708d5
   simpsonsworld_id: 306901571847
   good: true
-  guest_stars:
+  guest_stars: ["Denice Kumagai", "Karen Maruyama", "George Takei", "Gedde Watanabe", "Keone Young"]

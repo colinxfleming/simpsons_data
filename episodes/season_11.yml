@@ -10,7 +10,7 @@ episodes:
   disneyplus_id: de221c56-49f7-469b-9985-77baa94e16b2
   simpsonsworld_id: 306906179700
   good: true
-  guest_stars:
+  guest_stars: ["Jack Burns", "Mel Gibson", "Marcia Wallace"]
 - title: Brother's Little Helper
   season: 11
   episode: 2
@@ -21,7 +21,7 @@ episodes:
   disneyplus_id: 216c6f65-11f6-46d1-bef1-90b3a345c47c
   simpsonsworld_id: 302833219678
   good: false
-  guest_stars:
+  guest_stars: ["Mark McGwire", "Marcia Wallace"]
 - title: Guess Who's Coming to Criticize Dinner
   season: 11
   episode: 3
@@ -32,7 +32,7 @@ episodes:
   disneyplus_id: bd9d7d07-6818-4d2d-8fba-ed6455fadb13
   simpsonsworld_id: 306911811691
   good: true
-  guest_stars:
+  guest_stars: ["Edward Asner", "Marcia Wallace"]
 - title: Treehouse of Horror X
   season: 11
   episode: 4
@@ -43,7 +43,7 @@ episodes:
   disneyplus_id: 2d2168ba-d77e-47cd-b2e2-d28267850689
   simpsonsworld_id: 307851843709
   good: true
-  guest_stars:
+  guest_stars: ["Tom Arnold", "Dick Clark", "Lucy Lawless", "Frank Welker"]
 - title: E-I-E-I-(Annoyed Grunt)
   season: 11
   episode: 5
@@ -54,7 +54,7 @@ episodes:
   disneyplus_id: 596826e9-0052-4462-ab9a-184a0e048a0c
   simpsonsworld_id: 302847555697
   good: true
-  guest_stars:
+  guest_stars: ["The B-52's", "Marcia Wallace", "Frank Welker"]
 - title: Hello Gutter, Hello Fadder
   season: 11
   episode: 6
@@ -65,7 +65,7 @@ episodes:
   disneyplus_id: ffd7d9be-8b3f-41f0-a06f-c52711c67068
   simpsonsworld_id: 294762563857
   good: true
-  guest_stars:
+  guest_stars: ["Ron Howard", "Penn Jillette", "Pat O'Brien", "Nancy O'Dell", "Teller", "Marcia Wallace"]
 - title: Eight Misbehavin'
   season: 11
   episode: 7
@@ -76,7 +76,7 @@ episodes:
   disneyplus_id: 2937d3ff-ff2c-47e2-bdbb-4039104773f5
   simpsonsworld_id: 306920003903
   good: false
-  guest_stars:
+  guest_stars: ["Jan Hooks", "Garry Marshall", "Butch Patrick", "Marcia Wallace", "Frank Welker"]
 - title: Take My Wife, Sleaze
   season: 11
   episode: 8
@@ -87,7 +87,7 @@ episodes:
   disneyplus_id: f647eb0c-30c2-40df-858d-074b0aeda158
   simpsonsworld_id: 301643843522
   good: true
-  guest_stars:
+  guest_stars: ["John Goodman", "Jan Hooks", "Jay North", "NRBQ", "Marcia Wallace", "Henry Winkler"]
 - title: Grift of the Magi
   season: 11
   episode: 9
@@ -98,7 +98,7 @@ episodes:
   disneyplus_id: b88defcf-f7fa-4bb8-9dc8-54c9976fe672
   simpsonsworld_id: 848995395938
   good: false
-  guest_stars:
+  guest_stars: ["Clarence Clemons", "Gary Coleman", "Joe Mantegna", "Tim Robbins", "Marcia Wallace"]
 - title: Little Big Mom
   season: 11
   episode: 10
@@ -109,7 +109,7 @@ episodes:
   disneyplus_id: cd5770cf-c1cc-4a9e-99d8-9ff804e19aaa
   simpsonsworld_id: 300903491898
   good: true
-  guest_stars:
+  guest_stars: ["Elwood Edwards", "Marcia Wallace"]
 - title: Faith Off
   season: 11
   episode: 11
@@ -120,18 +120,18 @@ episodes:
   disneyplus_id: eb25af26-b24f-482d-9344-b0d618f1f23d
   simpsonsworld_id: 300909123775
   good: false
-  guest_stars:
+  guest_stars: ["Don Cheadle", "Joe Mantegna", "Marcia Wallace"]
 - title: The Mansion Family
   season: 11
   episode: 12
   release_date: 2000-01-23
-  directors: ["Michael Polcino"]
+  directors: ["Mike Frank Polcino"]
   writers: ["John Swartzwelder"]
   description: Worried about his health, Mr. Burns visits the Mayo Clinic. He lets Homer house sit his mansion, which leads of course to an offshore knife fight and an attack by Chinese pirates.
   disneyplus_id: fe7cd483-676d-4bde-901f-5e43de336234
   simpsonsworld_id: 279747651734
   good: true
-  guest_stars:
+  guest_stars: ["Britney Spears"]
 - title: Saddlesore Galactica
   season: 11
   episode: 13
@@ -142,7 +142,7 @@ episodes:
   disneyplus_id: 65689db7-6e08-4d39-ada8-abf835906051
   simpsonsworld_id: 306926659533
   good: false
-  guest_stars:
+  guest_stars: ["Randy Bachman", "Jim Cummings", "Trevor Denman", "Fred Turner"]
 - title: Alone Again Natura-Diddily
   season: 11
   episode: 14
@@ -153,7 +153,7 @@ episodes:
   disneyplus_id: 975c0e39-a3c5-41d8-aa69-bbb18b8d2088
   simpsonsworld_id: 288077891629
   good: false
-  guest_stars:
+  guest_stars: ["Shawn Colvin", "Marcia Wallace", "Frank Welker"]
 - title: Missionary Impossible
   season: 11
   episode: 15
@@ -164,7 +164,7 @@ episodes:
   disneyplus_id: 051d4586-88b3-4a46-a69a-86d092489239
   simpsonsworld_id: 310458435665
   good: false
-  guest_stars:
+  guest_stars: ["Betty White"]
 - title: Pygmoelian
   season: 11
   episode: 16
@@ -175,7 +175,7 @@ episodes:
   disneyplus_id: b7d344b9-b245-4b24-adcb-a8697c9f702f
   simpsonsworld_id: 294758467783
   good: false
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: Bart to the Future
   season: 11
   episode: 17
@@ -186,18 +186,18 @@ episodes:
   disneyplus_id: a71aa4ec-6e05-478c-863a-350fce671ba6
   simpsonsworld_id: 302835267686
   good: true
-  guest_stars:
+  guest_stars: []
 - title: Days of Wine and D'Ohses
   season: 11
   episode: 18
   release_date: 2000-04-09
   directors: ["Neil Affleck"]
-  writers: ["Deb Lacusta", "Dan Castellaneta"]
+  writers: ["Dan Castellaneta", "Deb Lacusta"]
   description: After being embarrassed by a drunken video of himself, Barney vows to sober up. Newly clean, he gets work as a helicopter pilot.
   disneyplus_id: 50b303dd-591e-405d-945d-dd13cc87aad7
   simpsonsworld_id: 306930755636
   good: false
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: Kill the Alligator and Run
   season: 11
   episode: 19
@@ -208,7 +208,7 @@ episodes:
   disneyplus_id: a8dfa45e-6ba7-4650-bb34-aea3c0c4fbc0
   simpsonsworld_id: 292935747924
   good: false
-  guest_stars:
+  guest_stars: ["Diedrich Bader", "Joe C.", "Robert Evans", "Kid Rock", "Charlie Rose"]
 - title: Last Tap Dance in Springfield
   season: 11
   episode: 20
@@ -219,7 +219,7 @@ episodes:
   disneyplus_id: f991fa9d-d76b-4108-afd6-70a6eb749712
   simpsonsworld_id: 302849091512
   good: true
-  guest_stars:
+  guest_stars: ["Frank Welker"]
 - title: It's a Mad, Mad, Mad, Mad Marge
   season: 11
   episode: 21
@@ -230,7 +230,7 @@ episodes:
   disneyplus_id: 8da9e2a9-fd07-4308-98d4-110e5f2cbcf3
   simpsonsworld_id: 301683779737
   good: true
-  guest_stars:
+  guest_stars: ["Parker Posey", "Marcia Wallace", "Marc Wilmore"]
 - title: Behind the Laughter
   season: 11
   episode: 22
@@ -241,4 +241,4 @@ episodes:
   disneyplus_id: 716ae478-b795-4e1b-89c7-2873557ef934
   simpsonsworld_id: 279751747780
   good: true
-  guest_stars:
+  guest_stars: ["Jim Forbes", "Willie Nelson", "Marcia Wallace"]

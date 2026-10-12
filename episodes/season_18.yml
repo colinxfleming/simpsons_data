@@ -10,7 +10,7 @@ episodes:
   disneyplus_id: 55054863-d9de-4340-bb61-bf10eeb8bfd9
   simpsonsworld_id: 292959299559
   good: false
-  guest_stars: ["Joe Mantegna", "Joe Pantoliano", "Michael Imperioli", "James Hetfield", "Lars Ulrich", "Kirk Hammett", "Robert Trujillo"]
+  guest_stars: ["Michael Imperioli", "Joe Mantegna", "Metallica", "Joe Pantoliano"]
 - title: Jazzy and the Pussycats
   season: 18
   episode: 2
@@ -21,12 +21,12 @@ episodes:
   disneyplus_id: 4b95e3f1-e1e6-4a47-aae1-70bcf11e574c
   simpsonsworld_id: 283202115995
   good: false
-  guest_stars: ["Meg White", "Jack White"]
+  guest_stars: ["Larina Jean Adamson", "The White Stripes"]
 - title: Please Homer, Don't Hammer 'em
   season: 18
   episode: 3
   release_date: 2006-09-24
-  directors: ["Mike B. Anderson", "Ralpha Sosa"]
+  directors: ["Mike B. Anderson", "Ralph Sosa"]
   writers: ["Matt Warburton"]
   description: Marge does carpentry work with Homer posing as her front, because the men in Springfield don't believe women can do carpentry. Meanwhile Bart learns Principal Skinner is allergic to peanuts while Skinner discovers Bart is allergic to shrimp.
   disneyplus_id: 398a5dd9-ed69-4250-ae56-04309dd0bc2f
@@ -43,7 +43,7 @@ episodes:
   disneyplus_id: 48867d0e-466d-4571-b354-de36e1dc4367
   simpsonsworld_id: 302871107984
   good: false
-  guest_stars: ["Richard Lewis", "Fran Drescher", "Dr. Phil", "Sir Mix-a-Lot", "Maurice LaMarche"]
+  guest_stars: ["Fran Drescher", "Maurice LaMarche", "Richard Lewis", "Phil McGraw", "Sir Mix-a-Lot", "Marcia Wallace"]
 - title: G.I. (Annoyed Grunt)
   season: 18
   episode: 5
@@ -54,7 +54,7 @@ episodes:
   disneyplus_id: d5437ccf-4aac-44e2-9d70-c47314828eca
   simpsonsworld_id: 283080259896
   good: false
-  guest_stars: ["Kiefer Sutherland", "Maurice LaMarche"]
+  guest_stars: ["Maurice LaMarche", "Kiefer Sutherland"]
 - title: Moe 'N' a Lisa
   season: 18
   episode: 6
@@ -65,7 +65,7 @@ episodes:
   disneyplus_id: 9da70ff8-35a4-49f4-8357-309b96d701b6
   simpsonsworld_id: 307167299594
   good: false
-  guest_stars: ["J. K. Simmons", "Tom Wolfe", "Gore Vidal", "Michael Chabon", "Jonathan Franzen"]
+  guest_stars: ["Michael Chabon", "Jonathan Franzen", "J. K. Simmons", "Gore Vidal", "Tom Wolfe"]
 - title: Ice Cream of Margie (With the Light Blue Hair)
   season: 18
   episode: 7
@@ -109,12 +109,12 @@ episodes:
   disneyplus_id: 868347c8-c0db-46cb-a215-0061c9dbc5ce
   simpsonsworld_id: 283764803572
   good: false
-  guest_stars: ["Sab Shimono", "Maurice LaMarche"]
+  guest_stars: ["Dana Gould", "Maurice LaMarche", "Sab Shimono"]
 - title: Revenge is a Dish Best Served Three Times
   season: 18
   episode: 11
   release_date: 2007-01-28
-  directors: ["Michael Polcino"]
+  directors: ["Mike Frank Polcino"]
   writers: ["Joel H. Cohen"]
   description: In this non-Halloween trilogy, Homer is the Count of Monte Cristo, Milhouse helps lead the nerds over the bullies, and we see the iconic origin of Bartman.
   disneyplus_id: 604648ac-d9b3-4db1-8548-9e999285fa5e
@@ -153,7 +153,7 @@ episodes:
   disneyplus_id: 807205f7-f983-4b3f-b67c-b3415d894563
   simpsonsworld_id: 307175491532
   good: false
-  guest_stars: ["Meg Ryan", "Andy Dick", "James Patterson", "Stephen Sondheim", "Peter Bogdanovich"]
+  guest_stars: ["Peter Bogdanovich", "Andy Dick", "James Patterson", "Meg Ryan", "Stephen Sondheim", "Marcia Wallace"]
 - title: Rome-old and Juli-eh
   season: 18
   episode: 15
@@ -175,7 +175,7 @@ episodes:
   disneyplus_id: aacd9c30-e287-48bf-81e3-6896eec645fe
   simpsonsworld_id: 292962371807
   good: false
-  guest_stars: ["J. K. Simmons", "Betty White", "Jon Lovitz"]
+  guest_stars: ["Jon Lovitz", "J. K. Simmons", "Betty White"]
 - title: Marge Gamer
   season: 18
   episode: 17
@@ -186,7 +186,7 @@ episodes:
   disneyplus_id: 6af969ce-c468-4495-b1ed-6865acaf0925
   simpsonsworld_id: 277036099916
   good: true
-  guest_stars: ["Ronaldo"]
+  guest_stars: ["Ronaldo", "Marcia Wallace"]
 - title: The Boys of Bummer
   season: 18
   episode: 18
@@ -213,13 +213,13 @@ episodes:
   season: 18
   episode: 20
   release_date: 2007-05-13
-  directors: ["Matthew Gaughnan"]
+  directors: ["Matthew Faughnan"]
   writers: ["John Frink"]
   description: Homer gets lost in a cornfield maze, then is saved by Santa's Little Helper, who becomes a police dog, and then is jaded by crime.
   disneyplus_id: 6d5c8715-b130-4086-82f6-5799d0656cf1
   simpsonsworld_id: 302865987860
   good: false
-  guest_stars: ["Stephen Hawking", "Rudy Giuliani", "Maurice LaMarche"]
+  guest_stars: ["Rudy Giuliani", "Stephen Hawking", "Maurice LaMarche", "Marcia Wallace"]
 - title: 24 Minutes
   season: 18
   episode: 21
@@ -230,7 +230,7 @@ episodes:
   disneyplus_id: d1f52c25-a3dc-4bc4-9b95-cad5d2035d84
   simpsonsworld_id: 292963907577
   good: false
-  guest_stars: ["Kiefer Sutherland", "Mary Lynn Rajskub"]
+  guest_stars: ["Mary Lynn Rajskub", "Kiefer Sutherland"]
 - title: You Kent Always Say What You Want
   season: 18
   episode: 22
@@ -241,4 +241,4 @@ episodes:
   disneyplus_id: 312e49ac-6708-4153-ab12-13020f4c620c
   simpsonsworld_id: 302859843984
   good: false
-  guest_stars: ["Ludacris", "Maurice LaMarche"]
+  guest_stars: ["Maurice LaMarche", "Ludacris"]

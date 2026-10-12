@@ -4,241 +4,241 @@ episodes:
   season: 23
   episode: 1
   release_date: 2011-09-25
-  directors: ['Matthew Nastuk']
-  writers: ['Justin Hurwitz']
+  directors: ["Matthew Nastuk"]
+  writers: ["Justin Hurwitz"]
   description: There is a new Springfield nuclear employee with a mysterious past--that Homer tries to uncover. Homer discovers his new friend is a former undercover agent--whose enemies realize they can flush out by kidnapping Homer. Also, Nedna, the result!
   disneyplus_id: d1ec6de9-7b07-49ac-b5e3-fe763999bbdd
   simpsonsworld_id: 273517123847
   good: false
-  guest_stars:
+  guest_stars: ["Tom Colicchio", "Ping Marshall", "Kevin Michael Richardson", "Kiefer Sutherland", "Marcia Wallace"]
 - title: Bart Stops to Smell the Roosevelts
   season: 23
   episode: 2
   release_date: 2011-10-02
-  directors: ['Steven Dean Moore']
-  writers: ['Tim Long']
+  directors: ["Steven Dean Moore"]
+  writers: ["Tim Long"]
   description: Superintendent Chalmers takes a special interest in Bart, and discovers he can reach him through study of our 26th president. Chalmers is fired after taking Bart and his friends on an unauthorized camping trip and Bart and his rough riders saddle up to win the superintendent's job back.
   disneyplus_id: 009fd337-d062-44ec-bf92-ff3031070d7e
   simpsonsworld_id: 273518659843
   good: true
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: Treehouse of Horror XXII
   season: 23
   episode: 3
   release_date: 2011-10-30
-  directors: ['Matthew Faughnan']
-  writers: ['Carolyn Omine']
+  directors: ["Matthew Faughnan"]
+  writers: ["Carolyn Omine"]
   description: A paralyzed Homer can only communicate by passing gas--but discovers it makes him a better man, a vengeful Flanders becomes a killer from the Lord--only to discover that the "voice from above" is actually coming from somewhere else, and Bart takes the form of a powerful alien being on an exotic but deadly garden planet.
   disneyplus_id: a046e2fb-cb73-4e2e-8273-773cb4e658da
   simpsonsworld_id: 230493251807
   good: false
-  guest_stars:
+  guest_stars: ["Jackie Mason", "Aron Ralston"]
 - title: Replaceable You
   season: 23
   episode: 4
   release_date: 2011-11-06
-  directors: ['Mark Kirkland']
-  writers: ['Stephanie Gillis']
+  directors: ["Mark Kirkland"]
+  writers: ["Stephanie Gillis"]
   description: Bart's science fair project, a realistic little robot seal, unexpectedly brings joy to Springfield's elderly. Meanwhile, a new coworker disrupts Homer's peaceful life at the plant. He is in danger of losing all, until Ned Flanders reveals his foe's secret weakness.
   disneyplus_id: 92176fc8-0bad-4d74-a3ab-3fe9ebf8585e
   simpsonsworld_id: 273736771817
   good: false
-  guest_stars:
+  guest_stars: ["Jane Lynch"]
 - title: The Food Wife
   season: 23
   episode: 5
   release_date: 2011-11-13
-  directors: ['Timothy Bailey']
-  writers: ['Matt Selman']
+  directors: ["Timothy Bailey"]
+  writers: ["Matt Selman"]
   description: When she gets lost in an unfamiliar ethnic neighborhood, Marge discovers the joy of exotic food. It becomes a new activity for her and the kids, until Homer gets jealous and Marge inadvertently sends him to a crackhouse.
   disneyplus_id: 1920f172-8534-45e0-8a65-32287e41e48c
   simpsonsworld_id: 233194563539
   good: false
-  guest_stars:
+  guest_stars: ["Mario Batali", "Anthony Bourdain", "Tim Heidecker", "Gordon Ramsay", "Eric Wareheim"]
 - title: The Book Job
   season: 23
   episode: 6
   release_date: 2011-11-20
-  directors: ['Bob Anderson']
-  writers: ['Dan Vebber']
+  directors: ["Bob Anderson"]
+  writers: ["Dan Vebber"]
   description: Homer and Bart try to defraud a publishing house, Ocean's Thirteen-style. They settle on Lisa as the unhappy front for their operation, and are aided by a surprisingly compliant Neal Gaiman.
   disneyplus_id: 90ed59bc-93c7-4bd7-bb28-58fe06597c71
   simpsonsworld_id: 264559171655
   good: false
-  guest_stars:
+  guest_stars: ["Neil Gaiman", "Andy García"]
 - title: The Man in the Blue Flannel Pants
   season: 23
   episode: 7
   release_date: 2011-11-27
-  directors: ['Steven Dean Moore']
-  writers: ['Jeff Westbrook']
+  directors: ["Steven Dean Moore"]
+  writers: ["Jeff Westbrook"]
   description: Homer becomes an "accounts man" at the nuclear plant but finds the job leads him to a life of alcohol and loneliness. Finally Marge forces him to choose between a boatful of boozy clients and his own sweet flesh and blood.
   disneyplus_id: 377a20a2-7b2a-4b5e-bbd0-54ed964b9ea0
   simpsonsworld_id: 1071533123906
   good: false
-  guest_stars:
+  guest_stars: ["Kevin Michael Richardson", "John Slattery", "Matthew Weiner"]
 - title: The Ten-Per-Cent Solution
   season: 23
   episode: 8
   release_date: 2011-12-04
-  directors: ['Michael Polcino']
-  writers: ['Deb Lacusta', 'Dan Castellaneta']
+  directors: ["Mike Frank Polcino"]
+  writers: ["Deb Lacusta", "Dan Castellaneta"]
   description: The Simpsons encounter a venerable TV agent and are stunned to discover she gave Krusty her start. Now they need her to help him again--but her bitterness at their breakup stands in the way.
   disneyplus_id: 23e6184d-2002-4cb6-8085-9c753a20abe9
   simpsonsworld_id: 230516291714
   good: false
-  guest_stars:
+  guest_stars: ["Kevin Dillon", "Janeane Garofalo", "Jackie Mason", "Joan Rivers"]
 - title: Holidays Of Future Passed
   season: 23
   episode: 9
   release_date: 2011-12-11
-  directors: ['Rob Oliver']
-  writers: ['J. Stewart Burns']
+  directors: ["Rob Oliver"]
+  writers: ["J. Stewart Burns"]
   description: At a Simpson Christmas thirty years in the future Bart and Lisa discover the perils of parenthood in a post-apocalyptic world. Meanwhile Maggie creates a miracle of her own.
   disneyplus_id: 53faed74-46c4-4e74-b0d9-629c2f821401
   simpsonsworld_id: 230516803889
   good: false
-  guest_stars:
+  guest_stars: ["Matt Groening"]
 - title: Politically Inept, With Homer Simpson
   season: 23
   episode: 10
   release_date: 2012-01-08
-  directors: ['Mark Kirkland']
-  writers: ['John Frink']
+  directors: ["Mark Kirkland"]
+  writers: ["John Frink"]
   description: Homer becomes a blowhard TV pundit and attempts to select our next president. Ted Nugent teaches him the true meaning of the Constitution.
   disneyplus_id: 4d5a815f-5460-4161-bf41-8582db126ca6
   simpsonsworld_id: 230549059731
   good: false
-  guest_stars:
+  guest_stars: ["Dana Gould", "Ted Nugent"]
 - title: The D'oh-cial Network
   season: 23
   episode: 11
   release_date: 2012-01-15
-  directors: ['Chris Clements']
-  writers: ['J. Stewart Burns']
+  directors: ["Chris Clements"]
+  writers: ["J. Stewart Burns"]
   description: When Lisa can't make friends in person she tries to do so with an online network. The effect on Springfield is so ruinous she is put on trial.
   disneyplus_id: 25ebad9e-1d52-4e99-a264-ff0e7ac2c333
   simpsonsworld_id: 230552131592
   good: false
-  guest_stars:
+  guest_stars: ["Armie Hammer", "David Letterman", "Tiger Lillies"]
 - title: Moe Goes From Rags To Riches
   season: 23
   episode: 12
   release_date: 2012-01-29
-  directors: ['Bob Anderson']
-  writers: ['Tim Long']
+  directors: ["Bob Anderson"]
+  writers: ["Tim Long"]
   description: The story of western civilization is recounted by Moe's bar rag. More significantly, Milhouse decides he's had just about enough of being Bart's patsy.
   disneyplus_id: d0a0f34f-59a3-4182-bb25-a767a69057ab
   simpsonsworld_id: 230553667901
   good: maybe
-  guest_stars:
+  guest_stars: ["Jeremy Irons"]
 - title: The Daughter Also Rises
   season: 23
   episode: 13
   release_date: 2012-02-12
-  directors: ['Chuck Sheetz']
-  writers: ['Rob LaZebnik']
+  directors: ["Chuck Sheetz"]
+  writers: ["Rob LaZebnik"]
   description: Lisa meets a boy who seems to be the reincarnation of Ernest Hemingway, but turns out to be less than he appears. Meanwhile, Bart and Milhouse debunk myths at school, to the dismay of their fellow students.
   disneyplus_id: c8ad3713-d15a-4f8e-84f6-5555c7722ac4
   simpsonsworld_id: 230562371905
   good: maybe
-  guest_stars:
+  guest_stars: ["Michael Cera", "Jamie Hyneman", "Adam Savage"]
 - title: At Long Last Leave
   season: 23
   episode: 14
   release_date: 2012-02-19
-  directors: ['Matthew Nastuk']
-  writers: ['Michael Price']
+  directors: ["Matthew Nastuk"]
+  writers: ["Michael Price"]
   description: In the long-awaited Simpsons 500th Episode, the town of Springfield banishes the Simpsons for everything they've done over the years. The Simpsons move off the grid, but Marge misses their home and friends.
   disneyplus_id: d0900d9e-f1ea-4e58-b412-6cc6b24782c6
   simpsonsworld_id: 230541891832
   good: maybe
-  guest_stars:
+  guest_stars: ["Julian Assange", "Kelsey Grammer", "Alison Krauss and Union Station", "Susie Stevens", "Jackie Mason"]
 - title: Exit Through The Kwik-E-Mart
   season: 23
   episode: 15
   release_date: 2012-03-04
-  directors: ['Steven Dean Moore']
-  writers: ['Marc Wilmore']
+  directors: ["Steven Dean Moore"]
+  writers: ["Marc Wilmore"]
   description: When Homer punishes Bart by sticking him in a rabbit cage, Bart retaliates by making Homer's face an iconic graffiti image throughout Springfield.
   disneyplus_id: 5f8b8028-a2d9-4562-9a16-bb4caffeb0c2
   simpsonsworld_id: 304468035701
   good: maybe
-  guest_stars:
+  guest_stars: ["Robbie Conal", "Ron English", "Shepard Fairey", "Nicholas McKaig", "Kenny Scharf"]
 - title: How I Wet Your Mother
   season: 23
   episode: 16
   release_date: 2012-03-11
-  directors: ['Lance Kramer']
-  writers: ['Billy Kimball', 'Ian Maxtone-Graham']
+  directors: ["Lance Kramer"]
+  writers: ["Billy Kimball", "Ian Maxtone-Graham"]
   description: Following a traumatic incident, Homer's bed-wetting problem worsens, and his family decide to infiltrate his dreams to get to its subconscious source. And in Homer's dreams is where his late mother resides.
   disneyplus_id: 3412a9f5-8024-4ab0-9f85-140c525df0c0
   simpsonsworld_id: 230597187582
   good: maybe
-  guest_stars:
+  guest_stars: ["David Byrne", "Glenn Close"]
 - title: Them, Robot
   season: 23
   episode: 17
   release_date: 2012-03-18
-  directors: ['Michael Polcino']
-  writers: ['Michael Price']
+  directors: ["Mike Frank Polcino"]
+  writers: ["Michael Price"]
   description: To avoid litigation from radiation exposure, Mr. Burns replaces every worker in the nuclear plant except Homer with a robot. Homer experiences a savage isolation when he tries unsuccessfully to befriend his non-human coworkers.
   disneyplus_id: 1e6bc9b3-b69f-4d87-9f48-d3156bf700e7
   simpsonsworld_id: 230592067926
   good: maybe
-  guest_stars:
+  guest_stars: ["Brent Spiner"]
 - title: Beware My Cheating Bart
   season: 23
   episode: 18
   release_date: 2012-04-15
-  directors: ['Mark Kirkland']
-  writers: ['Ben Joseph']
+  directors: ["Mark Kirkland"]
+  writers: ["Ben Joseph"]
   description: Jimbo's girlfriend falls for Bart after he's forced to chaperone her to a movie. School bullies notice, and that's bad for Bart. Meanwhile, Homer is persuaded to buy an exercise machine, but doesn't have to be persuaded to use the TV that comes with it.
   disneyplus_id: ad89f1a7-f8ae-426c-bbfd-264dff4cc2ed
   simpsonsworld_id: 311189571768
   good: maybe
-  guest_stars:
+  guest_stars: ["Bill Plympton", "Kevin Michael Richardson"]
 - title: A Totally Fun Thing Bart Will Never Do Again
   season: 23
   episode: 19
   release_date: 2012-04-29
-  directors: ['Chris Clements']
-  writers: ['Matt Warburton']
+  directors: ["Chris Clements"]
+  writers: ["Matt Warburton"]
   description: Bart pesters the family into going on a cruise vacation. They even luck into a luxury suite. Now all Bart needs to do is figure out a way to make it last longer than a week.
   disneyplus_id: 530c713a-0741-42cd-a713-d45de23884f0
   simpsonsworld_id: 273522243657
   good: maybe
-  guest_stars:
+  guest_stars: ["Steve Coogan", "Renee Ridgeley", "Treat Williams"]
 - title: The Spy Who Learned Me
   season: 23
   episode: 20
   release_date: 2012-05-06
-  directors: ['Bob Anderson']
-  writers: ['Marc Wilmore']
+  directors: ["Bob Anderson"]
+  writers: ["Marc Wilmore"]
   description: After being injured at work, Homer is given eight weeks of paid vacation... and decides to keep the news secret from his family; Bart gets Nelson hooked on Krustyburgers so he'll gain weight and stop picking on him.
   disneyplus_id: 19d9f7ad-e207-4dbf-9d09-f9c6917cdf83
   simpsonsworld_id: 230588995967
   good: maybe
-  guest_stars:
+  guest_stars: ["Bryan Cranston", "Eric Idle", "Marcia Wallace"]
 - title: Ned 'n Edna's Blend Agenda
   season: 23
   episode: 21
   release_date: 2012-05-13
-  directors: ['Chuck Sheetz']
-  writers: ['Jeff Westbrook']
+  directors: ["Chuck Sheetz"]
+  writers: ["Jeff Westbrook"]
   description: When a crucified Homer sends Ned to the hospital we learn that his relationship with Edna had gone further than we knew. Then a fight over the right school for the kids sends Ned packing to the Simpsons'.
   disneyplus_id: 29c7d72a-6ff1-4023-94d9-273157383b5d
   simpsonsworld_id: 277098051530
   good: maybe
-  guest_stars:
+  guest_stars: ["Marcia Wallace"]
 - title: Lisa Goes Gaga
   season: 23
   episode: 22
   release_date: 2012-05-20
-  directors: ['Matthew Schofield']
-  writers: ['Tim Long']
+  directors: ["Matthew Schofield"]
+  writers: ["Tim Long"]
   description: Lisa has an internet defender who is not what he seems. Then Lady Gaga arrives and makes everyone in town feel like a little monster--except Lisa.
   disneyplus_id: 86cefa77-6697-4e6c-880d-9068675d6bc6
   simpsonsworld_id: 233190467851
   good: maybe
-  guest_stars:
+  guest_stars: ["Lady Gaga", "Kevin Michael Richardson"]

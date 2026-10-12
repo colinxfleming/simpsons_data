@@ -21,18 +21,18 @@ episodes:
   disneyplus_id: 425579ff-353b-4de6-969c-b942402a4496
   simpsonsworld_id: 283744835990
   good: false
-  guest_stars: []
+  guest_stars: ["Marcia Wallace"]
 - title: Homer's Odyssey
   season: 1
   episode: 3
   release_date: 1990-01-21
-  directors: ["Wesley Archer"]
+  directors: ["Wes Archer"]
   writers: ["Jay Kogen", "Wallace Wolodarsky"]
   description: Fired from his job, Citizen Homer becomes caught in a web of nuclear hazards and public safety. An action-adventure tale aflame with danger and municipal code violations.
   disneyplus_id: b922e442-278f-41a8-b9f8-bd750f3f0e16
   simpsonsworld_id: 273381443699
   good: false
-  guest_stars: ["Sam McMurray", "Christopher Collins"]
+  guest_stars: ["Sam McMurray", "Marcia Wallace"]
 - title: There's No Disgrace Like Home
   season: 1
   episode: 4
@@ -59,18 +59,18 @@ episodes:
   season: 1
   episode: 6
   release_date: 1990-02-11
-  directors: ["Wesley Archer"]
+  directors: ["Wes Archer"]
   writers: ["Al Jean", "Mike Reiss"]
   description: The fervid spectacle of childhood angst is exposed in this story of Lisa Simpson...A smart, sassy, good girl gone sad. Get bummed to the bluesy be-bop of "Bleeding Gums" Murphy special musical appearance.
   disneyplus_id: 642f0a83-1778-4cf6-8c16-a57067ad30cb
   simpsonsworld_id: 273391683535
   good: false
-  guest_stars: ["Ron Taylor", "Susan Blu", "Miriam Flynn"]
+  guest_stars: ["Miriam Flynn", "Ron Taylor"]
 - title: The Call of the Simpsons
   season: 1
   episode: 7
   release_date: 1990-02-18
-  directors: ["Wesley Archer"]
+  directors: ["Wes Archer"]
   writers: ["John Swartzwelder"]
   description: The Simpsons put the wild back in the wilderness when their RV goes over a cliff and Homer and Bart go for help, get lost and lose their clothes.
   disneyplus_id: b299a1fa-4cb5-4490-a981-b8e866373b0e
@@ -81,13 +81,13 @@ episodes:
   season: 1
   episode: 8
   release_date: 1990-02-25
-  directors: ["Rich Moore"]
+  directors: ["Rich Moore", "Kent Butterworth"]
   writers: ["Al Jean", "Mike Reiss", "Sam Simon", "Matt Groening"]
   description: Bart pulls a stunt that shocks the entire town, including the new friends he was trying to impress.
   disneyplus_id: d19b515c-af5a-4fd7-9275-6dea2a37acb4
   simpsonsworld_id: 305663555641
   good: true
-  guest_stars: []
+  guest_stars: ["Marcia Wallace"]
 - title: Life on the Fast Lane
   season: 1
   episode: 9
@@ -114,7 +114,7 @@ episodes:
   season: 1
   episode: 11
   release_date: 1990-04-15
-  directors: ["Wesley Archer", "Milton Gray"]
+  directors: ["Wes Archer", "Milton Gray"]
   writers: ["George Meyer", "Sam Simon", "John Swartzwelder", "Jon Vitti"]
   description: Spy me to the moon! Homer and Principal Skinner send Bart to France in exchange for an Albanian student. While Bart slaves at the Chateau Maison's unsavory vineyard, Adil Hoxha steals classified secrets from Springfield's Nuclear Plant!
   disneyplus_id: 93f41b46-bb3b-44eb-a512-f06f1173f85d
@@ -142,4 +142,4 @@ episodes:
   disneyplus_id: f68e6cce-9582-44d6-9f25-07fa7ddf7dd8
   simpsonsworld_id: 274504771647
   good: false
-  guest_stars: ["Penny Marshall", "Hank Azaria", "Christoper Collins", "June Foray", "Paul Wilson"]
+  guest_stars: ["June Foray", "Penny Marshall", "Paul Willson"]

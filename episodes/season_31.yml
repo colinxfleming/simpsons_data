@@ -4,241 +4,241 @@ episodes:
   season: 31
   episode: 1
   release_date: 2019-09-29
-  directors: ['Bob Anderson']
-  writers: ['Ryan Koh']
+  directors: ["Bob Anderson"]
+  writers: ["Ryan Koh"]
   description: Homer and Bart become viral sensations. Meanwhile, Lisa is sent to detention and is forced to make license plates.
   disneyplus_id: 531213f3-e287-4580-8d94-47f730ff65b8
   simpsonsworld_id: null
   good: false
-  guest_stars:
+  guest_stars: ["John Mulaney"]
 - title: Go Big or Go Homer
   season: 31
   episode: 2
   release_date: 2019-10-06
-  directors: ['Matthew Faughnan']
-  writers: ['John Frink']
+  directors: ["Matthew Faughnan"]
+  writers: ["John Frink"]
   description: Feeling disrespected, Homer becomes a mentor to an unstable middle-aged intern who idolizes him. But Homer makes a terrible mistake -- giving his mentee the confidence to follow his dreams.
   disneyplus_id: b33c1b3b-bb9e-4d66-8c5d-23384b3620e0
   simpsonsworld_id: null
   good: false
-  guest_stars:
+  guest_stars: ["Joe Mantegna", "Michael Rapaport"]
 - title: The Fat Blue Line
   season: 31
   episode: 3
   release_date: 2019-10-13
-  directors: ['Michael Polcino']
-  writers: ['Bill Odenkirk']
+  directors: ["Mike Frank Polcino"]
+  writers: ["Bill Odenkirk"]
   description: Fat Tony is framed, and Wiggum must exonerate him. Homer uses his butt as a pickpocketing decoy.
   disneyplus_id: b9c9a8b4-2a80-4c9d-a80f-febcc3f54714
   simpsonsworld_id: null
   good: false
-  guest_stars:
+  guest_stars: ["Joe Mantegna", "Jason Momoa", "Bob Odenkirk"]
 - title: Treehouse of Horror XXX
   season: 31
   episode: 4
   release_date: 2019-10-20
-  directors: ['Timothy Bailey']
-  writers: ['J. Stewart Burns']
+  directors: ["Timothy Bailey"]
+  writers: ["J. Stewart Burns"]
   description: This 666th episode of the Simpsons parodies spooky favorites, including The Omen, not to mention a little Crazy Rich Aliens.
   disneyplus_id: 9a4ed8fe-cefc-486b-9d12-9c08281584b5
   simpsonsworld_id: null
   good: false
-  guest_stars:
+  guest_stars: []
 - title: Gorillas on the Mast
   season: 31
   episode: 5
   release_date: 2019-11-03
-  directors: ['Matthew Nastuk']
-  writers: ['Max Cohn']
+  directors: ["Matthew Nastuk"]
+  writers: ["Max Cohn"]
   description: Homer buys a boat and is dismayed to learn the cost of operation. Lisa frees a whale, so Bart frees a gorilla.
   disneyplus_id: 92bb133c-34ea-4e30-92d0-c12775185faf
   simpsonsworld_id: null
   good: false
-  guest_stars:
+  guest_stars: ["Jane Goodall"]
 - title: Marge the Lumberjill
   season: 31
   episode: 6
   release_date: 2019-11-10
-  directors: ['Rob Oliver']
-  writers: ['Ryan Koh']
+  directors: ["Rob Oliver"]
+  writers: ["Ryan Koh"]
   description: Marge worries that her life is boring, so she takes up timbersports and moves to Oregon, birthplace of Matt Groening.
   disneyplus_id: 0b9be123-df51-4212-9717-413dad9485f4
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Asia Kate Dillon", "Natasha Lyonne", "Jill Sobule"]
 - title: "Livin' la Pura Vida"
   season: 31
   episode: 7
   release_date: 2019-11-17
-  directors: ['Timothy Bailey']
-  writers: ['Brian Kelley']
+  directors: ["Timothy Bailey"]
+  writers: ["Brian Kelley"]
   description: Marge's dream multi-family vacation to Costa Rica is ruined when Homer discovers he actually gets along with Patty's new girlfriend.
   disneyplus_id: 730d25ee-287f-454d-ad1d-adc704c11ff0
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Fortune Feimster"]
 - title: Thanksgiving of Horror
   season: 31
   episode: 8
   release_date: 2019-11-24
-  directors: ['Rob Oliver']
-  writers: ['Dan Vebber']
+  directors: ["Rob Oliver"]
+  writers: ["Dan Vebber"]
   description: 'Three tales of Thanksgiving terror: a bloody first "turkey day," a virtual Marge cooks for survival against real Marge, and a space mission is threatened by a murderous side dish.'
   disneyplus_id: 2beb3fab-8b3b-4801-9614-7aaca26fd3fd
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Charlie Brooker"]
 - title: Todd, Todd, Why Hast Thou Forsaken Me?
   season: 31
   episode: 9
   release_date: 2019-12-01
-  directors: ['Chris Clements']
-  writers: ['Tim Long', 'Miranda Thompson']
+  directors: ["Chris Clements"]
+  writers: ["Tim Long", "Miranda Thompson"]
   description: Todd loses his faith in God. Homer and Ned share a near-death experience.
   disneyplus_id: 4c6298e0-db42-411c-8195-e6a5d8df22bd
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Glenn Close", "Marcia Wallace"]
 - title: Bobby, It's Cold Outside
   season: 31
   episode: 10
   release_date: 2019-12-15
-  directors: ['Steven Dean Moore']
-  writers: ['John Frink', 'Jeff Westbrook']
+  directors: ["Steven Dean Moore"]
+  writers: ["John Frink", "Jeff Westbrook"]
   description: Sideshow Bob returns, and Christmas is threatened. Bart tries to make sense of it all.
   disneyplus_id: 3524467d-1d11-437c-bb34-6b9bfaf1471e
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Scott Bakula", "Steve Ballmer", "Kelsey Grammer"]
 - title: Hail to the Teeth
   season: 31
   episode: 11
   release_date: 2020-01-05
-  directors: ['Mark Kirkland']
-  writers: ['Elisabeth Kiernan Averick']
+  directors: ["Mark Kirkland"]
+  writers: ["Elisabeth Kiernan Averick"]
   description: Marge's old suitor, Artie Ziff, returns, and he's engaged. Meanwhile, a man tells Lisa she'd be more popular if she smiled more, and against her wishes, she does.
   disneyplus_id: 3b5a31a2-4beb-4b67-9349-b8b286baa984
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Jon Lovitz"]
 - title: The Miseducation of Lisa Simpson
   season: 31
   episode: 12
   release_date: 2020-02-16
-  directors: ['Matthew Nastuk']
-  writers: ['J. Stewart Burns']
+  directors: ["Matthew Nastuk"]
+  writers: ["J. Stewart Burns"]
   description: Springfield steals the Sea Captain's treasure to build a S.T.E.M. academy, but Lisa and Bart discover that the school has terrifying hidden plans. Homer tries to prove he's better at pouring soda than a soda-pouring machine.
   disneyplus_id: e8034597-892a-4696-91ab-85ee8ed7502b
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["John Legend", "Chrissy Teigen", "Zach Woods"]
 - title: Frinkcoin
   season: 31
   episode: 13
   release_date: 2020-02-23
-  directors: ['Steven Dean Moore']
-  writers: ['Rob LaZebnik']
+  directors: ["Steven Dean Moore"]
+  writers: ["Rob LaZebnik"]
   description: Professor Frink develops a crypto currency that makes him rich. Then he wonders if his new friends are true friends.
   disneyplus_id: b63435ec-9962-42b7-a8f3-3e97a3aefbdd
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Beanie Feldstein", "Ed \"Too Tall\" Jones", "Jim Parsons"]
 - title: Bart the Bad Guy
   season: 31
   episode: 14
   release_date: 2020-03-01
-  directors: ['Jennifer Moeller']
-  writers: ['Dan Vebber']
+  directors: ["Jennifer Moeller"]
+  writers: ["Dan Vebber"]
   description: When Bart sees the superhero movie of the summer before anyone else, he uses his "spoiler powers" to blackmail the town... but will it cost him his soul?
   disneyplus_id: 59a0141c-8de2-4838-a1ee-fb695c1c479a
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Kevin Feige", "Tal Fishman", "Taran Killam", "Joe Mantegna", "Anthony Russo", "Joe Russo", "Cobie Smulders"]
 - title: Screenless
   season: 31
   episode: 15
   release_date: 2020-03-08
-  directors: ['Michael Polcino']
-  writers: ['J. Stewart Burns']
+  directors: ["Mike Frank Polcino"]
+  writers: ["J. Stewart Burns"]
   description: The family goes without electronic devices. One member surprisingly cracks and heads to rehab.
   disneyplus_id: a782c9ae-c79d-4a37-99c7-08fd3430dfbf
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Dana Gould", "Werner Herzog", "Dr. Drew Pinsky"]
 - title: Better Off Ned
   season: 31
   episode: 16
   release_date: 2020-03-15
-  directors: ['Rob Oliver']
-  writers: ['Joel H. Cohen', 'Jeff Westbrook', 'Al Jean']
+  directors: ["Rob Oliver"]
+  writers: ["Al Jean", "Joel H. Cohen", "Jeff Westbrook"]
   description: After a prank, Ned mentors Bart, and his life greatly improves. A jealous Homer becomes a mentor to Nelson.
   disneyplus_id: 75edfe98-be48-4f93-bd97-48498f3d8044
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: []
 - title: Highway to Well
   season: 31
   episode: 17
   release_date: 2020-03-22
-  directors: ['Chris Clements']
-  writers: ['Carolyn Omine']
+  directors: ["Chris Clements"]
+  writers: ["Carolyn Omine"]
   description: Marge discovers she has a talent for healing when she works at a cannabis dispensary. Homer discovers he has a talent for dealing when he opens a rival dispensary at Moe's.
   disneyplus_id: 983dc0ab-1a0f-4aac-b0b8-50693f904ee5
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Chelsea Peretti", "Billy Porter", "Kevin Smith"]
 - title: The Incredible Lightness of Being a Baby
   season: 31
   episode: 18
   release_date: 2020-04-19
-  directors: ['Bob Anderson']
-  writers: ['Tom Gammill', 'Max Pross']
+  directors: ["Bob Anderson"]
+  writers: ["Tom Gammill", "Max Pross"]
   description: Cletus becomes a helium tycoon. Maggie reunites with baby Hudson from Playdate with Destiny.
   disneyplus_id: cc52bdbf-5517-4266-9b86-e9436af1cdac
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: []
 - title: "Warrin' Priests"
   season: 31
   episode: 19
   release_date: 2020-04-26
-  directors: ['Bob Anderson']
-  writers: ['Pete Holmes']
+  directors: ["Bob Anderson"]
+  writers: ["Pete Holmes"]
   description: Pete Holmes guest stars as a charismatic new preacher. Lovejoy investigates his mysterious past.
   disneyplus_id: c8a5f345-809c-4d99-a28b-6eb9e7299663
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Pete Holmes"]
 - title: "Warrin' Priests Part Two"
   season: 31
   episode: 20
   release_date: 2020-05-03
-  directors: ['Matthew Nastuk']
-  writers: ['Pete Holmes']
+  directors: ["Matthew Nastuk"]
+  writers: ["Pete Holmes"]
   description: Reverend Lovejoy uncovers the truth about the popular, new preacher. Lisa is shattered.
   disneyplus_id: 0e35713d-eb50-4d08-a3df-d2de787fbb1c
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Pete Holmes", "Joe Mantegna", "David Silverman"]
 - title: The Hateful Eight-Year-Olds
   season: 31
   episode: 21
   release_date: 2020-05-10
-  directors: ['Jennifer Moeller']
-  writers: ['Joel H. Cohen']
+  directors: ["Jennifer Moeller"]
+  writers: ["Joel H. Cohen"]
   description: 'Lisa is tormented by spoiled influencer girls at the sleepover from hell. Homer makes plans and takes Marge on a sunset cruise. (Musical Guests: Weezer)'
   disneyplus_id: a2166748-496d-4265-9f22-c809584b1a66
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Joey King", "Camila Mendes", "Madelaine Petsch", "Lili Reinhart", "Lilly Singh", "Weezer"]
 - title: The Way of the Dog
   season: 31
   episode: 22
   release_date: 2020-05-17
-  directors: ['Matthew Faughnan']
-  writers: ['Carolyn Omine']
+  directors: ["Matthew Faughnan"]
+  writers: ["Carolyn Omine"]
   description: After the Simpsons' dog bites Marge, the family explores the tragic past of Santa's Little Helper.
   disneyplus_id: aad42e71-6a48-4909-85dd-280b45899fdd
   simpsonsworld_id: null
   good: maybe
-  guest_stars:
+  guest_stars: ["Cate Blanchett", "Suzanne Waters", "Michael York"]

@@ -10,7 +10,7 @@ episodes:
   disneyplus_id: bab658ed-26c7-4ad2-a149-25906a6328a1
   simpsonsworld_id: 260539459671
   good: false
-  guest_stars: []
+  guest_stars: ["Marcia Wallace"]
 - title: Simpson and Delilah
   season: 2
   episode: 2
@@ -27,7 +27,7 @@ episodes:
   episode: 3
   release_date: 1990-10-25
   directors: ["Wes Archer", "Rich Moore", "David Silverman"]
-  writers: ["John Swartzwelder", "Jay Kogen", "Wallace Wolodarsky", "Sam Simon"]
+  writers: ["John Swartzwelder", "Jay Kogen", "Wallace Wolodarsky", "Edgar Allan Poe", "Sam Simon"]
   description: Bart and Lisa attempt to scare each other with tales of the macabre. The Simpsons inhabit a haunted home, which possesses their souls. The family accuses monsters of planning to eat them, but the offended aliens reveal they were only planning a meal for the family. And finally, in a satire of Poe's "The Raven," a grief-stricken Homer is tormented by bad bird Bart.
   disneyplus_id: e7b385fe-ec23-491c-93bb-e2cbc2dc8f10
   simpsonsworld_id: 260538435884
@@ -54,7 +54,7 @@ episodes:
   disneyplus_id: 3f44b3b3-bfcc-418f-b752-f67e9535c2e3
   simpsonsworld_id: 260538435888
   good: true
-  guest_stars: ["Tony Bennett", "Tom Poston", "Daryl L. Coley", "Kevin Levine"]
+  guest_stars: ["Tony Bennett", "Daryl Coley", "Ken Levine", "Tom Poston"]
 - title: Dead Putting Society
   season: 2
   episode: 6
@@ -65,7 +65,7 @@ episodes:
   disneyplus_id: 553dee8f-bae7-4853-97b3-ec29759c451d
   simpsonsworld_id: 260539459670
   good: true
-  guest_stars: ["Michael Bell"]
+  guest_stars: []
 - title: Bart vs. Thanksgiving
   season: 2
   episode: 7
@@ -81,7 +81,7 @@ episodes:
   season: 2
   episode: 8
   release_date: 1990-12-06
-  directors: ["Wesley Meyer Archer"]
+  directors: ["Wes Archer"]
   writers: ["Jay Kogen", "Wallace Wolodarsky"]
   description: After Lisa's concert, the Simpsons rush out to a monster truck rally -- only to arrive late and have their car eaten by a fire-breathing steam shovel known as Truckosaurus. Nonetheless, they watch the rest of the show, where Bart is awed by a reckless motorcycle daredevil named Lance Murdock. Bart imitates Murdock's stunts on his skateboard, and, for the topper, decides to jump Springfield Gorge.
   disneyplus_id: 02bc9dd4-b8a1-4b84-ab15-6d3009a82a15
@@ -114,13 +114,13 @@ episodes:
   season: 2
   episode: 11
   release_date: 1991-01-24
-  directors: ["Wesley M. Archer"]
+  directors: ["Wes Archer"]
   writers: ["Nell Scovell"]
   description: The family goes out for sushi where Homer eats a rare blowfish, whose flesh can be poison. Dr. Hibbert confirms Homer only has one day left to live, so Homer makes a list, intending to live that day to its fullest. He listens to Lisa's saxophone, teaches Bart to shave, has a beer with the boys, reconciles with Grampa and is "intamit" with Marge. Finally, he sits down and waits for death.
   disneyplus_id: 35dcc15a-bf5e-4182-b3de-71d3bddc69f1
   simpsonsworld_id: 260548675839
   good: true
-  guest_stars: ["Larry King", "George Takei", "Sab Shimono", "Joey Miyashima", "Diane Tanaka"]
+  guest_stars: ["Larry King", "Joey Miyashima", "Sab Shimono", "George Takei", "Diana Tanaka"]
 - title: The Way We Was
   season: 2
   episode: 12
@@ -153,12 +153,12 @@ episodes:
   disneyplus_id: 7b38e358-c147-47d5-a9b1-79d9ff099088
   simpsonsworld_id: 263496771968
   good: true
-  guest_stars: []
+  guest_stars: ["Marcia Wallace"]
 - title: Oh Brother, Where Art Thou?
   season: 2
   episode: 15
   release_date: 1991-02-21
-  directors: ['W.M. "Bud" Archer']
+  directors: ["Wes Archer"]
   writers: ["Jeff Martin"]
   description: Homer tracks down his long-lost half-brother and learns that he, Herb Powell, is a successful auto industry executive in Detroit. After Homer meets him, Herb puts Homer in charge of designing a new car. But when he designs a monstrous car with an enormous sticker price, Homer ultimately bankrupts Herb and his company.
   disneyplus_id: 0d8baba1-0ff3-40ab-8114-736ee7c00512
@@ -186,35 +186,35 @@ episodes:
   disneyplus_id: f37b8931-4589-4f56-8b43-d02ba99d71ee
   simpsonsworld_id: 263504963955
   good: false
-  guest_stars: ["Audrey Meadows", "Phil Hartman"]
+  guest_stars: ["Phil Hartman", "Audrey Meadows", "Marcia Wallace"]
 - title: Brush with Greatness
   season: 2
   episode: 18
   release_date: 1991-04-11
-  directors:
-  writers:
+  directors: ["Jim Reardon"]
+  writers: ["Brian K. Roberts"]
   description: After being publicly humiliated, Homer vows to lose weight. After discovering Marge's old paintings of Ringo Starr, Lisa urges Marge to go back to art school to nurture her gift and Marge wins a prize for painting Homer in his underwear, on the couch. Mr. Burns, who is looking for a portrait painter, hires her but she can't seem to capture his essence, until she sees Mr. Burns make fun of Homer.
   disneyplus_id: 31f4ddf0-af8a-4469-81c9-fe10aff47cde
   simpsonsworld_id: 1094212163883
   good: true
-  guest_stars: ["Ringo Starr", "Jon Lovitz"]
+  guest_stars: ["Jon Lovitz", "Ringo Starr"]
 - title: Lisa's Substitute
   season: 2
   episode: 19
   release_date: 1991-04-25
-  directors:
-  writers:
+  directors: ["Rich Moore"]
+  writers: ["Jon Vitti"]
   description: Lisa is smitten by her cool substitute teacher, Mr. Bergstrom. Meanwhile, Bart decides to run for class president where he is expected to easily triumph over class brain Martin Prince. When Lisa comes to school one day, she is shocked to find that Mr. Bergstrom is gone. Meanwhile, Bart celebrates his victory, only to realize that neither he nor his friends bothered to vote.
   disneyplus_id: ffe1f80b-fe09-45d1-9be5-57768493b99b
   simpsonsworld_id: 288011331912
   good: true
-  guest_stars: ["Dustin Hoffman"]
+  guest_stars: ["Dustin Hoffman", "Marcia Wallace"]
 - title: The War of the Simpsons
   season: 2
   episode: 20
   release_date: 1991-05-02
-  directors:
-  writers:
+  directors: ["Mark Kirkland"]
+  writers: ["John Swartzwelder"]
   description: Homer and Marge go away for a weekend marriage retreat. They have difficulty reconciling their differences, particularly after Marge catches Homer sneaking off to go fishing. At home, the kids throw a party which gets out of hand, prompting Grampa to start crying. Afraid he'll get in trouble, the kids begin to frantically clean up. Meanwhile, Homer catches a legendary catfish, General Sherman.
   disneyplus_id: 70c75f4a-bc8c-4d3d-bc1d-c7996246245c
   simpsonsworld_id: 272040003661
@@ -224,8 +224,8 @@ episodes:
   season: 2
   episode: 21
   release_date: 1991-05-09
-  directors: 
-  writers:
+  directors: ["Wes Archer"]
+  writers: ["Jeff Martin"]
   description: Bart attends a comic book convention and decides to go in with Milhouse and Martin on a comic book, although none of them have enough money. They soon find that joint ownership is difficult, as none of the boys want to let the comic out of his sight. Bart eventually ties up Martin and fights with Milhouse, until the comic is blown away.
   disneyplus_id: 5fc5d318-3c12-4379-b23d-c2e5885091e3
   simpsonsworld_id: 310368835964
@@ -235,8 +235,8 @@ episodes:
   season: 2
   episode: 22
   release_date: 1991-06-11
-  directors:
-  writers:
+  directors: ["David Silverman"]
+  writers: ["George Meyer"]
   description: When Bart donates his blood and saves Mr. Burns, Homer is upset that Burns sends him nothing more than a thank-you note. Homer writes an angry letter in response, then thinks better of it, but discovers to his alarm that Bart has already mailed it. Homer tries to recover the letter, but fails, and a furious Mr. Burns reads the letter and vows revenge.
   disneyplus_id: 3018ded6-c4fa-4adf-a10c-3e69557dacf4
   simpsonsworld_id: 272041539932
