@@ -6,8 +6,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: In a world of magic, Marge's mother is transformed into an Ice Walker
-    and must rely on Lisa to use magic to help Homer afford the cure.
+  description: In a world of fantasy the peasant Simpson family struggles with Marge's mother's illness. Meanwhile Lisa's magic powers lead to her capture.
   disneyplus_id: 3d01352c-298a-4989-b731-037c76723bd7
   simpsonsworld_id: 1075435075944
   good: false
@@ -18,8 +17,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: Marge and Lisa decide to turns an unpleasant experience Lisa had into
-    a successful graphic novel.
+  description: Lisa and Marge team up on a graphic novel which becomes a musical. Marge receives all the credit and Lisa is humiliated.
   disneyplus_id: deb0534a-f902-4d07-adaa-a684909ab9fa
   simpsonsworld_id: 1080357443795
   good: false
@@ -30,8 +28,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: Homer stumbles upon Maggie's incredible talent for whistling and decides
-    to start her on the path to becoming a baby celebrity.
+  description: Maggie reveals a hidden talent and Grampa tries to exploit it. Marge gets a job as a decorator for the mob.
   disneyplus_id: d21e9d5e-bcb7-43fe-a481-7ba9778a72fe
   simpsonsworld_id: 1073411651711
   good: false
@@ -42,9 +39,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: Maggie's body is overwhelmed by the malice of an ancient demon; in
-    an alternate dimension, Lisa stumbles upon a disturbingly perfect version of her
-    family.
+  description: The Simpsons become Halloween candy; Maggie requires an exorcism; Lisa gets a better life if buttons are sewn on her eyes and Homer discovers the most delicious food of all.
   disneyplus_id: f7afb747-ca04-43f5-86a4-1fb49ac87992
   simpsonsworld_id: 1078509635693
   good: false
@@ -55,8 +50,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: Grampa Simpson is finally able to hear the various things that people
-    say about him after he receives a new hearing aid.
+  description: Grampa gets a hearing aid which tells him more about the world than he wants to know. Skinner learns that his mother shattered his boyhood dream.
   disneyplus_id: c3032318-9534-4d0a-9fde-b8fa73149315
   simpsonsworld_id: 1088584771605
   good: false
@@ -67,8 +61,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: Marge decides to enter the race to become the next mayor of Springfield
-    as she grows increasingly frustrated with how the local government operates.
+  description: After the ancient Springfield monorail runs amok, Marge becomes mayor and vows to put out the long-burning tire fire.
   disneyplus_id: 17596c52-12a8-4a76-8029-4a60e0ca6c59
   simpsonsworld_id: 1094410819778
   good: true
@@ -79,8 +72,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: Homer and the guys try helping Moe cheer up by getting their old bowling
-    team back together again, but they soon face a team of arrogant millionaires.
+  description: Homer's bowling team reunites. Their friendship is tested with Moe, their coach.
   disneyplus_id: 577678ca-5b02-4104-ad51-81f0fefb7776
   simpsonsworld_id: 1099353155881
   good: false
@@ -91,8 +83,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: In the future, Lisa works on writing her Harvard college application
-    essay by reflecting on how certain disappointing birthdays made her who she is.
+  description: A look at Lisa's life from talking toddler to college-bound. Plus Homer enters a 12-step plan.
   disneyplus_id: f4dbc711-c255-45f3-a134-71d1538e325b
   simpsonsworld_id: 1108700739531
   good: maybe
@@ -103,8 +94,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: When Bart suddenly disappears, the town organizes a search party in
-    the hopes of finding him.
+  description: Bart disappears and the whole town can't find him. Then he is located by a vengeful Sideshow Bob.
   disneyplus_id: c883acfc-c701-4ce2-86ed-4a987004d9a3
   simpsonsworld_id: 1113094211783
   good: false
@@ -115,8 +105,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: While the Simpson family attends a STEM conference, Lisa becomes attracted
-    to a pianist and Bart learns about his natural talent for chemistry.
+  description: Lisa meets a jazz-addicted boy and must choose between him and Nelson. Meanwhile, Bart takes up chemistry, but to what end?
   disneyplus_id: ada70e64-4986-48c5-baa8-0a90cf5dde7a
   simpsonsworld_id: 1131039811958
   good: maybe
@@ -127,8 +116,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: When Mr. Burns begins to worry that the world is coming to an end,
-    he starts testing all of the residents of to figure out who would be worth saving.
+  description: Burns fears the end of the world and builds a cosmic ark. When he tests the town for worthiness, Marge is dismayed when Bart comes out on the bottom.
   disneyplus_id: d1d6b346-e020-42b7-b2e3-0877dadd08b2
   simpsonsworld_id: 1136372803875
   good: maybe
@@ -139,7 +127,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: Homer learns to love a piece of art.
+  description: Homer learns to love a piece of art. Then it's stolen and he's blamed.
   disneyplus_id: 2874a052-b76e-4ee3-9c11-34e84ec34ceb
   simpsonsworld_id: null
   good: maybe
@@ -150,7 +138,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: The Simpsons visit their old apartment and remember the days without their kids.
+  description: The Simpsons visit their old apartment and remember the days without their kids. And we learn a surprising secret from Lisa's birth.
   disneyplus_id: 13347997-2853-4e7b-8b52-62611513b189
   simpsonsworld_id: null
   good: maybe
@@ -161,7 +149,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: Due to a general fear of clowns, Krusty can no longer do his job.
+  description: Due to a general fear of clowns, Krusty can no longer do his job. He tries to get work as a serious actor. Meanwhile Bart undergoes therapy for serial pranking.
   disneyplus_id: d214d62c-90a0-4ddc-8438-31429ee5d4f0
   simpsonsworld_id: null
   good: maybe
@@ -172,7 +160,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: Bart tries to conquer Homer with help from a book.
+  description: Bart tries to conquer Homer with help from a book. Marge discovers a childhood classic she loved does not translate well to these times.
   disneyplus_id: 1e733c96-48fa-4aa8-b91d-3b8bc72f0b64
   simpsonsworld_id: null
   good: maybe
@@ -183,7 +171,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: Moe inherits a mattress business from his father.
+  description: Moe inherits a mattress business from his father, then lands in an all-out war with his siblings.
   disneyplus_id: e22f9e4a-ca07-4824-b3c2-3f84b8e67460
   simpsonsworld_id: null
   good: maybe
@@ -194,7 +182,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: The family goes to New Orleans where they try to recover from various traumas.
+  description: Lisa gets the yips and Bart gets Annie'd. They go to New Orleans to recover.
   disneyplus_id: 56795fdf-0508-4bc0-8838-474ec4707c72
   simpsonsworld_id: null
   good: maybe
@@ -205,7 +193,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: Grampa is about to die when he reveals a terrible secret.
+  description: Grampa is about to die when he reveals a terrible secret. Homer struggles with how to forgive him.
   disneyplus_id: e4f01fb7-5c93-4941-8b16-1192590ce0e9
   simpsonsworld_id: null
   good: maybe
@@ -216,7 +204,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: Flanders loses his business and works with Homer at the plant.
+  description: Flanders loses his job and works with Homer at the plant. Homer prays for him to be fired.
   disneyplus_id: 190fc340-15dc-40c9-8cd9-f772d5478052
   simpsonsworld_id: null
   good: maybe
@@ -227,7 +215,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: The Simpsons visit Denmark and everyone but Homer falls in love with the happy country.
+  description: The Simpsons visit Denmark and everyone but Homer falls in love with the happy country. Meanwhile Grampa needs a serious operation.
   disneyplus_id: 72925079-d023-480c-8a62-1c628b0dc482
   simpsonsworld_id: null
   good: maybe
@@ -238,7 +226,7 @@ episodes:
   release_date:
   directors:
   writers:
-  description: Bart is struck by lightning and has horrible dreams.
+  description: Bart is struck by lightning and has horrible dreams. Maude Flanders returns to seek her revenge.
   disneyplus_id: 4c2000cd-d195-48a6-b266-2ebd31f4bb9a
   simpsonsworld_id: null
   good: maybe
