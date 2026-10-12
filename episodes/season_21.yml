@@ -11,7 +11,7 @@ episodes:
   simpsonsworld_id: 250297923589
   good: false
   guest_stars: ["Matt Groening", "Kevin Michael Richardson", "Seth Rogen"]
-- title: Bart Gets A 'Z'
+- title: Bart Gets a "Z"
   season: 21
   episode: 2
   release_date: 2009-10-04
@@ -99,7 +99,7 @@ episodes:
   simpsonsworld_id: 250369603964
   good: maybe
   guest_stars: ["Mitch Albom", "Marcia Wallace"]
-- title: Once Upon A Time in Springfield
+- title: Once Upon a Time in Springfield
   season: 21
   episode: 10
   release_date: 2010-01-10
@@ -143,7 +143,7 @@ episodes:
   simpsonsworld_id: 255100483932
   good: maybe
   guest_stars: ["Wren T. Brown"]
-- title: Postcards From the Wedge
+- title: Postcards from the Wedge
   season: 21
   episode: 14
   release_date: 2010-03-14
@@ -209,7 +209,7 @@ episodes:
   simpsonsworld_id: 250519619700
   good: maybe
   guest_stars: []
-- title: To Surveil With Love
+- title: To Surveil with Love
   season: 21
   episode: 20
   release_date: 2010-05-02

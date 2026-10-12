@@ -66,7 +66,7 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars: ["Brian Cox", "Joe Mantegna", "Cristin Milioti", "Chris O'Dowd", "Timothy Olyphant", "Jessica Paré"]
-- title: Portrait of a Lackey On Fire
+- title: Portrait of a Lackey on Fire
   season: 33
   episode: 7
   release_date: 2021-11-21
@@ -77,7 +77,7 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars: ["Christine Baranski", "Victor Garber", "Christian Siriano"]
-- title: Mothers And Other Strangers
+- title: Mothers and Other Strangers
   season: 33
   episode: 8
   release_date: 2021-11-28
@@ -110,7 +110,7 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars: ["Beck Bennett", "John Mulaney", "Adam Schefter"]
-- title: Pixelated & Afraid
+- title: Pixelated and Afraid
   season: 33
   episode: 11
   release_date: 2022-02-27
@@ -209,7 +209,7 @@ episodes:
   simpsonsworld_id:
   good: maybe
   guest_stars: []
-- title: Meat is Murder
+- title: Meat Is Murder
   season: 33
   episode: 20
   release_date: 2022-05-15

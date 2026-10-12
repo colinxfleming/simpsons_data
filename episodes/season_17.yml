@@ -154,7 +154,7 @@ episodes:
   simpsonsworld_id: 277113411511
   good: true
   guest_stars: ["Antonio Fargas", "Randy Johnson", "Susan Sarandon", "Dave Thomas"]
-- title: Homer Simpson, This is Your Wife
+- title: Homer Simpson, This Is Your Wife
   season: 17
   episode: 15
   release_date: 2006-03-26
@@ -176,7 +176,7 @@ episodes:
   simpsonsworld_id: 292950083730
   good: false
   guest_stars: ["Michael Carrington", "Rob Reiner"]
-- title: Kiss Kiss Bang Bangalore
+- title: Kiss Kiss, Bang Bangalore
   season: 17
   episode: 17
   release_date: 2006-04-09

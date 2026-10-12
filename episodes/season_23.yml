@@ -88,7 +88,7 @@ episodes:
   simpsonsworld_id: 230516291714
   good: false
   guest_stars: ["Kevin Dillon", "Janeane Garofalo", "Jackie Mason", "Joan Rivers"]
-- title: Holidays Of Future Passed
+- title: Holidays of Future Passed
   season: 23
   episode: 9
   release_date: 2011-12-11
@@ -99,7 +99,7 @@ episodes:
   simpsonsworld_id: 230516803889
   good: false
   guest_stars: ["Matt Groening"]
-- title: Politically Inept, With Homer Simpson
+- title: Politically Inept, with Homer Simpson
   season: 23
   episode: 10
   release_date: 2012-01-08
@@ -121,7 +121,7 @@ episodes:
   simpsonsworld_id: 230552131592
   good: false
   guest_stars: ["Armie Hammer", "David Letterman", "Tiger Lillies"]
-- title: Moe Goes From Rags To Riches
+- title: Moe Goes from Rags to Riches
   season: 23
   episode: 12
   release_date: 2012-01-29
@@ -154,7 +154,7 @@ episodes:
   simpsonsworld_id: 230541891832
   good: maybe
   guest_stars: ["Julian Assange", "Kelsey Grammer", "Alison Krauss and Union Station", "Susie Stevens", "Jackie Mason"]
-- title: Exit Through The Kwik-E-Mart
+- title: Exit Through the Kwik-E-Mart
   season: 23
   episode: 15
   release_date: 2012-03-04

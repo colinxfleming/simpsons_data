@@ -33,7 +33,7 @@ episodes:
   simpsonsworld_id: 300917827935
   good: false
   guest_stars: ["R.E.M."]
-- title: Hunka Hunka Burns in Love
+- title: A Hunka Hunka Burns in Love
   season: 13
   episode: 4
   release_date: 2001-12-02
@@ -143,7 +143,7 @@ episodes:
   simpsonsworld_id: 301659203973
   good: false
   guest_stars: ["Olympia Dukakis", "Bill Saluga"]
-- title: Tales From the Public Domain
+- title: Tales from the Public Domain
   season: 13
   episode: 14
   release_date: 2002-03-17
@@ -154,7 +154,7 @@ episodes:
   simpsonsworld_id: 310411843752
   good: false
   guest_stars: ["Sally Stevens"]
-- title: Blame it on Lisa
+- title: Blame It on Lisa
   season: 13
   episode: 15
   release_date: 2002-03-31
@@ -187,7 +187,7 @@ episodes:
   simpsonsworld_id: 302888515845
   good: false
   guest_stars: []
-- title: I am Furious Yellow
+- title: I Am Furious (Yellow)
   season: 13
   episode: 18
   release_date: 2002-04-28
@@ -220,7 +220,7 @@ episodes:
   simpsonsworld_id: 310416963509
   good: false
   guest_stars: ["Robert Pinsky"]
-- title: Frying Game
+- title: The Frying Game
   season: 13
   episode: 21
   release_date: 2002-05-19
@@ -231,7 +231,7 @@ episodes:
   simpsonsworld_id: 301664323751
   good: true
   guest_stars: ["Carmen Electra", "Frances Sternhagen"]
-- title: Papa's Got a Brand New Badge
+- title: Poppa's Got a Brand New Badge
   season: 13
   episode: 22
   release_date: 2002-05-22

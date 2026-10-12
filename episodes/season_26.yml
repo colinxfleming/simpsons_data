@@ -44,7 +44,7 @@ episodes:
   simpsonsworld_id: 344255555880
   good: false
   guest_stars: ["John Ratzenberger"]
-- title: Opposites-A-Frack
+- title: Opposites A-Frack
   season: 26
   episode: 5
   release_date: 2014-11-02
@@ -88,7 +88,7 @@ episodes:
   simpsonsworld_id: 362239555757
   good: false
   guest_stars: ["Will Forte", "Sammy Hagar", "Heavy Young Heathens", "Matthew Sweet"]
-- title: I Won't Be Home For Christmas
+- title: I Won't Be Home for Christmas
   season: 26
   episode: 9
   release_date: 2014-12-07
@@ -99,7 +99,7 @@ episodes:
   simpsonsworld_id: 368212547872
   good: false
   guest_stars: []
-- title: The Man Who Came To Be Dinner
+- title: The Man Who Came to Be Dinner
   season: 26
   episode: 10
   release_date: 2015-01-04
@@ -209,7 +209,7 @@ episodes:
   simpsonsworld_id: 434682947703
   good: maybe
   guest_stars: []
-- title: Let's Go Fly A Coot
+- title: Let's Go Fly a Coot
   season: 26
   episode: 20
   release_date: 2015-05-03

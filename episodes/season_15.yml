@@ -55,7 +55,7 @@ episodes:
   simpsonsworld_id: 227355715580
   good: false
   guest_stars: ["Charles Napier"]
-- title: Today I am a Clown
+- title: Today I Am a Clown
   season: 15
   episode: 6
   release_date: 2003-12-07
@@ -154,7 +154,7 @@ episodes:
   simpsonsworld_id: 227426371786
   good: true
   guest_stars: ["Jon Lovitz"]
-- title: Co-Dependent's Day
+- title: Co-Dependents' Day
   season: 15
   episode: 15
   release_date: 2004-03-21
@@ -187,7 +187,7 @@ episodes:
   simpsonsworld_id: 227423299561
   good: false
   guest_stars: ["Matt Groening", "Marcia Wallace"]
-- title: Catch 'Em If You Can
+- title: Catch 'em if You Can
   season: 15
   episode: 18
   release_date: 2004-04-25
